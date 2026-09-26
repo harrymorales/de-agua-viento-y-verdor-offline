@@ -39,6 +39,7 @@
     yukpa: 'yukpa',
     rrom: 'rrom'
   };
+  const territory = location.pathname.match(/territories\/([^/]+)/)?.[1];
   if (!location.pathname.includes('/territories/')) {
     document.addEventListener('click', event => {
       const button = event.target.closest('button');
@@ -53,9 +54,30 @@
     }, true);
   }
 
+  // A territory page is a copy of the original application. Once it loads,
+  // choose its own community so visitors arrive directly in its audioteca.
+  if (territory) {
+    const territoryName = Object.entries(portalTerritories)
+      .find(([, slug]) => slug === territory)?.[0];
+    const activateTerritory = () => {
+      const button = Array.from(document.querySelectorAll('button')).find(item =>
+        item.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase() === territoryName
+      );
+      if (!button || button.dataset.territoryActivated) return false;
+      button.dataset.territoryActivated = 'true';
+      button.click();
+      return true;
+    };
+    if (!activateTerritory()) {
+      const observer = new MutationObserver(() => {
+        if (activateTerritory()) observer.disconnect();
+      });
+      observer.observe(document.body, { childList: true, subtree: true });
+    }
+  }
+
   const guideText = { title: '¿Cómo usar esta guía?', paragraphs: ['Esta guía propone escuchar sin prisa. Una pista puede abrir la puerta a un amanecer en el monte, a una ronda junto al mar o a la voz de quien arrulla. Después vendrán las manos: sembrar, tejer, construir un refugio, seguir el pulso de un tambor, dibujar lo que se oye o guardar silencio para oír de nuevo. Son maneras de acercarse, con respeto y curiosidad, a las lenguas, las memorias y los saberes vivos de los pueblos palenquero, rrom, yukpa, raizal, inga y kofán.', 'Madres, padres, abuelas, abuelos, docentes, profesionales de bibliotecas y promotores de lectura: escojan una o varias opciones según el tiempo disponible, el ritmo del grupo y los intereses de las niñas y los niños. No hay que hacerlo todo ni esperar respuestas iguales. Escuchen con ellos, hagan preguntas, observen sus gestos y permitan que cada quien participe a su manera. A veces, una palabra que nadie conocía se queda resonando después de apagar el reproductor; quizá allí comience una conversación que la audioteca no alcanza a terminar.'] };
   const guideIntroductions = Object.fromEntries(['palenque', 'raizal', 'rrom', 'yukpa', 'inga', 'cofan'].map(slug => [slug, guideText]));
-  const territory = location.pathname.match(/territories\/([^/]+)/)?.[1];
   const intro = guideIntroductions[territory];
   if (!intro) return;
   const addGuideIntroduction = () => {
