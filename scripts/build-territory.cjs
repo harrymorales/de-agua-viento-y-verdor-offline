@@ -142,7 +142,7 @@ if (slug !== 'palenque') {
 }
 
 // The generated page lives two folders below the package root.
-script = script.replaceAll('"images/', '"../../images/').replaceAll('"audio/', '"../../audio/');
+script = script.replaceAll('"images/', '"../../images/').replace(/"audio\/(?!mpeg"|mp4"|ogg")/g, '"../../audio/');
 script = script.replace('href:"creditos.html"', 'href:"../../creditos.html"');
 
 const output = path.join(root, 'territories', slug);
