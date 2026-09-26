@@ -85,6 +85,9 @@ for (const [variable, value] of replacements) script = replaceExpression(script,
 
 // Make active territory selection accept the content used to generate this copy.
 script = script.replace('if(v!=="palenque")', `if(v!=="${slug}")`);
+// Generated territory pages open directly in their own audioteca. The portal
+// remains the shared point of entry and sends visitors to these pages.
+script = script.replace('let[v,z]=(0,pe.useState)(null)', `let[v,z]=(0,pe.useState)(${JSON.stringify(slug)})`);
 
 if (preview) {
   // The original engine contains a small number of Palenque-only labels and
