@@ -1,0 +1,1385 @@
+{
+  "meta": {
+    "slug": "cofan",
+    "name": "Cofán",
+    "language": "A’ingae y español",
+    "readingOriginalLabel": "A’ingae",
+    "status": "text-ready",
+    "sources": [
+      "De agua viento y verdor 4.docx",
+      "Metadatos_Audioteca_FINAL.xlsm"
+    ],
+    "pending": [
+      "Copiar los 13 audios a audio/cofan y confirmar su extensión.",
+      "Incorporar imágenes autorizadas de portada, pistas y fototeca."
+    ]
+  },
+  "cover": {
+    "title": "Cofán",
+    "subtitle": "Relatos, cantos, palabras y paisajes sonoros del Resguardo de Yarinal.",
+    "image": "",
+    "imageAlt": ""
+  },
+  "communityProfile": {
+    "facts": [
+      {
+        "label": "Territorio",
+        "value": "Comunidad de Yarinal."
+      },
+      {
+        "label": "Otros nombres",
+        "value": "A’i, Kofán o Kofane."
+      },
+      {
+        "label": "Ubicación",
+        "value": "Resguardo Indígena de Yarinal-San Marcelino, San Miguel, Putumayo."
+      },
+      {
+        "label": "Población",
+        "value": "Alrededor de 450 habitantes y 150 familias."
+      },
+      {
+        "label": "Lenguas",
+        "value": "A’ingae y español."
+      }
+    ],
+    "history": [
+      "Cuando la tierra no tenía nombre, Chiga andaba por el mundo acompañado solo de su madre. Desde donde el sol abría los ojos hasta donde los guardaba cada tarde, andaban los dos sin encontrar a nadie.",
+      "Un día Chiga le dijo a su madre que preparara harta chicha porque iba a haber un festejo. Ella respondió:",
+      "—¿Pero con quién, si aquí no hay gente…?",
+      "Aun así, como Chiga era Dios, ella hizo lo que él le había ordenado. Mientras la chicha se iba asentando, Chiga comenzó a levantar una choza grande, con palos de monte y hojas de iraca. Luego hizo bancas largas para sentarse, mesas para servir y una tarima para los bailes. Cuando la madre tuvo lista la chicha, sopló el churo tres veces y llamó a su gente:",
+      "—¡Vengan, vengan a tomar la chicha!",
+      "Entonces fueron saliendo los cofanes, vestidos con aretes y collares, colmillos de tigre y plumas de guacamayo; las caras pintadas y los cuerpos perfumados con las plantas de la selva. Cada uno traía sus bombos, sus flautas y sus rondadores para festejar.",
+      "Todos fueron pasando a la choza, ocuparon los asientos que Chiga había preparado y tomaron la chicha que brindó la madre. Había tantos cofanes que muchos se quedaron por fuera: ellos son los espíritus del monte, la gente cofán que hoy habita la noche y las montañas.",
+      "Tiempo después, Chiga arrancó un cabello de la corona de su cabeza, lo sembró en la selva, cuidó la planta hasta que creció y enseñó a los A'i a cocinar el yagé. Más tarde bebió con ellos y les dejó «el remedio» para que supieran de todas las cosas del mundo."
+    ],
+    "heritageNote": "La comunidad Cofán de Yarinal mantiene viva la lengua A’ingae, la memoria y el cuidado de la selva."
+  },
+  "tracks": [
+    {
+      "number": "01",
+      "title": "De mañana a la orilla del río La Hormiga",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 1",
+      "intro": "Es una mañana calurosa y húmeda en el Resguardo de Yarinal. A orillas del río La Hormiga se escucha el rumor del agua, mientras las aves y los insectos van y vienen entre la selva. Desde lejos llegan los bajos de una música que suena en el caserío. Escucha con atención: ¿cuántos sonidos cercanos y lejanos puedes descubrir?",
+      "audio": "audio/cofan/Cof-01-De_manana_a_la_orilla_del_rio_la_hormiga-pai-son.mp3",
+      "audioFileBase": "Cof-01-De_manana_a_la_orilla_del_rio_la_hormiga-pai-son",
+      "duration": "5:00",
+      "language": "N/A",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Chuni sethapaemba",
+      "spanishTitle": "Canción de la nutria",
+      "kind": "Canción",
+      "tracks": "Pista 2",
+      "intro": "La vida de los cofanes fluye siempre al ladito de las cabeceras de los ríos. Ellos saben que son el hogar de muchos peces y animales y los niños crecen escuchando sus historias. En Yarinal, el río La Hormiga atraviesa el caserío acompañado por la quebrada La Chambira. Escucha esta canción sobre la nutria en la voz de la profesora Leidy Queta.",
+      "audio": "audio/cofan/Cof-02-Chuni_sethapaemba-can.mp3",
+      "audioFileBase": "Cof-02-Chuni_sethapaemba-can",
+      "duration": "1:11",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0
+      ],
+      "original": "Shishihesw chunita\nShishihe na’esw pakhuma\nMandindiamitsw dwse (khuangise)\nAiyehepa indita\nAnswndevitsw dyaiya\nKañeñemitsw dyaiya (khuangise)\nThe’phwtsekha ambatsw\nAvwhatshe bairahe (khuangise)\nAndyuite napisitsw (khuangise)",
+      "translation": "Nutria de Yarinal.\nEn el río va persiguiendo los sábalos.\nEspera flotando tranquilita.\nCuando lo agarra,\nSube a la orilla\nSentada mirando a todos lados.\nCuando come y se llena,\nBaila contenta"
+    },
+    {
+      "number": "03",
+      "title": "Khuanifuekhu ande kundasepa a’indekhw kansechu",
+      "spanishTitle": "Relato de los tres mundos",
+      "kind": "Relato",
+      "tracks": "Pista 3",
+      "intro": "Para los cofanes existen tres mundos. Hay espíritus que solo viven en el mundo de abajo, mientras que la «gente cofán», que habita el mundo del medio, un día puede convertirse en cóndor o en tucán y alcanzar el cielo para vivir allí. Escucha este pequeño relato. ¿Imaginas cómo son los seres que habitan bajo la tierra?",
+      "audio": "audio/cofan/Cof-03-Khuanifuekhu_ande_kundasepa_aindekhw_kansechu-rel.mp3",
+      "audioFileBase": "Cof-03-Khuanifuekhu_ande_kundasepa_aindekhw_kansechu-rel",
+      "duration": "2:07",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        2
+      ],
+      "original": "Maha a’indekhw, dwshwndekhw, kaentsw ateswpa kansefayengi iha kundaseye va ingi kansepa andema mahandekhwtangi ateswfambi va ande ande tsusini kansefa a’indekhw\nkhentsw swfa maha kwendzandekhwha.\n(Kuankua ande kansechu)\nVa ande tsusinindatsw kansefa kuankua a’indekhw.\nTuyaken ateswfangi kuankua a’indekhwhatsw khentsw swfa kuendzandekhw,\nKuankuahatsw ambia shufa biafave a’indekhw.\nKansefa ande tsusini.\n(Ingi a’indekhw kansechu ande)\nTuyakaen ingi kansefa ingi a´idekhwha kansefa hañu va andeni.\n(Sefakhuni a’indekhw kansechu ande)\nTshumba sefakhuni’khe a’indekhw kansefa.\nMaha a’indekhwngi ateswfa kundasechu kunsianane Kunsiana ha’chu,\nTuyakaentsw u´fendyudyu hachutsw kahe sefakhuni.\nTsakasingi ingi a’indekhw inhamba tseni sefakhunikhe a’indekhw kansefa.",
+      "translation": "Niños, jóvenes, abuelos, les hago la invitación para que conozcan nuestra historia. Quiero contarles por qué hay algunos que no conocemos esta historia.\n(Mundo de abajo, donde viven los kuankua)\nDentro de la tierra viven personas llamadas kuankua.\nComo también conocemos que los kuankua, nos cuentan los mayores,\nQue los kuankua tienen el pene largo.\nViven dentro de la tierra.\n(Mundo donde vivimos los cofán)\nTambién en esta tierra vivimos nosotros, los cofanes de ahora.\n(Donde vive la gente del cielo)\nTambién en el cielo vive gente.\nAlgunos cofán conocemos que la mujer cóndor se fue allá,\nComo también las estrellas viven en el cielo.\nPor eso, nosotros, los cofán, pensamos que allá en el cielo vive gente cofán."
+    },
+    {
+      "number": "04",
+      "title": "Mendetshengi kansefa",
+      "spanishTitle": "Vivimos mal",
+      "kind": "Canción",
+      "tracks": "Pista 4",
+      "intro": "Hubo un tiempo en que la selva y el monte cubrían el territorio cofán. Había cómo cazar, cómo pescar, cómo «hacer remedio». Luego, llegaron los colonos, a quienes los cofanes llaman kukamas o ‘gente blanca’, y les fueron arrebatando todo. Este canto cuenta una tristeza: su territorio se ha ido apagando, y con él, la vida feliz que llevaban como cofanes.",
+      "audio": "audio/cofan/Cof-04-Mendetshengi_kansefa-can.mp3",
+      "audioFileBase": "Cof-04-Mendetshengi_kansefa-can",
+      "duration": "0:44",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ],
+      "original": "Hañundakha mendetshengi kansefa,\nKukama atapasi ingiha khe sutatsw.\nNepesingi, mendetshe kansefa.\nTayupiakhaen mingaethengi kansefa.\nTsangaengikha nepifa.",
+      "translation": "Ahora vivimos mal,\nPorque se multiplicaron los colonos.\nEstamos desapareciendo, vivimos mal.\nYa no podemos vivir como antes.\nEstamos desapareciendo."
+    },
+    {
+      "number": "05",
+      "title": "Imitaciones animales",
+      "spanishTitle": "",
+      "kind": "Relato",
+      "tracks": "Pista 5",
+      "intro": "Los cofanes son hijos de la selva y es ella quien les ofrece lo que necesitan para vivir y para comer, como las pavas, los tapires, los micos y las waras. Por eso, han aprendido a imitar la voz de los pájaros y los animales de monte para llamarlos en sus faenas de cacería. Escucha a Rubeiro imitar los sonidos de la selva.",
+      "audio": "audio/cofan/Cof-05-Imitaciones_animales-rel.mp3",
+      "audioFileBase": "Cof-05-Imitaciones_animales-rel",
+      "duration": "11:01",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Canto de ceremonia",
+      "spanishTitle": "",
+      "kind": "Canción",
+      "tracks": "Pista 6",
+      "intro": "Escucha los cantos que el taita Peregrino Greta entona en las ceremonias de yagé para armonizar el espíritu y el cuerpo de su comunidad.",
+      "audio": "audio/cofan/Cof-06-Canto_de_ceremonia-can.mp3",
+      "audioFileBase": "Cof-06-Canto_de_ceremonia-can",
+      "duration": "3:03",
+      "language": "Cofán",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        1
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Tayusw a’i: u’fa kundasepa",
+      "spanishTitle": "Historias de los antepasados del pueblo cofán: La historia del yagé",
+      "kind": "Relato",
+      "tracks": "Pista 7",
+      "intro": "El Taita Peregrino nos cuenta cómo llegaron al mundo los cofanes, a quienes Chiga les entregó el yagé y los conocimientos para curar las enfermedades del cuerpo y del alma. Escucha con atención este relato.",
+      "audio": "audio/cofan/Cof-07-Tayusw_ai_ufa_kundasepa-rel.mp3",
+      "audioFileBase": "Cof-07-Tayusw_ai_ufa_kundasepa-rel",
+      "duration": "4:05",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        1
+      ],
+      "original": "Kuse kuse, ña kundaseye ingi manie hi’chuma.\nIngiha Chigate, ingima twse u’tieha buña ingi\nA’indekhw paiyindekhw, a’indekhw.\nChigate, tise, chama maña maña\nTsetsepama tsuñe tsumba patshi\nA’ima fundupa ingiha sumbu.\nTsumbate ingima tsakae afasi ingiha\nIngiha ayafama ateswpa kanse hañu tsumbate anthe ingi ateswye\nYahemathe nasw chiga tusema sumbuembate maña hwñe a’indekhwma\nTsumba kuensi tsema wtensi ingiha, kw’ipa pa mwtsi numba anthe\nTsematsw Chigatsw agathu anthe tsumba ingi\nAtesundukwa tsakaen kwipa ingi a’indekhw sehepa kanseye\nIngi dwshwndekhw paiyindekhuma seheye tsetsw chigaha anthe ingima.\nTsumba tsakae ingima anthesi\nIngiha, chiga, eee, yahema kuipa,\nUtaemba kwipate ingi chigama kambahwma kañe.\nTsumba kundaseye makae seheye makae sehepa antechuma atheye.\nChigatsw ingima tsakae anthe kaentsw athepa na’swma kañe.\nÑua faeswha egate tsumba ingeha bai andema\nIngiha kanhe tsunsi\nIngima anthechu, ingi faesw a’indekhwha kukama hisi hafa, ingi sia a’ibe da’fa tsampini ingi katiye bai.",
+      "translation": "Buenas noches, quiero contarles de dónde venimos.\nNuestro Dios, a nosotros, él, primero nos reunió\nA los cofán, todos los cofán.\nDios, él, mandó a la mamá para que hiciera la chicha para todos.\nReunió a los cofán y gritó para que salieran.\nDespués, así habló a nosotros.\nDejó nuestro idioma para que nosotros pudiéramos aprenderlo.\nEl yagé es el cabello de Dios.\nDespués de que sembraron el yagé, creció, y nosotros lo cocinamos.\nPor eso Dios nos dejó el remedio a nosotros, los jóvenes, para poder aprender a curar.\nEntonces así nos dejó a nosotros.\nNosotros, Dios, eee, yagé tomamos.\nAprendimos a cocinar el yagé para poder ver el rostro de Dios.\nNos dejó para que tomemos y vivamos bien.\nPara conocer el cielo (a Dios).\nPrimero tomó Dios, después nosotros.\nEl remedio que nos mostró Dios para contarnos cómo curar.\nDios a nosotros nos dejó para vivir de esto.\nPara que podamos ver al dueño (del yagé), a través de él ver lo bueno y lo malo en esta tierra.\nA nosotros nos dejó. Cuando las personas se convirtieron en personas invisibles, se fueron a la selva y nosotros nos quedamos aquí."
+    },
+    {
+      "number": "08",
+      "title": "Canto espiritual",
+      "spanishTitle": "",
+      "kind": "Canción",
+      "tracks": "Pista 8",
+      "intro": "En las ceremonias de yagé, el taita entona cantos espirituales con una voz que parece venir de las profundidades de la tierra. A través de esos cantos, conversa con los espíritus de animales como el jaguar, la anaconda o el guacamayo, tejiendo un puente entre la gente visible y la gente invisible.  Escucha al taita entonar un canto de sanación.",
+      "audio": "audio/cofan/Cof-08-Canto_espiritual-can.mp3",
+      "audioFileBase": "Cof-08-Canto_espiritual-can",
+      "duration": "2:18",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        1
+      ]
+    },
+    {
+      "number": "09",
+      "title": "Vocabularios",
+      "spanishTitle": "",
+      "kind": "Vocabulario",
+      "tracks": "Pista 9",
+      "intro": "Escucha cómo el pueblo cofán nombra los animales, el río, la selva, el paisaje que lo rodea…",
+      "audio": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audioFileBase": "Cof-09-Vocabularios-voc",
+      "duration": "7:24",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ],
+      "singleReading": true,
+      "original": "Animales\nPerro · Ain\nGato · Mishuma / kiri\nGallo · Araparahw\nVaca · Vaura\nGrillo de tierra · Shishi\nAvispa · Pa'tha\nAlacrán · Tini\nAraña · Khayahw\nHormiga conga · Unu\nHormiga pequeña · A'hw\nCucaracha · Shipikhu\nMosca · Tenkenchu\nZancudo · Ancha\nMosquito · Thutsw\nColibrí · A'tshe\nMariposa · Thuviya\nÁguila · Pindu\nPaloma · Manambe\nLoro · Khachapa\nTortuga · Twtwkhuchu\nPava · Pa'u\nVenado · Shankhu\nArmadillo · Ihi\nGuara · Kiya\nDanta · Khuvi\nNutria pequeña · Chuni\nNutria grande · Sararu\nMico nocturno · Kunsisi\nMico cotudo · A'chu\nMono pequeño rojo (cotoncillo) · Tsu'ga\nMico chorongo · Kunsi\nCulebra · Iyu\nCulebra cascabel · Kufasi\nCulebra coral · Twntw iyu\nCulebra 24 · Shishiye iyu, shanage Iyu\nCulebra roja · Kanungu iyu\nBoa · Kahansi\nBoruga · Chanange\nPez (sardina) · Sambiri\nPintadillo (bagre) · Dzendzekhu\nPiraña · Daru\nPicalón · Khumasi\nYulo · Yuvwrw\nOso caballuno y oso hormiguero · Be'tha / Itsw\nTigre · Thesi\n\nNombrar el paisaje\nBosque · Tsampi\nRío · Na'e\nQuebrada · Naiki\nCielo · Sefakhu\nSol · Kuehe\nLuna · Kusesw chiga, khuvw\nEstrella · U'fe\nFlor · Te'ta\nSemilla · Chwn, Te'tachu\nFuego · Singe\nViento · Fingia\nPasto · Shushuvi\nPiedra · Patw\nBarro (greda) · Apicha\nArena · Sisipa\nAgua · Tsa'khw\nLluvia · W'hi\nTrueno · Tsanda\nRayo · Tsandaenfa, tsandabeyafa\nCamino · Tsaiki\nTierra · Ande\nDía · A'ta\nTarde · Sime\nNoche · Kuse\nAmanecer · A'tahi, a'tani\nAtardecer · Kusehi, kuseni\nNoche oscura · Siñeite, sia kuse\nNoche clara · Khwveinte, khwvw kuse\nHoja · Khakehe, khake\nRaíz · Tsainfa\n\nFamilia\nMamá · Mama\nPapá · Yaya\nHijo · Harichu\nHija · Shenu / Unke\nBebé · Aipanu\nNiño · Dw'shw\nMujer · Pwshesw\nHombre · Tsandie\nHermano (mi hermano) · Ña antia\nHermana (mi hermana) · Ña antia pwshesw\nAbuelo · Yayakhasheye\nAbuela · Mamakhashe\nTío · Tuntu\nTía · Chunge\nPrimo / Prima · Antia\n\nColores\nAmarillo · Kiupa\nAzul · Indzia / Indzwa\nVerde · Indzia\nRojo · Kw'a\nMorado · Pahakhu\nBlanco · Tutua\nNegro · Sia\n\nPartes del cuerpo\nCabeza · Tsuve\nCara · Kambahw\nOjo · Tsu'fe\nPestaña · Biyuyufa\nCeja · Biyufa\nNariz · Tsufatw\nBoca · Ayafa\nDiente · The'thu\nCuello · Tsifw\nEspalda · Sepakhu\nEstómago (barriga) · Thwpa, ihamathi\nOmbligo · Siuma, sauma\nBrazo · Tive, kungwkhu\nPierna · Thenangu\nRodilla · Tswthachu\nDedos · Tsimiakw, tsemiankhu\nCabello · Tuse\nPies · Tswthe\n\nMundo espiritual\nMedicina tradicional (nuestros remedios) · Ingi sehepa, ingi tayusw sehepa\nTaita · Kuraga\nSabedor · Ateswchu a'i\nYagé · U'fa\nCasa de yagé · U'fa tsa'u\nDios · Chiga\nCorona · Yanyakhw, utifakhw\nPluma que se usa en la nariz · Te'takhu\nTabaco · Khwmba\nLugar sagrado · Ñutshe kuirachu ande, ñutshe kuirachu e'thi\nCumplir con las normas de cuidado del taita · Asethwye\n\nVamos a…\n…cazar · Hinge pandzagaye, hinge pandzaye\n…la selva · Hinge tsampini haye\n…el río · Hinge na'eni haye\n…jugar · Hinge kufengaye\n…dormir · Hinge anangaye\n…pescar · Hinge simbangaye\n…nadar · Hinge kayangaye\n…bailar · Hinge anyungaye\n…montar en la canoa · Hinge shavunga hakañe\n…cocinar · (Hinge) Uteañe\n…cocinar el chontaduro · Hinge umama utengañe, hinge umama utaeñe\n\nRío\nRío · Na'e\nCanoa · Shagu\nInterior de la canoa · Shagunakhw\nRemo · Chhuchhufindi\nRemar · Chhuiye\nEl río está seco · Na'etsw samba\nEl río está crecido · Na'etsw bua\nCorriente del río · Kinfa\nCorriente fuerte del río · Kingufa\nIr río abajo · A'ningae\nRío arriba · Asukhwe\nGuiar la canoa · Asithaeñe\nPescar · Simbaye\n\nEmociones\nFeliz · Avwhatshe\n\nSonido, música y silencio\nSonido · Henfa\nMúsica · Heñafa\nSilencio · Wpitse, hupitshe\nCanción · Sethapaemchw, sethapaemba\nBaile · Andyupa\nTambor · Khusha\nSonajero · Shasha\nFlauta · Fururukhu\nHojas con las que limpia el taita · Sanganga"
+    },
+    {
+      "number": "10",
+      "title": "Ingi andyupa",
+      "spanishTitle": "Nuestro baile",
+      "kind": "Canción",
+      "tracks": "Pista 10",
+      "intro": "La fiesta del chontaduro es la principal festividad del pueblo cofán. La comunidad, portando máscaras de animales, baila en círculo, tal como Chiga les dijo en los primeros tiempos que bailaran. Acompañan su danza con la loina, el tambor, los sonajeros y las charapas de diferentes tamaños que las mujeres hacen vibrar.",
+      "audio": "audio/cofan/Cof-10-Ingi_andyupa-can.mp3",
+      "audioFileBase": "Cof-10-Ingi_andyupa-can",
+      "duration": "12:30",
+      "language": "Cofán",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        3
+      ]
+    },
+    {
+      "number": "11",
+      "title": "A’i kankhenga sethapaemba",
+      "spanishTitle": "Himno del Pueblo Cofán",
+      "kind": "Himno",
+      "tracks": "Pista 11",
+      "intro": "Los kukamas, ‘gente blanca’, han despojado durante siglos a los cofanes de su selva. En este canto vive la tristeza y también la fuerza de un pueblo que resiste. Escucha el himno del pueblo Cofán cantado por la profesora Leidy Queta junto con los niños de tercero y cuarto grado de la Institución Educativa del Resguardo de Yarinal.",
+      "audio": "audio/cofan/Cof-11-Ai_kankhenga_sethapaemba-him.mp3",
+      "audioFileBase": "Cof-11-Ai_kankhenga_sethapaemba-him",
+      "duration": "4:18",
+      "language": "Cofán",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        3
+      ],
+      "original": "Tayusw a’indekhwta\nVa andeni mingeua.\nA’indekhw kansefa,\nAvwhatshe kansefaya.\nPaua kankhengata\nAndyupatsw panshaenfa.\nI.\nBianisw kukamagu.\nHipa a’ima fithithifa.\nPatshima itsafasi.\nÑumbiyengi kansefa.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa\nII.\nTsunsi hañu bupa\nIywkhu kansefaya\nIngi undikhwchuma\nNepisi tuekiañe.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa\nIII.\nIngi kuendzandekhw\nHañupie kansefaya,\nIngi ayafama,\nNepiansi tuekiañe.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa\nIV.\nChigama iñahamba\nHukhapie ateswpa,\nApuikhw kundasepa,\nPhimphitshe kansefaye.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa",
+      "translation": "Coro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nI.\nVinieron los españoles.\nVinieron y mataron a los cofán.\nUsurparon todas las tierras.\nPor eso vivimos tristes.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nII.\nAhora en el cabildo\nNos unimos\nPara dar la pelea\nPor rescatar nuestra cultura\nQue hemos perdido.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nIII.\nTodavía existen nuestros mayores\nPara enseñar nuestro idioma,\nQue hemos perdido,\nY queremos recuperar.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nIV.\nPedimos a Dios\nPara poder conocer,\nPara dialogar con el Estado,\nY volver a vivir en paz.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas."
+    },
+    {
+      "number": "12",
+      "title": "Aipanu anañe sethapaemba",
+      "spanishTitle": "Canción para que el bebé duerma",
+      "kind": "Arrullo",
+      "tracks": "Pista 12",
+      "intro": "Las mamás del pueblo cofán acunan a sus hijos con sus cantos y les cuentan sobre sus oficios. Cada una inventa un arrullo mientras lava la ropa, cocina la rayana de plátano o prepara el maito para la familia. Escucha a la mayora Clemencia cantar su propio arrullo.",
+      "audio": "audio/cofan/Cof-12-Aipanu_anane_sethapaemba-arr.mp3",
+      "audioFileBase": "Cof-12-Aipanu_anane_sethapaemba-arr",
+      "duration": "1:36",
+      "language": "Cofán + Español",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ],
+      "original": "Anaha, aipanu, anaha, aipanu.\nKe yayambe shukhaeñe,\nKe yayaha semahesi.\nAnaha i´nambe, anaha i’nambe,\nAipanu, aipanu,\nKe yayambe shukhaeñe.\nKe yayaha semahesi.\nAnaha, anaha.",
+      "translation": "Duerme, bebé, duerme, bebé.\nPara poder cocinarle a tu papá,\nPorque él está trabajando.\nDuerme sin llorar, duerme sin llorar,\nBebé, bebé,\nPara poder cocinarle a tu papá.\nPorque él está trabajando.\nDuerme, duerme."
+    },
+    {
+      "number": "13",
+      "title": "De noche en el Resguardo Yarinal",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 13",
+      "intro": "Cae la noche en la selva y se despiertan muchas voces de insectos nocturnos que se mezclan en la oscuridad. A lo lejos, desde la cancha de fútbol, llegan las voces de los jóvenes de la comunidad que juegan un partido. Escucha con atención: ¿qué sonidos parecen estar cerca y cuáles llegan desde lejos?",
+      "audio": "audio/cofan/Cof-13-De_noche_en_el_resguardo_yarinal-pai-son.mp3",
+      "audioFileBase": "Cof-13-De_noche_en_el_resguardo_yarinal-pai-son",
+      "duration": "5:00",
+      "language": "N/A",
+      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "title": "Animales",
+      "items": [
+        {
+          "spanish": "Perro",
+          "aingae": "Ain",
+          "palenquero": "Ain"
+        },
+        {
+          "spanish": "Gato",
+          "aingae": "Mishuma / kiri",
+          "palenquero": "Mishuma / kiri"
+        },
+        {
+          "spanish": "Gallo",
+          "aingae": "Araparahw",
+          "palenquero": "Araparahw"
+        },
+        {
+          "spanish": "Vaca",
+          "aingae": "Vaura",
+          "palenquero": "Vaura"
+        },
+        {
+          "spanish": "Grillo de tierra",
+          "aingae": "Shishi",
+          "palenquero": "Shishi"
+        },
+        {
+          "spanish": "Avispa",
+          "aingae": "Pa'tha",
+          "palenquero": "Pa'tha"
+        },
+        {
+          "spanish": "Alacrán",
+          "aingae": "Tini",
+          "palenquero": "Tini"
+        },
+        {
+          "spanish": "Araña",
+          "aingae": "Khayahw",
+          "palenquero": "Khayahw"
+        },
+        {
+          "spanish": "Hormiga conga",
+          "aingae": "Unu",
+          "palenquero": "Unu"
+        },
+        {
+          "spanish": "Hormiga pequeña",
+          "aingae": "A'hw",
+          "palenquero": "A'hw"
+        },
+        {
+          "spanish": "Cucaracha",
+          "aingae": "Shipikhu",
+          "palenquero": "Shipikhu"
+        },
+        {
+          "spanish": "Mosca",
+          "aingae": "Tenkenchu",
+          "palenquero": "Tenkenchu"
+        },
+        {
+          "spanish": "Zancudo",
+          "aingae": "Ancha",
+          "palenquero": "Ancha"
+        },
+        {
+          "spanish": "Mosquito",
+          "aingae": "Thutsw",
+          "palenquero": "Thutsw"
+        },
+        {
+          "spanish": "Colibrí",
+          "aingae": "A'tshe",
+          "palenquero": "A'tshe"
+        },
+        {
+          "spanish": "Mariposa",
+          "aingae": "Thuviya",
+          "palenquero": "Thuviya"
+        },
+        {
+          "spanish": "Águila",
+          "aingae": "Pindu",
+          "palenquero": "Pindu"
+        },
+        {
+          "spanish": "Paloma",
+          "aingae": "Manambe",
+          "palenquero": "Manambe"
+        },
+        {
+          "spanish": "Loro",
+          "aingae": "Khachapa",
+          "palenquero": "Khachapa"
+        },
+        {
+          "spanish": "Tortuga",
+          "aingae": "Twtwkhuchu",
+          "palenquero": "Twtwkhuchu"
+        },
+        {
+          "spanish": "Pava",
+          "aingae": "Pa'u",
+          "palenquero": "Pa'u"
+        },
+        {
+          "spanish": "Venado",
+          "aingae": "Shankhu",
+          "palenquero": "Shankhu"
+        },
+        {
+          "spanish": "Armadillo",
+          "aingae": "Ihi",
+          "palenquero": "Ihi"
+        },
+        {
+          "spanish": "Guara",
+          "aingae": "Kiya",
+          "palenquero": "Kiya"
+        },
+        {
+          "spanish": "Danta",
+          "aingae": "Khuvi",
+          "palenquero": "Khuvi"
+        },
+        {
+          "spanish": "Nutria pequeña",
+          "aingae": "Chuni",
+          "palenquero": "Chuni"
+        },
+        {
+          "spanish": "Nutria grande",
+          "aingae": "Sararu",
+          "palenquero": "Sararu"
+        },
+        {
+          "spanish": "Mico nocturno",
+          "aingae": "Kunsisi",
+          "palenquero": "Kunsisi"
+        },
+        {
+          "spanish": "Mico cotudo",
+          "aingae": "A'chu",
+          "palenquero": "A'chu"
+        },
+        {
+          "spanish": "Mono pequeño rojo (cotoncillo)",
+          "aingae": "Tsu'ga",
+          "palenquero": "Tsu'ga"
+        },
+        {
+          "spanish": "Mico chorongo",
+          "aingae": "Kunsi",
+          "palenquero": "Kunsi"
+        },
+        {
+          "spanish": "Culebra",
+          "aingae": "Iyu",
+          "palenquero": "Iyu"
+        },
+        {
+          "spanish": "Culebra cascabel",
+          "aingae": "Kufasi",
+          "palenquero": "Kufasi"
+        },
+        {
+          "spanish": "Culebra coral",
+          "aingae": "Twntw iyu",
+          "palenquero": "Twntw iyu"
+        },
+        {
+          "spanish": "Culebra 24",
+          "aingae": "Shishiye iyu, shanage Iyu",
+          "palenquero": "Shishiye iyu, shanage Iyu"
+        },
+        {
+          "spanish": "Culebra roja",
+          "aingae": "Kanungu iyu",
+          "palenquero": "Kanungu iyu"
+        },
+        {
+          "spanish": "Boa",
+          "aingae": "Kahansi",
+          "palenquero": "Kahansi"
+        },
+        {
+          "spanish": "Boruga",
+          "aingae": "Chanange",
+          "palenquero": "Chanange"
+        },
+        {
+          "spanish": "Pez (sardina)",
+          "aingae": "Sambiri",
+          "palenquero": "Sambiri"
+        },
+        {
+          "spanish": "Pintadillo (bagre)",
+          "aingae": "Dzendzekhu",
+          "palenquero": "Dzendzekhu"
+        },
+        {
+          "spanish": "Piraña",
+          "aingae": "Daru",
+          "palenquero": "Daru"
+        },
+        {
+          "spanish": "Picalón",
+          "aingae": "Khumasi",
+          "palenquero": "Khumasi"
+        },
+        {
+          "spanish": "Yulo",
+          "aingae": "Yuvwrw",
+          "palenquero": "Yuvwrw"
+        },
+        {
+          "spanish": "Oso caballuno y oso hormiguero",
+          "aingae": "Be'tha / Itsw",
+          "palenquero": "Be'tha / Itsw"
+        },
+        {
+          "spanish": "Tigre",
+          "aingae": "Thesi",
+          "palenquero": "Thesi"
+        }
+      ]
+    },
+    {
+      "title": "Nombrar el paisaje",
+      "items": [
+        {
+          "spanish": "Bosque",
+          "aingae": "Tsampi",
+          "palenquero": "Tsampi"
+        },
+        {
+          "spanish": "Río",
+          "aingae": "Na'e",
+          "palenquero": "Na'e"
+        },
+        {
+          "spanish": "Quebrada",
+          "aingae": "Naiki",
+          "palenquero": "Naiki"
+        },
+        {
+          "spanish": "Cielo",
+          "aingae": "Sefakhu",
+          "palenquero": "Sefakhu"
+        },
+        {
+          "spanish": "Sol",
+          "aingae": "Kuehe",
+          "palenquero": "Kuehe"
+        },
+        {
+          "spanish": "Luna",
+          "aingae": "Kusesw chiga, khuvw",
+          "palenquero": "Kusesw chiga, khuvw"
+        },
+        {
+          "spanish": "Estrella",
+          "aingae": "U'fe",
+          "palenquero": "U'fe"
+        },
+        {
+          "spanish": "Flor",
+          "aingae": "Te'ta",
+          "palenquero": "Te'ta"
+        },
+        {
+          "spanish": "Semilla",
+          "aingae": "Chwn, Te'tachu",
+          "palenquero": "Chwn, Te'tachu"
+        },
+        {
+          "spanish": "Fuego",
+          "aingae": "Singe",
+          "palenquero": "Singe"
+        },
+        {
+          "spanish": "Viento",
+          "aingae": "Fingia",
+          "palenquero": "Fingia"
+        },
+        {
+          "spanish": "Pasto",
+          "aingae": "Shushuvi",
+          "palenquero": "Shushuvi"
+        },
+        {
+          "spanish": "Piedra",
+          "aingae": "Patw",
+          "palenquero": "Patw"
+        },
+        {
+          "spanish": "Barro (greda)",
+          "aingae": "Apicha",
+          "palenquero": "Apicha"
+        },
+        {
+          "spanish": "Arena",
+          "aingae": "Sisipa",
+          "palenquero": "Sisipa"
+        },
+        {
+          "spanish": "Agua",
+          "aingae": "Tsa'khw",
+          "palenquero": "Tsa'khw"
+        },
+        {
+          "spanish": "Lluvia",
+          "aingae": "W'hi",
+          "palenquero": "W'hi"
+        },
+        {
+          "spanish": "Trueno",
+          "aingae": "Tsanda",
+          "palenquero": "Tsanda"
+        },
+        {
+          "spanish": "Rayo",
+          "aingae": "Tsandaenfa, tsandabeyafa",
+          "palenquero": "Tsandaenfa, tsandabeyafa"
+        },
+        {
+          "spanish": "Camino",
+          "aingae": "Tsaiki",
+          "palenquero": "Tsaiki"
+        },
+        {
+          "spanish": "Tierra",
+          "aingae": "Ande",
+          "palenquero": "Ande"
+        },
+        {
+          "spanish": "Día",
+          "aingae": "A'ta",
+          "palenquero": "A'ta"
+        },
+        {
+          "spanish": "Tarde",
+          "aingae": "Sime",
+          "palenquero": "Sime"
+        },
+        {
+          "spanish": "Noche",
+          "aingae": "Kuse",
+          "palenquero": "Kuse"
+        },
+        {
+          "spanish": "Amanecer",
+          "aingae": "A'tahi, a'tani",
+          "palenquero": "A'tahi, a'tani"
+        },
+        {
+          "spanish": "Atardecer",
+          "aingae": "Kusehi, kuseni",
+          "palenquero": "Kusehi, kuseni"
+        },
+        {
+          "spanish": "Noche oscura",
+          "aingae": "Siñeite, sia kuse",
+          "palenquero": "Siñeite, sia kuse"
+        },
+        {
+          "spanish": "Noche clara",
+          "aingae": "Khwveinte, khwvw kuse",
+          "palenquero": "Khwveinte, khwvw kuse"
+        },
+        {
+          "spanish": "Hoja",
+          "aingae": "Khakehe, khake",
+          "palenquero": "Khakehe, khake"
+        },
+        {
+          "spanish": "Raíz",
+          "aingae": "Tsainfa",
+          "palenquero": "Tsainfa"
+        }
+      ]
+    },
+    {
+      "title": "Familia",
+      "items": [
+        {
+          "spanish": "Mamá",
+          "aingae": "Mama",
+          "palenquero": "Mama"
+        },
+        {
+          "spanish": "Papá",
+          "aingae": "Yaya",
+          "palenquero": "Yaya"
+        },
+        {
+          "spanish": "Hijo",
+          "aingae": "Harichu",
+          "palenquero": "Harichu"
+        },
+        {
+          "spanish": "Hija",
+          "aingae": "Shenu / Unke",
+          "palenquero": "Shenu / Unke"
+        },
+        {
+          "spanish": "Bebé",
+          "aingae": "Aipanu",
+          "palenquero": "Aipanu"
+        },
+        {
+          "spanish": "Niño",
+          "aingae": "Dw'shw",
+          "palenquero": "Dw'shw"
+        },
+        {
+          "spanish": "Mujer",
+          "aingae": "Pwshesw",
+          "palenquero": "Pwshesw"
+        },
+        {
+          "spanish": "Hombre",
+          "aingae": "Tsandie",
+          "palenquero": "Tsandie"
+        },
+        {
+          "spanish": "Hermano (mi hermano)",
+          "aingae": "Ña antia",
+          "palenquero": "Ña antia"
+        },
+        {
+          "spanish": "Hermana (mi hermana)",
+          "aingae": "Ña antia pwshesw",
+          "palenquero": "Ña antia pwshesw"
+        },
+        {
+          "spanish": "Abuelo",
+          "aingae": "Yayakhasheye",
+          "palenquero": "Yayakhasheye"
+        },
+        {
+          "spanish": "Abuela",
+          "aingae": "Mamakhashe",
+          "palenquero": "Mamakhashe"
+        },
+        {
+          "spanish": "Tío",
+          "aingae": "Tuntu",
+          "palenquero": "Tuntu"
+        },
+        {
+          "spanish": "Tía",
+          "aingae": "Chunge",
+          "palenquero": "Chunge"
+        },
+        {
+          "spanish": "Primo / Prima",
+          "aingae": "Antia",
+          "palenquero": "Antia"
+        }
+      ]
+    },
+    {
+      "title": "Colores",
+      "items": [
+        {
+          "spanish": "Amarillo",
+          "aingae": "Kiupa",
+          "palenquero": "Kiupa"
+        },
+        {
+          "spanish": "Azul",
+          "aingae": "Indzia / Indzwa",
+          "palenquero": "Indzia / Indzwa"
+        },
+        {
+          "spanish": "Verde",
+          "aingae": "Indzia",
+          "palenquero": "Indzia"
+        },
+        {
+          "spanish": "Rojo",
+          "aingae": "Kw'a",
+          "palenquero": "Kw'a"
+        },
+        {
+          "spanish": "Morado",
+          "aingae": "Pahakhu",
+          "palenquero": "Pahakhu"
+        },
+        {
+          "spanish": "Blanco",
+          "aingae": "Tutua",
+          "palenquero": "Tutua"
+        },
+        {
+          "spanish": "Negro",
+          "aingae": "Sia",
+          "palenquero": "Sia"
+        }
+      ]
+    },
+    {
+      "title": "Partes del cuerpo",
+      "items": [
+        {
+          "spanish": "Cabeza",
+          "aingae": "Tsuve",
+          "palenquero": "Tsuve"
+        },
+        {
+          "spanish": "Cara",
+          "aingae": "Kambahw",
+          "palenquero": "Kambahw"
+        },
+        {
+          "spanish": "Ojo",
+          "aingae": "Tsu'fe",
+          "palenquero": "Tsu'fe"
+        },
+        {
+          "spanish": "Pestaña",
+          "aingae": "Biyuyufa",
+          "palenquero": "Biyuyufa"
+        },
+        {
+          "spanish": "Ceja",
+          "aingae": "Biyufa",
+          "palenquero": "Biyufa"
+        },
+        {
+          "spanish": "Nariz",
+          "aingae": "Tsufatw",
+          "palenquero": "Tsufatw"
+        },
+        {
+          "spanish": "Boca",
+          "aingae": "Ayafa",
+          "palenquero": "Ayafa"
+        },
+        {
+          "spanish": "Diente",
+          "aingae": "The'thu",
+          "palenquero": "The'thu"
+        },
+        {
+          "spanish": "Cuello",
+          "aingae": "Tsifw",
+          "palenquero": "Tsifw"
+        },
+        {
+          "spanish": "Espalda",
+          "aingae": "Sepakhu",
+          "palenquero": "Sepakhu"
+        },
+        {
+          "spanish": "Estómago (barriga)",
+          "aingae": "Thwpa, ihamathi",
+          "palenquero": "Thwpa, ihamathi"
+        },
+        {
+          "spanish": "Ombligo",
+          "aingae": "Siuma, sauma",
+          "palenquero": "Siuma, sauma"
+        },
+        {
+          "spanish": "Brazo",
+          "aingae": "Tive, kungwkhu",
+          "palenquero": "Tive, kungwkhu"
+        },
+        {
+          "spanish": "Pierna",
+          "aingae": "Thenangu",
+          "palenquero": "Thenangu"
+        },
+        {
+          "spanish": "Rodilla",
+          "aingae": "Tswthachu",
+          "palenquero": "Tswthachu"
+        },
+        {
+          "spanish": "Dedos",
+          "aingae": "Tsimiakw, tsemiankhu",
+          "palenquero": "Tsimiakw, tsemiankhu"
+        },
+        {
+          "spanish": "Cabello",
+          "aingae": "Tuse",
+          "palenquero": "Tuse"
+        },
+        {
+          "spanish": "Pies",
+          "aingae": "Tswthe",
+          "palenquero": "Tswthe"
+        }
+      ]
+    },
+    {
+      "title": "Mundo espiritual",
+      "items": [
+        {
+          "spanish": "Medicina tradicional (nuestros remedios)",
+          "aingae": "Ingi sehepa, ingi tayusw sehepa",
+          "palenquero": "Ingi sehepa, ingi tayusw sehepa"
+        },
+        {
+          "spanish": "Taita",
+          "aingae": "Kuraga",
+          "palenquero": "Kuraga"
+        },
+        {
+          "spanish": "Sabedor",
+          "aingae": "Ateswchu a'i",
+          "palenquero": "Ateswchu a'i"
+        },
+        {
+          "spanish": "Yagé",
+          "aingae": "U'fa",
+          "palenquero": "U'fa"
+        },
+        {
+          "spanish": "Casa de yagé",
+          "aingae": "U'fa tsa'u",
+          "palenquero": "U'fa tsa'u"
+        },
+        {
+          "spanish": "Dios",
+          "aingae": "Chiga",
+          "palenquero": "Chiga"
+        },
+        {
+          "spanish": "Corona",
+          "aingae": "Yanyakhw, utifakhw",
+          "palenquero": "Yanyakhw, utifakhw"
+        },
+        {
+          "spanish": "Pluma que se usa en la nariz",
+          "aingae": "Te'takhu",
+          "palenquero": "Te'takhu"
+        },
+        {
+          "spanish": "Tabaco",
+          "aingae": "Khwmba",
+          "palenquero": "Khwmba"
+        },
+        {
+          "spanish": "Lugar sagrado",
+          "aingae": "Ñutshe kuirachu ande, ñutshe kuirachu e'thi",
+          "palenquero": "Ñutshe kuirachu ande, ñutshe kuirachu e'thi"
+        },
+        {
+          "spanish": "Cumplir con las normas de cuidado del taita",
+          "aingae": "Asethwye",
+          "palenquero": "Asethwye"
+        }
+      ]
+    },
+    {
+      "title": "Vamos a…",
+      "items": [
+        {
+          "spanish": "…cazar",
+          "aingae": "Hinge pandzagaye, hinge pandzaye",
+          "palenquero": "Hinge pandzagaye, hinge pandzaye"
+        },
+        {
+          "spanish": "…la selva",
+          "aingae": "Hinge tsampini haye",
+          "palenquero": "Hinge tsampini haye"
+        },
+        {
+          "spanish": "…el río",
+          "aingae": "Hinge na'eni haye",
+          "palenquero": "Hinge na'eni haye"
+        },
+        {
+          "spanish": "…jugar",
+          "aingae": "Hinge kufengaye",
+          "palenquero": "Hinge kufengaye"
+        },
+        {
+          "spanish": "…dormir",
+          "aingae": "Hinge anangaye",
+          "palenquero": "Hinge anangaye"
+        },
+        {
+          "spanish": "…pescar",
+          "aingae": "Hinge simbangaye",
+          "palenquero": "Hinge simbangaye"
+        },
+        {
+          "spanish": "…nadar",
+          "aingae": "Hinge kayangaye",
+          "palenquero": "Hinge kayangaye"
+        },
+        {
+          "spanish": "…bailar",
+          "aingae": "Hinge anyungaye",
+          "palenquero": "Hinge anyungaye"
+        },
+        {
+          "spanish": "…montar en la canoa",
+          "aingae": "Hinge shavunga hakañe",
+          "palenquero": "Hinge shavunga hakañe"
+        },
+        {
+          "spanish": "…cocinar",
+          "aingae": "(Hinge) Uteañe",
+          "palenquero": "(Hinge) Uteañe"
+        },
+        {
+          "spanish": "…cocinar el chontaduro",
+          "aingae": "Hinge umama utengañe, hinge umama utaeñe",
+          "palenquero": "Hinge umama utengañe, hinge umama utaeñe"
+        }
+      ]
+    },
+    {
+      "title": "Río",
+      "items": [
+        {
+          "spanish": "Río",
+          "aingae": "Na'e",
+          "palenquero": "Na'e"
+        },
+        {
+          "spanish": "Canoa",
+          "aingae": "Shagu",
+          "palenquero": "Shagu"
+        },
+        {
+          "spanish": "Interior de la canoa",
+          "aingae": "Shagunakhw",
+          "palenquero": "Shagunakhw"
+        },
+        {
+          "spanish": "Remo",
+          "aingae": "Chhuchhufindi",
+          "palenquero": "Chhuchhufindi"
+        },
+        {
+          "spanish": "Remar",
+          "aingae": "Chhuiye",
+          "palenquero": "Chhuiye"
+        },
+        {
+          "spanish": "El río está seco",
+          "aingae": "Na'etsw samba",
+          "palenquero": "Na'etsw samba"
+        },
+        {
+          "spanish": "El río está crecido",
+          "aingae": "Na'etsw bua",
+          "palenquero": "Na'etsw bua"
+        },
+        {
+          "spanish": "Corriente del río",
+          "aingae": "Kinfa",
+          "palenquero": "Kinfa"
+        },
+        {
+          "spanish": "Corriente fuerte del río",
+          "aingae": "Kingufa",
+          "palenquero": "Kingufa"
+        },
+        {
+          "spanish": "Ir río abajo",
+          "aingae": "A'ningae",
+          "palenquero": "A'ningae"
+        },
+        {
+          "spanish": "Río arriba",
+          "aingae": "Asukhwe",
+          "palenquero": "Asukhwe"
+        },
+        {
+          "spanish": "Guiar la canoa",
+          "aingae": "Asithaeñe",
+          "palenquero": "Asithaeñe"
+        },
+        {
+          "spanish": "Pescar",
+          "aingae": "Simbaye",
+          "palenquero": "Simbaye"
+        }
+      ]
+    },
+    {
+      "title": "Emociones",
+      "items": [
+        {
+          "spanish": "Feliz",
+          "aingae": "Avwhatshe",
+          "palenquero": "Avwhatshe"
+        }
+      ]
+    },
+    {
+      "title": "Sonido, música y silencio",
+      "items": [
+        {
+          "spanish": "Sonido",
+          "aingae": "Henfa",
+          "palenquero": "Henfa"
+        },
+        {
+          "spanish": "Música",
+          "aingae": "Heñafa",
+          "palenquero": "Heñafa"
+        },
+        {
+          "spanish": "Silencio",
+          "aingae": "Wpitse, hupitshe",
+          "palenquero": "Wpitse, hupitshe"
+        },
+        {
+          "spanish": "Canción",
+          "aingae": "Sethapaemchw, sethapaemba",
+          "palenquero": "Sethapaemchw, sethapaemba"
+        },
+        {
+          "spanish": "Baile",
+          "aingae": "Andyupa",
+          "palenquero": "Andyupa"
+        },
+        {
+          "spanish": "Tambor",
+          "aingae": "Khusha",
+          "palenquero": "Khusha"
+        },
+        {
+          "spanish": "Sonajero",
+          "aingae": "Shasha",
+          "palenquero": "Shasha"
+        },
+        {
+          "spanish": "Flauta",
+          "aingae": "Fururukhu",
+          "palenquero": "Fururukhu"
+        },
+        {
+          "spanish": "Hojas con las que limpia el taita",
+          "aingae": "Sanganga",
+          "palenquero": "Sanganga"
+        }
+      ]
+    }
+  ],
+  "vocabularyAudioSegments": {
+    "Animales": {
+      "start": 0,
+      "end": 0
+    },
+    "Nombrar el paisaje": {
+      "start": 0,
+      "end": 0
+    },
+    "Familia": {
+      "start": 0,
+      "end": 0
+    },
+    "Colores": {
+      "start": 0,
+      "end": 0
+    },
+    "Partes del cuerpo": {
+      "start": 0,
+      "end": 0
+    },
+    "Mundo espiritual": {
+      "start": 0,
+      "end": 0
+    },
+    "Vamos a…": {
+      "start": 0,
+      "end": 0
+    },
+    "Río": {
+      "start": 0,
+      "end": 0
+    },
+    "Emociones": {
+      "start": 0,
+      "end": 0
+    },
+    "Sonido, música y silencio": {
+      "start": 0,
+      "end": 0
+    }
+  },
+  "photos": [],
+  "activities": [
+    {
+      "title": "El amanecer en la selva amazónica: el río La Hormiga y el despertar de los seres del monte",
+      "tracks": "Pistas 1, 2 y 5.",
+      "purpose": "Acercar a las infancias a la atmósfera matutina del resguardo de Yarinal mediante la Pista 1 (De mañana a la orilla del río La Hormiga). La Pista 2 (Canción de la nutria) permite personificar corporalmente a un ser del río, mientras la Pista 5 (Imitaciones animales) abre un juego de escucha y respuesta a las voces del monte. La experiencia reúne paisaje, animalidad y movimiento sin separar el río de la selva que lo rodea.",
+      "materials": "Audioteca: Pista 1 (De mañana a la orilla del río La Hormiga); Pista 2 (Chuni sethapaemba / Canción de la nutria); Pista 5 (Imitaciones animales).\nMateriales: Hojas anchas de bijao o plátano en el suelo; cuencos de barro con agua limpia y piedras lisas de río; cintas o telas livianas en tonos verdes y azules; siluetas de peces de río en cartón.\nAmbientación: Espacio dispuesto en penumbra cálida con las hojas y cuencos en el piso, simulando la orilla pedregosa del río al amanecer.",
+      "steps": [
+        "Opción A: Escucha de la bruma fluvial. Sentados en penumbra sobre las hojas de bijao, escuchar la Pista 1 (De mañana a la orilla del río La Hormiga) para identificar sonidos cercanos (agua, insectos) y ecos distantes del caserío.",
+        "Opción B: Las voces de los animales. Escuchar la Pista 5 (Imitaciones animales). Sin anticipar qué especie corresponde a cada sonido, responder primero con gestos y después, quien quiera, intentar una imitación breve de las voces escuchadas. Comparar sonidos largos, cortos, agudos o graves.",
+        "Opción C: Juego corporal de la nutria de Yarinal. Con la Pista 2, desplazarse imitando el nado elástico, flotar en su sitio, atrapar peces imaginarios y celebrar con movimientos sobre las hojas de bijao.",
+        "Opción D: Ronda de piedras secas y agradecimiento. Tomar una piedra lisa del cuenco, secarla entre las palmas en círculo y verbalizar qué sensación les despertó nadar como las nutrias en el gran río."
+      ],
+      "closing": "Las piedras se depositan juntas en el centro, formando un montículo fluvial sobre el bijao. El grupo realiza una reverencia suave hacia el agua y pronuncia un saludo de despedida a la mañana amazónica.",
+      "key": "Exploración fluvial: Promover un contacto calmado con el agua, evitando salpicaduras bruscas para priorizar la percepción acústica y táctil del fluir del río.\nParentesco animal: Resaltar que en la cosmovisión cofán los animales acuáticos son vecinos y maestros con quienes se convive con respeto."
+    },
+    {
+      "title": "Las hojas que limpian: el canto de ceremonia, la sanganga y el saber del taita",
+      "tracks": "Pistas 6, 7 y 8.",
+      "purpose": "Acercar a las infancias al valor protector de la medicina tradicional cofán a través de la figura del kuraga (Taita) y el uso de la sanganga (manojo de hojas con el que el sabedor limpia y refresca el cuerpo). A partir de la escucha de los cantos ceremoniales del taita Peregrino Greta (Pistas 6 y 8) y relatos del origen del remedio (Pista 7), las niñas y niños construyen su propio atado vegetal y practican movimientos suaves de armonización y cuidado recíproco.",
+      "materials": "Audioteca: Pista 6 (Canto de ceremonia); Pista 8 (Canto espiritual); Pista 7 (Tayusw a’i: u’fa kundasepa).\nMateriales: Hojas alargadas y flexibles de plantas no tóxicas (platanillo, palmas, helechos o hierba Luisa); cordeles de cabuya o fique teñidos; cuencos con agua aromatizada con hierbas frescas.\nAmbientación: Espacio en penumbra serena que evoca la casa de yagé (u'fa tsa'u), con esteras en el suelo y aromas vegetales suspendidos.",
+      "steps": [
+        "Opción A: Escucha de la voz profunda del kuraga. En semicírculo, escuchar la Pista 8 (Canto espiritual) para percibir el tono grave y resonante del taita dialogando con los espíritus del monte.",
+        "Opción B: Confección artesanal de la sanganga. Conocer el término en a'ingae: sanganga (hojas medicinales para limpiar). Cada niño selecciona hojas alargadas y las ata con cabuya, elaborando su abanico vegetal de armonización.",
+        "Opción C: Práctica de abanicado y brisa suave. Al ritmo de la Pista 6 (Canto de ceremonia), en parejas o sobre sí mismos, agitar la sanganga a corta distancia de la piel produciendo un rumor crujiente mientras susurran: «Que se vaya el cansancio, que entre el viento limpio».",
+        "Opción D: Ofrenda del buen pensamiento y toque aromático. Ubicar los atados en el centro. Mojar levemente los dedos en agua aromatizada y tocarse la frente en silencio para desear calma en el aula."
+      ],
+      "closing": "El grupo guarda un minuto de silencio respirando el aroma de la sala. Cada infante conserva su manojo de sanganga como recordatorio del cuidado de la salud en la selva.",
+      "key": "Dignidad de las autoridades espirituales: Explicar que el canto y la limpieza son prácticas sagradas orientadas al bienestar colectivo y merecen una escucha respetuosa.\nSutileza motriz: Asegurar que el uso de la sanganga sea aéreo y leve, priorizando el murmullo de las hojas y la brisa sobre la piel sin golpes directos."
+    },
+    {
+      "title": "Las coronas de plumas, los collares y los tres mundos cofán",
+      "tracks": "Pista 3.",
+      "purpose": "Descubrir la estructura del cosmos según los abuelos cofanes a través de la Pista 3: el mundo de abajo de los kuankua, el mundo terrenal de la gente cofán y el mundo celeste habitado por la mujer cóndor y las estrellas. Inspirados en la dignidad del atuendo tradicional, las niñas y niños elaboran una corona con plumas (yanyakhw) y ensartan collares protectores con semillas, vivenciando la conexión entre el suelo selvático y las alturas del cielo.",
+      "materials": "Audioteca: Pista 3 (Khuanifuekhu ande kundasepa a’indekhw kansechu).\nMateriales: Tiras de cartulina kraft ajustables a la cabeza; plumas de papel o naturales caídas; semillas perforadas (maíz, lágrimas de San Pedro, frijol silvestre) y cuentas de madera; cordones de lana o algodón; imágenes de autoridades cofanes portando su corona.\nAmbientación: Espacio organizado en tres niveles visuales: telas oscuras en el suelo (mundo de abajo), hojas en el medio (mundo terrenal) y telas suspendidas arriba que representan el cielo.",
+      "steps": [
+        "Opción A: El relato de los tres mundos. Escuchar la Pista 3 para explorar los tres planos cósmicos: abajo los seres kuankua, al centro los caminos de la selva y arriba los abuelos que vuelan como cóndores para cuidar el monte.",
+        "Opción B: Significado del atuendo de honor. Observar fotografías de las coronas de plumas (yanyakhw) y adornos de semillas, reconociendo que portarlos representa un pensamiento elevado y respetuoso.",
+        "Opción C: Taller artesanal de coronas y collares. Construir con autonomía su atuendo: pegar plumas erguidas sobre cartulina kraft dibujando grecas con carboncillo, o ensartar semillas y cuentas en cordones protectores.",
+        "Opción D: El vuelo del cóndor por el salón. Con coronas y collares puestos, recorrer los tres niveles de la sala: pisar firmes sobre telas oscuras en el suelo y luego abrir los brazos como alas de cóndor saludando el cielo imaginario."
+      ],
+      "closing": "El grupo forma una ronda tomándose de los antebrazos, realiza una reverencia al sol y guarda sus coronas para compartir la historia de los tres mundos con sus familias.",
+      "key": "Enfoque de dignidad cultural: Evitar tratar las coronas como disfraces festivos; destacar que son emblemas de honor, respeto e identidad viva de los pueblos amazónicos.\nPaciencia en el ensartado: Favorecer la concentración individual sin apresurar el término de las piezas artesanales."
+    },
+    {
+      "title": "Nuestro baile (Ingi andyupa): tambores, charapas y el canto de resistencia",
+      "tracks": "Pistas 10 y 11.",
+      "purpose": "Acercar a las infancias a la celebración central del pueblo cofán: Nuestro baile (Ingi andyupa) fiesta en honor al chontaduro, donde la comunidad porta máscaras y sonajeros para danzar en círculo al compás del tambor (khusha) y la vibración de las charapas (caparazones de tortuga). Con la Pista 10 (Nuestro baile) y el Himno del pueblo cofán (Pista 11), las niñas y niños vivencian cómo la música y la danza son herramientas históricas de cohesión, alegría y resistencia comunitaria.",
+      "materials": "Audioteca: Pista 10 (Ingi andyupa); Pista 11 (A’i kankhenga sethapaemba - Himno).\nMateriales: Tambores pequeños o cajas de madera (khusha); sonajeros de semillas (shasha); máscaras sencillas de cartón con rostros de animales de la selva (jaguar, guacamayo, danta); cintas de tela de colores.\nAmbientación: Salón despejado con un círculo amplio trazado con cuerda en el centro, decorado con racimos y hojas verdes que recrean la plaza comunitaria.",
+      "steps": [
+        "Opción A: La memoria de la fiesta y los instrumentos. Escuchar la Pista 10 (Ingi andyupa) y dialogar sobre cómo los abuelos danzan en ronda usando tambores y caparazones de charapa desde el origen del mundo.",
+        "Opción B: Escucha atenta del himno de dignidad. Reproducir la Pista 11 (A’i kankhenga sethapaemba), apreciando el canto de los niños de la escuela de Yarinal que defienden su lengua y su territorio. Acompañar el coro con palmas acompasadas.",
+        "Opción C: Danza circular con máscaras y sonajeros. Ponerse máscaras de animales y tomar sonajeros (shasha). Girar en ronda al compás del tambor, inclinando el cuerpo adelante y atrás al ritmo constante de la percusión.",
+        "Opción D: Grito festivo de alegría. Concentrar la ronda hacia el centro, alzar los sonajeros hacia arriba y lanzar un clamor compartido de regocijo comunitario (avwhatshe / contentos)."
+      ],
+      "closing": "Se retiran las máscaras, forman una hilera de manos entrelazadas y guardan los instrumentos en el canasto festivo, reconociendo el calor y la energía colectiva.",
+      "key": "Sentido del himno: Transmitir que la Pista 11 es una afirmación de valentía: a pesar de los despojos sufridos, el pueblo cofán sigue cantando para defender su bosque y su lengua.\nFormación circular: Sostener la ronda cerrada para que todos los participantes se reconozcan de frente, sin jerarquías."
+    },
+    {
+      "title": "El canasto de los relatos en a'ingae, el arrullo materno y el anochecer en la selva",
+      "tracks": "Pistas 4, 9, 12 y 13.",
+      "purpose": "Clausurar el ciclo de experiencias del pueblo cofán y de la audioteca en torno al fuego simbólico, escuchando la memoria de los mayores sobre el monte (Pista 4), retomando palabras de la Pista 9 y acogiendo la calidez del arrullo materno de la Pista 12. La experiencia culmina con la Pista 13 (De noche en el Resguardo Yarinal), que permite escuchar cómo cambia el territorio cuando cae la noche.",
+      "materials": "Audioteca: Pista 4 (Mendetshengi kansefa); Pista 9 (Vocabularios); Pista 12 (Aipanu anañe sethapaemba); Pista 13 (De noche en el Resguardo Yarinal).\nMateriales: Canasto de mimbre o fibra de chambira; arcilla natural o barro húmedo; semillas y pequeñas hojas secas; lámpara ámbar o vela LED que simula el fogón; mantas oscuras.\nAmbientación: Salón en penumbra que recrea el interior de la casa de yagé (u'fa tsa'u) al caer la noche, con mantas extendidas alrededor de la luz central.",
+      "steps": [
+        "Opción A: La lengua que nombra el monte. En círculo frente al fogón, escuchar la Pista 4 (Mendetshengi kansefa) y recuperar después algunas palabras de la Pista 9 (Vocabularios) relacionadas con el paisaje, los animales o la vida comunitaria. La mediadora invita a escuchar la lengua a'ingae como una forma de nombrar y recordar el territorio.",
+        "Opción B: El arrullo materno - Aipanu anañe. Suena la Pista 12 («Anaha, aipanu, anaha, aipanu… Duerme, bebito, duerme…»). La mediadora cuenta cómo las madres cantan mientras tejen o cocinan. Los niños mecen suavemente sus brazos repitiendo la palabra dulce: «Aipanu, aipanu…».",
+        "Opción C: Modelado protector en barro. Con una porción de arcilla, modelar un ser de la selva que deseen encomendar al cuidado de la noche (una nutria, un pez sábalo, una tortuga charapa, un árbol) e incrustar pequeñas semillas.",
+        "Opción D: Siembra en el canasto y noche en Yarinal. De uno en uno depositan su figura en el canasto, susurrando un deseo de protección. Al finalizar, se apaga la luz general y entra la Pista 13 (De noche en el Resguardo Yarinal). Los niños se recuestan sobre las mantas, cierran los ojos y comparan los sonidos nocturnos cercanos y lejanos antes de guardar silencio."
+      ],
+      "closing": "El canasto de los relatos con las figuras de barro permanece en el aula como guardián de la memoria de la selva. El grupo se despide con un susurro colectivo en lengua y un abrazo comunitario, concluyendo en armonía el recorrido por la audioteca De agua, viento y verdor.",
+      "key": "Intimidad afectiva: Acompañar el arrullo materno (Pista 12) con una entonación dulce y sin prisas, favoreciendo la serenidad en el grupo.\nTransición a la quietud: Permitir que la Pista 13 actúe como un manto sonoro que desacelere el ritmo corporal antes de la despedida."
+    }
+  ],
+  "culturalArticles": [
+    {
+      "title": "Cuando un niño cofán llega al mundo",
+      "paragraphs": [
+        "Apenas nace, a un niño cofán se le baña con hierbas dulces como el chimbisi, el kuvaruchu y el sararusi. Así va cogiendo fuerza y empieza a sentir el conocimiento de las plantas. Cuando pasan cinco días y el ombligo se desprende, se quema la raicita de chiparo hasta volverla ceniza, y se pone sobre la herida para que cicatrice. Con ella, al niño no le va a pesar cargar los chiros o la yuca, ni prestar la mano en el trabajo comunitario. Una vez que cicatriza, no se puede poner más ceniza, porque, cuando crezca, al niño o a la niña le puede sobrar la fuerza, golpear a otro sin medirse y herirlo sin intención. Dicen las maimas que a las niñas estos cuidados las protegen: cuando se hagan mujeres, tendrán la fuerza para cargar la leña, el plátano y el agua, y serán capaces de atender la chagra y de trabajar tanto como cualquier hombre.",
+        "Si al niño le coge un mal aire o un mal viento, queman un pedacito de cedro y se lo ponen en una bolsita para que lo acompañe y lo proteja siempre."
+      ]
+    },
+    {
+      "title": "El yagé, «U'fa»",
+      "paragraphs": [
+        "Para los cofanes, todo tiene su espíritu, todo es persona: los animales, los ríos, las ceibas, las montañas. El yoko, el yagé y la yijaya tienen su gente. Cuando comenzó el mundo, Chiga les entregó el bejuco del yagé, y los cofanes aprendieron a cocinarlo y a tomarlo en ceremonia. Desde entonces, «el remedio» les ha enseñado todo lo que saben. A través de él conocen y hablan con todo lo que existe, con toda esa gente que habita el universo.",
+        "Dicen que sirve para curar, para soñar, para visionar, para saber por dónde ir. En las pintas, los taitas hablan con los dueños de los animales y la gente de las plantas. Algunos han visto tigres voladores y pájaros vestidos de luz, árboles de chontaduro que cantan y ríos llenos de estrellas. A otros les ha enseñado, como en un sueño, a sembrar la chagra y a encontrar las semillas más bonitas de kunsi, shasha, chocho y sirindango para tejer los collares, y hay quien cuenta, en el resguardo, que con «el remedio» aprendió a tocar la guitarra. Con el yagé, los taitas pueden convertirse en tigres o guacamayos, y estar en este territorio y luego en otro. El yagé es la selva que habla.",
+        "En Yarinal, «el remedio» acompaña las decisiones de la comunidad: lo que se orienta, lo que se cambia, lo que se acuerda.",
+        "Existe el yagé tsanda, o ‘yagé trueno’, así como el yagé thesi, o ‘yagé tigre’. También el yagé azulejo, el yagé estrella y el yagé sinwuku, o ‘yagé laguna’. Está también el yagé cielo, que se les da a los niños para que conozcan el universo y caminen entre las estrellas. Cada yagé tiene su nombre y su gente, porque para los cofanes todo lo que existe es persona."
+      ]
+    },
+    {
+      "title": "Los niños y el yagé",
+      "paragraphs": [
+        "Cuando los niños son bebés, el taita Eliseo Queta les pone en el dedito, o en una cucharita, una gotica de yagé, y se las da a probar para que se vayan acostumbrando a su sabor. Más grandecitos, cuando empiezan la escuela, las profesoras los llevan a la Casa de Remedio. Suben juntos en lancha río arriba, arrullados por el sonido de la selva, y pasan la noche en la ceremonia. Al principio, muchos duermen mientras escuchan la música de la waira y la loina, pero, aun entregados al sueño, el yagé los está curando.",
+        "En la mañana, el taita les pregunta qué les mostró «el remedio». Le cuentan que vieron guacamayas y chaquiras, culebritas de plata, la casa de la boa, ranitas que se vuelven de colores y se enredan como bejucos, gente emplumada pequeñita que camina en hileras por la montaña… Él les habla de los dueños de los animales y de las plantas, de cómo y dónde vive la «gente del monte». Mientras lo escuchan, los niños exclaman: «¡Los taitas se ponen el cuerpecito prestado del tigre, de la boa o del cóndor, pero solo mientras andan en ese mundo. Al volver, se quitan este traje y son gente como nosotros!», para hacerle saber que han entendido.",
+        "Como desde pequeñitos se juntan con el taita, no sienten miedo. Les gustan las ceremonias. Saben que sirven para curar, que son remedio. Sin dudar, dicen: «El yagé es un detalle que el cielo nos ha regalado por ser del pueblo cofán»."
+      ]
+    },
+    {
+      "title": "La gente visible e invisible",
+      "paragraphs": [
+        "Para los cofanes existe la gente visible, athembi a’indekhw, y la gente invisible, athathaw a’indekhw; a’indekhw quiere decir ‘gente cofán’. La gente «que se ve», «vive como uno» en este plano terrenal; la invisible es la que habita en el monte y solo puede verse a través del yagé. Desde la raíz de la lengua, ambos son gente cofán.",
+        "Cuentan que la «gente del yoko» entregó a los cofanes el achiote negro, y con él se pintaron el cuerpo hasta volverse invisibles como la noche. Dicen que los taitas que más saben tienen su gente del otro lado: una esposa de allá y unos hijos de allá. Así era Fernandito Mendua, el taita que se convertía en tigre. Él tenía su casita en Yarinal, donde vivía solo, pero todos los días, cuando caía la noche, se iba a la selva a ver a su otra familia.",
+        "El día que el taita murió era un día bonito, de cielo puro azul; de pronto sonó un trueno que retumbó en todo el resguardo. El día se oscureció y empezó a llover. Dicen que entonces el río se llenó de boas: eran sus allegados que venían a despedirlo, porque la gente cofán que se ve y la que no se ve son parientes, aunque vivan en territorios distintos."
+      ]
+    },
+    {
+      "title": "Los niños y la selva",
+      "paragraphs": [
+        "Los niños cofanes saben cómo defenderse. Desde que nacen, los taitas, sus papás, sus mamás y la selva misma les entregan un saber para que puedan andar sin miedo, porque son hijos de la selva.",
+        "Primero les enseñan a caminar: dónde poner el pie en el río para no pisar una raya. Les muestran cómo andar despacito, sin hacer ruido y sin que nadie los vea, hasta volverse noche. Van aprendiendo a escuchar cada hojita que cae y cada susurro del monte. También aprenden que cada planta tiene su dueño y cada animal tiene su casa, y por eso hay que pedirles permiso. Les indican cómo leer los rastros, para no ocupar la casa del jaguar, de la danta o de la culebra. Y también les enseñan a estar despiertos, a fijarse siempre: un río quietecito tiene dueña, la boa que descansa. Por eso ahí no sé nada.",
+        "Los mayores, además, viven recordándoles que cuiden a los animales y les den de comer, que dejen quietas las ramitas de los árboles porque son la casa de los micos y los pájaros.",
+        "Los niños cofanes crecen acompañados por el yagé. Los curan desde que nacen y, a través del remedio, van conjurando su vida: «No te vas a enfermar, no te van a atacar ni siquiera los tigres», les dicen sus abuelos."
+      ]
+    },
+    {
+      "title": "Tristeza",
+      "paragraphs": [
+        "Un día, la comunidad les pidió a los mayores que recordaran, para los más jóvenes, la tierra en la que habían nacido. Los mayores lloraron y contaron que «el remedio» ya les había mostrado, que les había advertido que un día se quedarían sin monte, que los niños no iban a saber de los animales y las plantas que ellos mismos habían conocido. No verían los cerrillos, las guaras ni los venados; tampoco sabrían del ajo de monte, el yoco o el tigre guasca. Antes, el taita, que todo lo curaba, bajaba al río, sacaba su pescadito y volvía al caer la tarde. Hoy los niños también pescan, al mediodía en la escuela y a veces junto a sus padres, pero los peces del río ya no se pueden comer: «Traen el río enfermo adentro»."
+      ]
+    },
+    {
+      "title": "La lengua Aʼingae, cofán o kofán",
+      "paragraphs": [
+        "La palabra Aʼingae viene del vocablo Aʼi, que es como los cofanes se nombran a sí mismos y quiere decir «la gente», o «la gente verdadera», o «los verdaderos seres humanos». Los cofanes dicen que, además, guarda la raíz de que son originarios, que no han venido de ninguna otra parte. La palabra cofán, o kofán, no tiene significado en su propia lengua: es un nombre prestado, uno que les impusieron los colonizadores. La Aʼingae no tiene parientes conocidos. Los lingüistas afirman que es una «lengua aislada»; para el pueblo cofán, es una lengua única.",
+        "Los cofanes son pocos y cada vez son menos los que hablan su lengua. En este rincón de la Amazonía la lengua se está quedando dormida. Cada colonización: el caucho, el petróleo, la coca, les ha ido quitando un pedacito de territorio, de saberes y de palabras. Es una lengua que se va quedando sin casa.",
+        "Con la mirada nublada de tristeza, los mayores cuentan que cada trozo de selva que se pierde es una planta que se apaga. De noche, en las ceremonias, el yagé todavía les muestra las plantas que curan, pero de día, cuando las buscan, ya no las encuentran. Y si las plantas desaparecen, si la selva desaparece, tampoco habrá palabras para nombrarlas.",
+        "Sin embargo, en Yarinal todos quieren hablar la lengua. La escuela enseña los cantos a los niños, las palabras importantes, el himno, los nombres con los que se llama a las cosas del río y de la montaña. Para la comunidad, la lengua aʼingae no se aprende solo por capricho: se aprende para no olvidar de dónde han venido, quiénes son, para no dejar de ser cofanes. Dicen que «el remedio» puede ayudar a recuperarla, porque «el remedio» es capaz de todo, puede mostrarles las palabras de los antiguos, los sonidos que nacieron cuando se empezó a nombrar el mundo y sembrarlos en el corazón de los niños."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1101 @@
+{
+  "meta": {
+    "slug": "rrom",
+    "name": "Rrom",
+    "language": "Romanés o shib romaní y español",
+    "readingOriginalLabel": "Romanés",
+    "status": "text-ready",
+    "sources": [
+      "De agua viento y verdor 4.docx",
+      "Metadatos_Audioteca_FINAL.xlsm"
+    ],
+    "pending": [
+      "Copiar los 11 audios a audio/rrom y confirmar su extensión.",
+      "Incorporar imágenes autorizadas de portada, pistas y fototeca."
+    ]
+  },
+  "cover": {
+    "title": "Rrom",
+    "subtitle": "Relatos, cantos, palabras y paisajes sonoros de la Kumpania Tolima.",
+    "image": "",
+    "imageAlt": ""
+  },
+  "communityProfile": {
+    "facts": [
+      {
+        "label": "Territorio",
+        "value": "Kumpania Tolima."
+      },
+      {
+        "label": "Otros nombres",
+        "value": "Pueblo rrom o gitano."
+      },
+      {
+        "label": "Ubicación",
+        "value": "Kumpania establecida en Ibagué, Prado y Purificación, Tolima."
+      },
+      {
+        "label": "Población",
+        "value": "61 integrantes en 2026, pertenecientes a la vitsa Bolochok."
+      },
+      {
+        "label": "Lenguas",
+        "value": "Romanés o shib romaní y español."
+      }
+    ],
+    "history": [
+      "Cuando el mundo aún no tenía nombre, el pueblo Rrom no recibió una tierra: recibió un camino; por eso, desde tiempos antiguos ha recorrido pueblos, ríos, mares y montañas.",
+      "Sus antepasados salieron hace cientos de años del norte de la India, quizá huyendo de una guerra, o porque querían conocer el mundo. Tomaron sus carretas, sus herramientas y sus animales, y empezaron a caminar. En cada lugar aprendieron algo nuevo: una palabra, una canción, una receta, un color para teñir sus telas, un oficio.",
+      "Atravesaron desiertos donde solo se escuchaba el viento y durmieron sobre montañas bajo cielos estrellados. Hubo días de mesetas polvorientas y otros de ríos tan anchos como mares. Tras mucho caminar, llegaron a unas tierras verdes, donde la lluvia era suave y pudieron descansar. Estaban en Europa.",
+      "En este continente no sabían de dónde venían: en Francia pensaban que eran de Bohemia y los llamaron bohemios; en España les decían calé; en otros lugares los creyeron egipcios, los llamaron egipcianos y así nació la palabra «gitanos». Ellos se llamaron a sí mismos Rrom, que quiere decir «persona» o «gente del pueblo».",
+      "Con el tiempo, se dividieron en distintas vitsas o ‘familias’ y se dispersaron por el mundo. A Colombia llegó el grupo Cíngaro Kalderash, principalmente de la vitsa Bolochok: viajeros y comerciantes, conocidos por su labor con los caballos, el oficio de forjar el cobre y el respeto profundo de sus tradiciones.",
+      "Esta vitsa sigue viva en la kumpania del Tolima, y aunque ahora habiten pueblitos y ciudades, la memoria de los gitanos sigue caminando, como lo ha hecho desde siempre."
+    ],
+    "heritageNote": "La Kumpania Tolima mantiene viva la memoria, la lengua y las tradiciones del pueblo Rrom."
+  },
+  "tracks": [
+    {
+      "number": "01",
+      "title": "Caporal galopando",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 1",
+      "intro": "Bajo el intenso sol de la finca en Venadillo, Tolima, Caporal y su jinete galopan juntos en el campo. Sus cascos golpean fuerte la tierra y marcan un ritmo que se acerca y se aleja. Los caballos han tenido un lugar muy importante en la vida y la cultura del pueblo rrom. Escucha con atención: ¿habías oído alguna vez un caballo galopar tan de cerca?",
+      "audio": "audio/rrom/Rro-01-Caporal_galopando-pai-son.mp3",
+      "audioFileBase": "Rro-01-Caporal_galopando-pai-son",
+      "duration": "1:36",
+      "language": "N/A",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Le vurdona",
+      "spanishTitle": "Las carretas",
+      "kind": "Relato",
+      "tracks": "Pista 2",
+      "intro": "Los gitanos, desde siempre, han recorrido el mundo con sus carretas. Su territorio es el camino mismo. Escucha la voz de Evangelina Triana, quien lleva consigo la memoria de ‘la travesía’.",
+      "audio": "audio/rrom/Rro-02-Le_vurdona-rel.mp3",
+      "audioFileBase": "Rro-02-Le_vurdona-rel",
+      "duration": "1:18",
+      "language": "Romanés + Español",
+      "authorOrOrigin": "Evangelina Triana; traducción Esperanza Gómez Triana",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0
+      ],
+      "original": "Ame mai anglal, el Rrom, desde que avile kadka, ando kako them,\nIncha andel thema pirenas andel karrety, con el caballo; pirenas pe sa le riga.\nKadka, ande Colombia, ame veslian andel tsery, desde el mult, de demult, de mucho tiempo, vesasas andel tsery.\nY ame siempre pirasas andel tsery.",
+      "translation": "Nosotros antes, los Rrom, desde que llegamos aquí, a este país…\nOtros andaban por los países en las carretas, con el caballo; andaban por todas partes.\nAquí, desde que estamos en Colombia, andábamos en toldos, desde hace mucho, mucho, de mucho tiempo, vivíamos en las toldas.\nY nosotros siempre andábamos en las carpas."
+    },
+    {
+      "number": "03",
+      "title": "Le tsery",
+      "spanishTitle": "Las carpas",
+      "kind": "Relato",
+      "tracks": "Pista 3",
+      "intro": "Evangelina y su esposo recuerdan con nostalgia los tiempos en que recorrían el mundo y vivían felices bajo sus toldas. Escuchemos a Alfonso contar lo que sus mayores le enseñaron sobre el arte de elaborar una carpa y a Lucrecia recordar aquellas cosas que acompañaban esa vida de camino. ¿Y a ti, qué saberes y secretos te han enseñado tus abuelos?",
+      "audio": "audio/rrom/Rro-03-Le_tsery-rel.mp3",
+      "audioFileBase": "Rro-03-Le_tsery-rel",
+      "duration": "3:56",
+      "language": "Romanés + Español",
+      "authorOrOrigin": "Evangelina Triana y Alfonso Gómez; traducción Esperanza Gómez Triana",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        1
+      ],
+      "original": "Amaro phuro kana ame sichardiame sar kerelpe e tsera.\nKai keras amari tsera.\nAme suvasala, la sarasala, antsarasala,\nAndel duy trin dyes\nUliarasala, ay, pintisarasala, con el mumeli, ay, gasolina, pintisarasala.\nAme vesasas andel tsery.\nAmare thana sas de por, sas le seranda sas de por.\nSas yek kola kai bucholas perinda, también con el por.\nAme samas vivisas desa bien\nPorque sasame el poñebi.\nSasame amari ebiya;\nChirabasas o xaven pe phúu,\nAndel angar pale.\nY ame vivisas de sas sabroso andel tsery.",
+      "translation": "Nuestro abuelo nos enseñaba cómo se hace la carpa.\nQue hagamos nuestra carpa.\nNosotros la cosíamos, la arreglábamos, la armábamos,\nEn dos días o tres días\nLa bajábamos, la pintábamos con esperma (vela) y gasolina, la pintábamos.\nNosotros vivíamos en las toldas.\nNuestras camas eran de plumas, las almohadas eran de plumas (de ganso).\nHabía una cosa que se llamaba perinda, también de plumas.\nNosotras vivíamos muy bien\nPorque teníamos las alfombras.\nTeníamos un soplete;\nCocinábamos la comida en la tierra,\nCon carbones también.\nVivíamos muy sabroso en las toldas."
+    },
+    {
+      "number": "04",
+      "title": "Arrurru mugo shavo",
+      "spanishTitle": "Arrurrú mi niño",
+      "kind": "Arrullo",
+      "tracks": "Pista 4",
+      "intro": "Desde que estaban en su vientre, Evangelina Triana les hablaba a sus hijos en romanés para que su origen no se perdiera en el tiempo. Hoy, canta un arrullo para sus nietos en la misma lengua que le enseñaron los primeros papos y mamios.",
+      "audio": "audio/rrom/Rro-04-Arrurru_mugo_shavo-arr.mp3",
+      "audioFileBase": "Rro-04-Arrurru_mugo_shavo-arr",
+      "duration": "2:06",
+      "language": "Romanés + Español",
+      "authorOrOrigin": "Evangelina Triana; traducción Esperanza Gómez Triana",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        2
+      ],
+      "original": "Arrurru mugo shavo\nArrurru mugo shavo\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto.\nArrurru mugo shavo\nArrurru mugo shavo\nKai avel o dilo ay xalto\nArrurru, arrurru.\nArrurru mugo shavo\nArrurru mugo shavo\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto\nAvel o dilo ay xalto.\nArrurru mugo niño\nArrurru mugo shavo\nAvel o dilo ay xalto.\nArrurru mugo shavo\nArrurru mugo shavo\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto.\nArrurru mugo shavo\nArrurru mugo shavo\nArrurru mugo shavo\nKai avel o dilo ay xalto\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto.",
+      "translation": "Arrurrú mi niño\nArrurrú mi niño\nDuérmete mi chiquito\nQue viene el loco y te comerá."
+    },
+    {
+      "number": "05",
+      "title": "E bramia akana pe de domul",
+      "spanishTitle": "El eterno presente",
+      "kind": "Relato",
+      "tracks": "Pista 5",
+      "intro": "Para los gitanos, el tiempo que importa es el aquí y el ahora. A las niñas y a los niños les enseñan desde pequeños a vivir el presente. «Así es y así ha sido siempre». Escuchemos este relato en la voz de Evangelina Triana.",
+      "audio": "audio/rrom/Rro-05-E_bramia_akana_pe_de_domul-rel.mp3",
+      "audioFileBase": "Rro-05-E_bramia_akana_pe_de_domul-rel",
+      "duration": "1:21",
+      "language": "Romanés + Español",
+      "authorOrOrigin": "Evangelina Triana; traducción Esperanza Gómez Triana",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        2
+      ],
+      "original": "Amenge, el Rromenge, amaro suato si como sare esencia ana ameré el phure,\nAme sicharas kai le tsinoge desde chiquitos te aven serios, te aven con palabra ando muy.\nAmari vida ningeralas ahora.\nChi zhanas de pasado ni presente; solo adyes si amaro dyes.",
+      "translation": "Para nosotros, los Rrom, nuestra palabra es como la esencia desde nuestros ancestros,\nQue nosotros enseñamos a los niños desde chiquitos que sean serios, que lleven la palabra en el rostro.\nNuestra vida la llevamos en el ahora.\nNo distinguimos pasado ni presente; solo hoy es nuestro día."
+    },
+    {
+      "number": "06",
+      "title": "Sar chiravelpe le sarmy",
+      "spanishTitle": "Receta de la sarma",
+      "kind": "Explicación",
+      "tracks": "Pista 6",
+      "intro": "Evangelina nos comparte la receta de la sarma. Sus hijas, Esmeralda y Claudia, la acompañan mientras la recuerda, paso a paso, recuperando juntas un pedacito de la historia familiar a través de los saberes de la cocina Rrom.",
+      "audio": "audio/rrom/Rro-06-Sar_chiravelpe_le_sarmy-exp.mp3",
+      "audioFileBase": "Rro-06-Sar_chiravelpe_le_sarmy-exp",
+      "duration": "1:33",
+      "language": "Romanés",
+      "authorOrOrigin": "Evangelina Triana; tradición oral",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        3
+      ],
+      "original": "Ame chirabas el sarmy,\nAmaro xaben.\nKadia si kai chirabe o manus e sarmy:\nChinel o manus el repollos, el saxa,\nChirabele.\nE receta si kadia:\nChinel o manus,\nO mas balesko,\nO mas gurbano,\nPurum, cetino, o pimenton.\nTolpe y oreso.\nMolilpe o mas gurbano, molilpe o mas balesko.\nSa kodola amisle o manus\nCon oreso na de sabut chirado.\nTol el condimentos.\nTol e piparka.\nAy revolvi kodo sai.\nAndurme kana avel ya chirado el hoji katar o sax,\nO manus envolvis\nKodo mas, oreso, el condimentos.\nY tol piparca; o mas kai si e piparca."
+    },
+    {
+      "number": "07",
+      "title": "Receta de la sarma",
+      "spanishTitle": "",
+      "kind": "Traducción",
+      "tracks": "Pista 7",
+      "intro": "Evangelina nos comparte la receta de la sarma. Sus hijas, Esmeralda y Claudia, la acompañan mientras la recuerda, paso a paso, recuperando juntas un pedacito de la historia familiar a través de los saberes de la cocina Rrom.",
+      "audio": "audio/rrom/Rro-07-Receta_de_la_sarma-tra.mp3",
+      "audioFileBase": "Rro-07-Receta_de_la_sarma-tra",
+      "duration": "2:11",
+      "language": "Español",
+      "authorOrOrigin": "Esperanza Gómez Triana; tradición oral",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        3
+      ],
+      "original": "Nosotros cocinamos la sarma,\nNuestra comida.\nAsí es como cocinamos nosotros la sarma:\nCompramos nosotros el repollo, el repollo,\nLo cocinamos.\nY la receta es así:\nAsí compramos nosotros,\nLa carne de cerdo,\nLa carne de res,\nCebolla, aceite, el pimentón.\nSe pone el arroz.\nSe muele la carne de res, se muele la carne de cerdo.\nSe revuelve todo eso\nCon arroz no tan cocinado.\nSe ponen los condimentos.\nSe pone el ají.\nSe revuelve todo así.\nCuando se cocinan las hojas del repollo,\nNosotros envolvemos\nEsa carne, arroz, los condimentos.\nY agregar ají; lo más importante es el ají."
+    },
+    {
+      "number": "08",
+      "title": "Vocabularios",
+      "spanishTitle": "",
+      "kind": "Vocabulario",
+      "tracks": "Pista 8",
+      "intro": "Escucha algunas palabras en romanés, la lengua del pueblo Rrom, y descubre cómo nombran a los animales, la familia, los colores, el paisaje y los números en su lengua y en español.",
+      "audio": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audioFileBase": "Rro-08-Vocabularios-voc",
+      "duration": "6:17",
+      "language": "Romanés + Español",
+      "authorOrOrigin": "Alfonso Gómez, Eduardo Gómez Triana, David Eduardo Gómez Barreto y Yance Gómez Barreto",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0
+      ],
+      "singleReading": true,
+      "original": "Animales\nCaballo · Gras\nYegua · Grasní\nPerra · Zhuklí\nPerro · Zhukel\nGallo · Vasnó\nGallina · Kaini\nPájaro · Chiriklí\nCulebra · Sap, Sibina\nSapo · Braska\nPez · Masho\nPulga · Pishon\nRatón · Girtso\nChivo · Bakro\nVaca · Gurumní\nCerdo · Balo\nMosca · Makh\nGusano · Chermo\n\nAtuendos\nSombrero · Estayi\nCinturón · Prastia\nCamisa · Gad\nPantalón · Caltsy\n\nCamino\nViaje, camino, carretera · Drom\nPueblo · Gabá\nRío · Pay\nPersonas · Gadzhe\nCarpa · Tsery\n\nSilencio y música\nSilencio · Ashen\nMúsica · Yilaban\n\nAlma gitana\nReír · Asaimos\nJugar · Kelasamenge\n\nFamilia\nPapá · Dad\nMamá · Dey\nHijo · Shav, Shavo\nHija · Shei\nHermano · Phral\nHermana · Phei\nAbuelo · Papo\nAbuela · Mamio\nSuegro (si yo soy el yerno) · Sokro\nSuegra (si yo soy el yerno) · Sakra\nSuegro (si lo dice la nuera) · Moa\nSuegra (si lo dice la nuera) · Dale\nBisabuelo · Duckto papo\nBisabuela · Mamio\nCuñado · Kunato\nCuñada · Tetenisa, Kunata\nSobrino · Nepoto\nSobrina · Nepoto\nTío · Kak\nTía · Bibío\nNieto · Nepoto\nNieta · Nepoto\n\nNombrar el paisaje\nDía · Dyes\nNoche · Riat\nEstrella(s) · Sherjaria\nSol · Kam\nCielo · Chery\nViento · Valval\nFuego · Yak\nTierra · Phúu\nAgua · Pay\nLluvia · Bursin\nÁrbol · Kash\nFlor · Luluyi\nRoca · Bax\nPotrero · Kimpuria\nMontaña · Plain\nVida · Trayo\n\nColores\nAzul · Uneto, Sinio\nBlanco · Parno\nNegro · Kalo\nMorado · Uneto\nRojo · Lolo\nAmarillo · Galbeno\nVerde · Zeleno\nCafé · Kafa\n\nNúmeros\nUno · Yek\nDos · Duy\nTres · Trin\nCuatro · Estar\nCinco · Painsh\nSeis · Sou\nSiete · Eftá\nOcho · Octo, Oxto\nNueve · Enia\nDiez · Des\nOnce · Desuyek\nDoce · Desuduy\nTrece · Desutrin\nCatorce · Desuestar\nQuince · Desupainsh\nDieciséis · Desusou\nDiecisiete · Desueftá\nDieciocho · Desuocto, Desuoxto\nDiecinueve · Desuenia\nVeinte · Bish\nCien · Eck cel\nMil · (Eck) mia\nCien mil · Eck cel mia\n\nSaludos\nBuenos días · Droboy tume\nBuenas tardes · Droboy tume\nBuenas noches · Droboy tume\nGracias · Nais\n¿Cómo estás? · Sar san\nHasta luego (Vaya con Dios) · Devlesa\n\nOtros atuendos\nDelantal · Cretinche\nPañoleta · Dicló\nVestido · Gadá\nAretes · Eslagá\nCollar · Lantso\nPulsera · Busleto"
+    },
+    {
+      "number": "09",
+      "title": "Soutuke, mugo tsinogo",
+      "spanishTitle": "Duerme, mi chiquito",
+      "kind": "Arrullo",
+      "tracks": "Pista 9",
+      "intro": "Para que los niños tengan un sueño suave y no olviden de dónde vienen, las mamás gitanas los acunan con palabras dulces en la shib romaní. Escucha este arrullo en la voz de Paula Andrea Churón.",
+      "audio": "audio/rrom/Rro-09-Soutuke_mugo_tsinogo-arr.mp3",
+      "audioFileBase": "Rro-09-Soutuke_mugo_tsinogo-arr",
+      "duration": "2:01",
+      "language": "Romanés + Español",
+      "authorOrOrigin": "Paula Andrea Churón; traducción Dalila Gómez",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        2
+      ],
+      "original": "Soutuke, soutuke, soutuke, mugo tsinogo,\nKai texara anklel o kam.\nAy o Del ulel\nTe dav tu te jas.\nAy o Del ulel\nTe dav tu te jas.\n(Bis)\nSoutuke, soutuke, soutuke, mugo tsinogo,\nKai texara anklel o kam.\nAy o Del ulel\nTe dav tu te jas.\nAy o Del ulel\nTe dav tu te jas.\nSoutuke, soutuke.",
+      "translation": "Duerme, duerme, duerme, mi chiquito,\nQue mañana sale el sol.\nY Diosito bajará\nPara darte de comer.\nY Diosito bajará\nPara darte de comer.\n(Bis)\nDuerme, duerme, duerme, mi chiquito,\nQue mañana sale el sol.\nY Diosito bajará\nPara darte de comer.\nY Diosito bajará\nPara darte de comer.\nDuerme, duerme."
+    },
+    {
+      "number": "10",
+      "title": "La bandera y la Pachiv",
+      "spanishTitle": "",
+      "kind": "Explicación",
+      "tracks": "Pista 10",
+      "intro": "La bandera gitana cuenta la historia de un pueblo que siempre estuvo caminando. Representa el cielo que abriga su mundo entero, los campos y pampas que recorrían con sus carretas, la libertad y la sangre en memoria de los que se fueron. La Pachiv es una celebración de encuentro, hospitalidad y unión del pueblo gitano. Se usa para dar la bienvenida a alguien que llega de viaje o conmemorar fechas especiales con música, danza y comidas tradicionales. En la Pachiv siempre hay familia y alegría. Escuchemos al Sero Rom, Eduardo Gómez, hablar de su bandera y de la Pachiv.",
+      "audio": "audio/rrom/Rro-10-La_bandera_y_la_pachiv-exp.mp3",
+      "audioFileBase": "Rro-10-La_bandera_y_la_pachiv-exp",
+      "duration": "1:40",
+      "language": "Romanés + Español",
+      "authorOrOrigin": "Eduardo Gómez Triana; tradición oral",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ]
+    },
+    {
+      "number": "11",
+      "title": "De tarde en El Salado",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 11",
+      "intro": "Cae la tarde en el parque de la urbanización Timaká; hace calor en el barrio El Salado de Ibagué. Un avión irrumpe con su estruendo y cruza el cielo; juegan las niñas y los niños, ladran los perros y otros sonidos aparecen y desaparecen a nuestro alrededor. Escucha con atención: ¿qué otros sonidos puedes descubrir?",
+      "audio": "audio/rrom/Rro-11-De_tarde_en_el_salado-pai-son.mp3",
+      "audioFileBase": "Rro-11-De_tarde_en_el_salado-pai-son",
+      "duration": "5:00",
+      "language": "N/A",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "title": "Animales",
+      "items": [
+        {
+          "spanish": "Caballo",
+          "romanes": "Gras",
+          "palenquero": "Gras"
+        },
+        {
+          "spanish": "Yegua",
+          "romanes": "Grasní",
+          "palenquero": "Grasní"
+        },
+        {
+          "spanish": "Perra",
+          "romanes": "Zhuklí",
+          "palenquero": "Zhuklí"
+        },
+        {
+          "spanish": "Perro",
+          "romanes": "Zhukel",
+          "palenquero": "Zhukel"
+        },
+        {
+          "spanish": "Gallo",
+          "romanes": "Vasnó",
+          "palenquero": "Vasnó"
+        },
+        {
+          "spanish": "Gallina",
+          "romanes": "Kaini",
+          "palenquero": "Kaini"
+        },
+        {
+          "spanish": "Pájaro",
+          "romanes": "Chiriklí",
+          "palenquero": "Chiriklí"
+        },
+        {
+          "spanish": "Culebra",
+          "romanes": "Sap, Sibina",
+          "palenquero": "Sap, Sibina"
+        },
+        {
+          "spanish": "Sapo",
+          "romanes": "Braska",
+          "palenquero": "Braska"
+        },
+        {
+          "spanish": "Pez",
+          "romanes": "Masho",
+          "palenquero": "Masho"
+        },
+        {
+          "spanish": "Pulga",
+          "romanes": "Pishon",
+          "palenquero": "Pishon"
+        },
+        {
+          "spanish": "Ratón",
+          "romanes": "Girtso",
+          "palenquero": "Girtso"
+        },
+        {
+          "spanish": "Chivo",
+          "romanes": "Bakro",
+          "palenquero": "Bakro"
+        },
+        {
+          "spanish": "Vaca",
+          "romanes": "Gurumní",
+          "palenquero": "Gurumní"
+        },
+        {
+          "spanish": "Cerdo",
+          "romanes": "Balo",
+          "palenquero": "Balo"
+        },
+        {
+          "spanish": "Mosca",
+          "romanes": "Makh",
+          "palenquero": "Makh"
+        },
+        {
+          "spanish": "Gusano",
+          "romanes": "Chermo",
+          "palenquero": "Chermo"
+        }
+      ]
+    },
+    {
+      "title": "Atuendos",
+      "items": [
+        {
+          "spanish": "Sombrero",
+          "romanes": "Estayi",
+          "palenquero": "Estayi"
+        },
+        {
+          "spanish": "Cinturón",
+          "romanes": "Prastia",
+          "palenquero": "Prastia"
+        },
+        {
+          "spanish": "Camisa",
+          "romanes": "Gad",
+          "palenquero": "Gad"
+        },
+        {
+          "spanish": "Pantalón",
+          "romanes": "Caltsy",
+          "palenquero": "Caltsy"
+        }
+      ]
+    },
+    {
+      "title": "Camino",
+      "items": [
+        {
+          "spanish": "Viaje, camino, carretera",
+          "romanes": "Drom",
+          "palenquero": "Drom"
+        },
+        {
+          "spanish": "Pueblo",
+          "romanes": "Gabá",
+          "palenquero": "Gabá"
+        },
+        {
+          "spanish": "Río",
+          "romanes": "Pay",
+          "palenquero": "Pay"
+        },
+        {
+          "spanish": "Personas",
+          "romanes": "Gadzhe",
+          "palenquero": "Gadzhe"
+        },
+        {
+          "spanish": "Carpa",
+          "romanes": "Tsery",
+          "palenquero": "Tsery"
+        }
+      ]
+    },
+    {
+      "title": "Silencio y música",
+      "items": [
+        {
+          "spanish": "Silencio",
+          "romanes": "Ashen",
+          "palenquero": "Ashen"
+        },
+        {
+          "spanish": "Música",
+          "romanes": "Yilaban",
+          "palenquero": "Yilaban"
+        }
+      ]
+    },
+    {
+      "title": "Alma gitana",
+      "items": [
+        {
+          "spanish": "Reír",
+          "romanes": "Asaimos",
+          "palenquero": "Asaimos"
+        },
+        {
+          "spanish": "Jugar",
+          "romanes": "Kelasamenge",
+          "palenquero": "Kelasamenge"
+        }
+      ]
+    },
+    {
+      "title": "Familia",
+      "items": [
+        {
+          "spanish": "Papá",
+          "romanes": "Dad",
+          "palenquero": "Dad"
+        },
+        {
+          "spanish": "Mamá",
+          "romanes": "Dey",
+          "palenquero": "Dey"
+        },
+        {
+          "spanish": "Hijo",
+          "romanes": "Shav, Shavo",
+          "palenquero": "Shav, Shavo"
+        },
+        {
+          "spanish": "Hija",
+          "romanes": "Shei",
+          "palenquero": "Shei"
+        },
+        {
+          "spanish": "Hermano",
+          "romanes": "Phral",
+          "palenquero": "Phral"
+        },
+        {
+          "spanish": "Hermana",
+          "romanes": "Phei",
+          "palenquero": "Phei"
+        },
+        {
+          "spanish": "Abuelo",
+          "romanes": "Papo",
+          "palenquero": "Papo"
+        },
+        {
+          "spanish": "Abuela",
+          "romanes": "Mamio",
+          "palenquero": "Mamio"
+        },
+        {
+          "spanish": "Suegro (si yo soy el yerno)",
+          "romanes": "Sokro",
+          "palenquero": "Sokro"
+        },
+        {
+          "spanish": "Suegra (si yo soy el yerno)",
+          "romanes": "Sakra",
+          "palenquero": "Sakra"
+        },
+        {
+          "spanish": "Suegro (si lo dice la nuera)",
+          "romanes": "Moa",
+          "palenquero": "Moa"
+        },
+        {
+          "spanish": "Suegra (si lo dice la nuera)",
+          "romanes": "Dale",
+          "palenquero": "Dale"
+        },
+        {
+          "spanish": "Bisabuelo",
+          "romanes": "Duckto papo",
+          "palenquero": "Duckto papo"
+        },
+        {
+          "spanish": "Bisabuela",
+          "romanes": "Mamio",
+          "palenquero": "Mamio"
+        },
+        {
+          "spanish": "Cuñado",
+          "romanes": "Kunato",
+          "palenquero": "Kunato"
+        },
+        {
+          "spanish": "Cuñada",
+          "romanes": "Tetenisa, Kunata",
+          "palenquero": "Tetenisa, Kunata"
+        },
+        {
+          "spanish": "Sobrino",
+          "romanes": "Nepoto",
+          "palenquero": "Nepoto"
+        },
+        {
+          "spanish": "Sobrina",
+          "romanes": "Nepoto",
+          "palenquero": "Nepoto"
+        },
+        {
+          "spanish": "Tío",
+          "romanes": "Kak",
+          "palenquero": "Kak"
+        },
+        {
+          "spanish": "Tía",
+          "romanes": "Bibío",
+          "palenquero": "Bibío"
+        },
+        {
+          "spanish": "Nieto",
+          "romanes": "Nepoto",
+          "palenquero": "Nepoto"
+        },
+        {
+          "spanish": "Nieta",
+          "romanes": "Nepoto",
+          "palenquero": "Nepoto"
+        }
+      ]
+    },
+    {
+      "title": "Nombrar el paisaje",
+      "items": [
+        {
+          "spanish": "Día",
+          "romanes": "Dyes",
+          "palenquero": "Dyes"
+        },
+        {
+          "spanish": "Noche",
+          "romanes": "Riat",
+          "palenquero": "Riat"
+        },
+        {
+          "spanish": "Estrella(s)",
+          "romanes": "Sherjaria",
+          "palenquero": "Sherjaria"
+        },
+        {
+          "spanish": "Sol",
+          "romanes": "Kam",
+          "palenquero": "Kam"
+        },
+        {
+          "spanish": "Cielo",
+          "romanes": "Chery",
+          "palenquero": "Chery"
+        },
+        {
+          "spanish": "Viento",
+          "romanes": "Valval",
+          "palenquero": "Valval"
+        },
+        {
+          "spanish": "Fuego",
+          "romanes": "Yak",
+          "palenquero": "Yak"
+        },
+        {
+          "spanish": "Tierra",
+          "romanes": "Phúu",
+          "palenquero": "Phúu"
+        },
+        {
+          "spanish": "Agua",
+          "romanes": "Pay",
+          "palenquero": "Pay"
+        },
+        {
+          "spanish": "Lluvia",
+          "romanes": "Bursin",
+          "palenquero": "Bursin"
+        },
+        {
+          "spanish": "Árbol",
+          "romanes": "Kash",
+          "palenquero": "Kash"
+        },
+        {
+          "spanish": "Flor",
+          "romanes": "Luluyi",
+          "palenquero": "Luluyi"
+        },
+        {
+          "spanish": "Roca",
+          "romanes": "Bax",
+          "palenquero": "Bax"
+        },
+        {
+          "spanish": "Potrero",
+          "romanes": "Kimpuria",
+          "palenquero": "Kimpuria"
+        },
+        {
+          "spanish": "Montaña",
+          "romanes": "Plain",
+          "palenquero": "Plain"
+        },
+        {
+          "spanish": "Vida",
+          "romanes": "Trayo",
+          "palenquero": "Trayo"
+        }
+      ]
+    },
+    {
+      "title": "Colores",
+      "items": [
+        {
+          "spanish": "Azul",
+          "romanes": "Uneto, Sinio",
+          "palenquero": "Uneto, Sinio"
+        },
+        {
+          "spanish": "Blanco",
+          "romanes": "Parno",
+          "palenquero": "Parno"
+        },
+        {
+          "spanish": "Negro",
+          "romanes": "Kalo",
+          "palenquero": "Kalo"
+        },
+        {
+          "spanish": "Morado",
+          "romanes": "Uneto",
+          "palenquero": "Uneto"
+        },
+        {
+          "spanish": "Rojo",
+          "romanes": "Lolo",
+          "palenquero": "Lolo"
+        },
+        {
+          "spanish": "Amarillo",
+          "romanes": "Galbeno",
+          "palenquero": "Galbeno"
+        },
+        {
+          "spanish": "Verde",
+          "romanes": "Zeleno",
+          "palenquero": "Zeleno"
+        },
+        {
+          "spanish": "Café",
+          "romanes": "Kafa",
+          "palenquero": "Kafa"
+        }
+      ]
+    },
+    {
+      "title": "Números",
+      "items": [
+        {
+          "spanish": "Uno",
+          "romanes": "Yek",
+          "palenquero": "Yek"
+        },
+        {
+          "spanish": "Dos",
+          "romanes": "Duy",
+          "palenquero": "Duy"
+        },
+        {
+          "spanish": "Tres",
+          "romanes": "Trin",
+          "palenquero": "Trin"
+        },
+        {
+          "spanish": "Cuatro",
+          "romanes": "Estar",
+          "palenquero": "Estar"
+        },
+        {
+          "spanish": "Cinco",
+          "romanes": "Painsh",
+          "palenquero": "Painsh"
+        },
+        {
+          "spanish": "Seis",
+          "romanes": "Sou",
+          "palenquero": "Sou"
+        },
+        {
+          "spanish": "Siete",
+          "romanes": "Eftá",
+          "palenquero": "Eftá"
+        },
+        {
+          "spanish": "Ocho",
+          "romanes": "Octo, Oxto",
+          "palenquero": "Octo, Oxto"
+        },
+        {
+          "spanish": "Nueve",
+          "romanes": "Enia",
+          "palenquero": "Enia"
+        },
+        {
+          "spanish": "Diez",
+          "romanes": "Des",
+          "palenquero": "Des"
+        },
+        {
+          "spanish": "Once",
+          "romanes": "Desuyek",
+          "palenquero": "Desuyek"
+        },
+        {
+          "spanish": "Doce",
+          "romanes": "Desuduy",
+          "palenquero": "Desuduy"
+        },
+        {
+          "spanish": "Trece",
+          "romanes": "Desutrin",
+          "palenquero": "Desutrin"
+        },
+        {
+          "spanish": "Catorce",
+          "romanes": "Desuestar",
+          "palenquero": "Desuestar"
+        },
+        {
+          "spanish": "Quince",
+          "romanes": "Desupainsh",
+          "palenquero": "Desupainsh"
+        },
+        {
+          "spanish": "Dieciséis",
+          "romanes": "Desusou",
+          "palenquero": "Desusou"
+        },
+        {
+          "spanish": "Diecisiete",
+          "romanes": "Desueftá",
+          "palenquero": "Desueftá"
+        },
+        {
+          "spanish": "Dieciocho",
+          "romanes": "Desuocto, Desuoxto",
+          "palenquero": "Desuocto, Desuoxto"
+        },
+        {
+          "spanish": "Diecinueve",
+          "romanes": "Desuenia",
+          "palenquero": "Desuenia"
+        },
+        {
+          "spanish": "Veinte",
+          "romanes": "Bish",
+          "palenquero": "Bish"
+        },
+        {
+          "spanish": "Cien",
+          "romanes": "Eck cel",
+          "palenquero": "Eck cel"
+        },
+        {
+          "spanish": "Mil",
+          "romanes": "(Eck) mia",
+          "palenquero": "(Eck) mia"
+        },
+        {
+          "spanish": "Cien mil",
+          "romanes": "Eck cel mia",
+          "palenquero": "Eck cel mia"
+        }
+      ]
+    },
+    {
+      "title": "Saludos",
+      "items": [
+        {
+          "spanish": "Buenos días",
+          "romanes": "Droboy tume",
+          "palenquero": "Droboy tume"
+        },
+        {
+          "spanish": "Buenas tardes",
+          "romanes": "Droboy tume",
+          "palenquero": "Droboy tume"
+        },
+        {
+          "spanish": "Buenas noches",
+          "romanes": "Droboy tume",
+          "palenquero": "Droboy tume"
+        },
+        {
+          "spanish": "Gracias",
+          "romanes": "Nais",
+          "palenquero": "Nais"
+        },
+        {
+          "spanish": "¿Cómo estás?",
+          "romanes": "Sar san",
+          "palenquero": "Sar san"
+        },
+        {
+          "spanish": "Hasta luego (Vaya con Dios)",
+          "romanes": "Devlesa",
+          "palenquero": "Devlesa"
+        }
+      ]
+    },
+    {
+      "title": "Otros atuendos",
+      "items": [
+        {
+          "spanish": "Delantal",
+          "romanes": "Cretinche",
+          "palenquero": "Cretinche"
+        },
+        {
+          "spanish": "Pañoleta",
+          "romanes": "Dicló",
+          "palenquero": "Dicló"
+        },
+        {
+          "spanish": "Vestido",
+          "romanes": "Gadá",
+          "palenquero": "Gadá"
+        },
+        {
+          "spanish": "Aretes",
+          "romanes": "Eslagá",
+          "palenquero": "Eslagá"
+        },
+        {
+          "spanish": "Collar",
+          "romanes": "Lantso",
+          "palenquero": "Lantso"
+        },
+        {
+          "spanish": "Pulsera",
+          "romanes": "Busleto",
+          "palenquero": "Busleto"
+        }
+      ]
+    }
+  ],
+  "vocabularyAudioSegments": {
+    "Animales": {
+      "start": 0,
+      "end": 0
+    },
+    "Atuendos": {
+      "start": 0,
+      "end": 0
+    },
+    "Camino": {
+      "start": 0,
+      "end": 0
+    },
+    "Silencio y música": {
+      "start": 0,
+      "end": 0
+    },
+    "Alma gitana": {
+      "start": 0,
+      "end": 0
+    },
+    "Familia": {
+      "start": 0,
+      "end": 0
+    },
+    "Nombrar el paisaje": {
+      "start": 0,
+      "end": 0
+    },
+    "Colores": {
+      "start": 0,
+      "end": 0
+    },
+    "Números": {
+      "start": 0,
+      "end": 0
+    },
+    "Saludos": {
+      "start": 0,
+      "end": 0
+    },
+    "Otros atuendos": {
+      "start": 0,
+      "end": 0
+    }
+  },
+  "photos": [],
+  "activities": [
+    {
+      "title": "El amanecer del camino y el pulso de la carreta (le vurdona)",
+      "tracks": "Pistas 1, Caporal galopando; 2, Le vurdona; y 8, Vocabularios.",
+      "purpose": "Acompañar a las infancias a conectar con la itinerancia y la partida matinal del pueblo rrom mediante la escucha del galope al alba en la Pista 1. A través de las historias de las carretas (Le vurdona, Pista 2) y palabras en shib romaní (Pista 8), cada niña y niño articula un objeto de apego traído de casa con la idea de la casa rodante que resguarda la memoria afectiva y la unidad familiar extensa.",
+      "materials": "Materiales: Círculos de cartón rígido (ruedas); colores, tizas o lanas; cuerda larga de fique; una manta comunal; un objeto de profundo afecto traído de casa por cada participante (o elementos del «baúl de tesoros» del aula).\nAmbientación: Espacio en penumbra matinal atravesado por una línea trazada en el suelo con tiza o cinta que representa el camino (drom), invitando a viajar descalzos sobre esteras.",
+      "steps": [
+        "Opción A: El resoplar del caballo y los pasos en el camino. Escuchar la Pista 1 (Caporal galopando) con los ojos entrecerrados. Marcar sobre los muslos el ritmo de los cascos contra la tierra y aprender las palabras grasní (caballo) y drom (camino) al compás del trote matinal.",
+        "Opción B: La memoria del carromato y el objeto de afecto. Con la Pista 2 (Le vurdona) y la Pista 8 (Vocabularios), dialogar sobre cómo las familias acomodaban sus vidas en las carretas. Cada infante presenta su objeto querido y cuenta por qué lo llevaría para sentirse seguro en una travesía.",
+        "Opción C: Taller de ruedas e invención de la vurdona colectiva. Decorar con tizas, lanas y trazos libres las ruedas de cartón. Unirse dentro de la cuerda larga de fique sosteniendo las ruedas a los costados para conformar una gran carreta comunitaria en movimiento.",
+        "Opción D: La travesía sobre el mapa trazado. Avanzar en fila manteniendo la cuerda tensa para transportar la manta y los objetos queridos a lo largo del sendero marcado en el suelo, coordinando los pasos sin que nada caiga."
+      ],
+      "closing": "La cuerda se abre con suavidad y el grupo deposita sus objetos queridos junto a las ruedas de cartón sobre la línea del camino (drom). En círculo, se despiden exclamando en voz alta: «¡Lacho drom!» (¡Buen camino!).",
+      "key": "Respeto identitario: Usar con dignidad el término pueblo rrom, desterrando estereotipos y reconociendo el viaje como una forma soberana de habitar el mundo sin afán de dominio territorial.\nCuidado emocional: Validar la carga afectiva de cada objeto compartido sin juzgar su valor material o estético."
+    },
+    {
+      "title": "Arquitectura del refugio: habitar y construir la tsery",
+      "tracks": "Pista 3, Le tsery.",
+      "purpose": "Reconocer la tsera (carpa tradicional del pueblo rrom) no como una simple carpa de acampar, sino como un templo doméstico en movimiento que abriga el honor, la intimidad y la dignidad familiar bajo las estrellas. Mediante el uso de cuerdas, telas amplias, cascabeles y panderetas, las niñas y los niños construyen refugios colaborativos para habitar la escucha y la palabra compartida.",
+      "materials": "Materiales: Telas amplias de colores vivos; sábanas y mantas; cuerdas tensadas a media altura o mesas largas; ganchos de madera para ropa; cojines; cascabeles y cintas de colores; linternas de luz cálida; cuentos infantiles.\nAmbientación: Salón en penumbra con cuerdas dispuestas a baja altura y telas extendidas en el suelo, listas para levantarse como cubiertas.",
+      "steps": [
+        "Opción A: La escucha sobre el manto de telas. Recostarse sobre las mantas en el piso a escuchar la Pista 3 (Le tsery), sintiendo la voz de los abuelos que recuerdan cómo se cosían y levantaban las carpas familiares.",
+        "Opción B: Taller de arquitectura textil. En equipos, colgar las telas sobre las cuerdas o mesas usando ganchos de madera para levantar carpas piramidales que toquen el suelo sin desmoronarse.",
+        "Opción C: El portal sonoro y festivo. Atar cintas multicolores en los bordes y colgar cascabeles en la entrada de la tsera, estableciendo que para ingresar se deben tocar los cascabeles con reverencia pidiendo permiso.",
+        "Opción D: Habitar el refugio y hora del cuento. Ingresar descalzos al interior con linternas encendidas para leer un cuento en penumbra, dialogando sobre qué elementos nos hacen sentir amparados en el hogar."
+      ],
+      "closing": "Desde el interior de las carpas, hacen sonar suavemente los cascabeles y panderetas, asomándose al portal para regalar una reverencia de paz a los compañeros de la sala.",
+      "key": "Autonomía constructiva: Permitir que resuelvan por sí mismos los desafíos de equilibrio de las telas y el anclaje de los ganchos sin intervención directiva.\nSentido de amparo: Recordar que la entrada a la tsera del compañero siempre debe ser consentida y respetuosa, honrando la hospitalidad tradicional."
+    },
+    {
+      "title": "El drom de la palabra empeñada, los arrullos y el canto de la memoria",
+      "tracks": "Pistas 4, Arrurru mugo shavo; 5, E bramia akana pe de domul; y 9, Soutuke, mugo tsinogo.",
+      "purpose": "Invitar a las infancias a reflexionar sobre el valor sagrado de la palabra empeñada en el pueblo rrom (Zakono Romanó), donde no existen contratos en papel porque la palabra dada compromete el honor de la vida y el linaje. A través de los arrullos tradicionales (Pistas 4 y 9) y el juego con espejos, las niñas y los niños descubren que cantar una canción de cuna es empeñar la palabra para cuidar y proteger el sueño del otro.",
+      "materials": "Materiales: Espejos pequeños irrompibles; una hamaca de tela o pañolones largos; muñecos de trapo o peluches traídos por los niños; cojines.\nAmbientación: Salón en penumbra cálida con alfombras y cojines en círculo, disponiendo la hamaca al centro como cuna comunitaria.",
+      "steps": [
+        "Opción A: La palabra que se lleva en el rostro. Escuchar la Pista 5 sobre el valor de la palabra empeñada y el presente. Conversar en círculo: «¿Qué significa dar la palabra a un amigo? ¿Por qué una promesa vale más que un papel firmado?».",
+        "Opción B: La boca y la lengua frente al espejo. Con espejos individuales, modular las palabras en shib romaní (mugo shavo / mi hijo; tsinogo / pequeñito). Observar cómo sonríe la boca y qué formas hacen los labios al decir una verdad o regalar una palabra dulce.",
+        "Opción C: El mecido de la hamaca comunal. Colocar los muñecos de trapo dentro de la gran hamaca central. Mientras dos niños mecen suavemente el tejido, reproducir las Pistas 4 y 9 escuchando los arrullos de Evangelina y Paula Andrea.",
+        "Opción D: El pacto de cuidado. El grupo se suma al canto tarareando las melodías y entonando las palabras aprendidas. Cada participante toma su muñeco en brazos, enlaza su dedo meñique con un compañero y sella una promesa de cuidado mutuo."
+      ],
+      "closing": "Cada niño retira a su muñeco de la hamaca, lo abraza contra el pecho y se despide mirando al espejo con un susurro colectivo en shib romaní: «¡Soute mishto!» (¡Duerme bien!).",
+      "key": "Ética de la promesa: Conectar el valor de la palabra dada con la convivencia pacífica diaria: cumplir lo que se acuerda en los juegos y cuidar a los amigos.\nVocalidad libre: Valorar los intentos de modulación en shib romaní desde el asombro y la musicalidad afectiva, sin juzgar la pronunciación."
+    },
+    {
+      "title": "Sabores del camino: el ritual de envolver, convidar y compartir la mesa comunal",
+      "tracks": "Pistas 6 y 7, Sar chiravelpe le sarmy.",
+      "purpose": "Acercar a las infancias a la cultura culinaria del pueblo rrom mediante la escucha de la receta tradicional de los repollos rellenos (sarma) en las Pistas 6 y 7, reconociendo el ingenio de cocinar con lo que el camino ofrece. Las niñas y los niños aprenden a envolver alimentos en hojas naturales o telas, comprendiendo que proteger la comida y compartirla en una mesa común es un acto universal de amor y hospitalidad.",
+      "materials": "Materiales: Hojas frescas de repollo, plátano o lechuga (o retazos de tela limpia); masa de harina casera aromatizada con pimentón dulce y orégano (o la merienda del día); cordeles suaves de cocina; canasto grande de mimbre; olla tradicional.\nAmbientación: Un gran mantel estampado en el suelo rodeado de canastos y bateas de madera, recreando una cocina de campamento gitano al aire libre.",
+      "steps": [
+        "Opción A: La demostración en vivo de la sarma. Escuchar la narración de Evangelina sobre los repollos rellenos mientras la mediadora modela el proceso con una hoja real: coloca el relleno, dobla los bordes hacia adentro y amarra con el cordel.",
+        "Opción B: La memoria de los envueltos familiares. Conversar en círculo sobre los alimentos envueltos en hojas que conocen en sus hogares o regiones: tamales, pasteles de arroz, envueltos de choclo o hayacas.",
+        "Opción C: Taller infantil de envolver alimentos. Con una hoja fresca o tela, cada niña y niño toma su porción de masa o merienda, dobla los extremos con cuidado y la ata con cordel como un regalo de afecto.",
+        "Opción D: La mesa comunal y el convite. Depositar los paquetes en el canasto comunitario. Cada participante toma un envuelto preparado por otro compañero, lo desata y disfrutan de un banquete compartido al compás de música instrumental."
+      ],
+      "closing": "En círculo alrededor de la olla comunal vacía, unen sus manos sobre el mantel y brindan simbólicamente por el alimento compartido y la generosidad de la mesa.",
+      "key": "Paciencia en el envoltorio: Acompañar el plegado de la hoja con delicadeza, valorando la destreza manual de cada infante sin importar si el paquete queda irregular.\nSentido de la convidanza: Enfatizar que en la carpa rrom nadie come en soledad; siempre se sirve un plato para quien camina con nosotros."
+    },
+    {
+      "title": "La fiesta de la pachiv, la bandera y el anochecer en El Salado",
+      "tracks": "Pistas 10, La bandera y la Pachiv; y 11, De tarde en El Salado.",
+      "purpose": "Celebrar la ley de la hospitalidad gitana (pachiv) a través de los colores de la bandera rrom (Pista 10), transformando a las niñas y los niños en anfitriones que reciben con música y pañuelos a sus familias o pares. La experiencia culmina transitando hacia el reposo y la intimidad de la tsera al compás de la Pista 11 (De tarde en El Salado), vivenciando cómo la llegada de la noche y el canto de los grillos recogen a la comunidad en un descanso sereno bajo las estrellas.",
+      "materials": "Materiales: Banderas rrom (franja azul del cielo, franja verde de los campos y rueda roja de dieciséis rayos) o lienzos para pintarla; pañuelos de colores vivos; panderetas y castañuelas; mantas suaves para el descanso.\nAmbientación: Salón amplio que pasa de una plaza festiva y colorida hacia una carpa en penumbra iluminada por pequeños puntos de luz.",
+      "steps": [
+        "Opción A: Los colores de la libertad y la bandera. Escuchar al sero rrom Eduardo Gómez en la Pista 10 explicando el significado de la bandera: el azul del cielo protector, el verde de los caminos recorridos y la rueda roja que nunca deja de girar.",
+        "Opción B: La danza festiva de la acogida. Tomar pañuelos coloridos y panderetas para ensayar la danza de bienvenida con giros suaves y palmas, preparando la llegada de los invitados.",
+        "Opción C: El ritual real de la pachiv. Recibir a las familias o al grupo vecino en la puerta del aula con panderetas y pañuelos al aire, haciéndolos pasar al centro bajo la ley de la hospitalidad y el honor comunitario.",
+        "Opción D: Inmersión en el anochecer en El Salado. Despedir el festejo; apagar las luces principales y activar la Pista 11 (De tarde en El Salado), donde los juegos infantiles decantan, un avión cruza el cielo y se oyen los perros y grillos de la noche. Recostarse sobre las mantas bajo la bandera suspendida mientras la mediadora susurra: «Cae la noche sobre el campamento. Afuera el mundo sigue su marcha, pero aquí adentro descansamos al abrigo del amor y la palabra dada»."
+      ],
+      "closing": "Sosteniendo comunitariamente los bordes de la bandera rrom sobre las cabezas del grupo, hacen ondear la tela con lentitud, sellando el ciclo con un susurro colectivo de paz y libertad para todas las familias del camino.",
+      "key": "Sentido ético de la pachiv: Enseñar que la pachiv no es solo fiesta exterior, sino el respeto supremo y el honor que se brinda a quien llega a nuestro hogar.\nTransición a la quietud: Bajar el volumen de los instrumentos progresivamente al entrar la Pista 11, permitiendo que la respiración colectiva acompañe los sonidos del atardecer urbano."
+    }
+  ],
+  "culturalArticles": [
+    {
+      "title": "Cuando un niño gitano llega al mundo",
+      "paragraphs": [
+        "Cuando una madre gitana trae un bebé al mundo, se guarda en su habitación durante cuarenta días. Los hombres no pueden pasar por allí, y ella tampoco puede salir a verlos. Durante ese tiempo, las mujeres de la familia la cuidan, la acompañan, acunan y atienden a su bebé. Al cumplirse los cuarenta días, recogen sus almohadas, sus sábanas, sus platos y todo lo que ella usó durante la dieta, y lo desechan. Solo entonces el bebé está listo para ser visto por el mundo.",
+        "Para los gitanos, la identidad, el linaje y la pertenencia al grupo se heredan por parte del padre; es decir, se es rrom por ser hijo de un hombre rrom. Por eso, cuando llega un hijo varón a la familia, todo se vuelve una fiesta y en la casa hay alegría: es él quien llevará el apellido, quien guardará la tradición y garantizará que nunca se pierda la vitsa o el linaje."
+      ]
+    },
+    {
+      "title": "La crianza gitana",
+      "paragraphs": [
+        "Son los papás y los abuelos quienes se hacen cargo del aprendizaje de los niños; las mamás y las abuelas, de lo que deben saber las niñas.",
+        "A ellas les enseñan los oficios para atender la casa con esmero, las comidas para no olvidar quiénes son, a preparar un buen café para las visitas y a lucir impecables desde que comienza el día. Antes leían la mano para ganarse la vida y tener su propio dinero. Al ladito de sus mamás o de sus mamios, aprendían lo que debían saber y decir para cultivar ese don y, al crecer, les enseñaban a coser sus propios vestidos, anchos y coloridos, que giraban con ellas al danzar.",
+        "A los niños los orientan en el valor de la palabra, fundamental en los negocios y en la vida de la kumpania. Cerca de los siete años, acompañan a sus papos en los viajes para fijarse en su forma de hablar y reír, y en sus gestos cuando están negociando. Tiempo después, les dan un plante, una pequeña parte del negocio, para ganar dinero y demostrar lo que han aprendido. También se inician en los secretos de los caballos: les enseñan a hacer nudos, preparar aperos, cortar riatas, asegurar cinchas y armar sillas y pecheras.",
+        "Así, compartiendo las labores y oficios de la familia, los niños y las niñas aprenden, igual que sus padres, sus papos y mamios, a soltar una risa sonora que se escucha desde lejos y que basta para saber que están juntos, en familia, y son del pueblo gitano."
+      ]
+    },
+    {
+      "title": "La vida familiar",
+      "paragraphs": [
+        "Siendo niños, shavoge, reciben de su familia el Zakono Romanó: el conjunto de costumbres y tradiciones que rigen la vida del pueblo gitano. Allí viven la música, la danza y el palmoteo; los principios y normas que los orientan, como la kris romani; el azafrán, la sarma y el pimentón dulce; y el romanés.",
+        "A medida que participan de la vida familiar, asisten a las reuniones y su voz también se escucha en las conversaciones importantes. Más adelante, tanto el shavo ‘joven’ como la shei ‘jovencita’ empiezan a prepararse para la vida matrimonial. Cuando forman un hogar propio, abrazan el compromiso de vivir bajo las reglas y costumbres de su kumpania.",
+        "Todo esto lo aprenden observando, imitando y participando junto a los suyos. Para sus papos y mamios ‘abuelos y abuelas’, acompañar su crecimiento es enseñarles a honrar la palabra, a escuchar y respetar a los mayores, especialmente a los Seré Romenge, ‘los hombres sabios de la comunidad’, a poner siempre a la familia en primer lugar y mantener viva la costumbre del «buen compartir»."
+      ]
+    },
+    {
+      "title": "El valor de la palabra",
+      "paragraphs": [
+        "Entre los gitanos, la palabra es sagrada y vale más que todo el oro del mundo. Romperla es perder la dignidad y la confianza de la comunidad entera. Incluso en los negocios, tan propios del alma gitana, es la palabra la que manda. La palabra de un hombre o mujer gitana no es solo suya, es de su padre, su papo, su familia, su vitsa y todo el linaje que lo ha sostenido desde siempre."
+      ]
+    },
+    {
+      "title": "Caravanas, carretas y caballos",
+      "paragraphs": [
+        "Desde tiempos muy antiguos, los caballos han acompañado el camino del pueblo rrom. Cuando las kumpanias iban de un lugar a otro, con sus caravanas de colores, los caballos tiraban de las carretas donde viajaban los niños, las mujeres y los mayores. Allí se acomodaban las cobijas de plumas de ganso, las telas y vestimentas, los calderos y las teteras para el shayo; los baúles de madera con documentos importantes, sus barajas y fotografías.",
+        "Con ellos también viajaban las pieles, los cueros, los clavos y los martillos para elaborar los aperos y las sillas. Cabían perros guardianes, gallinas y animales pequeños para alimentar a la familia. Todo tenía su lugar en la carreta. Aunque ahora las familias gitanas no viajan en caravanas, ni utilizan sus carretas, los caballos permanecen en el alma y en la sangre Rrom.",
+        "Es sabido que los primeros gitanos podían domar caballos con técnicas asombrosas y convertían a los animales flacos y ojerosos en ejemplares de competición. Esta sabiduría convirtió a los caballos en uno de sus mejores negocios. Los conocían como la palma de su mano y tenían fama de leer, con solo mirarlos, su salud, su edad y su valor. Cuentan los papos que, cuando comerciaban con ellos, los caballos no tenían nombre: para no apegarse, para no sentir cariño.",
+        "Los hombres Rrom saben que el caballo entiende el corazón de quien lo guía. Por eso lo tratan con mano suave, entrega y palabra firme. Recuerdan la máxima de sus abuelos: un caballo sano, fuerte y elegante habla del cuidado, la responsabilidad y el buen nombre de su dueño.",
+        "Hoy, aunque los caballos ya no forman parte de sus negocios, los gitanos recorren las ferias y se emocionan cuando encuentran un buen ejemplar; los siguen llevando en la sangre. Al verlos galopar y levantar el polvo, recuerdan que gracias a ellos pudieron ser un pueblo libre y recorrer tierras enteras con sus canciones, su lengua y su manera de entender el mundo."
+      ]
+    },
+    {
+      "title": "Shib romaní",
+      "paragraphs": [
+        "La shib romaní es una de las pocas lenguas del mundo que nació recorriendo distintos territorios y países. Los gitanos salieron de la India hace cientos de años y, en cada tierra, fueron recogiendo palabras nuevas. Por eso, su gramática conserva raíces del sánscrito antiguo, mientras que su léxico se fue mezclando con el persa, el griego, el armenio y las lenguas europeas con las que tuvieron contacto. Hoy, la shib romaní se escucha con más fuerza en cada palabra que ayuda a resolver asuntos importantes en la Kris romaní, durante la Pachiv, una fiesta de bienvenida o agasajo, y en los relatos de los papos y mamios, al recordar las historias antiguas junto a sus familias.",
+        "Hay palabras que laten con más fuerza, como Rrom, que significa ‘persona’, ‘hombre’ o ‘esposo’, y que da nombre a todo el pueblo; o phral, que quiere decir ‘hermano del alma’, y se usa para llamar a cualquier gitano, aunque no sea de la misma vitsa. Con estas palabras recuerdan que, aunque estén en geografías distintas, siguen siendo un solo pueblo, una sola sangre, y que la shib romaní es la lengua que los junta, donde son familia, así se encuentren al otro lado del mar."
+      ]
+    },
+    {
+      "title": "El alma libre",
+      "paragraphs": [
+        "«Los gitanos somos como palomas. Cuando vivíamos en las carpas, en las pampas, al aire libre, nada nos detenía. Éramos libres como el viento. Los niños con los caballos; nosotras con nuestros vestidos anchos, luciendo la pañoleta que era lo más importante para las mujeres casadas. Todavía somos guerreros, todavía tenemos el alma libre, aunque el cuerpo viva encerrado en estos apartamenticos».",
+        "Evangelina Gómez"
+      ]
+    }
+  ]
+}

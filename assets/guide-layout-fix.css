@@ -1,0 +1,21 @@
+/* Keep the original visual system while allowing every guide-card action to fit. */
+.guide-list {
+  flex: 1 1 auto;
+  align-content: start;
+  grid-auto-rows: max-content;
+}
+
+.activity-card {
+  align-self: start;
+  height: auto;
+  overflow: visible;
+}
+
+.activity-card > div {
+  min-width: 0;
+}
+
+.guide-introduction { align-self: start; grid-column: 1 / -1; border: 1px solid #d9d3c4; border-radius: 16px; background: #fffdf7; padding: 20px 22px; }
+.guide-introduction h3 { color: #173f55; font: 700 24px/1.1 Georgia, serif; margin: 0 0 10px; }
+.guide-introduction p { color: #33443c; font: 16px/1.58 Georgia, serif; margin: 0 0 11px; }
+.guide-introduction p:last-child { margin-bottom: 0; }

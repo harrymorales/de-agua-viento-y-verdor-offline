@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "slug": "nombre-del-territorio",
+    "name": "Nombre del territorio",
+    "language": "Lengua o lenguas",
+    "status": "draft"
+  },
+  "cover": {
+    "title": "Nombre del territorio",
+    "subtitle": "Relatos, cantos, juegos, palabras y paisajes sonoros.",
+    "image": "images/nombre-del-territorio/portadilla.jpg",
+    "imageAlt": "Descripción accesible de la imagen de portada"
+  },
+  "communityProfile": {
+    "facts": [
+      { "label": "Otros nombres", "value": "" },
+      { "label": "Ubicación", "value": "" },
+      { "label": "Población", "value": "" },
+      { "label": "Lenguas", "value": "" }
+    ],
+    "history": [],
+    "heritageNote": ""
+  },
+  "tracks": [
+    {
+      "number": "01",
+      "title": "Título de la escucha",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 1",
+      "intro": "Descripción breve de la escucha.",
+      "audio": "audio/nombre-del-territorio/pista-01.mp3",
+      "audioFallback": "",
+      "image": "images/nombre-del-territorio/pista-01.png",
+      "original": "Transcripción en lengua original.",
+      "translation": "Traducción al español.",
+      "activities": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "title": "Categoría de vocabulario",
+      "items": [
+        {
+          "spanish": "Palabra en español",
+          "native": "Palabra en lengua propia, si aplica",
+          "english": "Equivalente en inglés, si aplica",
+          "creole": "Equivalente en creole, si aplica",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "vocabularyAudioSegments": {
+    "Categoría de vocabulario": { "start": 0, "end": 0 }
+  },
+  "photos": [
+    {
+      "src": "images/fototeca/nombre-del-territorio-01.jpg",
+      "alt": "Descripción accesible de la fotografía"
+    }
+  ],
+  "activities": [
+    {
+      "title": "Título de la actividad",
+      "tracks": "Pistas relacionadas",
+      "purpose": "Propósito pedagógico.",
+      "materials": "Materiales necesarios.",
+      "steps": ["Paso 1."],
+      "closing": "Cierre.",
+      "key": "Clave pedagógica."
+    }
+  ],
+  "culturalArticles": [
+    {
+      "title": "Título del artículo",
+      "paragraphs": ["Contenido del artículo."],
+      "image": "",
+      "imageAlt": ""
+    }
+  ]
+}

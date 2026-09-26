@@ -1,0 +1,1010 @@
+{
+  "meta": {
+    "slug": "palenque",
+    "name": "San Basilio de Palenque",
+    "status": "published",
+    "source": "assets/index-Faag-3-f.js",
+    "extractedAt": "2026-09-15T19:56:06.858Z",
+    "note": "Extracción automática del contenido original. No modifica el diseño ni los recursos existentes."
+  },
+  "portalTerritories": [
+    {
+      "slug": "raizal",
+      "name": "Raizal",
+      "slot": 1
+    },
+    {
+      "slug": "palenque",
+      "name": "Palenque",
+      "slot": 2,
+      "available": true
+    },
+    {
+      "slug": "cofan",
+      "name": "Cofán",
+      "slot": 3
+    },
+    {
+      "slug": "inga",
+      "name": "Inga",
+      "slot": 4
+    },
+    {
+      "slug": "yukpa",
+      "name": "Yukpa",
+      "slot": 5
+    },
+    {
+      "slug": "rrom",
+      "name": "Rrom",
+      "slot": 6
+    }
+  ],
+  "vocabulary": [
+    {
+      "title": "Las partes del cuerpo",
+      "items": [
+        {
+          "spanish": "Cabeza",
+          "palenquero": "Kabea, kabesa"
+        },
+        {
+          "spanish": "Pelo",
+          "palenquero": "Kabéo"
+        },
+        {
+          "spanish": "Oreja",
+          "palenquero": "Oleja"
+        },
+        {
+          "spanish": "Ojo",
+          "palenquero": "Ma ojo"
+        },
+        {
+          "spanish": "Nariz",
+          "palenquero": "Narise"
+        },
+        {
+          "spanish": "Boca",
+          "palenquero": "Mboka"
+        },
+        {
+          "spanish": "Frente",
+          "palenquero": "Flende"
+        },
+        {
+          "spanish": "Barriga",
+          "palenquero": "Barika"
+        },
+        {
+          "spanish": "Mano",
+          "palenquero": "Ma mano"
+        },
+        {
+          "spanish": "Ombligo",
+          "palenquero": "Lombligo"
+        },
+        {
+          "spanish": "Rodilla",
+          "palenquero": "Luría"
+        },
+        {
+          "spanish": "Tobillo",
+          "palenquero": "Kakaña"
+        },
+        {
+          "spanish": "Cadera",
+          "palenquero": "Sankajo"
+        }
+      ]
+    },
+    {
+      "title": "Familia",
+      "items": [
+        {
+          "spanish": "Familia",
+          "palenquero": "Famía"
+        },
+        {
+          "spanish": "Mamá",
+          "palenquero": "Mae"
+        },
+        {
+          "spanish": "Hermanos",
+          "palenquero": "Numano"
+        },
+        {
+          "spanish": "Hermanas",
+          "palenquero": "Numana"
+        },
+        {
+          "spanish": "Tía",
+          "palenquero": "Cha"
+        },
+        {
+          "spanish": "Tío",
+          "palenquero": "Cho"
+        },
+        {
+          "spanish": "Madrina",
+          "palenquero": "Maína"
+        },
+        {
+          "spanish": "Padrino",
+          "palenquero": "Paíno"
+        },
+        {
+          "spanish": "Abuelo",
+          "palenquero": "Aguelo"
+        },
+        {
+          "spanish": "Abuela",
+          "palenquero": "Aguela"
+        },
+        {
+          "spanish": "Papá",
+          "palenquero": "Tatá, Tata"
+        },
+        {
+          "spanish": "Amigo",
+          "palenquero": "Kombilesa"
+        },
+        {
+          "spanish": "Primo",
+          "palenquero": "Primo numano"
+        },
+        {
+          "spanish": "Prima",
+          "palenquero": "Prima numana"
+        },
+        {
+          "spanish": "Esposo",
+          "palenquero": "Birikueto mi"
+        },
+        {
+          "spanish": "Esposa",
+          "palenquero": "Birikueta mi"
+        },
+        {
+          "spanish": "Novio",
+          "palenquero": "Amore"
+        },
+        {
+          "spanish": "Novia",
+          "palenquero": "Amore"
+        }
+      ]
+    },
+    {
+      "title": "Así se saluda en Palenque",
+      "items": [
+        {
+          "spanish": "Buenos días",
+          "palenquero": "Asina ría"
+        },
+        {
+          "spanish": "Buenas tardes",
+          "palenquero": "Asina po tadde"
+        },
+        {
+          "spanish": "Buenas noches",
+          "palenquero": "Asina po noche"
+        },
+        {
+          "spanish": "Hasta luego",
+          "palenquero": "Ata uto begá"
+        },
+        {
+          "spanish": "Hasta mañana",
+          "palenquero": "Ata maana"
+        },
+        {
+          "spanish": "¿Cómo estás?",
+          "palenquero": "Kumo kusa tá"
+        }
+      ]
+    },
+    {
+      "title": "Nombrar el paisaje",
+      "items": [
+        {
+          "spanish": "Luna",
+          "palenquero": "Luna"
+        },
+        {
+          "spanish": "Estrella",
+          "palenquero": "Etreya"
+        },
+        {
+          "spanish": "Montaña",
+          "palenquero": "Monde"
+        },
+        {
+          "spanish": "Cielo",
+          "palenquero": "Sielo"
+        },
+        {
+          "spanish": "Sol",
+          "palenquero": "Só"
+        },
+        {
+          "spanish": "Río",
+          "palenquero": "Loyo ngade"
+        },
+        {
+          "spanish": "Arroyo",
+          "palenquero": "Loyo"
+        },
+        {
+          "spanish": "Mar",
+          "palenquero": "Ma"
+        },
+        {
+          "spanish": "Arena",
+          "palenquero": "Alena"
+        },
+        {
+          "spanish": "Árbol",
+          "palenquero": "Palo"
+        },
+        {
+          "spanish": "Agua",
+          "palenquero": "Apú"
+        },
+        {
+          "spanish": "Rayo",
+          "palenquero": "Rayo"
+        },
+        {
+          "spanish": "Lluvia",
+          "palenquero": "Yubia"
+        },
+        {
+          "spanish": "Trueno",
+          "palenquero": "Relámpago"
+        },
+        {
+          "spanish": "Sembrado",
+          "palenquero": "Semblao"
+        },
+        {
+          "spanish": "Bosque",
+          "palenquero": "Monde"
+        },
+        {
+          "spanish": "Pozo",
+          "palenquero": "Poso"
+        },
+        {
+          "spanish": "Poza",
+          "palenquero": "Chimbumbe"
+        },
+        {
+          "spanish": "Camino",
+          "palenquero": "Kamino"
+        },
+        {
+          "spanish": "Trocha",
+          "palenquero": "Trocha"
+        },
+        {
+          "spanish": "Cerca",
+          "palenquero": "Sekka"
+        },
+        {
+          "spanish": "Flor",
+          "palenquero": "Flo"
+        },
+        {
+          "spanish": "Fruta",
+          "palenquero": "Fruta"
+        }
+      ]
+    },
+    {
+      "title": "Creciendo en Palenque",
+      "items": [
+        {
+          "spanish": "Bebé recién nacido",
+          "palenquero": "Chipirikuatro"
+        },
+        {
+          "spanish": "Niño de más de un año",
+          "palenquero": "Monasito"
+        },
+        {
+          "spanish": "Hijo o niño adolescente",
+          "palenquero": "Moná"
+        },
+        {
+          "spanish": "Muchos niños",
+          "palenquero": "Majanasito"
+        }
+      ]
+    },
+    {
+      "title": "Miscelánea de palabras",
+      "items": [
+        {
+          "spanish": "Pelea",
+          "palenquero": "Chamukina"
+        },
+        {
+          "spanish": "Bulla, escándalo",
+          "palenquero": "Tropilisio"
+        },
+        {
+          "spanish": "Bailar",
+          "palenquero": "Saranguia"
+        },
+        {
+          "spanish": "Fiesta",
+          "palenquero": "Oriki"
+        },
+        {
+          "spanish": "Persona negra",
+          "palenquero": "Prieto"
+        },
+        {
+          "spanish": "Animal",
+          "palenquero": "Nimao"
+        },
+        {
+          "spanish": "Barrio Arriba",
+          "palenquero": "Lariba"
+        },
+        {
+          "spanish": "Barrio Abajo",
+          "palenquero": "Labajo"
+        },
+        {
+          "spanish": "Ladrón",
+          "palenquero": "Lairo"
+        },
+        {
+          "spanish": "Otro",
+          "palenquero": "Uto"
+        }
+      ]
+    },
+    {
+      "title": "Pronombres",
+      "items": [
+        {
+          "spanish": "Yo",
+          "palenquero": "I"
+        },
+        {
+          "spanish": "Tú",
+          "palenquero": "Bo"
+        },
+        {
+          "spanish": "Él",
+          "palenquero": "Ele"
+        },
+        {
+          "spanish": "Nosotros / nosotras",
+          "palenquero": "Suto"
+        },
+        {
+          "spanish": "Ustedes",
+          "palenquero": "Enú"
+        },
+        {
+          "spanish": "Ellos / ellas",
+          "palenquero": "Ané"
+        }
+      ]
+    },
+    {
+      "title": "En la escuela",
+      "items": [
+        {
+          "spanish": "Jugar",
+          "palenquero": "Jarocha"
+        },
+        {
+          "spanish": "Patio",
+          "palenquero": "Tra kolao"
+        },
+        {
+          "spanish": "Estudiante",
+          "palenquero": "Etule"
+        },
+        {
+          "spanish": "Profesora",
+          "palenquero": "Piacha"
+        },
+        {
+          "spanish": "Sentarse",
+          "palenquero": "Sendá"
+        },
+        {
+          "spanish": "Pararse",
+          "palenquero": "Palá"
+        },
+        {
+          "spanish": "Escribir",
+          "palenquero": "Katria"
+        },
+        {
+          "spanish": "Prestar atención",
+          "palenquero": "Preta tañío"
+        },
+        {
+          "spanish": "Hagan silencio",
+          "palenquero": "Kaeno mboka"
+        },
+        {
+          "spanish": "Escuchar",
+          "palenquero": "Kuchá"
+        },
+        {
+          "spanish": "Recreo",
+          "palenquero": "Salino pa tra kolao"
+        },
+        {
+          "spanish": "Correr",
+          "palenquero": "Kolé"
+        },
+        {
+          "spanish": "Agacharse",
+          "palenquero": "Ñingota"
+        },
+        {
+          "spanish": "Pararse",
+          "palenquero": "Palá"
+        },
+        {
+          "spanish": "Mirar",
+          "palenquero": "Guatiá"
+        },
+        {
+          "spanish": "Trabajar",
+          "palenquero": "Makania"
+        }
+      ]
+    },
+    {
+      "title": "Sonido, música y silencio",
+      "items": [
+        {
+          "spanish": "Llamador",
+          "palenquero": "Ñamaro"
+        },
+        {
+          "spanish": "Tambora",
+          "palenquero": "Tambora"
+        },
+        {
+          "spanish": "Alegre",
+          "palenquero": "Jarocho"
+        },
+        {
+          "spanish": "Pechiche",
+          "palenquero": "Pechiche"
+        },
+        {
+          "spanish": "Guache",
+          "palenquero": "Guache"
+        },
+        {
+          "spanish": "Maraca",
+          "palenquero": "Maraka"
+        },
+        {
+          "spanish": "Bongó",
+          "palenquero": "Bongó"
+        },
+        {
+          "spanish": "Marímbula",
+          "palenquero": "Marímbula"
+        },
+        {
+          "spanish": "Cantante",
+          "palenquero": "Kandá"
+        },
+        {
+          "spanish": "Arco de boca",
+          "palenquero": "Arko ri mboka"
+        },
+        {
+          "spanish": "Sonido",
+          "palenquero": "Tropeo"
+        },
+        {
+          "spanish": "Silencio",
+          "palenquero": "Kaeno mboka"
+        },
+        {
+          "spanish": "Ruido",
+          "palenquero": "Tropeo"
+        },
+        {
+          "spanish": "Golpe de tambor",
+          "palenquero": "Pamma andi tambó"
+        },
+        {
+          "spanish": "Cuero de tambor",
+          "palenquero": "Kuero ri tambó"
+        },
+        {
+          "spanish": "Clave",
+          "palenquero": "Clave"
+        },
+        {
+          "spanish": "Timba",
+          "palenquero": "Timba"
+        },
+        {
+          "spanish": "Escuchar",
+          "palenquero": "Kuchá"
+        }
+      ]
+    },
+    {
+      "title": "Vamos a…",
+      "items": [
+        {
+          "spanish": "…trabajar",
+          "palenquero": "Salino pa suto makania"
+        },
+        {
+          "spanish": "…sembrar",
+          "palenquero": "Salino pa suto bae sembla"
+        },
+        {
+          "spanish": "…limpiar el monte",
+          "palenquero": "Salino pa suto ota ma monde"
+        },
+        {
+          "spanish": "…bailar",
+          "palenquero": "Salino pa suto bae sangaria"
+        },
+        {
+          "spanish": "…cocinar",
+          "palenquero": "Salino pa suto bae kusiná"
+        },
+        {
+          "spanish": "…dormir",
+          "palenquero": "Salino pa suto bae ndrumí"
+        },
+        {
+          "spanish": "…construir una casa",
+          "palenquero": "Minino pa suto ase un posá"
+        },
+        {
+          "spanish": "…trabajar al monte",
+          "palenquero": "Salino pa suto bae makania andi monde"
+        },
+        {
+          "spanish": "…pescar",
+          "palenquero": "Salino pa suto bae jalá pekao"
+        },
+        {
+          "spanish": "…pilar el arroz",
+          "palenquero": "Salino pa suto bae pila aló"
+        },
+        {
+          "spanish": "…preparar ñeque",
+          "palenquero": "Salino pa suto bae ase ñeque"
+        },
+        {
+          "spanish": "…nadar",
+          "palenquero": "Salino pa suto bae nara andi loyo"
+        },
+        {
+          "spanish": "…construir un tambor",
+          "palenquero": "Salino pa suto bae ase ma tabala"
+        }
+      ]
+    },
+    {
+      "title": "Otras palabras de la comunidad",
+      "items": [
+        {
+          "spanish": "Kuagro",
+          "palenquero": "Kuagro",
+          "note": "Organización de base de la comunidad de San Basilio de Palenque. Quiere decir ‘grupos’. Estas organizaciones empiezan desde la niñez. Kuagro viene también de kuagriya."
+        },
+        {
+          "spanish": "Kamajan",
+          "palenquero": "Kamajan",
+          "note": "Es el jefe del kuagro."
+        },
+        {
+          "spanish": "Kuagriya",
+          "palenquero": "Kuagriya",
+          "note": "Personas que están en el rango de las mismas edades, nacidas en el mismo año o en años cercanos."
+        }
+      ]
+    }
+  ],
+  "vocabularyAudioSegments": {
+    "Las partes del cuerpo": {
+      "start": 0,
+      "end": 32.016
+    },
+    "Familia": {
+      "start": 38.711,
+      "end": 90.024
+    },
+    "Así se saluda en Palenque": {
+      "start": 91.815,
+      "end": 109.281
+    },
+    "Nombrar el paisaje": {
+      "start": 112.044,
+      "end": 188.024
+    },
+    "Creciendo en Palenque": {
+      "start": 189.153,
+      "end": 234.202
+    },
+    "Otras palabras de la comunidad": {
+      "start": 236.453,
+      "end": 313.702
+    },
+    "Miscelánea de palabras": {
+      "start": 320.555,
+      "end": 366.337
+    },
+    "Pronombres": {
+      "start": 366.975,
+      "end": 383.194
+    },
+    "En la escuela": {
+      "start": 392.924,
+      "end": 462.315
+    },
+    "Sonido, música y silencio": {
+      "start": 465.266,
+      "end": 592.559
+    },
+    "Vamos a…": {
+      "start": 593.806,
+      "end": 718.024
+    }
+  },
+  "photos": [
+    {
+      "src": "images/fototeca/palenque-01.jpg",
+      "alt": "Niños jugando bajo la lluvia frente a una casa de Palenque"
+    },
+    {
+      "src": "images/fototeca/palenque-02.jpg",
+      "alt": "Tamborero palenquero tocando bajo un techo de palma"
+    },
+    {
+      "src": "images/fototeca/palenque-03.jpg",
+      "alt": "Grupo de niñas y niños corriendo por una calle de Palenque"
+    },
+    {
+      "src": "images/fototeca/palenque-04.jpg",
+      "alt": "Tres niños corriendo y jugando al aire libre"
+    },
+    {
+      "src": "images/fototeca/palenque-05.jpg",
+      "alt": "Hombre mayor frente a una casa pintada de azul y rosa"
+    },
+    {
+      "src": "images/fototeca/palenque-06.jpg",
+      "alt": "Estudiantes caminando juntos por una calle de Palenque"
+    },
+    {
+      "src": "images/fototeca/palenque-07.jpg",
+      "alt": "Mujer sentada junto a una pared ilustrada con un pez"
+    },
+    {
+      "src": "images/fototeca/palenque-08.jpg",
+      "alt": "Niño cantando bajo los árboles"
+    },
+    {
+      "src": "images/fototeca/palenque-09.jpg",
+      "alt": "Mujer y niña compartiendo un juego de mesa"
+    },
+    {
+      "src": "images/fototeca/palenque-10.jpg",
+      "alt": "Tres niñas de uniforme tomadas de las manos"
+    },
+    {
+      "src": "images/fototeca/palenque-11.jpg",
+      "alt": "Dos niñas sonriendo frente a una casa colorida"
+    },
+    {
+      "src": "images/fototeca/palenque-12.jpg",
+      "alt": "Niña riendo bajo la sombra de los árboles"
+    },
+    {
+      "src": "images/fototeca/palenque-13.jpg",
+      "alt": "Grupo de niñas caminando por una calle de Palenque"
+    },
+    {
+      "src": "images/fototeca/palenque-14.jpg",
+      "alt": "Tambor palenquero entre los árboles"
+    },
+    {
+      "src": "images/fototeca/palenque-15.jpg",
+      "alt": "Tambor artesanal palenquero"
+    },
+    {
+      "src": "images/fototeca/palenque-16.jpg",
+      "alt": "Músico palenquero tocando un tambor"
+    },
+    {
+      "src": "images/fototeca/palenque-17.jpg",
+      "alt": "Tamborero concentrado en la interpretación"
+    },
+    {
+      "src": "images/fototeca/palenque-18.jpg",
+      "alt": "Músico cantando mientras toca el tambor"
+    },
+    {
+      "src": "images/fototeca/palenque-19.jpg",
+      "alt": "Detalle de las lengüetas metálicas de una marímbula"
+    },
+    {
+      "src": "images/fototeca/palenque-20.jpg",
+      "alt": "Retrato de una niña palenquera bajo un árbol"
+    }
+  ],
+  "tracks": [
+    {
+      "number": "01",
+      "title": "Amanecer en el monte",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 1",
+      "intro": "Poco a poco, la noche comienza a despedirse y el monte despierta. Los animales cantan, las aves se llaman unas a otras y la primera luz empieza a transformar el paisaje.",
+      "audio": "audio/amanecer-en-el-monte.m4a",
+      "image": "images/amanecer-en-el-monte.png",
+      "activities": [
+        0
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Tra kolao ri posá",
+      "kind": "Ronda infantil",
+      "tracks": "Pista 2",
+      "intro": "Esta ronda nos habla de un lugar muy importante para la familia palenquera: el patio de la casa. Allí los niños juegan, comparten y aprenden a cuidar los animales y las plantas. Escucha las voces de tercer grado de la Institución Educativa Técnico Agropecuaria Benkos Biohó con su profesora María Reyes.",
+      "audio": "audio/tra-kolao-ri-posa.m4a",
+      "image": "images/tra-kolao.png",
+      "activities": [
+        1
+      ],
+      "original": "Tra kolao ri posá sendá patikula,\nKuando yobé se moja i se góbe a seká,\nÑingoteno, monasito, botbeno a palá,\nLui ñingota nú, nú sabe jarocha.\nH, i, j, k, l, m, ñ, a,\nKiéne sotá ta salí,\nKiéne sotá ta salí,\nKiéne sotá ta salí.",
+      "translation": "El patio de mi casa es muy particular,\nCuando llueve, se moja y se vuelve a secar,\nAgáchense, mis hijos, y vuélvanse a parar,\nEl que no se agache no sabe jugar.\nH, i, j, k, l, m, ñ, a,\nEl que se suelte, se sale,\nEl que se suelte, se sale,\nEl que se suelte, se sale."
+    },
+    {
+      "number": "03",
+      "title": "Itoria ri Palenge",
+      "kind": "Relato de origen",
+      "tracks": "Pistas 3 y 4",
+      "intro": "¿Sabes cuál es el origen de San Basilio de Palenque? Hombres y mujeres africanos, traídos a la fuerza como esclavos, escaparon guiados por Benkos Biohó e hicieron una vida juntos con su lengua y sus tambores. Escucha a Manuel Pérez Salinas.",
+      "audio": "audio/itoria-ri-palenge.m4a",
+      "image": "images/itoria-ri-palenge.png",
+      "activities": [
+        2
+      ],
+      "original": "Majaná, preteno tañío. Palenge, paraje suto andi suto ta bibí, a lanká jue asina.\n\nAndi un tiembo ayaaaa biejo, un ma jende ri Uropa ase bae jutá utro jende aya andi Afrika. Ané a malá ané ku karena pa trelo pakí, ritinto andi ané ta bibindo, pa makania sin pagá makanaeo ané.\n\nAntose, ané a yebalo malao andi un ma mbako ngande, po riba ri apú salao. Kuando ané yegá ai Katagena, ma jende lo ke asé Palenge a kombetsá: «Suto ten ke bae juindo pandi monde».\n\nAné a poné ri akueddo, i lo ke lanká ku akueddo jue Benko Bioho. Ané a komensá ku peinao andi kabesa ri ma mujé; ku tambó, ku ma Orisha, ku Rioso, i tambié ané asé un lengua pa poné ri akueddo i salí juindo pa monde.\n\nKu ese jue lanká Palenge. Suto a kelá bibindo akí Palenge i suto a tené kumo intrumendo tamboooo: pa chitiá kuando jende asé lunga, pa chitiá i sangariá ku oriki i pa asé fetiba tambié.",
+      "translation": "Niños, préstenme atención. Palenque, nuestro lugar, donde nosotros vivimos, se formó así.\n\nEn un tiempo ya muy viejo, hombres y mujeres fueron raptados por hombres de Europa que los trajeron desde África. Los amarraron con cadenas para que trabajaran sin pagarles nada.\n\nEn barcos grandes los llevaron por encima del mar hasta Cartagena. Allí, quienes después formaron Palenque se dijeron: «Nosotros tenemos que irnos huyendo para el monte».\n\nSe pusieron de acuerdo y quien encabezó ese acuerdo fue Benkos Biohó. Usaron formas de hablar sin que los entendieran: los peinados de las mujeres, el tambor, los orishas, Dios y una lengua propia.\n\nCon eso se formó Palenque. Nosotros nos quedamos viviendo aquí y tenemos como instrumento el tambor: para avisar cuando alguien muere, para rezar, bailar y celebrar."
+    },
+    {
+      "number": "04",
+      "title": "Tata Suto",
+      "kind": "Canto de ofrenda",
+      "tracks": "Pista 5",
+      "intro": "Tata suto significa ‘Padre Nuestro’. Para la comunidad, sobre todo para los mayores, honrar a Dios con rezos y cantos es parte esencial de la vida. Escucha las voces de Moraima Cimarra y Concepción Hernández.",
+      "audio": "audio/tata-suto.m4a",
+      "activities": [
+        4
+      ],
+      "original": "Suto ta ofrese bo tata suto\nSuto ta ofrese bo tata suto\nSuto ta ofrese bo tata suto\nEse pan i e bino ke bo nda suto ño\nKujelo ku bonda i bendesi a suto.",
+      "translation": "Te presentamos el vino y el pan,\nBendito sea por siempre, señor.\nBendito sea, señor, por este pan que nos diste,\nfruto del esfuerzo y del trabajo de los hombres.\n\n(Se repite cuatro veces)"
+    },
+    {
+      "number": "05",
+      "title": "Cho Konejo i Cho Tigre",
+      "spanishTitle": "Tío Conejo y Tío Tigre",
+      "kind": "Cuento tradicional",
+      "tracks": "Pistas 6 y 7",
+      "intro": "Los animales hicieron una fiesta, pero faltaba Tío Tigre. Tío Conejo prometió traerlo y, con dolores fingidos y mucha astucia, consiguió que el tigre lo cargara hasta la plaza. Escucha la gracia con que Andreu Torres cuenta el relato.",
+      "audio": "audio/tio-conejo-relato.mp3",
+      "image": "images/tio-conejo-y-tio-tigre.png",
+      "activities": [
+        3
+      ],
+      "original": "Andi un biaje teneba un fieta andi plasa ri Palenge. Andi taba to ma nimao reuni andi plasa. Kuando to ma nimao taba ai, ané a komensá a miná to ma kala i sola a kombetsá:\n\n—Ombe… akí a fattá uno ri suto.\n—¿Kiéne jue fattá?\n—Ombe, a fattá Cho Tigre.\n\nCho Konejo, kumo ele a sendá ma abilioroso, a kombetsá: —I tan trelo pakí pa plasa, pandi suto tá.\n\nCho Konejo a salí paya pa Puente Machuka. Kuando Cho Tigre taba asekka, Cho Konejo a komensá a rabiá: ¡Ouuuun, ouuuun!\n\n—Aja, Cho Konejo, ¿ke jué ta pasá bo?\n—Ombe, Cho Tigre… ya ten ndolo barika, i ya pole kamina nú.\n\nAsina gue. Cho Tigre a ngalá Cho Konejo, i a montalo ai espalda i a salí. Cho Konejo lo llevó de un lugar a otro con sus dolores fingidos, hasta ponerle silla, freno i ma epuela.\n\nCho Konejo a tré Cho Tigre ai pa plasa. Ma uto animao a asé un jarana: —¡Cho Konejo! ¡Cho Konejo!—. I kolorín kolorao, kuento a kabao.",
+      "translation": "Una vez había una fiesta en la plaza de Palenque. Todos los animales estaban reunidos cuando una voz dijo:\n\n—Hombre, aquí falta uno de nosotros.\n—¿Quién falta?\n—Falta Tío Tigre.\n\nTío Conejo, como era el más habilidoso, prometió traerlo. Fue hasta Puente Machuca y, cuando vio acercarse al tigre, empezó a quejarse de un terrible dolor de barriga.\n\nTío Tigre lo montó en su espalda. Cada vez que quería dejarlo, Conejo fingía sentirse peor y le pedía que lo llevara más lejos. Al final, Conejo le puso una silla, freno y espuelas, y entró montado sobre él a la plaza.\n\nLos animales celebraron la hazaña y le entregaron la recompensa. Tío Tigre se soltó y prometió atraparlo algún día. La fiesta continuó. Y colorín colorado, el cuento se ha acabado."
+    },
+    {
+      "number": "06",
+      "title": "Concierto didáctico",
+      "kind": "Música y memoria",
+      "tracks": "Pista 8",
+      "intro": "En Palenque hay ritmos de tambor para cada momento de la vida: cuando los vivos se van y cuando hay fiesta, cuando hay alegría o tristeza. Escucha la historia de Catalina Luango con tambora, llamador, tambor alegre y guache.",
+      "audio": "audio/concierto-didactico.m4a",
+      "audioFallback": "audio/concierto-didactico.mp3",
+      "image": "images/concierto-didactico.png",
+      "activities": [
+        2
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Vocabulario palenquero",
+      "kind": "Palabras para escuchar",
+      "tracks": "Pista 9",
+      "intro": "Escucha palabras y expresiones que nombran el cuerpo, la familia, el paisaje, los sonidos y la vida cotidiana en palenquero y español.",
+      "audio": "audio/vocabulario-palenquero.mp3",
+      "activities": [
+        1
+      ],
+      "singleReading": true,
+      "original": "Kabea · cabeza\nKabéo · pelo\nMa ojo · ojos\nMboka · boca\nBarika · barriga\nMae · mamá\nTatá · papá\nKombilesa · amigo\nAsina ría · buenos días\nKumo kusa tá · ¿cómo estás?\nMonde · monte / montaña\nApú · agua\nKamino · camino\nMonasito · niño de más de un año\nTropilisio · bulla, escándalo\nSaranguia · bailar\nOriki · fiesta\nKuchá · escuchar\n\nSuto · nosotros / nosotras\nBo · tú\nEle · él\nAné · ellos / ellas\nTra kolao · patio\nPiacha · profesora\nPreta tañío · prestar atención\nKaeno mboka · hagan silencio\nJarocha · jugar\nKolé · correr\nGuatiá · mirar\nÑamaro · llamador\nJarocho · tambor alegre\nPamma andi tambó · golpe de tambor\nKuero ri tambó · cuero de tambor"
+    },
+    {
+      "number": "08",
+      "title": "Ña marikita mosa",
+      "spanishTitle": "Señora mariquita linda",
+      "kind": "Ronda infantil",
+      "tracks": "Pista 12",
+      "intro": "Los niños de Palenque juegan a la ronda Ña marikita mosa o Señora mariquita linda. Se toman de las manos en círculo y cantan en lengua palenquera nombrando dulces como la panelita melcochá. Desde el centro, alguien llama: ¡Ña marikita mosa! y el grupo responde.",
+      "audio": "audio/na-marikita-mosa.m4a",
+      "image": "images/na-mariquita.png",
+      "activities": [
+        1
+      ],
+      "original": "Ña marikita mosa\nÑa marikita mosa\nÑa marikita mosa ku tre panelita melkochá,\nKu tre panelita i un pito lo i se kompleta ma ngosá.\nAi soropa echa ma ngosá\nAi soropa echa ma ngosá\nAi soropa echa ma ngosá",
+      "translation": "Señora mariquita linda\nSeñora mariquita linda\nSeñora mariquita linda con tres panelita’ melcochá,\nCon tres panelita’ y media y se completa la gozá.\nAy soropa echa la gozá\nAy soropa echa la gozá\nAy soropa echa la gozá"
+    }
+  ],
+  "activities": [
+    {
+      "title": "El mapa de los sonidos invisibles",
+      "tracks": "Pistas 1, Amanecer en el monte, y 15, De mañana en la Plaza Central",
+      "purpose": "Reconocer un territorio por sus sonidos y desarrollar una escucha atenta, espacial y comparativa.",
+      "materials": "Hojas grandes, lápices y colores.",
+      "steps": [
+        "El grupo escucha la pista 1 con los ojos cerrados. Nadie escribe ni habla durante la primera reproducción.",
+        "Antes de escucharla de nuevo, el mediador plantea una misión: descubrir qué sonidos están cerca, cuáles lejos, cuáles se desplazan y cuáles permanecen.",
+        "Durante la segunda escucha, cada participante dibuja un mapa imaginario del lugar. Puede usar puntos, líneas, manchas o símbolos para indicar dónde cree que nace cada sonido.",
+        "Se repite el ejercicio con la pista 15.",
+        "El grupo compara ambos mapas: ¿qué sonidos pertenecen al monte?, ¿cuáles a la plaza?, ¿qué seres humanos, animales, máquinas o elementos naturales aparecen?, ¿qué sonidos comparten ambos lugares?",
+        "Finalmente, los participantes permanecen dos minutos en silencio y realizan un tercer mapa: el paisaje sonoro del lugar donde se encuentran."
+      ],
+      "closing": "Cada niño elige un sonido de Palenque y otro de su entorno y explica qué información ofrece cada uno sobre la vida de su comunidad.",
+      "key": "No se busca adivinar una lista de sonidos correctos, sino aprender que también se puede leer un territorio con los oídos."
+    },
+    {
+      "title": "Palabras que primero se escuchan",
+      "tracks": "Pistas 2, Tra kolao ri posá; 9, Vocabularios; y 12, Ña marikita mosa",
+      "purpose": "Acercarse a la lengua palenquera desde su musicalidad, sin tratarla como una traducción defectuosa del español.",
+      "steps": [
+        "El mediador reproduce un fragmento en palenquero sin mostrar todavía el texto ni su traducción.",
+        "Cada participante escoge una palabra que haya llamado su atención y trata de repetirla respetando su ritmo y entonación.",
+        "El grupo conversa: ¿la palabra suena rápida, suave, larga, percutiva?, ¿en qué parte de la boca parece formarse?, ¿qué emoción o imagen despierta?",
+        "Solo entonces se consulta la traducción. Cada participante comprueba si el significado se parece o no a lo que había imaginado.",
+        "El grupo aprende cinco expresiones: Kuchá, escuchar; Suto, nosotros o nosotras; Kombilesa, amigo o amiga; Tra kolao, patio; y Saranguia, bailar.",
+        "Los niños crean un pequeño saludo colectivo que combine palenquero y español. Por ejemplo: Asina ría, kombilesas. Hoy suto vamos a kuchá.",
+        "Para terminar, escuchan Ña marikita mosa y acompañan el canto únicamente cuando ya hayan reconocido el estribillo."
+      ],
+      "closing": "Conversar sobre esta pregunta: ¿qué puede enseñarnos una palabra que nuestra lengua no nombra de la misma manera?",
+      "key": "Primero se escucha, después se intenta pronunciar y finalmente se conoce el significado. Así la lengua es recibida como una voz viva, no como una columna de equivalencias."
+    },
+    {
+      "title": "El tambor que sabía el camino",
+      "tracks": "Pistas 3 y 4, Itoria ri Palenge, y 8, Concierto didáctico",
+      "purpose": "Comprender que un sonido puede comunicar, proteger, convocar y conservar la memoria de un pueblo.",
+      "materials": "Tambores, cajas, mesas u objetos que permitan producir sonidos sin dañarlos.",
+      "steps": [
+        "Se escucha el fragmento de la historia en el que el tambor avisa el momento de escapar hacia el monte.",
+        "El mediador pregunta: ¿qué debía decir aquel tambor sin utilizar palabras?, ¿por qué era necesario que algunas personas entendieran el mensaje y otras no?",
+        "En pequeños kuagros, los participantes inventan tres señales sonoras breves: reunirse, advertir de un peligro y celebrar que todos llegaron.",
+        "Cada señal debe diferenciarse por el número de golpes, la intensidad, la velocidad o la aparición de silencios.",
+        "Los kuagros intercambian sus códigos. Uno interpreta las señales creadas por otro sin haber recibido previamente la explicación.",
+        "Después se escucha el concierto didáctico para reconocer que no todos los tambores ni todos los ritmos cumplen la misma función.",
+        "El mediador relaciona la experiencia con la historia palenquera: el tambor no era un adorno musical; podía ser mensaje, estrategia, memoria y compañía."
+      ],
+      "closing": "Si hoy tuviéramos que crear un sonido para defender algo valioso de nuestra comunidad, ¿qué defenderíamos y cómo sonaría?",
+      "key": "Conviene evitar la simplificación de presentar el tambor africano como si existiera uno solo. En Palenque hay instrumentos, ritmos, ocasiones y funciones diferentes."
+    },
+    {
+      "title": "Un cuento entra por los oídos",
+      "tracks": "Pistas 6 y 7, Kuendo ri Cho Konejo i Cho Tigre, o 10 y 11, Kuendo ri ma fieta ri ma abe",
+      "purpose": "Reconocer los recursos de la narración oral y comprender que la voz también construye personajes, espacios y acciones.",
+      "steps": [
+        "Se escucha un fragmento del cuento sin consultar la transcripción.",
+        "Cada vez que aparezca una onomatopeya, una repetición, un cambio marcado de voz o una expresión como ombe, los niños realizan un gesto acordado.",
+        "En una segunda escucha, el grupo identifica cómo el narrador diferencia a los personajes: volumen, velocidad, silencios, quejidos, repeticiones o cambios de entonación.",
+        "Se reparte el relato: una voz narra; otras interpretan a los personajes; y un pequeño coro produce pasos, puertas, vuelos, caídas, desplazamientos y sonidos del ambiente.",
+        "El grupo representa un fragmento sin escenografía y con los ojos del público cerrados. Todo debe entenderse mediante voces y sonidos.",
+        "Después se conversa sobre Tío Conejo: ¿su astucia es inteligencia, engaño, resistencia o una mezcla de las tres?, ¿por qué en tantos relatos un personaje pequeño consigue vencer a uno más fuerte?",
+        "Los niños recuerdan personajes semejantes de las historias de sus familias o comunidades y los presentan oralmente."
+      ],
+      "closing": "Grabar una versión sonora de no más de dos minutos, conservando algunas palabras palenqueras que den identidad al relato.",
+      "key": "No se trata de reemplazar el cuento palenquero por otro, sino de ponerlo en conversación con las memorias narrativas de quienes escuchan."
+    },
+    {
+      "title": "Escuchar también es cuidar",
+      "tracks": "Pistas 5, Tata Suto; 13, Cuidados del niño; y 14, Saraguia ri mueto",
+      "purpose": "Reconocer que los cantos, rezos y saberes comunitarios acompañan momentos esenciales de la vida y requieren una escucha respetuosa.",
+      "steps": [
+        "Antes de reproducir las pistas, el grupo construye un acuerdo de escucha: no burlarse, no imitar de manera caricaturesca, no interrumpir y aceptar que no todo debe traducirse o convertirse en juego.",
+        "Se escucha la pista 13. Cada participante identifica una palabra, un gesto vocal o una idea relacionada con el cuidado.",
+        "El mediador pregunta: cuando alguien está enfermo, asustado o triste, ¿cómo se da cuenta la familia?, ¿qué sonidos acompañan ese cuidado?",
+        "Se escucha Tata Suto y se observa cómo varias voces pueden ofrecer, agradecer o pedir juntas, sin discutir cuál creencia es la correcta.",
+        "Antes de escuchar Saraguia ri mueto, el mediador explica que es un canto vinculado a la despedida de los muertos y que no tiene traducción al español. Se escucha sin intentar representarlo ni reproducirlo como ronda.",
+        "Después, cada niño traza una línea, un color o una forma que exprese lo que la voz le hizo sentir. Quien no quiera explicar su dibujo puede conservarlo en silencio.",
+        "El grupo crea un archivo sonoro del cuidado: cada participante aporta una frase, un arrullo, un consejo o un sonido que en su familia significa estoy aquí contigo. Estos aportes pueden grabarse con autorización."
+      ],
+      "closing": "Reunir las voces en una pieza colectiva titulada Así suena cuando nos cuidamos.",
+      "key": "Esta actividad distingue entre conocer una práctica y apropiarse de ella. Hay cantos que pueden aprenderse y compartirse; otros deben ser escuchados desde el respeto, sin convertirlos en espectáculo."
+    }
+  ],
+  "culturalArticles": [
+    {
+      "title": "Ma kuagro",
+      "paragraphs": [
+        "En Palenque existe una forma de organizarse: los kuagros. Son grupos de personas que se van juntando desde la infancia para apoyarse entre ellos. Casi siempre se forman por sectores, como «los del barrio de arriba» o «los del barrio de abajo», y eligen un nombre. Dicen que es costumbre de sus ancestros, una forma de liberarse del dominio colonial español.",
+        "Hay kuagros de tiempo largo, como el de Santa Teresa, Las Únicas o El Gran Cúcuta, y otros más jóvenes, como el Clan Africano, La Mala Hora o los Olayeros. Unos son mixtos, otros solo de hombres o solo de mujeres. Se juntan para organizar fiestas, arreglar la cancha del barrio, apoyar el Festival de Tambores o acompañar el pesar de alguno de sus socios.",
+        "En la escuela también van formando sus kuagros. Las profesoras dicen que así se siembra la solidaridad en el corazón de cada uno. La Incomparable, Los Fantásticos y Los Caimanes se reparten tareas como cuidar el cementerio frente a la escuela: poner flores y agua para los difuntos, limpiar la huerta, apoyar a los compañeritos en las tareas difíciles. El alma del kuagro siempre ha sido la solidaridad."
+      ]
+    },
+    {
+      "title": "Tra kolao",
+      "paragraphs": [
+        "Para las familias palenqueras, el tra kolao o ‘patio trasero’ de sus viviendas es un lugar muy importante. Allí, regaditos sobre el suelo, cerquita de la casa, crecen el culantro, la cebolla larga, el ají y el orégano. Hay plantas para darle sabor a los alimentos y otras, como la verbena, para preparar remedios. El patio es también un sitio para jugar y compartir, para reunirse con los amigos y la familia. En el tra kolao, las niñas y los niños aprenden a cuidar las plantas y a sus animales: gallinas, cerdos, perros; y de la importancia de estar juntos.",
+        "Muy cerca del patio también está el monte. Hay palos de mango, de almendra, de uvita, de níspero, matarratón, de mamey y de tamarindo. El patio y el monte son hermanos. Sus plantas se conocen entre sí y los palenqueros han aprendido mucho de su cercanía."
+      ]
+    },
+    {
+      "title": "Creciendo en Palenque",
+      "paragraphs": [
+        "Dicen que una niña o niño palenquero nunca está solo. Siempre camina la vida con música. Desde la barriga de su mamá toda la familia le canta y le baila. Por eso salen alegres, con ese movimiento que no les cabe en el cuerpo. La crianza es compartida por su familia grande. Los abuelos y abuelas pasan mucho tiempo con ellos, los aconsejan, les narran historias de Cho Conejo y Cho Tigre, les cuentan sobre África, sus espíritus y sus tambores.",
+        "También los tíos, las tías, los primos, las primas y los vecinos tienen siempre un ojo puesto en ellos. De tanto crecer rodeados de gente, los niños se vuelven sueltos y sin pena, listos para hablar y jugar con quien se les cruce. En la escuela aprenden rondas en su lengua y se alborotan por cantar Ña Mariquita o Ma Patico. Desde pequeños se saben el himno de Palenque, tocan el tambor alegre y bailan mapalé, chalupa o bullerengue."
+      ]
+    },
+    {
+      "title": "Una escuela llamada Benkos Biohó",
+      "paragraphs": [
+        "Los niños y niñas de San Basilio crecen conociendo la historia de las pilanderas, saben de Catalina Luango y, si les preguntan por Palenque, contestan con orgullo: «Somos el primer pueblo libre de América».",
+        "En las paredes de su escuela vive la lengua propia: kombilesa, es ‘amigo’; monasito, un ‘niño pequeño’; saranguiar, ‘bailar’… Desde muy pequeños aprenden la lengua ri palengue junto al español. En ellos habita la alegría y el alboroto; siempre andan haciendo bulla o, como dicen sus profesoras, tropilisio.",
+        "Siembran plantas medicinales en una huerta: anamú, coledebabilla, balsamina, lengua de suegra y pitamo real, y aprenden cómo curar con ellas. Cuando suenan los tambores, no les cabe el alma en el cuerpo: se vuelven un torbellino, dan volteretas y todo el cuerpo se les despierta al son de la música palenquera."
+      ]
+    },
+    {
+      "title": "Medicina tradicional",
+      "paragraphs": [
+        "En Palenque la tierra habla igual que las personas. Hay sonidos que advierten males, sobre todo cuando los niños llegan al mundo y es más fácil que las malas energías los habiten. Cuando en la noche se escuchan chiflidos, es un mal presagio; hay que hacerse muy cerquita del recién nacido, cantarle y abrigarlo, porque las sombras lo están acechando.",
+        "El mal de ojo. Dicen que hay ojos pesados que, cuando miran con mucho asombro o curiosidad, pueden enfermar a los niños y a las niñas: les da fiebre, dejan de comer y se les va apagando el aliento. Hay que santiguarlos y bañarlos tres días —martes, jueves y viernes— con balsamina, hojas de guandul, colisencio y, si hubiera, hojas de doña Anita. Así se refresca al niño sofocado. Después del baño no debe caerle más agua, ni sacarlo al sereno, para que el frío no vuelva a entrar. En Palenque, un niño aprende a santiguar un mal de ojo, una oración del viento, una oración para tancar la sangre o espantar la plaga. Cerca de los ocho años, le enseñan el rezo del velorio.",
+        "Cuando empiezan a comer. Cuando los niños tienen pocos días de nacidos, sus mamás los limpian con verbena, bicho y escobilla menuda, tres raíces que siempre van juntas. Las arrancan, las lavan con esmero y las cocinan con panela hasta que suelten su esencia. Ese cocimiento limpia su estómago antes de que empiecen a probar comida dura. Al cumplir seis meses, comienzan a comer plátano, yuca y maíz, como toda la familia. Si no quieren comer, las abuelas les ofrecen arroz dulce, mazamorra de coco o puré de plátano maduro."
+      ]
+    },
+    {
+      "title": "Lengua ri suto. La lengua de nosotros",
+      "paragraphs": [
+        "La lengua ri palenge suena como los tambores. Es la única lengua criolla de base léxica española que ha sobrevivido en el mundo. Sus palabras vienen del español, y su gramática, de lenguas bantúes como el kikongo y el kimbundu. Hay palabras importantes como suto, que significa ‘nosotros’: se usa para decir ‘estamos juntos’ o ‘somos juntos’; o tabalá, que quiere decir ‘tambor de guerra’. Con ellas recuerdan que resistieron hasta ser libres con los tambores de su lado."
+      ]
+    },
+    {
+      "title": "El ritual del Lumbalú",
+      "paragraphs": [
+        "En Palenque, cuando una persona parte hacia el «más allá», la comunidad la acompaña durante nueve días y nueve noches con el lumbalú, un ritual que quiere decir ‘dolor colectivo’. Dicen que la muerte separa la sombra —el alma o el ánima— del cuerpo y cada una toma caminos distintos: la sombra viaja hacia el más allá y el cuerpo se queda en el cementerio. Con el lumbalú, la comunidad ayuda a la sombra a despedirse.",
+        "En el ritual acompañan los amigos, la familia, los compañeros del kuagro, y también el pechiche, un tambor que mide casi dos metros y solo se toca para despedir a quienes se van de este mundo. Dicen que tocarlo en cualquier otro momento atrae la ruina.",
+        "Todo comienza cuando una persona está «a la larga», es decir, tan enferma que su familia sabe que pronto se irá de este mundo. Cuando fallece, viene el entierro y el lumbalú continúa en la casa del difunto, donde se levanta un altar: una sábana blanca, una mesa con la Virgen del Carmen, el Sagrado Corazón, San Martín de Loba, un Cristo y un vaso con agua, para que la sombra nunca esté sedienta. El tamborero toca, mientras las rezanderas y cantadoras acompañan la partida del alma. Rezan los nueve días en la mañana y al final de la tarde, porque a esa hora el espíritu regresa a visitar la casa.",
+        "La última noche se cierra el camino que la sombra necesita para llegar al mundo de los muertos. El altar se pone más bonito: velas, sábanas blancas, santos y unos moños negros o blancos con morado. Es la noche más concurrida; la familia, las rezanderas, vecinos y amigos acompañan con rezos, cantos y bailes del lumbalú.",
+        "En Palenque, el espíritu de las personas adultas se queda un tiempo con la comunidad. El lumbalú lo ayuda a volver, con alegría y en paz, a África, su primera casa. A las niñas y niños pequeños los despiden distinto. Los palenqueros dicen que son angelitos: como todavía no han hecho nada malo en la vida, su alma no necesita ese camino tan largo; por eso descansa tranquila después de la sepultura, sin esperar tantas noches. ¡Asina jué!"
+      ]
+    },
+    {
+      "title": "Palenque suena a tambores",
+      "image": "images/palenque-suena-a-tambores.jpg",
+      "imageAlt": "Detalle de un músico palenquero interpretando un tambor",
+      "paragraphs": [
+        "Dicen que la primera música de Palenque vino de un tambor. Está en la vida de las niñas y los niños desde que son una semilla en la barriga de su mamá. Aun siendo pequeños, ya saben que existen la tambora, el alegre, el llamador y el pechiche: el tambor más grande, el mayor del pueblo palenquero, el ‘consentido’ de los instrumentos de la casa.",
+        "Junto a los tambores están las maracas, la clave y la marímbula de cuerda: una caja de madera con lengüetas metálicas que se pulsan con los dedos para producir notas graves. Llegó con los cubanos cortadores de caña de un ingenio azucarero entre Palenque y El Batey y se quedó para siempre como parte del corazón de Palenque."
+      ]
+    }
+  ]
+}

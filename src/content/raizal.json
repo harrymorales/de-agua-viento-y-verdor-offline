@@ -1,0 +1,1470 @@
+{
+  "meta": {
+    "slug": "raizal",
+    "name": "Raizal",
+    "language": "Creole raizal, español e inglés estándar",
+    "readingOriginalLabel": "Creole raizal",
+    "status": "text-ready",
+    "sources": [
+      "De agua viento y verdor 4.docx",
+      "Metadatos_Audioteca_FINAL.xlsm"
+    ],
+    "pending": [
+      "Copiar los 13 archivos de audio a audio/raizal y confirmar su extensión.",
+      "Incorporar imágenes autorizadas de portada, pistas y fototeca.",
+      "Confirmar origen o autor de la pista 12."
+    ]
+  },
+  "cover": {
+    "title": "Raizal",
+    "subtitle": "Relatos, cantos, juegos, palabras y paisajes sonoros de Providencia.",
+    "image": "",
+    "imageAlt": ""
+  },
+  "communityProfile": {
+    "facts": [
+      {
+        "label": "Territorio",
+        "value": "Providencia y Santa Catalina."
+      },
+      {
+        "label": "Otros nombres",
+        "value": "Isleños."
+      },
+      {
+        "label": "Ubicación",
+        "value": "Isla en el mar Caribe occidental, municipio de Providencia y Santa Catalina, departamento archipiélago de San Andrés, Providencia y Santa Catalina."
+      },
+      {
+        "label": "Población",
+        "value": "6.342 habitantes (Proyecciones de población del DANE, 2026). El 89 % de sus habitantes se identifica como raizal."
+      },
+      {
+        "label": "Lenguas",
+        "value": "Creole o criollo sanandresano, español e inglés estándar."
+      }
+    ],
+    "history": [
+      "En un pasado lejano, Providencia era un lugar de paso para los indios miskitos que venían en sus canoas a pescar tortugas y descansar de sus largas faenas por el mar.",
+      "Tiempo después, los españoles llegaron a América y pasaron por sus costas, pero nunca hicieron de la isla su hogar. Fueron los puritanos ingleses, en busca de una tierra donde vivir su fe sin ser perseguidos, quienes forjaron su hogar en el archipiélago. En 1631, cerca de cien colonos a bordo del Seaflower, al contemplar ese pedacito de tierra, vestido de verde y rodeado por un precioso mar con tantos tonos de azul, sintieron que era un regalo y por eso lo llamaron Providencia.",
+      "Al llegar, encontraron un cielo infinito, caracoles, peces y cangrejos, y, a cambio, entregaron a la isla el maíz y la caña de azúcar, pero, sobre todo, sus biblias y el sonido de su lengua.",
+      "Los puritanos cubrieron la tierra con semillas de tabaco y algodón, y trajeron esclavos desde África, pero la isla era pequeña y solitaria y esta siembra no prosperó. Para sobrevivir, se hicieron amigos de piratas bucaneros: asaltantes de barcos españoles, y Providencia fue, en ese entonces, escondite de corsarios y tesoros.",
+      "España volvió a tomar la isla en 1641: los puritanos partieron, y los esclavos fueron tomados como botín o siguieron cautivos de los españoles. Durante mucho tiempo, Inglaterra y España se disputaron esta tierra.",
+      "En 1822, San Andrés y Providencia pasaron a formar parte de la Gran Colombia. Y aunque la historia no terminó allí, de estos primeros encuentros entre ingleses y africanos nació el pueblo raizal que hoy habita Old Providence."
+    ],
+    "heritageNote": "La audioteca recoge memorias, músicas, palabras y paisajes sonoros de Old Providence."
+  },
+  "tracks": [
+    {
+      "number": "01",
+      "title": "Amanecer en Providencia",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 1",
+      "intro": "Amanece en la isla de Providencia. El canto del gallo abre el día y otras aves se suman. A lo lejos se oyen las voces de quienes empiezan sus labores mientras llega la primera luz. Escucha con atención: ¿qué sonidos te anuncian la mañana?",
+      "audio": "audio/raizal/Rai-01-Amanecer_en_providencia-pai-son.mp3",
+      "audioFileBase": "Rai-01-Amanecer_en_providencia-pai-son",
+      "duration": "5:00",
+      "language": "N/A",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "captureDate": "2026-06-06",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Brown girl in the ring",
+      "spanishTitle": "Una morena en la ronda",
+      "kind": "Canción",
+      "tracks": "Pista 2",
+      "intro": "En esta ronda tradicional, los niños forman un círculo y escogen a una niña para que pase al centro. Mientras cantan, ella hace distintos movimientos: se pone la mano en la cintura, mueve la cadera, brinca alrededor de todos ellos. Al final, gira y escoge a su pareja, quien pasa al centro para volver a empezar el juego. La niña de la ronda es una niña que luce como el azúcar y es dulce como la ciruela. Escucha Una morena en la ronda, grabada por los niños de la I.E. María Inmaculada, acompañados por la agrupación MacLean Brothers de Providencia.",
+      "audio": "audio/raizal/Rai-02-Brown_girl_in_the_ring-can.mp3",
+      "audioFileBase": "Rai-02-Brown_girl_in_the_ring-can",
+      "duration": "1:05",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "Tradición oral; interpretación de estudiantes de la I.E. María Inmaculada y McLean Brothers",
+      "captureDate": "2026-06-09",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        5
+      ],
+      "original": "There’s a brown girl in the ring, sha, la, la, la, la.\nThere’s a brown girl in the ring, sha, la, la, la, la.\nBrown girl in the ring, sha, la, la, la, la, la, la.\nShe looks like a sugar in a plum, plum, plum.\nThen you wheel and take your partner, sha, la, la, la.\nThen you wheel and take your partner, sha, la, la, la.\nThen you wheel and take your partner, sha, la, la, la.\nShe looks like a sugar in a plum, plum, plum.\nThen you show me your motion, sha, la, la, la, la.\nThen you show me your motion, sha, la, la, la, la.\nShow me your motion, sha, la, la, la.\nShe looks like a sugar in a plum, plum, plum.",
+      "translation": "Hay una morena en la ronda, sha, la, la, la, la.\nHay una morena en la ronda, sha, la, la, la, la.\nMorena en la ronda, sha, la, la, la, la, la, la.\nParece el dulce en una ciruela, ciruela, ciruela.\nDespués giras y tomas a tu pareja, sha, la, la, la, la.\nDespués giras y tomas a tu pareja, sha, la, la, la, la.\nDespués giras y tomas a tu pareja, sha, la, la, la, la.\nParece el dulce en una ciruela, ciruela, ciruela.\nDespués me muestras tu movimiento, sha, la, la, la, la.\nDespués me muestras tu movimiento, sha, la, la, la, la.\nMuéstrame tu movimiento, sha, la, la, la, la.\nParece el dulce en una ciruela, ciruela, ciruela."
+    },
+    {
+      "number": "03",
+      "title": "Naansi an Margaret stuori",
+      "spanishTitle": "Historia de Anansi y Margarita",
+      "kind": "Relato",
+      "tracks": "Pista 3",
+      "intro": "En la isla de Old Providence, donde los animales hablan como la gente, vivía un pez llamado Margarita dentro de sus aguas de color turquesa. No muy lejos, también se paseaba Anansi: una araña bien lista y traicionera. ¿Quieres saber qué ocurrió? Escucha la historia en la voz de Miss Dionisia Gómez Davis.",
+      "audio": "audio/raizal/Rai-03-Naansi_an_margaret_stuori-rel.mp3",
+      "audioFileBase": "Rai-03-Naansi_an_margaret_stuori-rel",
+      "duration": "3:34",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "Tradición oral; voz Dionicia Gómez Davis; traducción Alejandro Dawkins Hawkins",
+      "captureDate": "2026-06-04",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        5
+      ],
+      "translation": "Este cuento viene de Old Providence, la isla donde los animales todavía saben hablar. Allá, en esas aguas de color turquesa, vivía un pez llamado Margarita. Ella tenía dos hijas que la adoraban, y vivía tranquila en su casa. Pero por ahí andaba también Anansi: una araña bien lista y traicionera. Anansi siempre tenía hambre y siempre tenía un plan.\nUn día, Anansi iba caminando cuando escuchó algo.\nSe asomó a una casa y vio a las dos hijas de Margarita llorando.\n—¿Qué les pasa, niñas? —preguntó Anansi.\n—Nuestra mamá está muy enferma —dijo la mayor—. Le duelen los ojos. Le duele la cabeza. No sabemos qué hacer.\nA Anansi inmediatamente se le ocurrió un plan y les dijo:\n—¡Yo la curo! Yo sé el remedio. Necesito que me traigan vinagre, aceite, sal y pimienta. Yo me encargo.\nLas niñas corrieron. Buscaron todo. Volvieron con los ingredientes.\nEntonces Anansi les dijo:\n—Escúchenme bien. Debo hacerlo con la puerta cerrada o el remedio no funcionará. Ustedes se quedan aquí afuera, ¿bueno?\nLas niñas aceptaron.\n—Y cuando yo diga frii, es porque la curación está funcionando.\nAnansi cerró la puerta y las niñas esperaron afuera.\nPasó un rato y las hijas de Margarita preguntaron:\n—¿Cómo está nuestra mamá?\n—Frii. —dijo Anancy.\nPasó un rato más…\n—¿Cómo está nuestra mamá?\n—Friiii. —dijo Anancy.\nY por tercera vez…\n—¿Cómo está nuestra mamá?\n—Friiiiiiii.\nDespués de la tercera vez, las hijas no escucharon nada más. Solo silencio.\nLas niñas llamaron. Nadie contestó. Esperaron un poco más…\nEntonces, tumbaron la puerta.\nCuando entraron, solo estaban la cabeza, los huesos y un ojo salido.\nAnansi había freído a Margarita. Se la había comido… Y se había ido."
+    },
+    {
+      "number": "04",
+      "title": "He Died for Me",
+      "spanishTitle": "Él murió por mí",
+      "kind": "Canción",
+      "tracks": "Pista 4",
+      "intro": "En la isla, las familias cantan juntas en las ceremonias de sus iglesias. Este himno religioso se entona en la Iglesia Bautista, especialmente en Semana Santa. Escucha esta bella interpretación en la voz del señor Alejandro Dawkins Hawkins.",
+      "audio": "audio/raizal/Rai-04-He_died_for_me-can.mp3",
+      "audioFileBase": "Rai-04-He_died_for_me-can",
+      "duration": "1:27",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "John Newton (letra) y Edwin Othello Excell (música); interpretación Alejandro Dawkins Hawkins; dominio público",
+      "captureDate": "2026-06-09",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ],
+      "original": "I saw one hanging on the tree\nIn agony and love.\nHe fixed his languid eyes on me,\nAnd near the cross I stood.\nIt was for me upon the tree.\nHe died in agony.\nAnd now I give my life to Him,\nFor Him would die for me.",
+      "translation": "Vi a uno colgando en el árbol\nEn agonía y amor.\nFijó sus ojos lánguidos en mí,\nY cerca de la cruz me quedé yo.\nFue por mí sobre el madero.\nMurió en agonía.\nY ahora le entrego mi vida a Él,\nPues Él por mí moriría."
+    },
+    {
+      "number": "05",
+      "title": "Vocabularios",
+      "spanishTitle": "",
+      "kind": "Vocabulario",
+      "tracks": "Pista 5",
+      "intro": "En estas palabras se juntan las tres lenguas que conviven en Old Providence: el inglés, el creole y el español. Nombran la familia, la música y una pequeña muestra de lo que es importante para la vida de la isla.",
+      "audio": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audioFileBase": "Rai-05-Vocabularios-voc",
+      "duration": "7:34",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "Yaily Shakira Guerrero Taylor, Bruce Henrry Dufist y Blanca Newball Dawkins",
+      "captureDate": "2026-06-09",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        2
+      ],
+      "singleReading": true,
+      "original": "Familia\nMamá · Mother · Ma, mama, muma\nPapá · Father · Pa, papa, pupa\nHijo · Son · Son\nHija · Daughter · Daata\nNiño · Boy · Likl bwai\nNiña · Girl · Likl gyal\nNiños · Children · Pikniny\nBebé · Baby · Baybi\nHermano · Brother · Brada\nHermana · Sister · Sista\nTío · Uncle · Onkl\nTía · Aunt, auntie · Aant, aanti\nCuñado · Brother in law · Braa-ahn-laa\nCuñada · Sister in law · Sista-ahn-laa\nSobrino · Nephew · Nevyoo\nSobrina · Niece · Nees\nAbuelo · Grandfather · Granfaada\nAbuela · Grandmother · Grandmada, grani\nNieto · Grandson · Granson\nNieta · Granddaughter · Grandaata\nPrimo, Prima · Cousin · Kozn\n\nColores\nAmarillo · Yellow · Yela, yelo\nVerde · Green · Griin\nAzul · Blue · Bloo\nAzul cielo · Sky blue · Skai bloo\nAzul claro · Light blue · Layt bloo\nAzul oscuro · Deep blue · Daak bloo\nRojo · Red · Red\nMorado · Purple · Lavenda, maav\nBlanco · White · Wait\nNegro · Black · Blak\nCafé · Brown · Brong\nNaranja · Orange · Ariinj\nRosado · Pink · Pink\n\nAnimales\nPerro · Dog · Daag\nGato · Cat · Pus\nCaballo · Horse · Haas\nGallina · Hen · Fowl\nPollo, pollito · Chicken · Poito, chikin\nPájaro · Bird · Bord\nMosca · Fly · Flai\nHormiga · Ant · Aans\nAbeja · Bee · Bee\nVaca · Cow · Kow\nCerdo · Pig · Hag\nMosquito · Mosquito · Moskito\nCulebra · Snake · Snayk\n\nNúmeros\nUno · One · Wan\n\nPartes del cuerpo\nCabeza · Head · Hed\nCara · Face · Fays\nOjo · Eye · Aiy\nNariz · Nose · Noaz\nCeja · Eyebrow · Aiybrow\nPestaña · Eyelash · Aiylash\nBoca · Mouth · Mowt, mout\nLengua · Tongue · Tong\nDiente · Teeth · Teet\nOmbligo · Navel · Naybl\nUñas · Finger nail · Finganayl\nCuello · Neck · Nek\nEspalda · Back · Bak\nEstómago · Belly · Beli\nMano · Hand · Han\nPierna · Leg · Fut\nRodilla · Knee · Nee\nDedos de las manos · Fingers · Finga\nPie · Foot · Fut\nDedos de los pies · Toe nail · Toa\nOreja · Ear · Ayz\nCabello · Hair · Hyaa, hayr\nCorazón · Heart · Haat\n\nAnimales marinos\nPez · Fish · Fish\nCangrejo · Crab · Kraab\nCaracol · Sea snail, seashell · Konks\nLangosta · Lobster · Krayfish\nTortuga · Turtle · Tertl\nTiburón · Shark · Shaak\nRaya, mantarraya · Stingray, manta ray · Manta raya, tingreh\nCoral · Coral · Koral, koril\nEstrella de mar · Starfish · See staar\nCaballito de mar · Seahorse · See haas\nBarracuda · Barra · Bara\nMero · Rub fish · Grupa\nPargo · Snapper · Snapa\nDelfín · Dolphin · Dalfin\nEsposa vieja · Oldwife · Oal waif\nPargo rojo · Red fish · Red snapa\nPargo negro · Bra fish · Blak snapa\n\nMúsica y vamos a…\nMúsica · Music · Myoozik\nMandolina · Mandolin · Mandoline\nBajo de tina · Tinaja, tub · Tub\nQuijada de caballo · Horse jawbone · Haas jawbone\nGuitarra · Guitar · Gitaar\nCantar · Sing · Sing\nSilencio · Silence · Sailent\nRuido · Noise · Naiz\nMúsica coral · Coral music · Koral myoozik\nCantante · Singer · Singa\nAcordeón · Accordion · Akaadyan\nVamos a tocar unos instrumentos · We're going to touch some instruments · Wi gwain toch sohn inschrument\nVamos a cantar · Let’s go to sing, We're going to sing · Wi wahn sing\nVamos a bailar · Let's go to dance, let’s dance · Wi wahn daans\n\nEmociones\nAlegría · Happiness · Hapinis\nTristeza · Sadness · Sad\nCelebración · Celebration · Selibrayshan\nAburrimiento · Boredom · Boarin\nSorpresa · Surprise · Sopraiz\nMe siento triste · I'm sad · Ah sad\nMe siento alegre · I'm happy · Ah hapi\nExtraño el mar · I miss the sea · Ah mis di see\nTengo rabia · I'm upset, I'm angry · Ah beks\nMe siento bien, feliz, contento · I feel good, today I'm happy · Ah feel gud, tideh ah hapi\n\nNombrar el paisaje\nMar · Sea · See\nOla · Wave · Wayv, wiv\nCielo · Heaven, sky · Skai\nSol · Sun · Son\nLuna · Moon · Muun\nEstrella · Star · Staar\nMontaña · Hill · Hil\nÁrbol · Tree · Trii\nFlor · Flower · Flowaz\nPalma · Palm · Koakanat trii\nFuego · Fire · Faiya\nViento · Breeze · Breez\nPasto · Grass · Graas\nPiedra · Rock · Rak\nArena · Sand · San\nAgua · Water · Waata\nLluvia · Rain · Rayn\nTrueno · Thunder · Tondari\nTormenta · Storm · Staam\nAmanecer · Sunrise · Bifoa die, day di brok\nAtardecer · Sunset · Son dong\nHoja · Leaf · Leaf\nCamino · Road · Ruod\nDía · Day · Die\nNoche · Night · Nait\nPlaya · Beach · Beech\nHuracán · Hurricane · Harikayn\nTemporada de huracanes · Hurricane season · Harikayn seezn\nDía nublado · Cloudy · Di die is bleeki, klowdi\nDía soleado · The sun is shine, the sun is bright, sunny · Di son (is) shain, soni\nMar tranquilo · The sea is smooth · Di see mi smood\nMar agitado · The sea is rough · Di see mi rof"
+    },
+    {
+      "number": "06",
+      "title": "Los McLean Brothers interpretan un shotis",
+      "spanishTitle": "",
+      "kind": "Música instrumental",
+      "tracks": "Pista 6",
+      "intro": "El shotis es un ritmo de origen europeo que llegó con los puritanos, los colonos ingleses que poblaron Providencia entre 1627 y 1641. Es un baile de salón y, junto con otras danzas, se interpretaba en pequeñas plazas y patios bajo la luz de la luna o alrededor de fogatas en las noches oscuras. Escucha a los McLean Brothers, un ensamble típico de Providencia.",
+      "audio": "audio/raizal/Rai-06-Los_mclean_brothers_interpretan_un_shotis-mus.mp3",
+      "audioFileBase": "Rai-06-Los_mclean_brothers_interpretan_un_shotis-mus",
+      "duration": "2:32",
+      "language": "N/A",
+      "authorOrOrigin": "Tradición oral; Marion McLean, Kemisto McLean, Senavio Robinson y Luis Cantillo",
+      "captureDate": "2026-06-05",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        3
+      ]
+    },
+    {
+      "number": "07",
+      "title": "La siembra del cordón umbilical",
+      "spanishTitle": "",
+      "kind": "Relato",
+      "tracks": "Pista 7",
+      "intro": "Providencia guarda una tradición que une para siempre a los niños raizales con la isla que los vio nacer. Escucha este relato en la voz de Miss Dionisia Gómez Davis.",
+      "audio": "audio/raizal/Rai-07-La_siembra_del_cordon_umbilical-rel.mp3",
+      "audioFileBase": "Rai-07-La_siembra_del_cordon_umbilical-rel",
+      "duration": "1:10",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "Dionicia Gómez Davis; traducción Alejandro Dawkins Hawkins",
+      "captureDate": "2026-06-05",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        1
+      ]
+    },
+    {
+      "number": "08",
+      "title": "Sleep, baby, sleep",
+      "spanishTitle": "Duerme, bebé, duerme",
+      "kind": "Arrullo",
+      "tracks": "Pista 8",
+      "intro": "Escucha este arrullo tradicional que las mamás y las abuelas raizales cantan para dormir a sus pequeños. Suelen compartir la misma letra, aunque cada mamá lo viste con su propia melodía.",
+      "audio": "audio/raizal/Rai-08-Sleep_baby_sleep-arr.mp3",
+      "audioFileBase": "Rai-08-Sleep_baby_sleep-arr",
+      "duration": "0:57",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "Tradición oral; interpretación Dionicia Gómez Davis",
+      "captureDate": "2026-06-04",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        4
+      ],
+      "original": "Sleep, baby, sleep.\nGo sleep, baby, sleep.\nPapa will bring biscuit for you.\nSleep, baby, sleep.\nPapa will bring biscuit for you.\nGo sleep, baby, go sleep.\nDon’t cry, baby, don’t cry.\nGo sleep,\nPapa will bring biscuit for you.\nSleep, baby, sleep.\nGo sleep, baby, sleep.\nDon’t cry, baby, don’t cry.\nYes, baby, go sleep.\nGo sleep, go sleep, go sleep.\nSleep, baby, sleep.",
+      "translation": "Duerme, bebé, duerme.\nVe a dormir, bebé, duerme.\nPapá traerá galletas para ti.\nDuerme, bebe, duerme.\nPapá traerá galletas para ti.\nVe a dormir, bebé, ve a dormir.\nNo llores, bebé, no llores.\nVe a dormir,\nPapá traerá galletas para ti.\nDuerme, bebé, duerme.\nVe a dormir, bebé, duerme.\nNo llores, bebé, no llores.\nSí, bebé, ve a dormir.\nVe a dormir, ve a dormir, ve a dormir.\nDuerme, bebé, duerme."
+    },
+    {
+      "number": "09",
+      "title": "Fishing",
+      "spanishTitle": "Pesca",
+      "kind": "Relato",
+      "tracks": "Pista 9",
+      "intro": "De niña, Miss Aniss caminaba junto a otros niños hasta el cayo para pescar y cocinar juntos. Armaban un fogón y, entre todos, preparaban el pescado frito para compartirlo. Hoy, los niños de la isla son distintos. Escucha los recuerdos de infancia de Miss Aniss en Providencia.",
+      "audio": "audio/raizal/Rai-09-Fishing-rel.mp3",
+      "audioFileBase": "Rai-09-Fishing-rel",
+      "duration": "7:32",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "Anis Henry; traducción Alejandro Dawkins Hawkins",
+      "captureDate": "2026-06-04",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0,
+        2
+      ],
+      "original": "We’re speaking about when I was a child. When I was a child, we used to go on our foot right out there by the cay, and we go out there and fish in the air, and we catched our little fish such as butterfish, grunt, old-wife, pagui, taffie, chub, doctor, one we call doctorfish, and we come back in, and we sit down out there and we scrape them. And we go out and get three rock and put one side and we get with pot. And we go out and we thief the salt from my mother or we have the breadkind we thief and we go out there and have it hide. So when we come back in from out the cay, we have our thing prepared to cook. So we get together and we fry, and we make a thing with flour and make the one that we call fritters. So we have fry fish and fritters. And we don’t use the plate. We cut the soka leaf, put it down on the floor and everybody, everybody eat til’ we get sufficient. But now, the children them… you don’t see them go to the cay.",
+      "translation": "Estamos hablando de cuando era niña. Cuando era pequeña, solíamos ir a pie afuera, al cayo, e íbamos a pescar y agarrábamos pescados pequeños como pez butterfish, grunt, old-wife, pagui, taffie, chub, doctor, uno que llamamos doctorfish, y volvíamos a sentarnos afuera a rasparlos. Salíamos y poníamos tres rocas y una olla a un lado. Y salíamos y tomábamos la sal de mi mamá, o teníamos el breadkind que tomábamos, y salíamos a esconderlo. Cuando volvíamos del cayo, los preparábamos para comer. Entonces nos juntábamos, los fritábamos y hacíamos una masa con harina y preparábamos lo que llamamos fritters. Entonces, comíamos pescado frito y fritters. Y no usábamos platos. Cortábamos la hoja del plátano, la poníamos sobre el piso y todo el mundo, todo el mundo comía hasta que tenía suficiente. Pero ahora, los niños… no ves a los niños ir al cayo."
+    },
+    {
+      "number": "10",
+      "title": "Drop a letter",
+      "spanishTitle": "Deja caer una carta",
+      "kind": "Canción",
+      "tracks": "Pista 10",
+      "intro": "En las «noches de luna llena», la comunidad se reunía para jugar, cantar rondas y contar historias en los patios grandes de la isla. Eran días sin luz eléctrica donde nietos y abuelos jugaban juntos esta ronda. Escucha a los niños de la I.E. María Inmaculada, acompañados por la agrupación McLean Brothers de Providencia.",
+      "audio": "audio/raizal/Rai-10-Drop_a_letter-can.mp3",
+      "audioFileBase": "Rai-10-Drop_a_letter-can",
+      "duration": "0:32",
+      "language": "Creole (Raizal)",
+      "authorOrOrigin": "Tradición oral; interpretación de estudiantes de la I.E. María Inmaculada y McLean Brothers",
+      "captureDate": "2026-06-09",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        5
+      ],
+      "original": "I drop a letter round the ring.\nSomeone pick it up.\nAnd bye, bye, zapati.\nAll over!\n(Repeat until game is done)",
+      "translation": "Dejo caer una carta en la ronda.\nAlguno, recójala.\nY chao, chao, zapati.\n¡Todo de nuevo!"
+    },
+    {
+      "number": "11",
+      "title": "Jesus loves the little children",
+      "spanishTitle": "Jesús ama a los niños pequeños",
+      "kind": "Canción",
+      "tracks": "Pista 11",
+      "intro": "En Providencia, los niños asisten a la iglesia desde que son muy pequeños. Muy pronto, la comunidad les enseña esta canción para que en su corazón quede claro que Dios ama a todos los niños del mundo, sin importar su tamaño o su color.",
+      "audio": "audio/raizal/Rai-11-Jesus_loves_the_little_children-can.mp3",
+      "audioFileBase": "Rai-11-Jesus_loves_the_little_children-can",
+      "duration": "0:40",
+      "language": "Creole (Raizal) + Español",
+      "authorOrOrigin": "Clarence Herbert Woolston (letra) y George Frederick Root (música); dominio público; interpretación Krislena Bryan Howard, Mahalet Bryan Howard y Michaela Howard Corpus",
+      "captureDate": "2026-06-09",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        5
+      ],
+      "original": "Jesus love the little children,\nAll the children of the world,\nRed and yellow,\nBlack and white.\nThey are precious in His sight.\nJesus love the little children\nOf the world.\nJesus love the little children,\nAll the children of the world,\nRed and yellow,\nBlack and white.\nThey are precious in His sight.\nJesus love the little children,\nOf the world.",
+      "translation": "Jesús ama a los niños pequeños,\nA todos los niños del mundo,\nRojos y amarillos,\nNegros y blancos.\nSon preciosos ante Él.\nJesús ama a todos los niños del mundo.\nJesús ama a los niños pequeños,\nA todos los niños del mundo,\nRojos y amarillos,\nNegros y blancos.\nSon preciosos ante Él.\nJesús ama a todos los niños del mundo."
+    },
+    {
+      "number": "12",
+      "title": "Los McLean Brothers interpretan una mazurca",
+      "spanishTitle": "",
+      "kind": "Música instrumental",
+      "tracks": "Pista 12",
+      "intro": "La mazurca, junto con otros bailes de salón, llegó con los puritanos a Old Providence. Se interpreta con instrumentos como la mandolina, el violín, la guitarra, la quijada de caballo y el bajo de tinaja. Aunque no nació en la isla, hoy hace parte del alma de la música del pueblo raizal. ¿Has bailado alguna vez una mazurca? Escucha a Los McLean Brothers de Providencia.",
+      "audio": "audio/raizal/Rai-12-Los_mclean_brothers_interpretan_una_mazurca-mus.mp3",
+      "audioFileBase": "Rai-12-Los_mclean_brothers_interpretan_una_mazurca-mus",
+      "duration": "2:17",
+      "language": "N/A",
+      "authorOrOrigin": "Pendiente de confirmar el origen o autor en los metadatos; interpretación Marion McLean, Kemisto McLean, Senavio Robinson y Luis Cantillo",
+      "captureDate": "2026-06-05",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        3
+      ]
+    },
+    {
+      "number": "13",
+      "title": "Al mediodía en la playa de Manzanillo",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 13",
+      "intro": "Es mediodía en la playa de Manzanillo, en Providencia. Bajo el sol, las olas golpean la arena y mueven piedras pequeñas. Algunas llegan con fuerza; otras, suavemente. Escucha con atención: ¿cómo cambia el sonido del mar?",
+      "audio": "audio/raizal/Rai-13-Al_mediodia_en_la_playa_de_manzanillo-pai-son.mp3",
+      "audioFileBase": "Rai-13-Al_mediodia_en_la_playa_de_manzanillo-pai-son",
+      "duration": "5:00",
+      "language": "N/A",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "captureDate": "2026-06-06",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+      },
+      "image": "",
+      "activities": [
+        0,
+        2
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "title": "Familia",
+      "items": [
+        {
+          "spanish": "Mamá",
+          "english": "Mother",
+          "creole": "Ma, mama, muma",
+          "palenquero": "Mother · Ma, mama, muma"
+        },
+        {
+          "spanish": "Papá",
+          "english": "Father",
+          "creole": "Pa, papa, pupa",
+          "palenquero": "Father · Pa, papa, pupa"
+        },
+        {
+          "spanish": "Hijo",
+          "english": "Son",
+          "creole": "Son",
+          "palenquero": "Son · Son"
+        },
+        {
+          "spanish": "Hija",
+          "english": "Daughter",
+          "creole": "Daata",
+          "palenquero": "Daughter · Daata"
+        },
+        {
+          "spanish": "Niño",
+          "english": "Boy",
+          "creole": "Likl bwai",
+          "palenquero": "Boy · Likl bwai"
+        },
+        {
+          "spanish": "Niña",
+          "english": "Girl",
+          "creole": "Likl gyal",
+          "palenquero": "Girl · Likl gyal"
+        },
+        {
+          "spanish": "Niños",
+          "english": "Children",
+          "creole": "Pikniny",
+          "palenquero": "Children · Pikniny"
+        },
+        {
+          "spanish": "Bebé",
+          "english": "Baby",
+          "creole": "Baybi",
+          "palenquero": "Baby · Baybi"
+        },
+        {
+          "spanish": "Hermano",
+          "english": "Brother",
+          "creole": "Brada",
+          "palenquero": "Brother · Brada"
+        },
+        {
+          "spanish": "Hermana",
+          "english": "Sister",
+          "creole": "Sista",
+          "palenquero": "Sister · Sista"
+        },
+        {
+          "spanish": "Tío",
+          "english": "Uncle",
+          "creole": "Onkl",
+          "palenquero": "Uncle · Onkl"
+        },
+        {
+          "spanish": "Tía",
+          "english": "Aunt, auntie",
+          "creole": "Aant, aanti",
+          "palenquero": "Aunt, auntie · Aant, aanti"
+        },
+        {
+          "spanish": "Cuñado",
+          "english": "Brother in law",
+          "creole": "Braa-ahn-laa",
+          "palenquero": "Brother in law · Braa-ahn-laa"
+        },
+        {
+          "spanish": "Cuñada",
+          "english": "Sister in law",
+          "creole": "Sista-ahn-laa",
+          "palenquero": "Sister in law · Sista-ahn-laa"
+        },
+        {
+          "spanish": "Sobrino",
+          "english": "Nephew",
+          "creole": "Nevyoo",
+          "palenquero": "Nephew · Nevyoo"
+        },
+        {
+          "spanish": "Sobrina",
+          "english": "Niece",
+          "creole": "Nees",
+          "palenquero": "Niece · Nees"
+        },
+        {
+          "spanish": "Abuelo",
+          "english": "Grandfather",
+          "creole": "Granfaada",
+          "palenquero": "Grandfather · Granfaada"
+        },
+        {
+          "spanish": "Abuela",
+          "english": "Grandmother",
+          "creole": "Grandmada, grani",
+          "palenquero": "Grandmother · Grandmada, grani"
+        },
+        {
+          "spanish": "Nieto",
+          "english": "Grandson",
+          "creole": "Granson",
+          "palenquero": "Grandson · Granson"
+        },
+        {
+          "spanish": "Nieta",
+          "english": "Granddaughter",
+          "creole": "Grandaata",
+          "palenquero": "Granddaughter · Grandaata"
+        },
+        {
+          "spanish": "Primo, Prima",
+          "english": "Cousin",
+          "creole": "Kozn",
+          "palenquero": "Cousin · Kozn"
+        }
+      ]
+    },
+    {
+      "title": "Colores",
+      "items": [
+        {
+          "spanish": "Amarillo",
+          "english": "Yellow",
+          "creole": "Yela, yelo",
+          "palenquero": "Yellow · Yela, yelo"
+        },
+        {
+          "spanish": "Verde",
+          "english": "Green",
+          "creole": "Griin",
+          "palenquero": "Green · Griin"
+        },
+        {
+          "spanish": "Azul",
+          "english": "Blue",
+          "creole": "Bloo",
+          "palenquero": "Blue · Bloo"
+        },
+        {
+          "spanish": "Azul cielo",
+          "english": "Sky blue",
+          "creole": "Skai bloo",
+          "palenquero": "Sky blue · Skai bloo"
+        },
+        {
+          "spanish": "Azul claro",
+          "english": "Light blue",
+          "creole": "Layt bloo",
+          "palenquero": "Light blue · Layt bloo"
+        },
+        {
+          "spanish": "Azul oscuro",
+          "english": "Deep blue",
+          "creole": "Daak bloo",
+          "palenquero": "Deep blue · Daak bloo"
+        },
+        {
+          "spanish": "Rojo",
+          "english": "Red",
+          "creole": "Red",
+          "palenquero": "Red · Red"
+        },
+        {
+          "spanish": "Morado",
+          "english": "Purple",
+          "creole": "Lavenda, maav",
+          "palenquero": "Purple · Lavenda, maav"
+        },
+        {
+          "spanish": "Blanco",
+          "english": "White",
+          "creole": "Wait",
+          "palenquero": "White · Wait"
+        },
+        {
+          "spanish": "Negro",
+          "english": "Black",
+          "creole": "Blak",
+          "palenquero": "Black · Blak"
+        },
+        {
+          "spanish": "Café",
+          "english": "Brown",
+          "creole": "Brong",
+          "palenquero": "Brown · Brong"
+        },
+        {
+          "spanish": "Naranja",
+          "english": "Orange",
+          "creole": "Ariinj",
+          "palenquero": "Orange · Ariinj"
+        },
+        {
+          "spanish": "Rosado",
+          "english": "Pink",
+          "creole": "Pink",
+          "palenquero": "Pink · Pink"
+        }
+      ]
+    },
+    {
+      "title": "Animales",
+      "items": [
+        {
+          "spanish": "Perro",
+          "english": "Dog",
+          "creole": "Daag",
+          "palenquero": "Dog · Daag"
+        },
+        {
+          "spanish": "Gato",
+          "english": "Cat",
+          "creole": "Pus",
+          "palenquero": "Cat · Pus"
+        },
+        {
+          "spanish": "Caballo",
+          "english": "Horse",
+          "creole": "Haas",
+          "palenquero": "Horse · Haas"
+        },
+        {
+          "spanish": "Gallina",
+          "english": "Hen",
+          "creole": "Fowl",
+          "palenquero": "Hen · Fowl"
+        },
+        {
+          "spanish": "Pollo, pollito",
+          "english": "Chicken",
+          "creole": "Poito, chikin",
+          "palenquero": "Chicken · Poito, chikin"
+        },
+        {
+          "spanish": "Pájaro",
+          "english": "Bird",
+          "creole": "Bord",
+          "palenquero": "Bird · Bord"
+        },
+        {
+          "spanish": "Mosca",
+          "english": "Fly",
+          "creole": "Flai",
+          "palenquero": "Fly · Flai"
+        },
+        {
+          "spanish": "Hormiga",
+          "english": "Ant",
+          "creole": "Aans",
+          "palenquero": "Ant · Aans"
+        },
+        {
+          "spanish": "Abeja",
+          "english": "Bee",
+          "creole": "Bee",
+          "palenquero": "Bee · Bee"
+        },
+        {
+          "spanish": "Vaca",
+          "english": "Cow",
+          "creole": "Kow",
+          "palenquero": "Cow · Kow"
+        },
+        {
+          "spanish": "Cerdo",
+          "english": "Pig",
+          "creole": "Hag",
+          "palenquero": "Pig · Hag"
+        },
+        {
+          "spanish": "Mosquito",
+          "english": "Mosquito",
+          "creole": "Moskito",
+          "palenquero": "Mosquito · Moskito"
+        },
+        {
+          "spanish": "Culebra",
+          "english": "Snake",
+          "creole": "Snayk",
+          "palenquero": "Snake · Snayk"
+        }
+      ]
+    },
+    {
+      "title": "Números",
+      "items": [
+        {
+          "spanish": "Uno",
+          "english": "One",
+          "creole": "Wan",
+          "palenquero": "One · Wan"
+        }
+      ]
+    },
+    {
+      "title": "Partes del cuerpo",
+      "items": [
+        {
+          "spanish": "Cabeza",
+          "english": "Head",
+          "creole": "Hed",
+          "palenquero": "Head · Hed"
+        },
+        {
+          "spanish": "Cara",
+          "english": "Face",
+          "creole": "Fays",
+          "palenquero": "Face · Fays"
+        },
+        {
+          "spanish": "Ojo",
+          "english": "Eye",
+          "creole": "Aiy",
+          "palenquero": "Eye · Aiy"
+        },
+        {
+          "spanish": "Nariz",
+          "english": "Nose",
+          "creole": "Noaz",
+          "palenquero": "Nose · Noaz"
+        },
+        {
+          "spanish": "Ceja",
+          "english": "Eyebrow",
+          "creole": "Aiybrow",
+          "palenquero": "Eyebrow · Aiybrow"
+        },
+        {
+          "spanish": "Pestaña",
+          "english": "Eyelash",
+          "creole": "Aiylash",
+          "palenquero": "Eyelash · Aiylash"
+        },
+        {
+          "spanish": "Boca",
+          "english": "Mouth",
+          "creole": "Mowt, mout",
+          "palenquero": "Mouth · Mowt, mout"
+        },
+        {
+          "spanish": "Lengua",
+          "english": "Tongue",
+          "creole": "Tong",
+          "palenquero": "Tongue · Tong"
+        },
+        {
+          "spanish": "Diente",
+          "english": "Teeth",
+          "creole": "Teet",
+          "palenquero": "Teeth · Teet"
+        },
+        {
+          "spanish": "Ombligo",
+          "english": "Navel",
+          "creole": "Naybl",
+          "palenquero": "Navel · Naybl"
+        },
+        {
+          "spanish": "Uñas",
+          "english": "Finger nail",
+          "creole": "Finganayl",
+          "palenquero": "Finger nail · Finganayl"
+        },
+        {
+          "spanish": "Cuello",
+          "english": "Neck",
+          "creole": "Nek",
+          "palenquero": "Neck · Nek"
+        },
+        {
+          "spanish": "Espalda",
+          "english": "Back",
+          "creole": "Bak",
+          "palenquero": "Back · Bak"
+        },
+        {
+          "spanish": "Estómago",
+          "english": "Belly",
+          "creole": "Beli",
+          "palenquero": "Belly · Beli"
+        },
+        {
+          "spanish": "Mano",
+          "english": "Hand",
+          "creole": "Han",
+          "palenquero": "Hand · Han"
+        },
+        {
+          "spanish": "Pierna",
+          "english": "Leg",
+          "creole": "Fut",
+          "palenquero": "Leg · Fut"
+        },
+        {
+          "spanish": "Rodilla",
+          "english": "Knee",
+          "creole": "Nee",
+          "palenquero": "Knee · Nee"
+        },
+        {
+          "spanish": "Dedos de las manos",
+          "english": "Fingers",
+          "creole": "Finga",
+          "palenquero": "Fingers · Finga"
+        },
+        {
+          "spanish": "Pie",
+          "english": "Foot",
+          "creole": "Fut",
+          "palenquero": "Foot · Fut"
+        },
+        {
+          "spanish": "Dedos de los pies",
+          "english": "Toe nail",
+          "creole": "Toa",
+          "palenquero": "Toe nail · Toa"
+        },
+        {
+          "spanish": "Oreja",
+          "english": "Ear",
+          "creole": "Ayz",
+          "palenquero": "Ear · Ayz"
+        },
+        {
+          "spanish": "Cabello",
+          "english": "Hair",
+          "creole": "Hyaa, hayr",
+          "palenquero": "Hair · Hyaa, hayr"
+        },
+        {
+          "spanish": "Corazón",
+          "english": "Heart",
+          "creole": "Haat",
+          "palenquero": "Heart · Haat"
+        }
+      ]
+    },
+    {
+      "title": "Animales marinos",
+      "items": [
+        {
+          "spanish": "Pez",
+          "english": "Fish",
+          "creole": "Fish",
+          "palenquero": "Fish · Fish"
+        },
+        {
+          "spanish": "Cangrejo",
+          "english": "Crab",
+          "creole": "Kraab",
+          "palenquero": "Crab · Kraab"
+        },
+        {
+          "spanish": "Caracol",
+          "english": "Sea snail, seashell",
+          "creole": "Konks",
+          "palenquero": "Sea snail, seashell · Konks"
+        },
+        {
+          "spanish": "Langosta",
+          "english": "Lobster",
+          "creole": "Krayfish",
+          "palenquero": "Lobster · Krayfish"
+        },
+        {
+          "spanish": "Tortuga",
+          "english": "Turtle",
+          "creole": "Tertl",
+          "palenquero": "Turtle · Tertl"
+        },
+        {
+          "spanish": "Tiburón",
+          "english": "Shark",
+          "creole": "Shaak",
+          "palenquero": "Shark · Shaak"
+        },
+        {
+          "spanish": "Raya, mantarraya",
+          "english": "Stingray, manta ray",
+          "creole": "Manta raya, tingreh",
+          "palenquero": "Stingray, manta ray · Manta raya, tingreh"
+        },
+        {
+          "spanish": "Coral",
+          "english": "Coral",
+          "creole": "Koral, koril",
+          "palenquero": "Coral · Koral, koril"
+        },
+        {
+          "spanish": "Estrella de mar",
+          "english": "Starfish",
+          "creole": "See staar",
+          "palenquero": "Starfish · See staar"
+        },
+        {
+          "spanish": "Caballito de mar",
+          "english": "Seahorse",
+          "creole": "See haas",
+          "palenquero": "Seahorse · See haas"
+        },
+        {
+          "spanish": "Barracuda",
+          "english": "Barra",
+          "creole": "Bara",
+          "palenquero": "Barra · Bara"
+        },
+        {
+          "spanish": "Mero",
+          "english": "Rub fish",
+          "creole": "Grupa",
+          "palenquero": "Rub fish · Grupa"
+        },
+        {
+          "spanish": "Pargo",
+          "english": "Snapper",
+          "creole": "Snapa",
+          "palenquero": "Snapper · Snapa"
+        },
+        {
+          "spanish": "Delfín",
+          "english": "Dolphin",
+          "creole": "Dalfin",
+          "palenquero": "Dolphin · Dalfin"
+        },
+        {
+          "spanish": "Esposa vieja",
+          "english": "Oldwife",
+          "creole": "Oal waif",
+          "palenquero": "Oldwife · Oal waif"
+        },
+        {
+          "spanish": "Pargo rojo",
+          "english": "Red fish",
+          "creole": "Red snapa",
+          "palenquero": "Red fish · Red snapa"
+        },
+        {
+          "spanish": "Pargo negro",
+          "english": "Bra fish",
+          "creole": "Blak snapa",
+          "palenquero": "Bra fish · Blak snapa"
+        }
+      ]
+    },
+    {
+      "title": "Música y vamos a…",
+      "items": [
+        {
+          "spanish": "Música",
+          "english": "Music",
+          "creole": "Myoozik",
+          "palenquero": "Music · Myoozik"
+        },
+        {
+          "spanish": "Mandolina",
+          "english": "Mandolin",
+          "creole": "Mandoline",
+          "palenquero": "Mandolin · Mandoline"
+        },
+        {
+          "spanish": "Bajo de tina",
+          "english": "Tinaja, tub",
+          "creole": "Tub",
+          "palenquero": "Tinaja, tub · Tub"
+        },
+        {
+          "spanish": "Quijada de caballo",
+          "english": "Horse jawbone",
+          "creole": "Haas jawbone",
+          "palenquero": "Horse jawbone · Haas jawbone"
+        },
+        {
+          "spanish": "Guitarra",
+          "english": "Guitar",
+          "creole": "Gitaar",
+          "palenquero": "Guitar · Gitaar"
+        },
+        {
+          "spanish": "Cantar",
+          "english": "Sing",
+          "creole": "Sing",
+          "palenquero": "Sing · Sing"
+        },
+        {
+          "spanish": "Silencio",
+          "english": "Silence",
+          "creole": "Sailent",
+          "palenquero": "Silence · Sailent"
+        },
+        {
+          "spanish": "Ruido",
+          "english": "Noise",
+          "creole": "Naiz",
+          "palenquero": "Noise · Naiz"
+        },
+        {
+          "spanish": "Música coral",
+          "english": "Coral music",
+          "creole": "Koral myoozik",
+          "palenquero": "Coral music · Koral myoozik"
+        },
+        {
+          "spanish": "Cantante",
+          "english": "Singer",
+          "creole": "Singa",
+          "palenquero": "Singer · Singa"
+        },
+        {
+          "spanish": "Acordeón",
+          "english": "Accordion",
+          "creole": "Akaadyan",
+          "palenquero": "Accordion · Akaadyan"
+        },
+        {
+          "spanish": "Vamos a tocar unos instrumentos",
+          "english": "We're going to touch some instruments",
+          "creole": "Wi gwain toch sohn inschrument",
+          "palenquero": "We're going to touch some instruments · Wi gwain toch sohn inschrument"
+        },
+        {
+          "spanish": "Vamos a cantar",
+          "english": "Let’s go to sing, We're going to sing",
+          "creole": "Wi wahn sing",
+          "palenquero": "Let’s go to sing, We're going to sing · Wi wahn sing"
+        },
+        {
+          "spanish": "Vamos a bailar",
+          "english": "Let's go to dance, let’s dance",
+          "creole": "Wi wahn daans",
+          "palenquero": "Let's go to dance, let’s dance · Wi wahn daans"
+        }
+      ]
+    },
+    {
+      "title": "Emociones",
+      "items": [
+        {
+          "spanish": "Alegría",
+          "english": "Happiness",
+          "creole": "Hapinis",
+          "palenquero": "Happiness · Hapinis"
+        },
+        {
+          "spanish": "Tristeza",
+          "english": "Sadness",
+          "creole": "Sad",
+          "palenquero": "Sadness · Sad"
+        },
+        {
+          "spanish": "Celebración",
+          "english": "Celebration",
+          "creole": "Selibrayshan",
+          "palenquero": "Celebration · Selibrayshan"
+        },
+        {
+          "spanish": "Aburrimiento",
+          "english": "Boredom",
+          "creole": "Boarin",
+          "palenquero": "Boredom · Boarin"
+        },
+        {
+          "spanish": "Sorpresa",
+          "english": "Surprise",
+          "creole": "Sopraiz",
+          "palenquero": "Surprise · Sopraiz"
+        },
+        {
+          "spanish": "Me siento triste",
+          "english": "I'm sad",
+          "creole": "Ah sad",
+          "palenquero": "I'm sad · Ah sad"
+        },
+        {
+          "spanish": "Me siento alegre",
+          "english": "I'm happy",
+          "creole": "Ah hapi",
+          "palenquero": "I'm happy · Ah hapi"
+        },
+        {
+          "spanish": "Extraño el mar",
+          "english": "I miss the sea",
+          "creole": "Ah mis di see",
+          "palenquero": "I miss the sea · Ah mis di see"
+        },
+        {
+          "spanish": "Tengo rabia",
+          "english": "I'm upset, I'm angry",
+          "creole": "Ah beks",
+          "palenquero": "I'm upset, I'm angry · Ah beks"
+        },
+        {
+          "spanish": "Me siento bien, feliz, contento",
+          "english": "I feel good, today I'm happy",
+          "creole": "Ah feel gud, tideh ah hapi",
+          "palenquero": "I feel good, today I'm happy · Ah feel gud, tideh ah hapi"
+        }
+      ]
+    },
+    {
+      "title": "Nombrar el paisaje",
+      "items": [
+        {
+          "spanish": "Mar",
+          "english": "Sea",
+          "creole": "See",
+          "palenquero": "Sea · See"
+        },
+        {
+          "spanish": "Ola",
+          "english": "Wave",
+          "creole": "Wayv, wiv",
+          "palenquero": "Wave · Wayv, wiv"
+        },
+        {
+          "spanish": "Cielo",
+          "english": "Heaven, sky",
+          "creole": "Skai",
+          "palenquero": "Heaven, sky · Skai"
+        },
+        {
+          "spanish": "Sol",
+          "english": "Sun",
+          "creole": "Son",
+          "palenquero": "Sun · Son"
+        },
+        {
+          "spanish": "Luna",
+          "english": "Moon",
+          "creole": "Muun",
+          "palenquero": "Moon · Muun"
+        },
+        {
+          "spanish": "Estrella",
+          "english": "Star",
+          "creole": "Staar",
+          "palenquero": "Star · Staar"
+        },
+        {
+          "spanish": "Montaña",
+          "english": "Hill",
+          "creole": "Hil",
+          "palenquero": "Hill · Hil"
+        },
+        {
+          "spanish": "Árbol",
+          "english": "Tree",
+          "creole": "Trii",
+          "palenquero": "Tree · Trii"
+        },
+        {
+          "spanish": "Flor",
+          "english": "Flower",
+          "creole": "Flowaz",
+          "palenquero": "Flower · Flowaz"
+        },
+        {
+          "spanish": "Palma",
+          "english": "Palm",
+          "creole": "Koakanat trii",
+          "palenquero": "Palm · Koakanat trii"
+        },
+        {
+          "spanish": "Fuego",
+          "english": "Fire",
+          "creole": "Faiya",
+          "palenquero": "Fire · Faiya"
+        },
+        {
+          "spanish": "Viento",
+          "english": "Breeze",
+          "creole": "Breez",
+          "palenquero": "Breeze · Breez"
+        },
+        {
+          "spanish": "Pasto",
+          "english": "Grass",
+          "creole": "Graas",
+          "palenquero": "Grass · Graas"
+        },
+        {
+          "spanish": "Piedra",
+          "english": "Rock",
+          "creole": "Rak",
+          "palenquero": "Rock · Rak"
+        },
+        {
+          "spanish": "Arena",
+          "english": "Sand",
+          "creole": "San",
+          "palenquero": "Sand · San"
+        },
+        {
+          "spanish": "Agua",
+          "english": "Water",
+          "creole": "Waata",
+          "palenquero": "Water · Waata"
+        },
+        {
+          "spanish": "Lluvia",
+          "english": "Rain",
+          "creole": "Rayn",
+          "palenquero": "Rain · Rayn"
+        },
+        {
+          "spanish": "Trueno",
+          "english": "Thunder",
+          "creole": "Tondari",
+          "palenquero": "Thunder · Tondari"
+        },
+        {
+          "spanish": "Tormenta",
+          "english": "Storm",
+          "creole": "Staam",
+          "palenquero": "Storm · Staam"
+        },
+        {
+          "spanish": "Amanecer",
+          "english": "Sunrise",
+          "creole": "Bifoa die, day di brok",
+          "palenquero": "Sunrise · Bifoa die, day di brok"
+        },
+        {
+          "spanish": "Atardecer",
+          "english": "Sunset",
+          "creole": "Son dong",
+          "palenquero": "Sunset · Son dong"
+        },
+        {
+          "spanish": "Hoja",
+          "english": "Leaf",
+          "creole": "Leaf",
+          "palenquero": "Leaf · Leaf"
+        },
+        {
+          "spanish": "Camino",
+          "english": "Road",
+          "creole": "Ruod",
+          "palenquero": "Road · Ruod"
+        },
+        {
+          "spanish": "Día",
+          "english": "Day",
+          "creole": "Die",
+          "palenquero": "Day · Die"
+        },
+        {
+          "spanish": "Noche",
+          "english": "Night",
+          "creole": "Nait",
+          "palenquero": "Night · Nait"
+        },
+        {
+          "spanish": "Playa",
+          "english": "Beach",
+          "creole": "Beech",
+          "palenquero": "Beach · Beech"
+        },
+        {
+          "spanish": "Huracán",
+          "english": "Hurricane",
+          "creole": "Harikayn",
+          "palenquero": "Hurricane · Harikayn"
+        },
+        {
+          "spanish": "Temporada de huracanes",
+          "english": "Hurricane season",
+          "creole": "Harikayn seezn",
+          "palenquero": "Hurricane season · Harikayn seezn"
+        },
+        {
+          "spanish": "Día nublado",
+          "english": "Cloudy",
+          "creole": "Di die is bleeki, klowdi",
+          "palenquero": "Cloudy · Di die is bleeki, klowdi"
+        },
+        {
+          "spanish": "Día soleado",
+          "english": "The sun is shine, the sun is bright, sunny",
+          "creole": "Di son (is) shain, soni",
+          "palenquero": "The sun is shine, the sun is bright, sunny · Di son (is) shain, soni"
+        },
+        {
+          "spanish": "Mar tranquilo",
+          "english": "The sea is smooth",
+          "creole": "Di see mi smood",
+          "palenquero": "The sea is smooth · Di see mi smood"
+        },
+        {
+          "spanish": "Mar agitado",
+          "english": "The sea is rough",
+          "creole": "Di see mi rof",
+          "palenquero": "The sea is rough · Di see mi rof"
+        }
+      ]
+    }
+  ],
+  "vocabularyAudioSegments": {
+    "Familia": {
+      "start": 0,
+      "end": 0
+    },
+    "Colores": {
+      "start": 0,
+      "end": 0
+    },
+    "Animales": {
+      "start": 0,
+      "end": 0
+    },
+    "Números": {
+      "start": 0,
+      "end": 0
+    },
+    "Partes del cuerpo": {
+      "start": 0,
+      "end": 0
+    },
+    "Animales marinos": {
+      "start": 0,
+      "end": 0
+    },
+    "Música y vamos a…": {
+      "start": 0,
+      "end": 0
+    },
+    "Emociones": {
+      "start": 0,
+      "end": 0
+    },
+    "Nombrar el paisaje": {
+      "start": 0,
+      "end": 0
+    }
+  },
+  "photos": [],
+  "activities": [
+    {
+      "title": "El mar de siete colores: paisajes sonoros y memoria de la pesca",
+      "tracks": "Pistas 1, Amanecer en Providencia; 9, Fishing; y 13, Al mediodía en la playa de Manzanillo.",
+      "purpose": "Acompañar a las infancias a reconocer el mar como territorio cotidiano del pueblo raizal mediante la comparación de dos paisajes sonoros de Providencia (Pistas 1 y 13) y la memoria de la pesca compartida en la Pista 9 (Fishing). La experiencia invita a escuchar diferencias, imaginar recorridos por la orilla y comprender que el mar también es espacio de trabajo, alimento, juego y encuentro comunitario.",
+      "materials": "Materiales (Opciones sonoras para evocar el mar): Caracoles marinos reales, botellas plásticas transparentes con un poco de agua o semillas menudas, calabazos o totumos secos, o tubos de cartón; telas largas en tonos azules, turquesas y verdes; trozos de madera flotada.\nAmbientación: Telas extendidas en el suelo simulando el oleaje, con los objetos sonoros dispuestos al centro para invitar a la manipulación y la escucha íntima.",
+      "steps": [
+        "Opción A: Dos momentos sonoros de la isla. Escuchar las Pistas 1 y 13 sin anticipar lo que deben oír. Después de cada fragmento, nombrar sonidos cercanos y lejanos, intensos y suaves, y comparar qué cambia entre un paisaje y otro.",
+        "Opción B: El mar se mueve en la tela. Sostener telas azules y turquesas por los bordes y traducir con movimientos lentos o rápidos las variaciones que perciben en los paisajes sonoros. El grupo decide cuándo la tela está en calma y cuándo forma oleaje.",
+        "Opción C: Fishing: memoria de una faena compartida. Escuchar la Pista 9 y reconstruir con gestos las acciones que aparecen en el recuerdo: caminar, pescar, preparar el alimento y compartirlo. Conversar sobre qué tareas se hacen mejor cuando varias personas cooperan.",
+        "Opción D: El mapa de la orilla. Plegar las telas hacia el centro y ubicar sobre ellas maderas, piedras o caracoles como marcas de un mapa imaginario. Cada participante señala el lugar donde guardaría uno de los sonidos escuchados."
+      ],
+      "closing": "Se agitan suavemente las telas turquesas mientras se emite un susurro colectivo que imita la brisa marina matutina recorriendo la isla.",
+      "key": "Enfoque biocultural: Enfatizar que para el pueblo raizal el mar es un espacio colectivo de vida, trabajo y libertad.\nRespeto al ritmo corporal: Acompañar el juego de agacharse y levantarse con suavidad, adaptándolo a las posibilidades físicas de cada participante.",
+      "observation": "Escucha comparativa: Observar cómo distinguen y describen diferencias entre las Pistas 1 y 13.\nEvidencia sensible: Valeria explicó que en una grabación sentía «el mar más cerquita» y en la otra reconocía sonidos que parecían venir desde más lejos.\nMemoria de la pesca: Observar cómo reconstruyen corporalmente las acciones narradas en Fishing (Pista 9).\nEvidencia sensible: Mateo extendió una hoja en el suelo como si fuera una mesa y dijo que allí todos podían sentarse a compartir lo pescado.",
+      "adaptations": "Movilidad reducida: El movimiento de las telas y el balanceo de las olas se puede realizar sentados, enfatizando la expresión de los brazos y el torso.\nSensibilidad auditiva: Permitir que exploren primero la textura de las telas y maderas antes de acercar los resonadores al oído."
+    },
+    {
+      "title": "El ombligamiento: del propio cuerpo a la tierra viva",
+      "tracks": "Pista 7, La siembra del cordón umbilical.",
+      "purpose": "Acompañar a las infancias a hacer un viaje desde el reconocimiento de su cuerpo hasta el sentido del ombligamiento en Providencia. A partir de la Pista 7 (La siembra del cordón umbilical), se busca que reconozcan su cuerpo como primer hogar, descubran la huella de su ombligo y comprendan la relación simbólica entre nacimiento, familia, tierra y pertenencia.",
+      "materials": "Materiales: Espejos de mano; botones grandes o tapas plásticas con orificio central; cordones o lanas de colores; una maceta grande con tierra fértil al centro del salón; semillas (frijol o maíz) y ramitas.\nAmbientación: Círculo sobre esteras con la maceta en el centro, rodeada de hojas verdes o palmas, evocando los patios isleños.",
+      "steps": [
+        "Opción A: El espejo y el centro de la barriga. Usando espejos de mano o tocándose con delicadeza, exploran su rostro, sus manos y ubican su ombligo. Dialogar sobre la huella que nos recuerda el primer vínculo antes de nacer.",
+        "Opción B: El cordón que unía y la motricidad fina. Entregar a cada infante un botón grande o tapa perforada y un cordón. Pasan el hilo por el orificio para experimentar el lazo y el amarre, conversando sobre cómo al cortar el cordón empieza la vida propia, pero queda guardada su marca.",
+        "Opción C: Escucha de La siembra del cordón umbilical. Escuchar la Pista 7 y conversar sobre la práctica narrada en el registro. Cada niño ata una semilla a su cordón simbólico y expresa qué lugar, persona o recuerdo le hace sentir que pertenece a una comunidad.",
+        "Opción D: La siembra colectiva en la maceta del salón. Uno a uno depositan su «cordón» y semilla dentro de la maceta central, cubriéndolos con tierra. Tomados de las manos en ronda, emiten un susurro de agradecimiento a la tierra y al cuerpo."
+      ],
+      "closing": "La maceta con la siembra permanece en un lugar visible del espacio educativo como «El jardín de las raíces», recordando el arraigo de la infancia al territorio.",
+      "key": "Respeto y afecto: Crear un clima íntimo donde el ombligo se valore como símbolo de afecto, origen y pertenencia comunitaria.\nPaciencia motriz: Permitir que exploren el ensartado del botón a su propio ritmo, sin apremios de tiempo.",
+      "observation": "Reconocimiento corporal: Observar cómo ubican el ombligo y qué reflexiones verbalizan sobre su cuerpo.\nEvidencia sensible: Mateo se miró la barriga y dijo emocionado: «Aquí tengo mi botón natural, por ahí respiraba antes de nacer».\nVínculo territorial: Observar de qué manera asumen la siembra simbólica en la maceta.\nEvidencia sensible: Sofía pasó el cordón con calma y, al enterrarlo en la maceta, susurró: «Aquí se queda mi raíz para volver siempre».",
+      "adaptations": "Apoyo motor fino: Proveer tapas con orificios más anchos y cordones gruesos encintados en la punta.\nAccesibilidad física: Colocar la maceta a una altura adecuada para niños en silla de ruedas o con movilidad reducida."
+    },
+    {
+      "title": "Las olas del mar: palabras, memoria de la pesca y movimiento colectivo",
+      "tracks": "Pistas 5, Vocabularios; 9, Fishing; y 13, Al mediodía en la playa de Manzanillo.",
+      "purpose": "Acompañar a las infancias a experimentar el pulso del mar Caribe combinando tres entradas de la audioteca: palabras del Vocabulario (Pista 5), el relato Fishing (Pista 9) y el paisaje sonoro de la Pista 13. Mediante una tela amplia que sube y baja simulando las olas, el grupo conecta lengua, memoria y movimiento sin añadir registros sonoros ajenos al tracklist.",
+      "materials": "Materiales: Una tela amplia (preferiblemente azul o turquesa); caracoles marinos vacíos o tubos resonadores; instrumentos de percusión menor (claves, maracas).\nAmbientación: Salón despejado con la gran tela extendida en el centro, lista para ser tomada por los bordes por todo el grupo.",
+      "steps": [
+        "Opción A: Palabras que llegan con la ola. Escuchar fragmentos de la Pista 5 y seleccionar palabras vinculadas con el mar, los animales, la familia o la música. Repetirlas únicamente como juego de escucha y sonoridad, sin convertir la experiencia en una lección de memorización.",
+        "Opción B: El gran mar de tela. Con la Pista 13 como fondo, el grupo se distribuye alrededor de la tela amplia, sosteniéndola con ambas manos. Mueven la tela despacio, generando ondas suaves, y luego modifican el movimiento según los cambios que perciben en el paisaje sonoro.",
+        "Opción C: Fishing bajo la gran ola. Escuchar un fragmento de la Pista 9 y representar bajo y alrededor de la tela las acciones de caminar hacia el cayo, pescar, preparar y compartir la comida. Alternar los roles para que todos participen.",
+        "Opción D: La marea en calma. La tela desciende suavemente hasta el piso. Los niños se sientan alrededor y recuerdan una palabra, un sonido o una acción que quieran conservar de las tres pistas."
+      ],
+      "closing": "Se pliega la tela entre todos hacia el centro y se deja sobre ella un pequeño objeto de la orilla como símbolo del mar, despidiendo la sesión con un susurro que imita la resaca de las olas.",
+      "key": "Coordinación grupal: Promover que el movimiento de la tela sea armónico, evitando tirones bruscos para favorecer la sincronía colectiva.\nEscucha atenta: Alternar momentos de juego dinámico con silencios repentinos para advertir el sonido de fondo del mar.",
+      "observation": "Coordinación colectiva: Observar cómo sincronizan sus movimientos para elevar y descender la tela en grupo.\nEvidencia sensible: El grupo acompasó sus brazos sin necesidad de órdenes, respirando al tiempo que la tela subía hacia el techo.\nMemoria sonora y lingüística: Observar qué palabras o acciones de las Pistas 5, 9 y 13 permanecen en la conversación infantil.\nEvidencia sensible: Camila levantó la tela, nombró el mar con una de las palabras escuchadas y recordó que en Fishing la comida se preparaba para compartirla.",
+      "adaptations": "Movilidad reducida: Participar sosteniendo y moviendo la tela desde una silla o marcando el pulso con maracas desde un lateral.\nSensibilidad al movimiento: Quien prefiera no pasar debajo de la tela puede observar el vaivén sujetando un extremo con suavidad."
+    },
+    {
+      "title": "La música, la danza y el eco de los cotidiófonos: la orquesta de las islas",
+      "tracks": "Pistas 6, Los McLean Brothers interpretan un shotis; y 12, Los McLean Brothers interpretan una mazurca.",
+      "purpose": "Acompañar a las infancias a descubrir y valorar el patrimonio musical del pueblo raizal mediante dos registros concretos de la audioteca: el shotis de la Pista 6 y la mazurca de la Pista 12, interpretados por Los McLean Brothers. A partir de la escucha se reconocen timbres, pulsos y formas de bailar en comunidad, conectando luego este saber con la creación de cotidiófonos.",
+      "materials": "Materiales: Imágenes o muestras de instrumentos tradicionales (mandolina, violín, maracas, jawbone o quijada de caballo, tub bass o bajo de tinaja); pañuelos largos de colores para la danza; materiales cotidianos para los cotidiófonos (cajas de cartón, botellas plásticas, latas limpias, semillas secas, troqueles de madera, peines y maderas con muescas).\nAmbientación: Salón organizado en semicírculo, simulando un solar caribeño con los materiales de reúso distribuidos en el centro dentro de bateas o canastos.",
+      "steps": [
+        "Opción A: Dos bailes, dos escuchas. Sentados en círculo, escuchar fragmentos de las Pistas 6 y 12. Comparar cuál invita a pasos más marcados, cuál se siente más suave o giratoria y qué instrumentos alcanzan a reconocer.",
+        "Opción B: Descubriendo los instrumentos de la orquesta isleña. Observar imágenes de mandolina, violín, guitarra, quijada de caballo y bajo de tinaja, relacionándolas con los timbres que aparezcan en los dos registros escuchados.",
+        "Opción C: Taller artesanal de cotidiófonos. Las infancias exploran los materiales cotidianos (latas con muescas, peines, semillas, cajas de cartón) para construir sus propios instrumentos musicales caseros inspirados en la orquesta isleña.",
+        "Opción D: Danza de pañuelos y orquesta comunitaria. Con los cotidiófonos en mano y ondeando pañuelos de colores, alternar movimientos inspirados en el shotis y la mazurca: un subgrupo toca y el otro danza, y luego intercambian los roles."
+      ],
+      "closing": "Se guardan los cotidiófonos y pañuelos en un baúl comunitario y el encuentro termina recuperando, a elección del grupo, un breve fragmento del shotis o de la mazurca.",
+      "key": "Hibridación cultural: Explicar con sencillez y calidez que la música raizal es un puente vivo donde convergen raíces europeas, africanas y caribeñas.\nLibertad expresiva: Permitir que la danza surja desde la soltura y el balanceo del cuerpo, sin imponer coreografías rígidas.",
+      "observation": "Reconocimiento instrumental: Observar cómo vinculan los objetos de la vida diaria con los timbres tradicionales.\nEvidencia sensible: Mateo tomó una tablita con ranuras y un palito diciendo: «Este es mi raspador para hacer sonar el mento como tocaban los abuelos».\nExpresión corporal: Observar la coordinación y el disfrute del balanceo durante el baile con pañuelos.\nEvidencia sensible: Sofía mecía su pañuelo de lado a lado dando pasos cortos con una sonrisa al compás de la música.",
+      "adaptations": "Movilidad reducida: La interpretación de los cotidiófonos y el ondeado de pañuelos se adapta para realizarse sentados, priorizando el movimiento de brazos, muñecas y torso.\nSensibilidad acústica: Graduar la intensidad sonora y ofrecer recipientes con semillas pequeñas para producir sonoridades suaves."
+    },
+    {
+      "title": "La palabra que cuida: canto de iglesia, arrullo y memoria familiar",
+      "tracks": "Pistas 4, He Died for Me; y 8, Sleep, baby, sleep.",
+      "purpose": "Acompañar a las infancias a reconocer dos formas distintas de canto presentes en la vida comunitaria de Providencia. La Pista 4 (He Died for Me) permite acercarse al canto compartido en la Iglesia Bautista como una expresión cultural de la comunidad; la Pista 8 (Sleep, baby, sleep) introduce el arrullo familiar. La experiencia se centra en escuchar cómo una comunidad canta junta y cómo una voz adulta puede acompañar el descanso de un niño.",
+      "materials": "Materiales: Pañuelos de tela suave; muñecos de trapo o cojines pequeños; dos o tres imágenes de encuentros familiares o comunitarios; mantas livianas.\nAmbientación: Círculo tranquilo con las mantas y pañuelos al centro, pensado para pasar de la escucha coral a un momento de arrullo y calma.",
+      "steps": [
+        "Opción A: Una voz dentro de muchas voces. Escuchar la Pista 4 y prestar atención a cómo una canción puede ser sostenida por una persona y, al mismo tiempo, pertenecer a una práctica compartida por la comunidad. No se busca reproducir un acto religioso, sino reconocer el canto como parte de la memoria cultural raizal.",
+        "Opción B: Lo que sentimos cuando una comunidad canta. Después de la Pista 4, cada participante elige un pañuelo y expresa con un movimiento si el canto le pareció fuerte, pausado, solemne, cercano u otra sensación surgida de la escucha.",
+        "Opción C: Sleep, baby, sleep. Escuchar la Pista 8 mientras los niños mecen un muñeco, un cojín o sus propios brazos. Percibir cómo cambia el cuerpo cuando la voz baja de intensidad y se convierte en arrullo.",
+        "Opción D: Del coro al susurro. Alternar unos segundos de tarareo colectivo con momentos de silencio y respiración, terminando con los pañuelos extendidos sobre el regazo como pequeñas mantas."
+      ],
+      "closing": "Cada niña y niño dobla su pañuelo como una pequeña manta y lo deposita en el centro, nombrando una palabra asociada con el cuidado o la calma.",
+      "key": "Respeto por la diversidad de creencias: Presentar la Pista 4 como un registro cultural de la vida comunitaria raizal, sin convertir la experiencia pedagógica en práctica devocional.\nTransición afectiva: Guiar el paso desde la escucha coral hacia el arrullo de la Pista 8 con una voz tranquila y movimientos cada vez más lentos.",
+      "observation": "Escucha del canto comunitario: Observar cómo describen la textura y la intensidad de la Pista 4 sin exigir interpretaciones religiosas.\nEvidencia sensible: Helena dijo que la voz «sonaba como cuando muchas personas se reúnen para recordar algo importante».\nRespuesta al arrullo: Observar la disposición corporal durante la Pista 8.\nEvidencia sensible: Al comenzar Sleep, baby, sleep, varios niños balancearon lentamente los cojines y bajaron espontáneamente el volumen de sus voces.",
+      "adaptations": "Movilidad reducida: El mecido puede realizarse con un pañuelo o cojín sobre el regazo, usando movimientos pequeños de manos y antebrazos.\nSensibilidad auditiva: Mantener ambos registros a un volumen moderado y permitir participar solo mediante el movimiento del pañuelo."
+    },
+    {
+      "title": "El canasto de Anansi: rondas, cuentos y cantos en creole",
+      "tracks": "Pistas 2, Brown girl in the ring; 3, Naansi an Margaret stuori; 10, Drop a letter; y 11, Jesus loves the little children.",
+      "purpose": "Sumergir a las infancias en la oralidad y el juego del pueblo raizal mediante cuatro registros complementarios: la ronda Brown girl in the ring (Pista 2), el relato de Anansi y Margarita (Pista 3), la ronda Drop a letter (Pista 10) y el canto Jesus loves the little children (Pista 11). La experiencia articula narración, movimiento circular y canto sin añadir audios externos al corpus.",
+      "materials": "Materiales: Canasto tejido de mimbre o palma al centro; madejas de hilo grueso o cabuya suave para tejer simbólicamente la red de Anansi; un sobre pequeño de tela rústica (\"la carta\"); pañuelos de colores.\nAmbientación: Salón en círculo en torno al canasto, con hilos cruzados que simulan una telaraña y suficiente espacio libre alrededor para realizar las rondas.",
+      "steps": [
+        "Opción A: La red de Anansi y el cuento del pez. Escuchar la Pista 3 (Naansi an Margaret stuori). Dialogar sobre las decisiones de Anansi y reconstruir la secuencia del relato pasando un hilo de mano en mano hasta formar una red.",
+        "Opción B: Dos rondas de la isla. Alternar fragmentos de las Pistas 2 y 10. Con Brown girl in the ring, una persona ocupa el centro y responde con movimientos; con Drop a letter, un participante recorre el exterior del círculo y deja la carta. Comparar cómo cambia el papel de quien está dentro y de quien está fuera de la ronda.",
+        "Opción C: Un canto aprendido por los niños. Escuchar la Pista 11 (Jesus loves the little children) como parte del repertorio que la comunidad enseña a sus infancias. Quien quiera puede acompañar el pulso con palmas suaves o con el movimiento de un pañuelo.",
+        "Opción D: El canasto de cuatro memorias. Al terminar, cada participante deposita en el canasto uno de cuatro símbolos: un hilo para Anansi, una cinta para Brown girl in the ring, una pequeña carta para Drop a letter o un pañuelo para el canto. Explica cuál de los cuatro registros quiere volver a escuchar."
+      ],
+      "closing": "El canasto permanece en la sala con los cuatro tipos de objetos como memoria de los cuentos, rondas y cantos de Providencia.",
+      "key": "Autonomía lingüística: Permitir que las rondas y cantos conserven su sonoridad original; la mediación puede explicar el contexto sin convertir la escucha en un ejercicio de traducción palabra por palabra.\nCuidado cultural: Presentar las Pistas 2, 3, 10 y 11 como expresiones distintas de la vida comunitaria —cuento, juego y canto—, evitando mezclarlas como si fueran un único género.",
+      "observation": "Participación en rondas: Observar cómo comprenden y asumen los diferentes roles de las Pistas 2 y 10.\nEvidencia sensible: Los niños distinguieron rápidamente que en una ronda alguien bailaba en el centro y en la otra la carta viajaba por fuera del círculo.\nEscucha narrativa y coral: Observar qué elementos recuerdan del relato de Anansi (Pista 3) y cómo acompañan el pulso de la Pista 11.\nEvidencia sensible: Después del cuento, una niña dejó un hilo en el canasto para Margarita y otro niño eligió el pañuelo porque quería volver a escuchar el canto.",
+      "adaptations": "Movilidad reducida: Las rondas pueden realizarse sentados: el movimiento del centro se expresa con brazos y torso, y la carta se pasa de mano en mano alrededor del círculo.\nApoyo motor fino: Disponer cintas anchas para el tejido simbólico y sobres de tela fáciles de sujetar."
+    }
+  ],
+  "culturalArticles": [
+    {
+      "title": "El ombligamiento",
+      "paragraphs": [
+        "En Providencia, cuando nace un bebé, se corta el cordón umbilical y se pide al padre o a la familia que traiga un cocotero y, si no lo encuentran, un arbolito de mango o un palo de naranjo; lo importante es que sea un árbol joven y fuerte. El cordón umbilical se siembra cerca de la casa y, sobre él, se planta la palma de coco o el árbol que hayan elegido. Así los raizales se aseguran de que el niño o niña tenga salud y saben con certeza que, si los vientos lo llevan lejos, siempre va a regresar a su isla. Es su manera de decirle al universo: «Este niño pertenece a una familia, tiene una comunidad y un territorio. Este niño tiene una raíz»."
+      ]
+    },
+    {
+      "title": "El sonido de la caracola. Conch Shell blowing",
+      "paragraphs": [
+        "En otros tiempos, cuando no había radios ni teléfonos, en la isla se escuchaba el sonido de la caracola o conch shell blowing. Así, las voces que estaban en el mar podían hablar con aquellas que estaban en la tierra. Tres toques largos y limpios anunciaban que un barco se acercaba; toques cortos y muy vivos hacían saber que el mar había sido generoso con los pescadores; muchos toques repetidos alertaban sobre un incendio o una calamidad y su canto se podía escuchar a muchas millas de distancia. Los grandes barcos de pesca y cada canoa, aunque fuese pequeñita, llevaban a bordo una caracola.",
+        "Quien la hacía sonar también conocía cómo convertirla en un instrumento. Podía reconocer cuál de las conchas era la indicada, y cómo hacer el orificio para que el sonido tuviera un camino para nacer. Además, sabía que, si el cuerpo del caracol pala era grande, más grande era la casa que habitaba, y más lejos y fuerte iba a viajar su voz.",
+        "Hoy, pocos recuerdan cómo hacer sonar la caracola. Miss Aniss, una abuela de más de ochenta años, sabe cómo mover sus labios y vibrar la lengua para soplarla, y también puede entonar bajito cada uno de sus sonidos; sin embargo, sus pequeños pulmones ya no tienen la fuerza para hacerla cantar. Son sus nietos quienes están llamados a tocar la caracola, a mantener viva la tradición que corre por su sangre raizal. Aún hay esperanza:",
+        "en la isla hay algunos que saben del conch shell blowing, dispuestos a enseñarlo a los niños curiosos que quieran aprender."
+      ]
+    },
+    {
+      "title": "Pikninis",
+      "paragraphs": [
+        "A los niños en Providencia los llaman pikninis. La palabra viene del portugués pequenino, que significa ‘pequeñito’, y llegó por el Caribe a través de las rutas de comercio y esclavos para quedarse a vivir en el creole sanandresano que hoy entona el pueblo raizal.",
+        "Son muy altos, como si su cercanía con el viento y el sol los hubiera alargado más que a otros niños de su edad. Corretean gallinas, se acurrucan en silencio para observar a los lagartos azules, patinan, juegan béisbol y saltan el lazo. Se trepan a tomar frutas de los árboles del pan y juegan al «barco de lava». Van a la escuela entre semana y cantan en la iglesia con su familia los domingos. Las niñas hacen volteretas y arcoíris, y tanto a los niños como a las niñas les brillan los ojos al jugar con la arena de la playa y contemplar las velas contoneándose en las competencias de cat boats. Todos crecen con abuelas que siembran pepitas en el patio trasero y preparan dulce de papaya o de grosellas cuando las pepitas ya están grandes.",
+        "Esas abuelas también les han enseñado que la autoridad es importante: la de sus padres y abuelos, pero especialmente la de Dios, quien es el corazón y guía de la comunidad. Por eso, son niños que saben que hay un tiempo para jugar, un tiempo para la escuela y un tiempo para la iglesia; han aprendido a escuchar, con atención y respeto, la voz de quienes nacieron antes que ellos.",
+        "Sobre todo, son niños que crecen abrazados por el mar. Tienen un papá, un tío, una abuela o un abuelo pescador y, desde pequeños, zarpan a pescar en mar abierto cuando nace la mañana, o en la tarde, cuando el sol ya va aflojando. Usan anzuelos de nylon y carnadas de sardinas y caracoles; conocen tiburones bobos, dulces y confiados, y también martillos, más feroces. En su escuela, hay un día que celebran al mar como su cumpleaños.",
+        "Hablan de cangrejos y manglares, y se atropellan por nombrar los peces que conocen en inglés y en español: red fish, black snapper, rap fish, barracuda, pez loro, pez bonito, pez caballo, pez globo, margarita, peces rojos… y el «pez amoroso», un pez que nada rodeado de cientos de peces pequeñitos, a los que cuida como si fuesen suyos.",
+        "Tanto los niños como las niñas saben preparar el rondón, y desde que tienen uso de razón han escuchado decir a sus abuelos que «el mar es todo»",
+        "Los niños y niñas raizales traen el azul por dentro: el azul del cielo que se refleja en el del mar, como en un espejo."
+      ]
+    },
+    {
+      "title": "La música",
+      "paragraphs": [
+        "Cada rincón de Providencia tiene su propia música. Se escuchan los silbidos del viento y los ronquidos del mar. También, los pasitos de los cangrejos que bajan de la montaña, atravesando la isla, para desovar en la playa, y el rugido de los motores de las motos y las lanchas que nunca dejan de bordear la isla… Es una isla que suena y además abriga otras músicas muy propias del pueblo raizal.",
+        "Estas músicas se fueron formando con sonidos e instrumentos de diferentes descendencias: los ingleses trajeron la mandolina y el violín, con los que se interpretaban los bailes de salón de los abuelos: quadrille, mazurca, shotiss y polka. De África, atravesando el mar, llegó el jawbone o quijada de caballo: un hueso de mandíbula secado al sol, cuyos dientes vibran al golpearlo con el puño o al frotarlo con un palo; y el tub bass o bajo de tinaja: una tina o balde metálico de lavar ropa puesto boca abajo, con un palo y una cuerda que se tensan y que suena como un bajo de verdad. A ellos se les unieron las maracas que venían de los indígenas del sur.",
+        "También de la raíz africana vienen el calypso y el mento, ritmos que llegaron a Providencia desde el Caribe y que, junto al reggae de Jamaica y la soca de Trinidad y Tobago, hacen parte del alma musical de la isla. Son músicas hechas desde el ingenio y la resistencia, que suenan a cantos de labor, con un vaivén que va sin prisa, como balanceándose.",
+        "Los raizales hicieron suyos todos estos sonidos para acompañar sus días y celebraciones, y junto a los ensambles tradicionales, hoy combinan alegremente ambas herencias. A este legado se suman los himnos y alabanzas que cantan con el alma encendida cada domingo en la iglesia."
+      ]
+    },
+    {
+      "title": "La lengua en Providencia",
+      "paragraphs": [
+        "Cuando los esclavos traídos por los puritanos ingleses llegaron a Providencia, trajeron consigo sus lenguas africanas. Junto a sus amos, aprendieron el inglés para poder entenderlos y también para hablar entre ellos, pues no les permitían usar las lenguas con las que habían crecido, todas distintas unas de otras.",
+        "Un día decidieron crear una lengua propia. A ese inglés, que apenas estaban conociendo, le fueron sumando palabras suyas, buscando inventar un código que solo pudiera ser descifrado por ellos. De allí nació el creole sanandresano, que tiene como base léxica el inglés y está influenciado por el español y por varias lenguas africanas, principalmente del grupo kwa, como el twi y el ewé, además del ibo, el mende y el mandinka.",
+        "En Providencia, para quienes sienten su ascendencia más cercana a los puritanos, el inglés es su lengua materna. Se apellidan Newball, Hawkings o Dawkings y tienen la piel clara y narices suavecitas. Quienes se apellidan Livingstone, Bernard o Henry, y habitan Bottom House, o ‘Casa Baja’, llevan consigo una herencia africana más marcada, y en su creole aún perviven las palabras de esas lenguas, con las que llegaron los primeros africanos.",
+        "En la isla, el español es la lengua oficial de la administración pública y la escuela; el inglés tiene un gran prestigio y un lugar en la iglesia, y el creole es la lengua de todos los días, la que vive en la familia, en la calle, en la celebración. Es la música con la que los niños juegan en los descansos de la escuela y los sonidos con los que los abuelos les hablan al mar y a las estrellas."
+      ]
+    }
+  ]
+}

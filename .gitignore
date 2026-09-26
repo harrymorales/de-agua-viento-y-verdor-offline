@@ -1,0 +1,10 @@
+# Extracted source material and temporary working files
+tmp/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Vercel local state
+.vercel/

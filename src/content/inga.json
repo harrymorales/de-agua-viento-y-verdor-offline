@@ -1,0 +1,1279 @@
+{
+  "meta": {
+    "slug": "inga",
+    "name": "Inga",
+    "language": "Inga y español",
+    "readingOriginalLabel": "Inga",
+    "status": "text-ready",
+    "sources": [
+      "De agua viento y verdor 4.docx",
+      "Metadatos_Audioteca_FINAL.xlsm"
+    ],
+    "pending": [
+      "Incorporar los 15 audios y las imágenes autorizadas."
+    ]
+  },
+  "cover": {
+    "title": "Inga",
+    "subtitle": "Relatos, cantos, palabras y paisajes sonoros del Resguardo Indígena de Aponte."
+  },
+  "communityProfile": {
+    "facts": [
+      {
+        "label": "Otros nombres",
+        "value": "Ingano o pueblo viajero."
+      },
+      {
+        "label": "Ubicación",
+        "value": "Resguardo Indígena de Aponte, El Tablón de Gómez, Nariño."
+      },
+      {
+        "label": "Población",
+        "value": "3.028 personas agrupadas en 1.091 familias."
+      },
+      {
+        "label": "Lenguas",
+        "value": "Inga y español."
+      }
+    ],
+    "history": [
+      "Alrededor de la tulpa, los mayores cuentan que Carlos Tamabioy, el taita de taitas, no nació como un humano cualquiera. Fue engendrado por el Taita Inti, o ‘Padre Sol’, una noche de tormenta. Creció de un solo golpe y siete nodrizas murieron por amamantarlo. Al mediodía ya era un joven racional; al atardecer, como gran chaski, ‘mensajero y corredor’, había recorrido a pie el territorio y todos sus linderos.",
+      "Primero descansó en El Páramo. Después se asomó hasta Aponte con veinticinco familias que se apellidaban Janamijoy, Chasoy, Mavisoy, Mujanajisoy, Chindoy, Jamioy… Y otras tantas cuyos apellidos terminaban en ‘oy’.",
+      "Un día, al caer la noche, había desaparecido. No saben bien dónde fue. Algunos dicen que volvió a Santiago por comida para su gente; pero antes, les encomendó que debían ser wasikamas, ‘guardianes del territorio’, hasta que él regresara.",
+      "Tiempo después, usando las leyes de la Corona, compró tierras y pagó 400 patacones para que su pueblo tuviera dónde sembrar y echar raíces. En 1700 dictó su testamento: dividió sus tierras entre Sibundoy y Aponte, y dejó tres mandatos: defender la Alpa Mama, ‘madre tierra’: quererla, no venderla y cuidarla; velar por el agua y proteger los páramos; y vivir en unidad, manteniendo los principios del Suma Kawsay, ‘Buen Vivir’.",
+      "Todos los años, el taita Carlos Tamabioy regresa a Aponte en el Atun Puncha, la fiesta del Día Grande. Su espíritu vive en los bombos y en las flautas, en la chicha, en los versos, en el perdón y la danza. Los ingas siguen siendo wasikamas, tal como él les indicó cuando visitó el territorio por primera vez."
+    ],
+    "heritageNote": "La comunidad Inga de Aponte protege la Alpa Mama, su lengua y los principios del Suma Kawsay."
+  },
+  "tracks": [
+    {
+      "number": "01",
+      "title": "Quebrada San Francisco",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 1",
+      "intro": "Así suena la quebrada San Francisco desde el fondo de sus aguas frías y transparentes. Bajo el agua, la corriente mueve pequeñas piedras que chocan, ruedan y producen sonidos muy especiales. Escucha con atención: ¿qué te hacen sentir estos sonidos bajo el agua?",
+      "audio": "audio/inga/Ing-01-Quebrada_San_Francisco.mp3",
+      "duration": "5:00",
+      "language": "N/A",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        0
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taita Carlos",
+      "spanishTitle": "",
+      "kind": "Canción",
+      "tracks": "Pista 2",
+      "intro": "Escucha a los niños de la agrupación Miski Taki contar a través de su canto cómo el Taita Carlos Tamabioy llegó al territorio de Aponte, dejó familias y tierras y cada año vuelve y vive en el Carnaval del Atun Puncha.",
+      "audio": "audio/inga/Ing-02-Taita_Carlos.mp3",
+      "duration": "4:19",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        3
+      ],
+      "original": "Taita Carluspa\nGuaranga sugta patsag watapi Taita Carlus chaiaura, (kuti)\nPaipa kimsa wambrakunaua ñaña i warmi María Melchor, (kuti)\nSamurshakuna atun llagtamanda chaiarshakuna Tamabioyma, (kuti)\nMaskaspa alpa sakingapa paipa kuiaskakunamanda. (kuti)\nPaipa imasa iuiaiua iachachispa sakirshami, (kuti)\nKausangapa sugllapi iukangapa suma kausai. (kuti)\nTaita Carlusta iuiarispa muiurisunchi Atun Puncha, (kuti)\nKausachispa paipa chaiai chasallatata paipa ri. (kuti)\nNukanchipa Taita samaku paipa samai kaipimka, (kuti)\nSinchiachispa tukuikunata katigringapa ñambita. (kuti)",
+      "translation": "En los años 1600, cuando Taita Carlos llegó, (bis)\nCon sus tres hijos, su hermana y su esposa María Melchor, (bis)\nProcedentes de Sibundoy llegaron hasta Tamabioy, (bis)\nBuscando tierra pa’ dejar a su pueblo tan querido. (bis)\nCon su manera de pensar, gran enseñanza nos dejó, (bis)\nQue vivamos en unidad pa’ tener un mundo mejor. (bis)\nRecordando a nuestro Taita, celebramos el Carnaval, (bis)\nConmemorando su llegada y recordando su partida. (bis)\nNuestro Taita descansa en paz, pero su espíritu quedó, (bis)\nDándonos fuerza y valor pa’ seguir nuestro camino. (bis)"
+    },
+    {
+      "number": "03",
+      "title": "Risunchi",
+      "spanishTitle": "Vamos todos a",
+      "kind": "Canción",
+      "tracks": "Pista 3",
+      "intro": "Los niños de Aponte nacieron para ser wasikamas. La maestra Ermencia compuso esta canción para sembrar en «los más pequeñitos» el amor por el territorio. Los invita a cuidarlo: observando, caminando, preguntando, escuchando. ¿Puedes despertar tus sentidos para cuidar la naturaleza? Escucha esta voz pequeñita.",
+      "audio": "audio/inga/Ing-03-Risunchi.mp3",
+      "duration": "0:34",
+      "language": "Inga",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        0
+      ],
+      "original": "Risunchi tukuikuna.\nKauangapa mama alpama.\nPurispa, kauaspa,\nUiaspa, tantiaspa.\nUiaspa iuiaikuna,\nSumailla iachaikunchi.",
+      "translation": "Vamos todos a observar.\nA la madre tierra hay que cuidar.\nCaminando, observando,\nEscuchando, tocando.\nEscuchando el pensamiento,\nVamos a aprender bonito."
+    },
+    {
+      "number": "04",
+      "title": "Takispa ugllai nukapa llatancito",
+      "spanishTitle": "Arrullo mi desnudito",
+      "kind": "Arrullo",
+      "tracks": "Pista 4",
+      "intro": "Este arrullo nació en la familia Jamioy Janamijoy. Recuerda el momento cuando los niños empiezan a gatear sobre el piso de tierra; sus mamás los abrazan y les dicen, con todo el querer que les cabe: «Takispa ugllai nukapa llatancito», «Venga mi desnudito». Escúchalo en la voz amorosa de Rosita.",
+      "audio": "audio/inga/Ing-04-Takispa_ugllai_nukapa_llatancito.mp3",
+      "duration": "2:31",
+      "language": "Inga",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        1
+      ],
+      "original": "Llatan, llatan, purikungi wawita.\nLlatan, llatan, llukakungi wawita.\nLlatan, llatan, kalpakungi wawita.\nLlatan, llatan, wakakungi wawita.\nLlatan, llatan, kuiauangi wawita.\nKamba makisitu kawachiuangi, nukapa wawita.",
+      "translation": "Desnudo, desnudo, bebito caminas.\nDesnudo, desnudo, bebito gateas.\nDesnudo, desnudo, bebito lloras.\nDesnudo, desnudo, bebito me amas.\nCon tu manito me muestras, mi bebito."
+    },
+    {
+      "number": "05",
+      "title": "Nuka kausani Paramu Awapi",
+      "spanishTitle": "Yo vivo en Páramo Alto",
+      "kind": "Canción",
+      "tracks": "Pista 5",
+      "intro": "El Páramo Alto es una vereda muy importante para el resguardo de Aponte. Allí, en medio del viento frío y sus inmensas montañas, han nacido músicos, líderes y sabedores que guardan con esmero las tradiciones del pueblo Inga. Escucha esta canción en las voces de los niños de la escuela de la vereda.",
+      "audio": "audio/inga/Ing-05-Nuka_kausani_Paramu_Awapi.mp3",
+      "duration": "0:40",
+      "language": "Inga",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        4
+      ],
+      "original": "Nuka kausani Paramu Awapi,\nNuka kausani Paramu Awapi,\nMaipi waira pukui imasa chiri.\nMaipi waira pukui imasa chiri.\nNuka kausani Paramu Awapi,\nNuka kausani Paramu Awapi,\nIukagmanda suma alpa mama.\nIukagmanda suma alpa mama.\nNuka kausani Paramu Awapi.\nNuka kausani Paramu Awapi.",
+      "translation": "Yo vivo en Páramo Alto,\nYo vivo en Páramo Alto,\nDonde el viento sopla frío.\nDonde el viento sopla frío.\nYo vivo en el Páramo Alto,\nYo vivo en el Páramo Alto,\nPorque es bella su naturaleza.\nPorque es bella su naturaleza.\nYo vivo en Páramo Alto.\nYo vivo en Páramo Alto."
+    },
+    {
+      "number": "06",
+      "title": "Suma Kausai",
+      "spanishTitle": "Buen vivir",
+      "kind": "Canción",
+      "tracks": "Pista 6",
+      "intro": "Para los ingas, pensar bonito, vivir bonito, querer bonito es el camino para vivir bonito con la familia, la comunidad y el territorio. Escucha esta canción en la voz de Mariela Pujimuy.",
+      "audio": "audio/inga/Ing-06-Suma_Kausai.mp3",
+      "duration": "2:56",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        0
+      ],
+      "original": "Nukapa umawa allilla iuiani.\nNukapa umawa allilla iuiani.\nNukapa ringrikunawa allilla uiani.\nNukapa ringrikunawa allilla uiani.\nNukapa simiwa suma rimani.\nNukapa simiwa suma rimani.\nNukapa makikunawa allilla llankani.\nNukapa makikunawa allilla llankani.\nNukapa sunguwa allilla kuiani.\nNukapa sunguwa allilla kuiani.\nChasa, runasina allillami kausani.\nChasa, runasina allillami kausani.",
+      "translation": "Con mi cabeza pienso bien. \nCon mis oídos escucho bien.\nCon mis oídos escucho bien.\nCon mi boca hablo bien.\nCon mi boca hablo bien.\nCon mis manos trabajo bien.\nCon mis manos trabajo bien.\nCon mi corazón quiero bien.\nCon mi corazón quiero bien.\nAsí, como persona, vivo bien.\nAsí, como persona, vivo bien."
+    },
+    {
+      "number": "07",
+      "title": "Iaku, iaku, iaku",
+      "spanishTitle": "Río, río, río",
+      "kind": "Canción",
+      "tracks": "Pista 7",
+      "intro": "Dicen que Granadillo es el primer sitio donde se asoman los rayos del sol desde la laguna sagrada en el resguardo de Aponte. Quienes viven en esta vereda conservan la lengua propia, la unidad, el divichido, las mingas, los cambalaches y todo lo que corresponde como «verdaderos ingas». Escucha esta canción que la comunidad le canta al río. ¿De dónde vienen y a dónde van los ríos donde tú vives?",
+      "audio": "audio/inga/Ing-07-Iaku,_iaku,_iaku.mp3",
+      "duration": "2:08",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        0
+      ],
+      "original": "Iaku, iaku, iaku, ¿maima rikungi?\nIaku, iaku, iaku, ¿maima rikungi?\nNuka kalpaspa atun iakuma.\nNuka kalpaspa atun iakuma.\nIaku, iaku, iaku, ¿imaura tigramungi?\nIaku, iaku, iaku, ¿imaura tigramungi?\nMana tigramungapakani ni imaurapas.\nMana tigramungapakani ni imaurapas.",
+      "translation": "Río, río, río, ¿a dónde vas?\nRío, río, río, ¿a dónde vas?\nYo en mi carrera voy hacia el mar.\nYo en mi carrera voy hacia el mar.\nRío, río, río, ¿cuándo volverás?\nRío, río, río, ¿cuándo volverás?\nVolver ya no puedo nunca jamás.\nVolver ya no puedo nunca jamás."
+    },
+    {
+      "number": "08",
+      "title": "Vocabularios",
+      "spanishTitle": "",
+      "kind": "Vocabulario",
+      "tracks": "Pista 8",
+      "intro": "En Aponte, el inga se habla en la casa, se enseña en la escuela y se comparte con los mayores. Escucha algunas de las palabras con las que la comunidad nombra a su familia, su territorio y otros elementos que hacen parte de su vida cotidiana.",
+      "audio": "audio/inga/Ing-08-Vocabularios.mp3",
+      "duration": "7:23",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        4
+      ],
+      "singleReading": true,
+      "original": "Animales\nPerro · Alku\nGato · Misitu\nGallina · Atawalpa\nGallo · Kari atawalpa\nVaca · Wagra\nCaballo · Chaki Muru\nOveja · Milmunchu\nCuy · Sancha\nMosca · Chuspi\nHormiga · Añangu\nOso · Usu\nGusano · Kuru\nLoro · Uritu\nPiojo · Usa\nCaracol · Churu\nPez · Chalwa\nPájaro · Pisku\nMariposa · Pilpintu\nColibrí · Kindi\nSapo · Ambatu\nBúho · Kuskungu\nPavo · Chumbu\nMunchira · Chinikuku\nPato · Piskuiaku\nGorrión · Pichinchi\nVenado · Taruka\nCerdo · Kuchi\nSerpiente o culebra · Kukuwaska, Amarun\nConejo · Sancha chupa umutu\nRatón · Ukucha\n\nNúmeros\nUno · Sug\nDos · Iskai\nTres · Kimsa\nCuatro · Chusku\nCinco · Pichka\nSeis · Sugta\nSiete · Kanchis\nOcho · Pusag\nNueve · Iskun\nDiez · Chunga\n\nColores\nAmarillo · Killu\nVerde · Pangusu\nAzul · Awapachasina\nRojo · Puka\nCafé · Kusni\nNegro · Iana\nBlanco · Iura\nGris · Uchpusu\n\nPartes del cuerpo\nCabeza · Uma\nCara · Ñawi\nOjo · Ñawimuru\nCejas · Ñawimilma\nNariz · Singa\nBoca · Simi\nLengua · Kallu\nDiente · Kiru\nEspalda · Wasa\nEstómago · Wigsa\nBrazo · Mashkadiru\nMano · Maki\nDedos · Didukuna\nPierna · Changa\nPie · Chaki\nRodilla · Kungush\nOreja · Ringri\nCabello · Agcha\nUña · Sillu\nCorazón · Sungu\n\nFamilia\nMamá · Mamita, Mama\nPapá · Taita\nBebé · Wawa\nHermano/a · Wagki\nAbuelo · Taita Siñush\nAbuela · Mama Siñura\nNieto · Ñitu kuna\nNieta · Ñita\nTío · Taitapa wagki, Tiu\nTía · Mamapa wagki,Tia\nSobrino · Subrinu\nSobrina · Subrina\nPrimo · Primu\nPrima · Prima\nEsposo · Kusa\nEsposa · Warmi\nCuñado · Kuñadu\nCuñada · Kuñada\n\nSaludos\nBuenos días · Pakaripuangi\n\nVerbos\nPensar · Iuiai\n\nPensar y sentir\n(Estar) feliz · Alli llakai / alli iachiri\n\nVamos a…\n…jugar · Risunchi pugllangapa\n…caminar por la montaña · Risunchi puringapa sacha ukuta\n…la chagra · Risunchi chagrama\n…la tulpa · Risunchi tulpama\n…hablar Inga · Risunchi inga simi rimangapa\n…cocinar · Risunchi ianungapa\n…tejer · Risunchi awangapa\n…donde el taita · Risunchi taita pagma\n…Atun Puncha · Risunchi Atun Punchama\n…danzar · Risunchi muiringapa\n…trabajar · Risunchi apachingapa\n\nNombrar el paisaje\nNaturaleza · Alpa Mama\nSol · Indi\nLuna · Killa\nEstrella · Chaska\nCielo · Awapacha\nArcoíris · Kuichi\nMontaña · Sacha uku\nRío · Atun iaku\nPiedra · Rumi\nQuebrada · Uchulla iaku\nAgua · Iaku\nTierra · Alpa\nBarro · Turu\nFlor · Tugtu\nÁrbol · Sacha\nFuego · Nina\nViento · Waira\nLluvia · Tamia\nCamino · Ñambi\nDía · Puncha\nTarde · Chisi\nNoche · Tuta\nAmanecer · Pakari\nAtardecer · Chisiai\nVolcán · Utku nina\n\nSonido, música y silencio\nSonido · Uiarigkuna\nSilencio · Upalla\nBombo · Bumbu\nFlauta · Flauta\nZampoña · Zampoña\nCantar · Taki\nCanción · Taki kuna\nSonajero (semillas que suenan) · Muiukunaua uiachidiru\nMientras vivamos, cantemos · Kausankamalla takisunchi\nMientras vivamos, bailemos · Kausankamalla muiurisunchi\n\nMundo espiritual\nYagé · Ambi waska\nMédico tradicional · Taita sinchi\nLimpieza · Waira pichai\nCuidadores del territorio · Wasikamakuna / Wasikamas\nCanto de Taita · Taita sinchipa taki\nEspíritu · Waira, samai"
+    },
+    {
+      "number": "09",
+      "title": "Puñupuai, wawita",
+      "spanishTitle": "Duérmete, mi niña",
+      "kind": "Arrullo",
+      "tracks": "Pista 9",
+      "intro": "Peregrina acompaña el sueño de su niña y la invita a cerrar sus ojitos, sabiendo que un día bonito la espera al despertar. Escucha su dulce arrullo. ¿Con qué palabras te arrullaban cuando eras niño?",
+      "audio": "audio/inga/Ing-09-Puñupuai,_wawita.mp3",
+      "duration": "2:26",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        1
+      ],
+      "original": "Puñupuai, wawita, suma puñupuai.\nÑawikuna uichkarispa, suma puñupuai.\nKamba mamita suma kauangapka.\nKamba mamita suma kauangapka.\nUichkai ñawisitu suma muskupuai,\nUichkai ñawisitu suma muskupuai,\nI ña kaia suma, suma punchamka.\nI ña kaia suma, suma punchamka.\nUchulla wawita, suma puñupuai,\nUchulla wawita, suma puñupuai,\nKamba mamita suma iachiri.\nI kamba mamita suma iachiri.\nUichkai ñawisitu, suma puñupuai,\nUichkai ñawisitu, suma puñupuai,\nI ña kaia suma pakaringapka.\nI ña kaia suma pakaringapka.",
+      "translation": "Duérmete, mi niñita, duerme bonito.\nCerrando los ojitos, duerme bonito.\nTu mamita te va a ver bonito.\nTu mamita te va a ver bonito.\nCierra tus ojitos, sueña bonito,\nCierra tus ojitos, sueña bonito,\nQue el día de mañana, bonito día será.\nQue el día de mañana, bonito día será.\nPequeña niña, duerme bonito,\nPequeña niña, duerme bonito,\nQue tu mamita se sentirá contenta.\nTu mamita se sentirá contenta.\nCierra tus ojitos, duerme bonito,\nCierra tus ojitos, duerme bonito,\nQue mañana va a amanecer bonito.\nQue mañana va a amanecer bonito."
+    },
+    {
+      "number": "10",
+      "title": "Atun Puncha",
+      "spanishTitle": "Día Grande",
+      "kind": "Canción",
+      "tracks": "Pista 10",
+      "intro": "El Atun Puncha es el «Día Grande» del pueblo Inga. Las familias se reencuentran, se perdonan, se abrazan y agradecen a la Alpa Mama por la vida y los alimentos. El carnaval también es el tiempo para recordar al Taita Carlos Tamabioy danzando y cantando en su memoria. Escucha los versos del Atun Puncha cantados por el profesor Julio Chindoy y los niños de la Institución Educativa Agropecuaria Inga de Aponte.",
+      "audio": "audio/inga/Ing-10-Atun_Puncha.mp3",
+      "duration": "4:35",
+      "language": "Inga",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        3
+      ],
+      "original": "Taita Carlus ñam samuku\nLimunmanda mas urai.\nTaita Carlus ñam samuku\nAwarikumanda mas urai.\nKauangapa nukanchita.\nTaita Carlus ñam chaiasa.\nPai kam nukamchiwa.\nMuiurisunchi Atun Puncha\nKumurispa, saiarispa.\nKausasunchi kai Puncha.\nCoro\nIuiaspa, takispa,\nPurispa, saruspa.\nMuiurisunchi Atun Puncha,\nKausankamalla muiurisunchi.\nJuai, juai, juai, juai, juai, juai.\n(Muiurisunchi Atun Puncha\nKuti kasama, kuti chasama)\nKunapuncha Atun Puncha.\nNukanchipa punchamka.\nUairarrisunchi tukuikuna,\nMuiurisunchi kalusturinda.\nKuti kasama, kuti chasama.\nTugtu churaspa maki kuaspa,\nSuma suma kausasunchi,\nKai wata ñam tukurisa.\nKaia kami musu wata.\nAllilla ñugpagma risunchi.\nCoro\nKauaspa, rimaspa,\nUpiaspa, mikuspa.\nMuiurisunchi Atun Puncha,\nKausankamalla muiurisunchi.\nJuai, juai, juai, juai, juai, juai.\n(Kausankamalla muiurisunchi.\nKunampuncha Atun Punchamka)\nKausariuagpi watapi,\nKuti, kuti muiurisa.\nÑa mana kausariuagpi,\nKunapuncha muiurisa.\nChasa, chasa, pakarinkama.\nTaita Carlus ñami riku\nLimunmanda mas urai.\nTaita Carlus ñami riku\nAwarikumanda mas urai.\nKut sug watapi tigrangapka.\nCoro\nÑugpagma katima.\nAllima llukima.\nMuiurisunchi Atun Puncha,\nKausankamalla muiurisunchi.\nJuai, juai, juai, juai, juai, juai.\n(Ari, ari, ari, muiurisunchi.\nTaita Carlus kaipimka.\nTaita Carlus ñam chaiasa)",
+      "translation": "Taita Carlos ya viene\nDe Limón, más para abajo.\nTaita Carlos ya viene\nDe Aguarico, más para abajo.\nDe visita a nosotros.\nTaita Carlos ya llegó.\nÉl está entre nosotros.\nDancemos en este Día Grande\nAgachándonos, levantándonos.\nVivamos este día.\nCoro\nPensando, cantando,\nCaminando, pisando firme.\nDancemos este Día Grande,\nMientras vivamos, dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Dancemos el Día Grande\nDe aquí para allá, de allá para acá)\nHoy es el Atun Puncha.\nHoy es el día de nuestra fiesta.\nTodos moviéndonos,\nDancemos en El Día Grande.\nDe aquí para allá, de allá para acá.\nPoniendo flores,\nDando la mano,\nPara un buen vivir.\nEste año ya se acabó,\nMañana es un nuevo año.\nSigamos bien hacia delante.\nCoro\nMirando, hablando,\nTomando, comiendo.\nDancemos en este Día Grande,\nMientras vivamos dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Mientras vivamos, dancemos.\nHoy es el Gran Día)\nSi vivo el próximo año,\nOtra vez, otra vez danzaré.\nY, si ya no vivo,\nHoy danzaré.\nAsí, así, hasta el amanecer.\nTaita Carlos ya se va\nDe Limón, más para abajo.\nTaita Carlos ya se va\nDe Aguarico, más para abajo.\nEl próximo año volverá.\nCoro\nPara adelante, para atrás.\nA la derecha y a la izquierda.\nDancemos este Día Grande,\nMientras vivamos dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Sí, sí, sí, dancemos.\nTaita Carlos está aquí.\nTaita Carlos ya llegó)"
+    },
+    {
+      "number": "11",
+      "title": "Nuka kani Inga Apunti llagtamanda",
+      "spanishTitle": "Yo soy del pueblo inga de Aponte",
+      "kind": "Canción",
+      "tracks": "Pista 11",
+      "intro": "El Buen Vivir es muy importante para el pueblo Inga. Escucha, en la voz de la mayora sabedora Ermencia Chasoy, esta canción que recoge los principios y valores que rigen «la vida y la honra» de su pueblo.",
+      "audio": "audio/inga/Ing-11-Nuka_kani_Inga_Apunti_llagtamanda.mp3",
+      "duration": "1:18",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        2,
+        4
+      ],
+      "original": "Nuka kani Inga Apunti llagtamanda.\nIukani allilla kanga nuki kim kutsukunaua alli suma kausai iukangapa.\nMana sisai  — No robar\nMana llullai — No mentir\nMana killai — No ser perezoso\nAlli kai — Ser digno\nAtun suglla iuiai — Unidad\nAlpa Mama — Territorio\nAtun kausai nukanchi iukaska — Cultura\nNukanchi kaskasina kausanga — Autonomía\nTukuikuna Parlaspa — Participación",
+      "translation": "Yo soy del pueblo inga de Aponte.\nTengo que ser bien conmigo mismo y con los demás para tener un buen vivir.\nMana sisai — No robar\nMana llullai — No mentir\nMana killai — No ser perezoso\nAlli kai — Ser digno\nAtun suglla iuiai — Unidad\nMama Alpa —Territorio\nAtun kausai nukanchi iukaska — Cultura\nNukanchi kaskasina kausanga — Autonomía\nTukuikuna Parlaspa — Participación\nPrincipios que rigen la vida y la honra\nDel pueblo Inga en Aponte para pervivir."
+    },
+    {
+      "number": "12",
+      "title": "Waira, wairita",
+      "spanishTitle": "Viento, vientico",
+      "kind": "Arrullo",
+      "tracks": "Pista 12",
+      "intro": "Carmelina cantaba este arrullo a su nieto cuando soplaba el viento, pidiéndole ayuda para mecerlo. Ahora que el pequeño ha crecido, lo cantan juntos y duermen cuando cae la tarde. Deja que su canto te acompañe.",
+      "audio": "audio/inga/Ing-12-Waira,_wairita.mp3",
+      "duration": "0:34",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        3
+      ],
+      "original": "Pukui allimandita,\nNukapa wawita\nSumita puñungapa.\nPaipa muskuipi samuchu atun Taita.",
+      "translation": "Viento, vientico,\nSopla despacito,\nPara que mi niño\nDuerma tranquilito.\nY que en sus sueños llegue Diosito."
+    },
+    {
+      "number": "13",
+      "title": "Enfermedades y cuidados",
+      "spanishTitle": "",
+      "kind": "Relato",
+      "tracks": "Pista 13",
+      "intro": "Existen enfermedades muy propias del mundo de los espíritus que alcanzan a las personas, a veces a los animalitos, pero especialmente a los niños, que son «tiernos» para recibir las energías ajenas. Escucha la sabiduría del pueblo Inga en la voz de la mayora María Gómez Chasoy. Ella nos habla del causato, achka llaki, que es una pena o una tristeza muy honda; del malviento, kuku waira, el mal de ojo, ujiai, y la caída del cuajo, cuajo urmaska, junto con los cuidados tradicionales que sirven para aliviar estos males.",
+      "audio": "audio/inga/Ing-13-Enfermedades_y_cuidados.mp3",
+      "duration": "17:36",
+      "language": "Inga + Español",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        1
+      ]
+    },
+    {
+      "number": "14",
+      "title": "Limpieza del Taita",
+      "spanishTitle": "",
+      "kind": "Canto ritual",
+      "tracks": "Pista 14",
+      "intro": "Waira quiere decir ‘viento’ y es, además, un manojo de hojas secas de sanganga, una planta sagrada amazónica, con la que el taita limpia el cuerpo y el espíritu de la comunidad. El taita sopla, canta y agita la waira sobre sus «pacientes» para alejar las malas energías. Escucha un pequeño ritual de sanación para un bebé de la comunidad de Aponte.",
+      "audio": "audio/inga/Ing-14-Limpieza_del_Taita.mp3",
+      "duration": "10:03",
+      "language": "Inga",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        1
+      ]
+    },
+    {
+      "number": "15",
+      "title": "Anochecer en Tacumbina",
+      "spanishTitle": "",
+      "kind": "Paisaje sonoro",
+      "tracks": "Pista 15",
+      "intro": "",
+      "audio": "audio/inga/Ing-15-Anochecer_en_Tacumbina.mp3",
+      "duration": "4:30",
+      "language": "N/A",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo"
+      },
+      "activities": [
+        4
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "title": "Animales",
+      "items": [
+        {
+          "spanish": "Perro",
+          "inga": "Alku",
+          "palenquero": "Alku"
+        },
+        {
+          "spanish": "Gato",
+          "inga": "Misitu",
+          "palenquero": "Misitu"
+        },
+        {
+          "spanish": "Gallina",
+          "inga": "Atawalpa",
+          "palenquero": "Atawalpa"
+        },
+        {
+          "spanish": "Gallo",
+          "inga": "Kari atawalpa",
+          "palenquero": "Kari atawalpa"
+        },
+        {
+          "spanish": "Vaca",
+          "inga": "Wagra",
+          "palenquero": "Wagra"
+        },
+        {
+          "spanish": "Caballo",
+          "inga": "Chaki Muru",
+          "palenquero": "Chaki Muru"
+        },
+        {
+          "spanish": "Oveja",
+          "inga": "Milmunchu",
+          "palenquero": "Milmunchu"
+        },
+        {
+          "spanish": "Cuy",
+          "inga": "Sancha",
+          "palenquero": "Sancha"
+        },
+        {
+          "spanish": "Mosca",
+          "inga": "Chuspi",
+          "palenquero": "Chuspi"
+        },
+        {
+          "spanish": "Hormiga",
+          "inga": "Añangu",
+          "palenquero": "Añangu"
+        },
+        {
+          "spanish": "Oso",
+          "inga": "Usu",
+          "palenquero": "Usu"
+        },
+        {
+          "spanish": "Gusano",
+          "inga": "Kuru",
+          "palenquero": "Kuru"
+        },
+        {
+          "spanish": "Loro",
+          "inga": "Uritu",
+          "palenquero": "Uritu"
+        },
+        {
+          "spanish": "Piojo",
+          "inga": "Usa",
+          "palenquero": "Usa"
+        },
+        {
+          "spanish": "Caracol",
+          "inga": "Churu",
+          "palenquero": "Churu"
+        },
+        {
+          "spanish": "Pez",
+          "inga": "Chalwa",
+          "palenquero": "Chalwa"
+        },
+        {
+          "spanish": "Pájaro",
+          "inga": "Pisku",
+          "palenquero": "Pisku"
+        },
+        {
+          "spanish": "Mariposa",
+          "inga": "Pilpintu",
+          "palenquero": "Pilpintu"
+        },
+        {
+          "spanish": "Colibrí",
+          "inga": "Kindi",
+          "palenquero": "Kindi"
+        },
+        {
+          "spanish": "Sapo",
+          "inga": "Ambatu",
+          "palenquero": "Ambatu"
+        },
+        {
+          "spanish": "Búho",
+          "inga": "Kuskungu",
+          "palenquero": "Kuskungu"
+        },
+        {
+          "spanish": "Pavo",
+          "inga": "Chumbu",
+          "palenquero": "Chumbu"
+        },
+        {
+          "spanish": "Munchira",
+          "inga": "Chinikuku",
+          "palenquero": "Chinikuku"
+        },
+        {
+          "spanish": "Pato",
+          "inga": "Piskuiaku",
+          "palenquero": "Piskuiaku"
+        },
+        {
+          "spanish": "Gorrión",
+          "inga": "Pichinchi",
+          "palenquero": "Pichinchi"
+        },
+        {
+          "spanish": "Venado",
+          "inga": "Taruka",
+          "palenquero": "Taruka"
+        },
+        {
+          "spanish": "Cerdo",
+          "inga": "Kuchi",
+          "palenquero": "Kuchi"
+        },
+        {
+          "spanish": "Serpiente o culebra",
+          "inga": "Kukuwaska, Amarun",
+          "palenquero": "Kukuwaska, Amarun"
+        },
+        {
+          "spanish": "Conejo",
+          "inga": "Sancha chupa umutu",
+          "palenquero": "Sancha chupa umutu"
+        },
+        {
+          "spanish": "Ratón",
+          "inga": "Ukucha",
+          "palenquero": "Ukucha"
+        }
+      ]
+    },
+    {
+      "title": "Números",
+      "items": [
+        {
+          "spanish": "Uno",
+          "inga": "Sug",
+          "palenquero": "Sug"
+        },
+        {
+          "spanish": "Dos",
+          "inga": "Iskai",
+          "palenquero": "Iskai"
+        },
+        {
+          "spanish": "Tres",
+          "inga": "Kimsa",
+          "palenquero": "Kimsa"
+        },
+        {
+          "spanish": "Cuatro",
+          "inga": "Chusku",
+          "palenquero": "Chusku"
+        },
+        {
+          "spanish": "Cinco",
+          "inga": "Pichka",
+          "palenquero": "Pichka"
+        },
+        {
+          "spanish": "Seis",
+          "inga": "Sugta",
+          "palenquero": "Sugta"
+        },
+        {
+          "spanish": "Siete",
+          "inga": "Kanchis",
+          "palenquero": "Kanchis"
+        },
+        {
+          "spanish": "Ocho",
+          "inga": "Pusag",
+          "palenquero": "Pusag"
+        },
+        {
+          "spanish": "Nueve",
+          "inga": "Iskun",
+          "palenquero": "Iskun"
+        },
+        {
+          "spanish": "Diez",
+          "inga": "Chunga",
+          "palenquero": "Chunga"
+        }
+      ]
+    },
+    {
+      "title": "Colores",
+      "items": [
+        {
+          "spanish": "Amarillo",
+          "inga": "Killu",
+          "palenquero": "Killu"
+        },
+        {
+          "spanish": "Verde",
+          "inga": "Pangusu",
+          "palenquero": "Pangusu"
+        },
+        {
+          "spanish": "Azul",
+          "inga": "Awapachasina",
+          "palenquero": "Awapachasina"
+        },
+        {
+          "spanish": "Rojo",
+          "inga": "Puka",
+          "palenquero": "Puka"
+        },
+        {
+          "spanish": "Café",
+          "inga": "Kusni",
+          "palenquero": "Kusni"
+        },
+        {
+          "spanish": "Negro",
+          "inga": "Iana",
+          "palenquero": "Iana"
+        },
+        {
+          "spanish": "Blanco",
+          "inga": "Iura",
+          "palenquero": "Iura"
+        },
+        {
+          "spanish": "Gris",
+          "inga": "Uchpusu",
+          "palenquero": "Uchpusu"
+        }
+      ]
+    },
+    {
+      "title": "Partes del cuerpo",
+      "items": [
+        {
+          "spanish": "Cabeza",
+          "inga": "Uma",
+          "palenquero": "Uma"
+        },
+        {
+          "spanish": "Cara",
+          "inga": "Ñawi",
+          "palenquero": "Ñawi"
+        },
+        {
+          "spanish": "Ojo",
+          "inga": "Ñawimuru",
+          "palenquero": "Ñawimuru"
+        },
+        {
+          "spanish": "Cejas",
+          "inga": "Ñawimilma",
+          "palenquero": "Ñawimilma"
+        },
+        {
+          "spanish": "Nariz",
+          "inga": "Singa",
+          "palenquero": "Singa"
+        },
+        {
+          "spanish": "Boca",
+          "inga": "Simi",
+          "palenquero": "Simi"
+        },
+        {
+          "spanish": "Lengua",
+          "inga": "Kallu",
+          "palenquero": "Kallu"
+        },
+        {
+          "spanish": "Diente",
+          "inga": "Kiru",
+          "palenquero": "Kiru"
+        },
+        {
+          "spanish": "Espalda",
+          "inga": "Wasa",
+          "palenquero": "Wasa"
+        },
+        {
+          "spanish": "Estómago",
+          "inga": "Wigsa",
+          "palenquero": "Wigsa"
+        },
+        {
+          "spanish": "Brazo",
+          "inga": "Mashkadiru",
+          "palenquero": "Mashkadiru"
+        },
+        {
+          "spanish": "Mano",
+          "inga": "Maki",
+          "palenquero": "Maki"
+        },
+        {
+          "spanish": "Dedos",
+          "inga": "Didukuna",
+          "palenquero": "Didukuna"
+        },
+        {
+          "spanish": "Pierna",
+          "inga": "Changa",
+          "palenquero": "Changa"
+        },
+        {
+          "spanish": "Pie",
+          "inga": "Chaki",
+          "palenquero": "Chaki"
+        },
+        {
+          "spanish": "Rodilla",
+          "inga": "Kungush",
+          "palenquero": "Kungush"
+        },
+        {
+          "spanish": "Oreja",
+          "inga": "Ringri",
+          "palenquero": "Ringri"
+        },
+        {
+          "spanish": "Cabello",
+          "inga": "Agcha",
+          "palenquero": "Agcha"
+        },
+        {
+          "spanish": "Uña",
+          "inga": "Sillu",
+          "palenquero": "Sillu"
+        },
+        {
+          "spanish": "Corazón",
+          "inga": "Sungu",
+          "palenquero": "Sungu"
+        }
+      ]
+    },
+    {
+      "title": "Familia",
+      "items": [
+        {
+          "spanish": "Mamá",
+          "inga": "Mamita, Mama",
+          "palenquero": "Mamita, Mama"
+        },
+        {
+          "spanish": "Papá",
+          "inga": "Taita",
+          "palenquero": "Taita"
+        },
+        {
+          "spanish": "Bebé",
+          "inga": "Wawa",
+          "palenquero": "Wawa"
+        },
+        {
+          "spanish": "Hermano/a",
+          "inga": "Wagki",
+          "palenquero": "Wagki"
+        },
+        {
+          "spanish": "Abuelo",
+          "inga": "Taita Siñush",
+          "palenquero": "Taita Siñush"
+        },
+        {
+          "spanish": "Abuela",
+          "inga": "Mama Siñura",
+          "palenquero": "Mama Siñura"
+        },
+        {
+          "spanish": "Nieto",
+          "inga": "Ñitu kuna",
+          "palenquero": "Ñitu kuna"
+        },
+        {
+          "spanish": "Nieta",
+          "inga": "Ñita",
+          "palenquero": "Ñita"
+        },
+        {
+          "spanish": "Tío",
+          "inga": "Taitapa wagki, Tiu",
+          "palenquero": "Taitapa wagki, Tiu"
+        },
+        {
+          "spanish": "Tía",
+          "inga": "Mamapa wagki,Tia",
+          "palenquero": "Mamapa wagki,Tia"
+        },
+        {
+          "spanish": "Sobrino",
+          "inga": "Subrinu",
+          "palenquero": "Subrinu"
+        },
+        {
+          "spanish": "Sobrina",
+          "inga": "Subrina",
+          "palenquero": "Subrina"
+        },
+        {
+          "spanish": "Primo",
+          "inga": "Primu",
+          "palenquero": "Primu"
+        },
+        {
+          "spanish": "Prima",
+          "inga": "Prima",
+          "palenquero": "Prima"
+        },
+        {
+          "spanish": "Esposo",
+          "inga": "Kusa",
+          "palenquero": "Kusa"
+        },
+        {
+          "spanish": "Esposa",
+          "inga": "Warmi",
+          "palenquero": "Warmi"
+        },
+        {
+          "spanish": "Cuñado",
+          "inga": "Kuñadu",
+          "palenquero": "Kuñadu"
+        },
+        {
+          "spanish": "Cuñada",
+          "inga": "Kuñada",
+          "palenquero": "Kuñada"
+        }
+      ]
+    },
+    {
+      "title": "Saludos",
+      "items": [
+        {
+          "spanish": "Buenos días",
+          "inga": "Pakaripuangi",
+          "palenquero": "Pakaripuangi"
+        }
+      ]
+    },
+    {
+      "title": "Verbos",
+      "items": [
+        {
+          "spanish": "Pensar",
+          "inga": "Iuiai",
+          "palenquero": "Iuiai"
+        }
+      ]
+    },
+    {
+      "title": "Pensar y sentir",
+      "items": [
+        {
+          "spanish": "(Estar) feliz",
+          "inga": "Alli llakai / alli iachiri",
+          "palenquero": "Alli llakai / alli iachiri"
+        }
+      ]
+    },
+    {
+      "title": "Vamos a…",
+      "items": [
+        {
+          "spanish": "…jugar",
+          "inga": "Risunchi pugllangapa",
+          "palenquero": "Risunchi pugllangapa"
+        },
+        {
+          "spanish": "…caminar por la montaña",
+          "inga": "Risunchi puringapa sacha ukuta",
+          "palenquero": "Risunchi puringapa sacha ukuta"
+        },
+        {
+          "spanish": "…la chagra",
+          "inga": "Risunchi chagrama",
+          "palenquero": "Risunchi chagrama"
+        },
+        {
+          "spanish": "…la tulpa",
+          "inga": "Risunchi tulpama",
+          "palenquero": "Risunchi tulpama"
+        },
+        {
+          "spanish": "…hablar Inga",
+          "inga": "Risunchi inga simi rimangapa",
+          "palenquero": "Risunchi inga simi rimangapa"
+        },
+        {
+          "spanish": "…cocinar",
+          "inga": "Risunchi ianungapa",
+          "palenquero": "Risunchi ianungapa"
+        },
+        {
+          "spanish": "…tejer",
+          "inga": "Risunchi awangapa",
+          "palenquero": "Risunchi awangapa"
+        },
+        {
+          "spanish": "…donde el taita",
+          "inga": "Risunchi taita pagma",
+          "palenquero": "Risunchi taita pagma"
+        },
+        {
+          "spanish": "…Atun Puncha",
+          "inga": "Risunchi Atun Punchama",
+          "palenquero": "Risunchi Atun Punchama"
+        },
+        {
+          "spanish": "…danzar",
+          "inga": "Risunchi muiringapa",
+          "palenquero": "Risunchi muiringapa"
+        },
+        {
+          "spanish": "…trabajar",
+          "inga": "Risunchi apachingapa",
+          "palenquero": "Risunchi apachingapa"
+        }
+      ]
+    },
+    {
+      "title": "Nombrar el paisaje",
+      "items": [
+        {
+          "spanish": "Naturaleza",
+          "inga": "Alpa Mama",
+          "palenquero": "Alpa Mama"
+        },
+        {
+          "spanish": "Sol",
+          "inga": "Indi",
+          "palenquero": "Indi"
+        },
+        {
+          "spanish": "Luna",
+          "inga": "Killa",
+          "palenquero": "Killa"
+        },
+        {
+          "spanish": "Estrella",
+          "inga": "Chaska",
+          "palenquero": "Chaska"
+        },
+        {
+          "spanish": "Cielo",
+          "inga": "Awapacha",
+          "palenquero": "Awapacha"
+        },
+        {
+          "spanish": "Arcoíris",
+          "inga": "Kuichi",
+          "palenquero": "Kuichi"
+        },
+        {
+          "spanish": "Montaña",
+          "inga": "Sacha uku",
+          "palenquero": "Sacha uku"
+        },
+        {
+          "spanish": "Río",
+          "inga": "Atun iaku",
+          "palenquero": "Atun iaku"
+        },
+        {
+          "spanish": "Piedra",
+          "inga": "Rumi",
+          "palenquero": "Rumi"
+        },
+        {
+          "spanish": "Quebrada",
+          "inga": "Uchulla iaku",
+          "palenquero": "Uchulla iaku"
+        },
+        {
+          "spanish": "Agua",
+          "inga": "Iaku",
+          "palenquero": "Iaku"
+        },
+        {
+          "spanish": "Tierra",
+          "inga": "Alpa",
+          "palenquero": "Alpa"
+        },
+        {
+          "spanish": "Barro",
+          "inga": "Turu",
+          "palenquero": "Turu"
+        },
+        {
+          "spanish": "Flor",
+          "inga": "Tugtu",
+          "palenquero": "Tugtu"
+        },
+        {
+          "spanish": "Árbol",
+          "inga": "Sacha",
+          "palenquero": "Sacha"
+        },
+        {
+          "spanish": "Fuego",
+          "inga": "Nina",
+          "palenquero": "Nina"
+        },
+        {
+          "spanish": "Viento",
+          "inga": "Waira",
+          "palenquero": "Waira"
+        },
+        {
+          "spanish": "Lluvia",
+          "inga": "Tamia",
+          "palenquero": "Tamia"
+        },
+        {
+          "spanish": "Camino",
+          "inga": "Ñambi",
+          "palenquero": "Ñambi"
+        },
+        {
+          "spanish": "Día",
+          "inga": "Puncha",
+          "palenquero": "Puncha"
+        },
+        {
+          "spanish": "Tarde",
+          "inga": "Chisi",
+          "palenquero": "Chisi"
+        },
+        {
+          "spanish": "Noche",
+          "inga": "Tuta",
+          "palenquero": "Tuta"
+        },
+        {
+          "spanish": "Amanecer",
+          "inga": "Pakari",
+          "palenquero": "Pakari"
+        },
+        {
+          "spanish": "Atardecer",
+          "inga": "Chisiai",
+          "palenquero": "Chisiai"
+        },
+        {
+          "spanish": "Volcán",
+          "inga": "Utku nina",
+          "palenquero": "Utku nina"
+        }
+      ]
+    },
+    {
+      "title": "Sonido, música y silencio",
+      "items": [
+        {
+          "spanish": "Sonido",
+          "inga": "Uiarigkuna",
+          "palenquero": "Uiarigkuna"
+        },
+        {
+          "spanish": "Silencio",
+          "inga": "Upalla",
+          "palenquero": "Upalla"
+        },
+        {
+          "spanish": "Bombo",
+          "inga": "Bumbu",
+          "palenquero": "Bumbu"
+        },
+        {
+          "spanish": "Flauta",
+          "inga": "Flauta",
+          "palenquero": "Flauta"
+        },
+        {
+          "spanish": "Zampoña",
+          "inga": "Zampoña",
+          "palenquero": "Zampoña"
+        },
+        {
+          "spanish": "Cantar",
+          "inga": "Taki",
+          "palenquero": "Taki"
+        },
+        {
+          "spanish": "Canción",
+          "inga": "Taki kuna",
+          "palenquero": "Taki kuna"
+        },
+        {
+          "spanish": "Sonajero (semillas que suenan)",
+          "inga": "Muiukunaua uiachidiru",
+          "palenquero": "Muiukunaua uiachidiru"
+        },
+        {
+          "spanish": "Mientras vivamos, cantemos",
+          "inga": "Kausankamalla takisunchi",
+          "palenquero": "Kausankamalla takisunchi"
+        },
+        {
+          "spanish": "Mientras vivamos, bailemos",
+          "inga": "Kausankamalla muiurisunchi",
+          "palenquero": "Kausankamalla muiurisunchi"
+        }
+      ]
+    },
+    {
+      "title": "Mundo espiritual",
+      "items": [
+        {
+          "spanish": "Yagé",
+          "inga": "Ambi waska",
+          "palenquero": "Ambi waska"
+        },
+        {
+          "spanish": "Médico tradicional",
+          "inga": "Taita sinchi",
+          "palenquero": "Taita sinchi"
+        },
+        {
+          "spanish": "Limpieza",
+          "inga": "Waira pichai",
+          "palenquero": "Waira pichai"
+        },
+        {
+          "spanish": "Cuidadores del territorio",
+          "inga": "Wasikamakuna / Wasikamas",
+          "palenquero": "Wasikamakuna / Wasikamas"
+        },
+        {
+          "spanish": "Canto de Taita",
+          "inga": "Taita sinchipa taki",
+          "palenquero": "Taita sinchipa taki"
+        },
+        {
+          "spanish": "Espíritu",
+          "inga": "Waira, samai",
+          "palenquero": "Waira, samai"
+        }
+      ]
+    }
+  ],
+  "vocabularyAudioSegments": {
+    "Animales": {
+      "start": 0,
+      "end": 0
+    },
+    "Números": {
+      "start": 0,
+      "end": 0
+    },
+    "Colores": {
+      "start": 0,
+      "end": 0
+    },
+    "Partes del cuerpo": {
+      "start": 0,
+      "end": 0
+    },
+    "Familia": {
+      "start": 0,
+      "end": 0
+    },
+    "Saludos": {
+      "start": 0,
+      "end": 0
+    },
+    "Verbos": {
+      "start": 0,
+      "end": 0
+    },
+    "Pensar y sentir": {
+      "start": 0,
+      "end": 0
+    },
+    "Vamos a…": {
+      "start": 0,
+      "end": 0
+    },
+    "Nombrar el paisaje": {
+      "start": 0,
+      "end": 0
+    },
+    "Sonido, música y silencio": {
+      "start": 0,
+      "end": 0
+    },
+    "Mundo espiritual": {
+      "start": 0,
+      "end": 0
+    }
+  },
+  "photos": [],
+  "activities": [
+    {
+      "title": "El amanecer en el valle de Sibundoy: la comunidad de los elementos, el buen vivir y el canto del agua",
+      "tracks": "Pistas asociadas:",
+      "purpose": "Acompañar a las infancias a experimentar una relación armónica y no jerárquica con el territorio. La experiencia enlaza la Pista 1 (Quebrada San Francisco), la invitación de Risunchi a observar, caminar, preguntar y escuchar (Pista 3), el reconocimiento del cuerpo integral desde Suma Kausai (Pista 6) y el canto al río Iaku, iaku, iaku (Pista 7). Cada niña y niño asume libremente la voz de un elemento del entorno y participa en un despertar coral del territorio.",
+      "materials": "Audioteca: Pista 1 (Quebrada San Francisco); Pista 3 (Risunchi); Pista 6 (Suma Kausai); Pista 7 (Iaku, iaku, iaku).\nMateriales: Cascabeles (Sol); tubos de lluvia o flautas suaves (Viento); totumas con agua o semillas menudas (Agua); silbatos de barro o raspadores de madera (Animales); hojas secas crujientes y sonajeros de semillas (Muiukunaua uiachidiru) (Plantas).\nAmbientación: Círculo sobre esteras de fibra natural en penumbra suave, con los materiales sonoros agrupados por elementos al centro, evocando la madrugada cordillerana.",
+      "steps": [
+        "Opción A: Despertar corporal con el Suma Kausai. En círculo, escuchar la Pista 6 tocando suavemente cabeza, orejas, boca, manos y pecho al compás de las frases en runa shimi. Presentar los instrumentos para que cada infante elija a qué elemento prestará su sonido.",
+        "Opción B: Observar, caminar, preguntar, escuchar. Escuchar la Pista 1 y luego la Pista 3 (Risunchi). La mediadora invita a recorrer lentamente el espacio mirando, tocando con cuidado y escuchando, como propone la canción, antes de regresar al círculo para nombrar qué descubrieron.",
+        "Opción C: Orquesta coral y canto colectivo al agua. Activar el despertar coral donde el Sol agita cascabeles, el Viento mueve tubos de lluvia, el Agua percute totumas y todo el grupo entona la Pista 7 («Iaku, iaku, iaku, ¿maima rikungi?»), sumando animales y plantas en polifonía armónica.",
+        "Opción D: La palabra en ronda. Aquietar los sonidos y abrir un espacio donde cada niño exprese su sentir desde el elemento personificado: «Yo fui el agua y corrí alegre hacia la selva», o «Yo fui el sol y calenté las ramas»."
+      ],
+      "closing": "Los instrumentos se reúnen al centro formando una espiral de agradecimiento a la Mama Alpa. En ronda, realizan tres respiraciones al unísono, soplando hacia el centro para saludar la luz naciente.",
+      "key": "Facilitación horizontal: Acompañar la polifonía sin dirigir como director escolar; propiciar que los niños autorregulen su volumen escuchando a los demás.\nLenguaje de parentesco: Nombrar a la naturaleza como hermanos y abuelos, alejándose de miradas utilitarias sobre el territorio."
+    },
+    {
+      "title": "Las manos que sanan: la planta, la palabra, el sobo y el arrullo sagrado (Llatan wawita)",
+      "tracks": "Pistas asociadas:",
+      "purpose": "Comprender el cuidado en la comunidad inga como una trama donde se encuentran la atención a las enfermedades, la medicina tradicional y la ternura cotidiana. La Pista 13 introduce relatos sobre enfermedades y cuidados; la Pista 14 registra la limpieza del Taita; y las Pistas 4 y 9 ofrecen dos arrullos dirigidos a los niños. La experiencia articula escucha, plantas, palabra dulce y contacto respetuoso sin reproducir ceremonias sagradas fuera de su contexto.",
+      "materials": "Audioteca: Pista 4 (Takispa ugllai nukapa llatancito); Pista 9 (Puñupuai, wawita); Pista 13 (Enfermedades y cuidados); Pista 14 (Limpieza del Taita).\nMateriales: Ramas frescas de hierbabuena, manzanilla, menta, albahaca o ruda dulce; retazos de tela de algodón (25x25 cm); hilos de lana de colores; atados de hojas secas que representen la waira; tarjetas de cartulina y ceras.\nAmbientación: Espacio dispuesto como botica o chagra tradicional, con canastos de plantas en el piso y difusores de agua aromatizada bajo luz cálida.",
+      "steps": [
+        "Opción A: Escuchar cómo se cuida. Reproducir fragmentos de las Pistas 13 y 14. Conversar sobre la diferencia entre narrar una enfermedad o un cuidado y escuchar una práctica de limpieza realizada por una autoridad tradicional. Explorar luego las plantas del canasto únicamente desde el olor y la textura.",
+        "Opción B: Dos arrullos para acompañar la infancia. Escuchar las Pistas 4 y 9. Con un muñeco, cojín o pañuelo en brazos, comparar qué imágenes de cuidado aparecen y cómo cambia el cuerpo cuando una voz canta para ayudar a descansar.",
+        "Opción C: Elaboración del saquito y sobo respetuoso. Envolver una rama aromática y una tarjeta con una palabra de cuidado en el retazo de tela. En parejas consentidas o sobre un muñeco, practicar movimientos suaves de sobo mientras suena nuevamente uno de los dos arrullos.",
+        "Opción D: Ofrenda aromática y respiración colectiva. Colocar los saquitos al centro formando una espiral perfumada. Frotar las palmas para generar calor y apoyarlas sobre el pecho, agradeciendo en silencio a las manos y plantas cuidadoras."
+      ],
+      "closing": "Cada participante conserva su saquito de cuidado como memoria de la experiencia y el grupo cierra eligiendo cuál de los dos arrullos —Pista 4 o Pista 9— quiere escuchar nuevamente.",
+      "key": "Consentimiento corporal: Enfatizar que el masaje se realiza siempre con permiso expreso del compañero; quien prefiera no ser tocado puede realizar el sobo sobre sus manos o sobre un cojín.\nAproximación poética: Abordar el ritual desde la metáfora afectiva y el juego pedagógico, evitando teatralizaciones de ceremonias sagradas reservadas a las autoridades tradicionales."
+    },
+    {
+      "title": "El tejido de la vida y la palabra: chumbes, principios y geometría de la memoria",
+      "tracks": "Pistas asociadas:",
+      "purpose": "Audioteca: Pista 11 (Nuka kani Inga Apunti llagtamanda, con los mandatos de Aponte).",
+      "materials": "Ambientación: Alfombras en el suelo con madejas de lanas desplegadas en líneas paralelas que simulan caminos de páramo, acompañadas de muestras o imágenes de chumbes con figuras geométricas.\n4. Opciones pedagógicas de vivencia y exploración\nOpción A: La palabra tejida y los principios de Aponte. Escuchar la Pista 11 con los mandatos tradicionales (Mana sisai - No robar, Mana llullai - No mentir, Mana killai - No ser perezoso, Alli kai - Ser digno, Atun suglla iuiai - Unidad). Dialogar en círculo sobre cómo tejer compromisos de cuidado y verdad para el aula.",
+      "steps": [
+        "Opción C: Práctica en el telar individual de cartón. Con el telar dispuesto, experimentar la cadencia rítmica básica: pasar la lana por arriba del primer hilo, por abajo del segundo, por arriba del tercero. Acompañar en voz baja: «Arriba el sol, abajo la tierra, cruza el camino, abraza la hebra».",
+        "Opción D: La alfombra colectiva de caminos unidos. Ubicar las tablillas una junto a otra sobre una tela blanca en el piso, conectando visualmente los hilos para apreciar la unidad comunitaria y exclamar juntos: «¡Atun suglla iuiai: caminamos unidos!».",
+        "5. Pautas para la mediación",
+        "Pedagogía del error: Si la lana se enreda, invitar a desatarla con serenidad, recordando que soltar nudos ayuda a despejar la mente."
+      ],
+      "closing": "Pistas asociadas:",
+      "key": "6. Guía de observación y registro pedagógico\nConcentración y motricidad fina: Observar cómo gestionan la tensión de la hebra al entrelazar el telar."
+    },
+    {
+      "title": "La danza de las flautas y el ritmo del buchupza: celebración y alegría en comunidad",
+      "tracks": "Pistas asociadas:",
+      "purpose": "3. Materiales y provocación del espacio",
+      "materials": "Materiales: Pañuelos de tela liviana en colores vivos (rojo, verde, azul, amarillo); cascabeles de pie o pulseras de semillas (Muiukunaua uiachidiru); flautines o tubos de caña sencillos.\nAmbientación: Salón despejado adornado con cintas y flores de papel suspendidas, recreando la plaza comunitaria engalanada para el Día Grande.\n4. Opciones pedagógicas de vivencia y exploración",
+      "steps": [
+        "Opción B: El pulso del Día Grande. Reproducir la Pista 10 (Atun Puncha) y responder con pasos firmes y acompasados, sin imponer una coreografía cerrada. Cada participante decide cómo expresar corporalmente la alegría de una celebración colectiva.",
+        "Opción C: Taita Carlos entra en la memoria de la ronda. Escuchar la Pista 2 y caminar en hilera sosteniendo las puntas de los pañuelos. Cuando el canto menciona el camino y la comunidad, la hilera se reúne en círculo para recordar que la historia también se transmite cantando.",
+        "Opción D: De la celebración al arrullo. Después del movimiento de las Pistas 2 y 10, volver a la Pista 12. Los pañuelos descienden lentamente hasta el regazo y el grupo escucha cómo la energía de la fiesta puede transformarse en calma.",
+        "5. Pautas para la mediación"
+      ],
+      "closing": "Experiencia 5: La palabra dulce, el canasto de la memoria y el anochecer en Tacumbina",
+      "key": "Cadencia rítmica: Mantener el paso en un trote acompasado y firme, evitando carreras desordenadas para sostener la escucha de los ritmos andinos.\n6. Guía de observación y registro pedagógico"
+    },
+    {
+      "title": "La palabra dulce, el canasto de la memoria y el anochecer en Tacumbina",
+      "tracks": "Pistas asociadas:",
+      "purpose": "Cerrar el ciclo inga reuniendo a las infancias alrededor del valor de la palabra dulce y la escucha en torno a la tulpa (fogón tradicional). Tras escuchar saludos tradicionales en runa shimi (Nuka kani Inga Apunti llagtamanda, Pakaripuangi, Diusulupai) y modelar en arcilla compromisos de paz para el canasto de la palabra dulce, el grupo transita hacia la calma profunda con la Pista 15 (Anochecer en Tacumbina), vivenciando cómo la noche andina cobija el descanso del territorio.",
+      "materials": "Audioteca: Pista 11 (Nuka kani Inga Apunti llagtamanda); Pista 5 (Nuka kausani Paramu Awapi); Pista 8 (Vocabularios); Pista 15 (Anochecer en Tacumbina).\nMateriales: Canasto grande de mimbre o fibra natural; arcilla fresca o masa con café molido; granos de maíz y fríjol; lámpara ámbar o velas LED rodeadas de piedras (la tulpa); mantas de lana.\nAmbientación: Salón en penumbra que recrea una casa tradicional al caer la tarde, con mantas dispuestas alrededor del fogón simbólico.",
+      "steps": [
+        "Opción A: Escucha de la lengua y nombramiento del origen. Alrededor de la luz de la tulpa, escuchar la Pista 11 («Nuka kani Inga Apunti llagtamanda...»). Compartir la dignidad de pronunciar el nombre propio, el lugar donde vivimos y palabras de afecto como Diusulupai (gracias).",
+        "Opción B: Modelado de compromisos en arcilla. Entregar porciones de arcilla para modelar un símbolo de cuidado y convivencia pacífica (un grano de maíz, un nido, dos manos enlazadas, una montaña), incrustando semillas como ofrenda.",
+        "Opción C: Siembra en el canasto de la palabra dulce. Acercarse por turnos al centro, decir en voz alta el compromiso para el grupo y depositar la figura de arcilla dentro del canasto comunitario.",
+        "Opción D: Reposo colectivo al anochecer en Tacumbina. Apagar la luz general y activar la Pista 15 (Anochecer en Tacumbina), dejando que el canto del búho, los insectos y el viento acunen el salón. Arroparse con mantas en el suelo y despedirse en susurros: «Upalla, que descansen en paz»."
+      ],
+      "closing": "El canasto de la palabra dulce con las esculturas de arcilla permanece en el aula. Ante cualquier tensión cotidiana, el grupo regresa a él para recordar los compromisos sembrados junto al fogón.",
+      "key": "Escucha paciente: Brindar silencio y atención plena mientras cada infante expresa su compromiso ante el grupo, validando su voz como un acuerdo vinculante de convivencia.\nTransición al descanso: Modular el tono hasta el susurro al iniciar la Pista 15 para facilitar la relajación corporal completa."
+    }
+  ],
+  "culturalArticles": [
+    {
+      "title": "Curando a la compañera",
+      "paragraphs": [
+        "Cuando nacía un bebé, en la tulpa, cerquita del fogón, se enterraba el cordón umbilical para que no sintiera frío. Se abría un huequito y hacia dentro se soplaba con aguardiente y humo de cigarrillo. Después se colocaban los carbones, acomodaban el cordón y nuevamente soplaban con aguardiente y tabaco en bola, que habían majado horas atrás. Así, curaban a «la compañera», como llamaban al cordoncito, para que el niño no se asustara o le llegara el mal viento. Si a un niño se le arruinaban los dientes, era común escuchar: «¡No le han curado la compañera!». De este modo aseguraban a los pequeños porque, además, el territorio es ilusionero y los niños sabían perderse: se iban como si el monte mismo los estuviera llamando. Los dolientes, o familiares, sembraban el cordón y ponían las hierbas y remedios, pero eran los comadrones o las parteras quienes les explicaban, pasito a pasito, lo que debían hacer."
+      ]
+    },
+    {
+      "title": "Arrullos",
+      "paragraphs": [
+        "Cuando el bebé tiene un mesecito, la mamá lo coloca en la milla, ese nido que nace cuando se juntan las piernas y que otros llaman regazo. Allí lo mece y le susurra: «shhhhhh, shhhhhh», como si su voz fuera el arrullo del viento. Cuando agarra más fuercita, lo toma en los brazos y lo pone de pie para cantarle la alegría: «kisindi kindi, kisindi kindi, kisindi kindi», mientras lo zarandea suavemente.",
+        "A los tres meses se vuelve su compañerito. Lo lleva a la chagra o al trabajo comunitario, envuelto en una chalina sobre su espalda. Desde allí, el bebé va mirando la tierrita, los limones, la arracacha, mientras lo arrullan con palabras como: puñuri wawita ‘duérmete niñito’.",
+        "Cantando, su mamá le va nombrando el camino que va recorriendo, aunque esté dormidito, porque sabe que él la escucha: «Ese árbol grande se llama Atusnacha», le dice. Kaisutikan atun iaku, ‘mira ese río grande’. Si aparece el arcoíris, ella le habla del kuishi, o de las piedras, runi, o de las flores azules.",
+        "Para los ingas, el sonido y la palabra existen desde que están en el vientre de la madre hasta que vuelven a la Alpa Mama; por eso dicen que a los niños hay que estarles conversando siempre: «No es bueno que estén calladitos» . Mientras crecen, hablarán con la familia, la comunidad y el territorio."
+      ]
+    },
+    {
+      "title": "Los niños Inga",
+      "paragraphs": [
+        "Son las siete de la mañana. En medio de la bruma y la montaña, los niños corren a la escuela con su pacha, una túnica que llevan hasta la rodilla, y las niñas con su kusma, una falda anudada a la cintura con la faja o hiladillo. Tanto la kusma como la pacha son negras como el color de la tierra y están hechas de lana de ovejo. Desde hace algunos años, la comunidad, junto con sus autoridades, decidió cambiar los uniformes: las falditas plisadas y las camisas blancas que no decían mucho de quiénes eran o de dónde venían, por el vestido tradicional del pueblo Inga de Aponte.",
+        "La escuela, a la que corren con sus trajecitos, camina bajo un Proyecto Educativo Comunitario: les enseñan el inga, celebran el Inti Raymi, les hablan del Taita Carlos, les hacen probar el remedio o ambiwaska, y desde pequeños, crecen sabiendo que nacieron para cuidar el territorio. Mientras aprenden a leer, también se van topando con las flautas, el charango, la guitarra, la zampoña, el bombo andino y los sonajeros que vienen de los Andes. En el recreo juegan a la chis, que es la lleva; al cuspe, que es un trompo al que le dan fuete; y a las escondidas.",
+        "Fuera de la escuela, crecen al ladito del fogón y de los cuyes que se esconden bajo la hornilla para calentarse. En su mesa siempre hay maíz y arvejas frescas, o coles, habas y granitos, que cultivan en la chagra, a unos pasitos de su casa; por eso siempre les sirven sopas que van juntando un poco de todo.",
+        "Su mundo es un territorio grande: necesitan salir a la montaña, sentir el sol, correr, ir a comer mandarinas, tocar la tierra, las hojitas, las semillas y todo lo que vive junto a ellos. Están llenos de curiosidad, y no hay juego que no puedan inventarse. Lo que han visto a través del remedio, las historias que les han contado desde niños, y esas montañas altísimas que abrigan tantos espíritus han hecho un nido para que ellos puedan ir tanteando el mundo sin reparos.",
+        "A los niños y las niñas les dicen wawas. Cuando crecen, si son señoritas, para hablarles bonito las llaman suma warmi, ‘mujer bonita’."
+      ]
+    },
+    {
+      "title": "La fiesta de nosotros",
+      "paragraphs": [
+        "El Atun Puncha es el «Día Grande», la «fiesta de nosotros». Donde haya un inga, sea en El Páramo o en el pueblo, se festeja. El carnaval empieza una semana antes del Miércoles de Ceniza con la ceremonia de remedio o ambiwaska para toda la comunidad; el sábado, se recuerdan los juegos «que se sabían jugar antes», como la vara encebada, los encostalados o la carrera del chaski; y el domingo, en el cambalache, se trueca choclo, arracacha, barbacuano, envueltos, gallinas, cuyes, ollas de barro y hasta tejidos hechos en guanga. Es el encuentro entre lo frío y lo caliente.",
+        "El lunes llegan «toditos» los niños de las diferentes escuelas a Aponte y hacen un desfile. Antes de empezar, les ponen remedio: los limpian con plantas dulces y frescas, y les dan un poquitingo de «chicha tiernita», que es bien suavecita y no emborracha. Después van danzando en hileritas con su pacha, su kusma, sus coronas de plumas y sus collares de colores y tocan la música del carnaval con bombos pequeñitos o con tarritos llenos de semillas de chirilla o arvejitas, mientras cantan los versos del Atun Puncha. El Taita Carlos ya viene del Limón más para abajo/ El Taita Carlos ya se va del Limón más para abajo, se escucha a lo lejos… Cuando despiden al Taita, igual que los adultos, se ponen tristes.",
+        "El martes es el «Día Grande», el día del perdón. La comunidad baila casa por casa, visitando a las familias. Los reciben con mote y carne de marrano, y les ofrecen chicha o les brindan una copita de chapil. Van ataviados con sus vestidos tradicionales y sus instrumentos: las mujeres con el bombo, los tarritos de semillas o el rondador, y los hombres con sus flautas. Es un día en que toda la comunidad se vuelve música. Junto a los que bailan, alguien lleva un cacho pregonando dónde anda el carnaval, para que cualquiera pueda unirse en la casa que visitan. Otros también acompañan con las banderas negras y blancas del resguardo. Cuantas más banderas, más bonito se ve.",
+        "Ese mismo martes se entregan unas florecitas rosadas que solo «se saben mirar» en vísperas del Atun Puncha. En inga las llaman fragua tuctu. Son para los más cercanos y también, como «un cariño», para las autoridades. «Se llevan en el bolsito y, con la mano derecha, se ponen en la corona de la cabeza de la persona a quien se regalan». Sirven para armonizar el alma y el espíritu. Al final del día, casi a las doce de la noche, los carnavaleros visitan la casa del cabildo y la del alcalde o la del alguacil mayor, y siempre se van abrazando.",
+        "Así se vive en el Atun Puncha la enseñanza que dejó el taita Carlos: son días para perdonarse entre familias, entre vecinos, entre el mismo territorio. «Es la festividad donde nos reconciliamos para llegar con el corazón limpio al tiempo que comienza»."
+      ]
+    },
+    {
+      "title": "La lengua ingana",
+      "paragraphs": [
+        "Hace unos años, otras maneras de sentir y habitar el territorio llegaron a Aponte. En ese entonces, muchos se olvidaron de la lengua y ella, poco a poco, se fue quedando dormida. Esos días difíciles pasaron: hoy, junto con el café que se asoma verdecito en la montaña, la comunidad está recuperando el ingano y, con él, el modo de pensar bonito que habían tenido desde siempre.",
+        "En la escuela de Granadillo, los símbolos saludan desde arriba, y abajito está su nombre escrito en letras, bien clarito. Atun iaku es el río grande, la vida que recorre el territorio; alpa manga, las ollas de barro o tierra para preparar la chicha; indi, el taita sol, el origen de todo lo que siente y respira; mama killa, la luna que marca los tiempos de siembra y cosecha; wiru sara, el maíz; la chagra, ‘huerta’ donde crece el prontoalivio y la ruda junto al fríjol y el café; el saparu, canasto con el que recogen lo que da la chagra.",
+        "Kindi es el colibrí, el espíritu mensajero entre el mundo de la tierra y el de los espíritus; llaugtu, la corona de plumas de los taitas sabedores; wigsa es el vientre de la mujer, el origen de la vida; ñawi muru, los ojos de las estrellas: los espíritus mayores que partieron; kuti es el tiempo de ida y vuelta, el momento en el que inicia y finaliza la existencia. Las mayoras dicen que en estas palabras se resume la vida del Inga.",
+        "La lengua inga es una variante del quechua (o quichua), que llegó al sur de Colombia con la expansión del Tahuantinsuyo. Los incas se valieron de su idioma para unir y controlar los territorios conquistados, no solo con la fuerza militar, sino también convirtiendo su lengua en lengua de gobierno y de comercio. Dicen que Aponte es el enclave de lengua quechua más al norte de todo el continente."
+      ]
+    }
+  ]
+}

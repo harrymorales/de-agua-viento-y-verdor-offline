@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "territories": [
+    {
+      "slug": "palenque",
+      "name": "San Basilio de Palenque",
+      "status": "published",
+      "contentFile": "palenque.original.json"
+    },
+    {
+      "slug": "raizal",
+      "name": "Raizal",
+      "status": "text-ready",
+      "contentFile": "raizal.json"
+    },
+    {
+      "slug": "cofan",
+      "name": "Cofán",
+      "status": "text-ready",
+      "contentFile": "cofan.json"
+    },
+    {
+      "slug": "inga",
+      "name": "Inga",
+      "status": "text-ready",
+      "contentFile": "inga.json"
+    },
+    {
+      "slug": "yukpa",
+      "name": "Yukpa",
+      "status": "text-ready",
+      "contentFile": "yukpa.json"
+    },
+    {
+      "slug": "rrom",
+      "name": "Rrom",
+      "status": "text-ready",
+      "contentFile": "rrom.json"
+    }
+  ]
+}

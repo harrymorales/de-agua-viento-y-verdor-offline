@@ -1,0 +1,17 @@
+{
+  "name": "De agua, viento y verdor",
+  "short_name": "De agua",
+  "lang": "es-CO",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#185775",
+  "background_color": "#fffdf7",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+DE AGUA, VIENTO Y VERDOR · PAQUETE SIN CONEXIÓN
+
+1. Abra la carpeta “de-agua-viento-y-verdor-offline”.
+2. Haga doble clic en “index.html”.
+
+No mueva ni elimine las carpetas “assets”, “audio” o “images”: contienen los recursos que utiliza la aplicación.
+El paquete funciona sin instalación y sin conexión a internet.
