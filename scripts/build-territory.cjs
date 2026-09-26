@@ -13,14 +13,14 @@ if (!slug) throw new Error('Uso: node scripts/build-territory.cjs <slug>');
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'src', 'content', 'territories.json'), 'utf8'));
 const territory = catalog.territories.find(item => item.slug === slug);
 if (!territory) throw new Error(`No existe el territorio ${slug} en territories.json.`);
-const preview = territory.status === 'text-ready';
-if (territory.status !== 'published' && !preview) throw new Error(`${territory.name} está en estado ${territory.status}; complete y valide su contenido antes de construirlo.`);
+const textPreview = territory.status === 'text-ready';
+if (territory.status !== 'published' && !textPreview) throw new Error(`${territory.name} está en estado ${territory.status}; complete y valide su contenido antes de construirlo.`);
 
 const data = JSON.parse(fs.readFileSync(path.join(root, 'src', 'content', territory.contentFile), 'utf8'));
 // A text preview must never produce broken audio controls. The editable source
 // keeps the intended routes; only the generated preview omits playback until
 // the corresponding files exist.
-const renderData = preview
+const renderData = textPreview
   ? { ...data, tracks: data.tracks.map(track => ({ ...track, audio: '', audioFallback: '' })) }
   : data;
 let script = fs.readFileSync(path.join(root, 'assets', 'offline-index.js'), 'utf8');
@@ -89,7 +89,7 @@ script = script.replace('if(v!=="palenque")', `if(v!=="${slug}")`);
 // remains the shared point of entry and sends visitors to these pages.
 script = script.replace('let[v,z]=(0,pe.useState)(null)', `let[v,z]=(0,pe.useState)(${JSON.stringify(slug)})`);
 
-if (preview) {
+if (slug !== 'palenque') {
   // The original engine contains a small number of Palenque-only labels and
   // cover values outside its content arrays. Replace only those for a
   // text-preview; its layout and interaction code remain untouched.
