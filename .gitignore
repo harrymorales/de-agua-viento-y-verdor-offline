@@ -8,3 +8,7 @@ Desktop.ini
 
 # Vercel local state
 .vercel/
+
+# Original photography is retained locally; optimized web versions are published.
+images/raizal/portada/
+images/raizal/fototeca/

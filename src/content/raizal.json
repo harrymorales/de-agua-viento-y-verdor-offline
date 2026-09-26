@@ -18,8 +18,8 @@
   "cover": {
     "title": "Raizal",
     "subtitle": "Relatos, cantos, juegos, palabras y paisajes sonoros de Providencia.",
-    "image": "",
-    "imageAlt": ""
+    "image": "images/raizal/web/portada/Raizal_A7V00699_Juan Franco_2026.jpg",
+    "imageAlt": "Niña raizal sosteniendo hojas verdes en Providencia."
   },
   "communityProfile": {
     "facts": [
@@ -1321,7 +1321,29 @@
       "end": 0
     }
   },
-  "photos": [],
+  "photos": [
+    { "src": "images/raizal/web/fototeca/Raizal_A7V00412_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V00666_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V00885_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V01612_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V01635_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V01724_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V02097_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V04866_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V05053_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V05189_Juan Franco_2026.jpg", "alt": "Fotografía 10 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V05479_Juan Franco_2026.jpg", "alt": "Fotografía 11 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V05971_Juan Franco_2026.jpg", "alt": "Fotografía 12 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V06037_Juan Franco_2026.jpg", "alt": "Fotografía 13 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V06196_Juan Franco_2026.jpg", "alt": "Fotografía 14 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V06269_Juan Franco_2026.jpg", "alt": "Fotografía 15 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V07447_Juan Franco_2026.jpg", "alt": "Fotografía 16 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V09489_Juan Franco_2026.jpg", "alt": "Fotografía 17 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V09804_Juan Franco_2026.jpg", "alt": "Fotografía 18 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V09964_Juan Franco_2026.jpg", "alt": "Fotografía 19 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_A7V09983_Juan Franco_2026.jpg", "alt": "Fotografía 20 de la comunidad raizal." },
+    { "src": "images/raizal/web/fototeca/Raizal_pano_cayo_cangrejo_Juan Franco_2026.jpg", "alt": "Panorámica de Cayo Cangrejo, territorio raizal." }
+  ],
   "activities": [
     {
       "title": "El mar de siete colores: paisajes sonoros y memoria de la pesca",
