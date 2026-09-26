@@ -1,0 +1,8 @@
+/* Desktop placement mirrors the Palenque-then-Raizal order used on mobile. */
+.community-link.community-1 { bottom: 27%; left: 27%; }
+.community-link.community-2 { bottom: 30%; left: 10%; }
+
+@media (width <= 980px) {
+  .community-link.community-1 { bottom: 25%; left: 22%; }
+  .community-link.community-2 { bottom: 29%; left: 4%; }
+}
