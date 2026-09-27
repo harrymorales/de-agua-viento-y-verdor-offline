@@ -130,18 +130,26 @@ const vocabularyTrackNumbers = renderData.tracks
 const vocabularyTrackCondition = `${JSON.stringify(vocabularyTrackNumbers)}.includes(q.number)`;
 script = script.replaceAll('q.number==="07"', vocabularyTrackCondition);
 
+// A territory may provide its own cover photograph while retaining the
+// original Palenque cover composition and typography.
+const cover = renderData.cover || {};
+if (cover.image) {
+  script = script.replace(
+    /src:"images\/palenque-portadilla\.jpg",alt:"[^"]*"/,
+    `src:${JSON.stringify(cover.image)},alt:${JSON.stringify(cover.imageAlt || `Vista previa de ${renderData.meta.name}`)}`
+  );
+}
+
 if (slug !== 'palenque') {
   // The original engine contains a small number of Palenque-only labels and
   // cover values outside its content arrays. Replace only those for a
   // text-preview; its layout and interaction code remain untouched.
-  const cover = renderData.cover || {};
   const profile = renderData.communityProfile || {};
   script = script.replaceAll('Acerca de Palenque', `Acerca de ${renderData.meta.name}`);
   script = script.replaceAll('Conoce Palenque', `Conoce ${renderData.meta.name}`);
   script = script.replaceAll('children:"Palenquero"', `children:${JSON.stringify(renderData.meta.readingOriginalLabel || renderData.meta.language || 'Lengua de la comunidad')}`);
   script = script.replaceAll('Fototeca de Palenque', `Fototeca de ${renderData.meta.name}`);
   script = script.replaceAll('Veinte miradas a San Basilio de Palenque.', `Fototeca de ${renderData.meta.name}.`);
-  script = script.replace(/src:"images\/palenque-portadilla\.jpg",alt:"[^"]*"/, `src:${JSON.stringify(cover.image || 'images/portal/01.png')},alt:${JSON.stringify(cover.imageAlt || `Vista previa de ${renderData.meta.name}`)}`);
   script = script.replace('children:["San Basilio",(0,s.jsx)("br",{}),"de Palenque"]', `children:${JSON.stringify(cover.title || renderData.meta.name)}`);
   script = script.replace('children:"Relatos, cantos, juegos, palabras y paisajes sonoros para escuchar una comunidad que mantiene viva su lengua y su memoria."', `children:${JSON.stringify(cover.subtitle || '')}`);
 
