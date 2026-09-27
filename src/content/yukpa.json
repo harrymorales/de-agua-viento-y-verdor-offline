@@ -4,7 +4,7 @@
     "name": "Yukpa",
     "language": "Yukpa y español",
     "readingOriginalLabel": "Yukpa",
-    "status": "text-ready",
+    "status": "published",
     "pending": [
       "Incorporar 13 audios e imágenes autorizadas."
     ]
@@ -53,55 +53,91 @@
       "number": "01",
       "title": "Amanecer en San Genaro",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 1",
       "intro": "Los primeros rayos del sol tocan la Serranía del Perijá. Los insectos suenan como pequeñas olas que anuncian el comienzo de un nuevo día. En San Genaro, los yukpa empiezan a despertar y, poco a poco, también despiertan los animales. Escucha con atención: ¿qué animales puedes reconocer?",
-      "audio": "audio/yukpa/Yuk-01.mp3",
-      "language": "Yukpa + Español",
+      "audio": "audio/yukpa/Yuk-01-Amanecer_en_san_genaro-pai-son.mp3",
+      "language": "N/A",
       "activities": [
         0
-      ]
+      ],
+      "audioFileBase": "Yuk-01-Amanecer_en_san_genaro-pai-son",
+      "duration": "5:01",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "captureDate": "2026-05-27 00:00:00",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "N/A"
+      }
     },
     {
       "number": "02",
       "title": "Owaya tamurhya trho ktaworh, taniap Papsh Yukpa iyanak",
       "spanishTitle": "Cuando la tierra se estaba formando, Papsh sacó a los Yukpa de un árbol",
-      "kind": "Relato o canto",
+      "kind": "Relato",
       "tracks": "Pista 2",
       "intro": "Los yukpa fueron descubiertos por Sakurash, el ‘pájaro carpintero’, en el árbol de Manʉrhacha. Escucha su relato de origen en la voz de Gaso, un niño de doce años de la comunidad de San Genaro, junto con la versión en castellano contada por Tite, Eder Enrique González Quiróz.",
-      "audio": "audio/yukpa/Yuk-02.mp3",
+      "audio": "audio/yukpa/Yuk-02-Owaya_tamurhya_trho_ktaworh_taniap_papsh_yukpa_iyanak-rel.mp3",
       "language": "Yukpa + Español",
       "activities": [
         0
       ],
       "original": "Owaya tamurhya trho ktaworh, taniap Papsh Yukpa iyanak\n¡Ah! Orhopi prhak Papsh kuma nak yaman.\nY wayí tk nipo nak kas aksha, sano tk tʉwʉshnʉ pi nayanak, tʉwʉshnʉ pi nayanak: sirhirhmo, sotsh, soksh, ó rhano gavilan, pshash sarh ó rhano tʉwʉshnʉ pi nayanak.\nY okan tk sõya, sõya ʉnak kas Dios tk sa sha nʉtanak, sha nʉtanak, sarh wayip, torhop tarhi chat aki sirhirhmo:\n—Ako Papsh, Papsh sharh, Papsh sink.\n—Ko, ¿chona kach? Orh pirha, Papsh a piniyayo prha ah nʉkanakotk.\nY Papsh sha tapo nak, kas sano tk oka yochna sayani nak, sarh apoto sakayitka, sa tk yochna sayaponak ó rhan satk yochna sayaponak a nak.\nY sa tk Papsh nak urhatapok, sarh y yininapi sarh otʉyakaprhan ktawo tk sa yawotrho ktawo toni nak.\nSatk kaninak, tomãk sʉtochi y tomãka tk nʉnak, kas tomãka tk orha rhpap Papsh sha nʉtanak, sarh wayip, sarh turhup.\nY tomãka tk orha nʉkanak orho Sirhirhmo:\n—Awʉ Papsh sink, Papsh sink, tarhi tk wayi.\n—Acho papa pirha orho, ó wat papa piniyayo prha a nʉkanakot.\nTarhi tk tomãk ó rhano yochna nayanak y otʉyakaprhan ktawo tk tomãk nʉtonak.\nKantk winay sa sha nʉtanak kasʉy patumi, y kantk sa o inaponak patumip, y kantk patuma yochna sayas nak, y sa nʉkanak:\n—Wa, wãyapi sk yichna sayapo mant ah.\nSa tk wãya, wãya yna tomãk nurhatanak sarh patumip kasʉy.\nY kantk oka yopi tk natko pina, y kantk sa nopa ayapo nak, mapicha sarh pirhinya sayapo nak, y a lo último kas winay tk Dios, Dios pishi yan nantanak, yin nantanak.\nY kantk Dios sa nʉkanak:  \nY kantk niyamikanak, y okan tk sa nantanatko, siyi sarh sicho nantanak tipi nantanatko.\nKas apsh, apsh api tk nonamanak kantk Papsh kayi nayanak orh kasʉy wicho.\nY orhopi tk Papsh kas ʉh sa nak, Papsh tk nopa is nʉtonak yomakshrhu pi nopa uktipo nak.\nSha rhpa tk nʉtanak, kas oka na tk mana: \nY oka yanak kumapnosh napõyak, kas nopa yan nashinak, sa sarhopopok wi rhpat shampi nikitanak. Kas oy na tk onokpo nak shimnarh, sakurharhshi yãw tk.\nWayi rhpat winay tk nishoynak, sa cha tk nak sayapok wa, sha rhpa antapok. Y a lo último, kas nʉchaprhʉma nak. Kantk nʉtonak, onich psk sa nich amicha tʉsʉ ka wipok.\nY kantk kuma kas tumank nishoy nak, pero sakurharhsh rhpat siyorha nak, sakurharhsh siyorha nak, sa tk nak Papsh sarh tʉk kumap, sakurharhsh sarh wi ypok sarh, wi ypok psk inini wi pok sarh kurhashash inapok minurhs ya tk kurhashash iniponak, sarh yishitok, ma kan ositchi kantk nak yʉna Papsh sakurharhsh.\nPapsh yoshrha tk nak, kantk Papsh sa nʉkanak:\n—Sinta, psha pi pisk kayarhpo na psk ah.\nWa, sitashrha tk orho nak yʉncha.\nY a lo último, tinipchi nak wi ta, wi ta tk tinipchi nak sarh, mana rhan tk yipakrhash yan nashkanak y sarhko tk grita nak, sarhko, tomanka tk mayan, mayan naskanak tomankarh.\nKantk pin de una sa medidash nak kantk Dios, Dioschat nopa ʉrhʉpo nak nonó, y orh tk sakaypo nak, sarh sashkapok tʉpotʉ kano, sakaypo nak upkoy tkarh.\nKantk kas, kas orha Papsh na nʉkanak, akyi, makarharh akyi nopan karh iporhi nopa nʉ, nopanchak orh ni nʉ.\nKantk nʉtonatko, ma cho nin, yʉnarh tk panapʉ narhonak, kantk sa nak Papsh tʉk, kasʉy orho may ch nina supuypok, supuypok.\nKantk a lo último sa nʉkanak:\n—Ah, oyo karh nin, ¿tamp amó orha ma nʉ? Ma yan ʉn mayaposh nʉkanakontk.\nKantk sha rhp, sha rhp nʉtanatko. Kantk mãto nin.\n—Ah, yimʉnʉrh mʉcha rhano, mto nin, kantk ninak, kas tomãk medidash ʉnak kasʉy.\nKantk kumashprha ch ona medidash ʉnak, kantk Papsh nopa washa yʉpanak, saksi ka ktaw, saksi ka, ka, saksi ka ktaworh sa nʉkanak.\nSis nʉton, suktipo tk nak kumash tk yʉnakrhʉka psk nak mayi, yimurhu rhpat api tuwikta nak y Papsh psk tiniya nak kamprha tk mayay tinicha nak.\nKantk primero nopa rhan wʉnan yʉnʉpo nak, misash, minkwi, nopanpa toka otk, otk wʉnan yʉnʉponak kantk. Y kantk Papsh niyatimanako kantk orhopi rhan sakorharhsh nʉtonak.",
-      "translation": "Cuando la tierra se estaba formando, Papsh sacó a los Yukpa de un árbol\n¡Ah! En ese tiempo, Papsh ‘Dios’ estaba solo; deben saberlo. Él encontró un oso perezoso. Y a aquellos los colocó como sus hijos: al gavilán mayor y a los gavilanes de diferentes clases. Así nuestro padre hizo a esas aves como sus hijos, y ellos, los hijos de Papsh, hicieron chicha fuerte.\nEntonces Dios vino de repente, pero vino así: con aspecto feo, sucio, diferente. Y el gavilán mayor, al verlo de lejos, dijo: \nY mientras Papsh iba llegando, ellos le acomodaban abajo, como asiento, esteras viejas y dañadas. Las ubicaban abajo, como asiento, una y otra vez.\nY así era Papsh: se sentaba y tomaba chicha fuerte y, sin terminarla, se iba de nuevo. Y decía, en su pensamiento: «Háganlo de nuevo». Y de esta forma ellos lo hacían.\nPapsh volvió a aparecer con ese mismo aspecto feo, diferente. Otra vez el gavilán mayor dijo: \nAl final vino de nuevo, ya en su apariencia normal. Y se estaba comiendo todo, y una buena estera le iban a colocar, pero él dijo: \nPara entonces ellos ya estaban borrachos y tiraban cosas; colocaron cera de abeja en la punta de las flechas y, después, a Dios, a los pies de él, le dispararon y pegaron con eso.\nCuando le cayó a Dios, él dijo: \nY ellos cayeron así, de este lado cayeron, de frente cayeron.\nPasó un momento, y otro momento, y demoró bastante. Al final, Papsh volvió a colocar el sol alto, en su puesto.\nDespués, Dios se fue a buscar caña brava para ponerles a ellos como garras a los pájaros. Y cuando volvió, los llamó: \nY allí se montaban sobre los árboles donde iban a vivir. El pájaro carpintero también estaba.\nEl oso perezoso quedó de último: Papsh lo tiraba, y él volvía y regresaba, hasta que al final lo aplastó y le dio la forma que hoy tiene el oso perezoso. Por eso el oso perezoso se cuelga del árbol.\nEntonces Papsh volvió a quedar solo, pero el pájaro carpintero no lo dejaba tranquilo. Se sentaba allí, solo, en un árbol, comiendo gusanos. En un canasto traía gusanos para él, para Papsh: —Come esto—, le decía. Pues no lo dejaba en paz.\nPapsh le dijo: \nY al final nos vio en un árbol. Ahí nos encontró: primero, aquí en la pierna, la agujereó con el pico. Y entonces algo gritó. Entonces, él empezó a picotear despacio, otra vez, y otra vez, hasta que ya no escuchaba ningún quejido; y así de una vez tuvo las medidas.\nMientras tanto, Dios estaba haciendo el mundo y el pájaro carpintero le dañaba con el pico lo que Dios iba haciendo, a cada rato. Entonces le dijo a Papsh: \nPapsh se sentaba a esperar, y el pájaro decía:\n—Estaba por acá —y lo buscaba, y lo buscaba, hasta que al final dijo: \nY volvieron sobre sus pasos.\nEntonces, muy cerca de casa, el pájaro dijo: —Aquí está, aquí está— y de nuevo hizo medidas, para saber por dónde cortar con el hacha sin cortar el cuerpo del yukpa, pues lo iban a extraer del árbol. Hizo muchas medidas. Papsh afiló el hacha y dijo que, al otro día, al amanecer, se irían a buscarlo.\nAl amanecer, fue a buscarlo. Eran tres, pero dañó a uno: lo cortó mal. Por ahí lo cortó, y salió la sangre. Así Papsh nos sacó del árbol.\nLuego nos partió por las articulaciones, porque los yukpa eran tiesos. Y así, primero, nos puso a nuestros ancestros a hacer flechas, arco y también chicha. Eso nos hizo hacer, y Papsh se alegró."
+      "translation": "Cuando la tierra se estaba formando, Papsh sacó a los Yukpa de un árbol\n¡Ah! En ese tiempo, Papsh ‘Dios’ estaba solo; deben saberlo. Él encontró un oso perezoso. Y a aquellos los colocó como sus hijos: al gavilán mayor y a los gavilanes de diferentes clases. Así nuestro padre hizo a esas aves como sus hijos, y ellos, los hijos de Papsh, hicieron chicha fuerte.\nEntonces Dios vino de repente, pero vino así: con aspecto feo, sucio, diferente. Y el gavilán mayor, al verlo de lejos, dijo: \nY mientras Papsh iba llegando, ellos le acomodaban abajo, como asiento, esteras viejas y dañadas. Las ubicaban abajo, como asiento, una y otra vez.\nY así era Papsh: se sentaba y tomaba chicha fuerte y, sin terminarla, se iba de nuevo. Y decía, en su pensamiento: «Háganlo de nuevo». Y de esta forma ellos lo hacían.\nPapsh volvió a aparecer con ese mismo aspecto feo, diferente. Otra vez el gavilán mayor dijo: \nAl final vino de nuevo, ya en su apariencia normal. Y se estaba comiendo todo, y una buena estera le iban a colocar, pero él dijo: \nPara entonces ellos ya estaban borrachos y tiraban cosas; colocaron cera de abeja en la punta de las flechas y, después, a Dios, a los pies de él, le dispararon y pegaron con eso.\nCuando le cayó a Dios, él dijo: \nY ellos cayeron así, de este lado cayeron, de frente cayeron.\nPasó un momento, y otro momento, y demoró bastante. Al final, Papsh volvió a colocar el sol alto, en su puesto.\nDespués, Dios se fue a buscar caña brava para ponerles a ellos como garras a los pájaros. Y cuando volvió, los llamó: \nY allí se montaban sobre los árboles donde iban a vivir. El pájaro carpintero también estaba.\nEl oso perezoso quedó de último: Papsh lo tiraba, y él volvía y regresaba, hasta que al final lo aplastó y le dio la forma que hoy tiene el oso perezoso. Por eso el oso perezoso se cuelga del árbol.\nEntonces Papsh volvió a quedar solo, pero el pájaro carpintero no lo dejaba tranquilo. Se sentaba allí, solo, en un árbol, comiendo gusanos. En un canasto traía gusanos para él, para Papsh: —Come esto—, le decía. Pues no lo dejaba en paz.\nPapsh le dijo: \nY al final nos vio en un árbol. Ahí nos encontró: primero, aquí en la pierna, la agujereó con el pico. Y entonces algo gritó. Entonces, él empezó a picotear despacio, otra vez, y otra vez, hasta que ya no escuchaba ningún quejido; y así de una vez tuvo las medidas.\nMientras tanto, Dios estaba haciendo el mundo y el pájaro carpintero le dañaba con el pico lo que Dios iba haciendo, a cada rato. Entonces le dijo a Papsh: \nPapsh se sentaba a esperar, y el pájaro decía:\n—Estaba por acá —y lo buscaba, y lo buscaba, hasta que al final dijo: \nY volvieron sobre sus pasos.\nEntonces, muy cerca de casa, el pájaro dijo: —Aquí está, aquí está— y de nuevo hizo medidas, para saber por dónde cortar con el hacha sin cortar el cuerpo del yukpa, pues lo iban a extraer del árbol. Hizo muchas medidas. Papsh afiló el hacha y dijo que, al otro día, al amanecer, se irían a buscarlo.\nAl amanecer, fue a buscarlo. Eran tres, pero dañó a uno: lo cortó mal. Por ahí lo cortó, y salió la sangre. Así Papsh nos sacó del árbol.\nLuego nos partió por las articulaciones, porque los yukpa eran tiesos. Y así, primero, nos puso a nuestros ancestros a hacer flechas, arco y también chicha. Eso nos hizo hacer, y Papsh se alegró.",
+      "audioFileBase": "Yuk-02-Owaya_tamurhya_trho_ktaworh_taniap_papsh_yukpa_iyanak-rel",
+      "duration": "7:06",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "26/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Faiber Darío Capitán Romero"
+      }
     },
     {
       "number": "03",
       "title": "Cuando la tierra se estaba formando, Papsh sacó a los Yukpa de un árbol",
       "spanishTitle": "",
-      "kind": "Relato o canto",
+      "kind": "Relato",
       "tracks": "Pista 3",
       "intro": "Los yukpa fueron descubiertos por Sakurash, el ‘pájaro carpintero’, en el árbol de Manʉrhacha. Escucha su relato de origen en la voz de Gaso, un niño de doce años de la comunidad de San Genaro, junto con la versión en castellano contada por Tite, Eder Enrique González Quiróz.",
-      "audio": "audio/yukpa/Yuk-03.mp3",
-      "language": "Yukpa + Español",
+      "audio": "audio/yukpa/Yuk-03-Cuando_la_tierra_se_estaba_formando_papsh_saco_a_los_yukpa_de_un_arbol-rel.mp3",
+      "language": "Español",
       "activities": [
         0
-      ]
+      ],
+      "audioFileBase": "Yuk-03-Cuando_la_tierra_se_estaba_formando_papsh_saco_a_los_yukpa_de_un_arbol-rel",
+      "duration": "1 day, 2:43:00",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "26/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Andrés Capitán González"
+      }
     },
     {
       "number": "04",
       "title": "Okosi isirhirh. Canción Rey Gallinazo",
       "spanishTitle": "Canción Rey Gallinazo",
-      "kind": "Relato o canto",
+      "kind": "Canción",
       "tracks": "Pista 4",
       "intro": "El Rey Golero, o gallinazo, dejó este canto para que el pueblo recordara que los pájaros antes fueron gente, inventaban cantos propios, hacían fiestas y también se enamoraban. Escucha con atención este bello canto de enamoramiento en la voz de hombres y mujeres de la comunidad de San Genaro.",
-      "audio": "audio/yukpa/Yuk-04.mp3",
+      "audio": "audio/yukpa/Yuk-04-Okosi_isirhirh_cancion_rey_gallinazo-can.mp3",
       "language": "Yukpa + Español",
       "activities": [
         1
-      ]
+      ],
+      "audioFileBase": "Yuk-04-Okosi_isirhirh_cancion_rey_gallinazo-can",
+      "duration": "4:35",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "27/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Comunidad Yukpa"
+      }
     },
     {
       "number": "05",
@@ -110,58 +146,102 @@
       "kind": "Vocabulario",
       "tracks": "Pista 5",
       "intro": "Los yukpa son hijos de la naturaleza. Ese vínculo vive en los nombres de los animales del monte, en las palabras de la cacería, en el cuerpo y en la familia. Escuchemos, en yukpa y en español, algunas de estas palabras.",
-      "audio": "audio/yukpa/Yuk-05.mp3",
+      "audio": "audio/yukpa/Yuk-05-Vocabularios_1-voc.mp3",
       "language": "Yukpa + Español",
       "activities": [
         1,
         4
       ],
       "singleReading": true,
-      "vocabularyCategoryIndexes": [0, 1, 2, 3, 4, 5, 6],
-      "original": "Colores\nAmarillo · Arhamo\nVerde · Shipa\nAzul · Shipa\nRojo · Pskano\nMorado · Kumti\nBlanco · Sʉw kano\nCafé · Kokpa\nNegro · Korhowcha\n\nNúmeros\nUno · Kumash\nDos · Kosash\nTres · Kosirhash\nCuatro · Kosatkash\nCinco · Mash puni\n\nPartes del cuerpo\nCabeza · Yowasarh\nFrente · Yipitrhorh\nOjo · Yanurh\nNariz · Yunarh\nBoca · Yipotarh\nLengua · Yinosh\nDiente · Yʉrh\nOreja · Yipanarh\nCuello · Yʉpʉmʉrh\nEspalda · Yʉnkarh\nEstómago · Yiposirh\nBrazo · Yapush\nDedos · Yomash\nManos · Yomash\nPierna · Yunsirh\nRodilla · Yimikrhirh\nPies · Yushish\nCabello · Yũsirh\nBarba · Yipotamirh\nCeja · Yanʉptʉrh\nOmbligo · Yipũskurh\nUñas · Yomakshrhu\nPecho · Yowarhapsh\nCostilla · Yowaparhʉrh\n\nFamilia\nMamá · Mamsh\nPapá · Papsh\nBebé · Mashukapãsh\nNiño y niña · Kacha\nHijo · Yinpakosh\nHija · Yinpakosh\nHermano mayor (tercera persona) · Yirhõsh\nHermano del medio (tercera persona) · Yakõsh\nHermana mayor (tercera persona) · Yipash\nHermana menor (tercera persona) · Yipsh\nAbuelo materno (primera persona) · Tatach\nAbuela materna (primera persona) · Chuchi\nAbuelo paterno (primera persona) · Akuch\nAbuela paterna (primera persona) · Chuchi\nTío materno (primera persona) · Awoch\nTía materna (primera persona) · Asãsh\nTío paterno (primera persona) · Papash\nTía paterna (segunda persona) · Awãsh\nSobrino paterno (segunda persona) · Amomsh\nSobrina paterna (segunda persona) · Insh\nSobrino materno (segunda persona) · Apatsh\nSobrina materna (segunda persona) · Apatsh\nPrimo · Ikõnsh\nPrima · Inash\nNieto (segunda persona) · Irhipapsh\nNieta (segunda persona) · Irhipapsh\n\nSonido y música\nSonido · Yorh\nCarrizo · Soksh\n\nEmociones\nAlegría · Tuwakshirhi\nTristeza · Wʉrhʉpi\nEstoy alegre · Awʉ tuwakshirhi yas\nEstoy triste · Wʉrhʉpi yas\nEstoy enamorado · Awʉ wʉrhʉpi yas\n\nSaludos\nBuenos días · Pinatrho rhan\nBuenas tardes · Kowãpi rhan\nBuenas noches · Pin niyamimi\nBienvenidos · Chorh sha mʉtanat\n¿Amanecieron bien? · ¿Patumi mikitat?\nMi nombre es · Awʉ yisirh\nHasta luego (ya me voy) · Pin tos\nQue le vaya bien · Tompiyi tochi\nMuchas gracias · Amokarharh\nHola (cuando llega a la casa) · Sha mʉtat\nHola (cuando se encuentra a alguien en el camino) · ¿Chõy tos ma?\nAdiós (cuando no sabe cuándo va a volver) · Utpʉrh owaya\nAdiós (cuando uno sabe que se va a volver a encontrar) · Tos\nQue duerman bien · Patumi nʉkchi\n\nAnimales\nPájaro · Pshash\nChau chau (pájaro) · Shoma\nPájaro carpintero · Sakhurhash\nPava · Karhukash\nTucán (carraquero) · Kʉrhakrha\nColibrí · Kushnash\nÁguila · Mapash\nAvispa · Masaya\nMariposa · Kanashwish\nAraña · Arhãyash\nTigre, Jaguar, Tigrillo · Pakosa\nVenado · Amusha\nÑeque · Kasarhi\nMico (capuchino) · Shʉrhʉrhʉ\nOso perezoso · Wãyi\nOso hormiguero real · Arhuka\nArmadillo · Kamashrhu\nCaracol · Nopãsh\nRatón · Tʉponka\nArdilla · Kʉrhʉksh\nPuma / León · Sorhá\nPerro / Perra · Pirhu\nGato / Gata · Mishush\nGallo / Gallina · Karhina\nVaca · Pakash\nBurro · Murhash\nPez · Poshish\nSapo · Kupirhcho\nPulga · Shipo\nGusano · Korhʉkʉ\nEscorpión · Wipshutayo\nMosquito · Kasapana\nMosca · Kayanku\nCucaracha · Kishi\n\nCacería\nCazar · Ich orharh putaw top na\nNido · Ich pshantush top na\nArco · Wakarha\nFlecha grande · Paletilla\nFlecha pequeña · Umash\nFlecha para cazar pájaros · Misash\nFlecha · Miskarh\nEstuche · Napash\nMachete · Mashiti\nCuando la persona no falla el tiro con la flecha · Sokani\n\nTejido y cosas de la casa\nMochila · Mayush\nCollar · Mokʉsh\nAbanico · Pʉpsh\nHuso · Pʉrhash\nAguja · Akusash\nLana · Mawush\nEstera · Apotsh\nCanasto general · Minorh / Minosh\nCanasto para granos pequeños · Tin Kanosh\nCanasto para granos grandes · Tumtum Kanosh\nPipa · Tapash\n\nAlimentos\nMaíz · Mayishash\nMaíz cariaco · Mish\nFrijol · Komatash\nPlátano · Kurhantana\nLimón · Nimosh\nUvas silvestres · Arhishti\nPescado · Poshish\nChicha fuerte · Sõya\nChicha dulce · Toka\nArroz · Arhõsh\nHongo oreja de palo · Otʉnkaya\nOtros tipos de hongos · Nonopia, Panasha, Otʉnkaya, Shishi\nProteína · Yʉtapʉrh\nMalanga · Sʉrhya\nGuaimaro · Sharhash\nÑame · Ñamsh\nJobo · Supirha\nPalo de guayabito · Kononopirhash\nMaracuyá silvestre · Shʉrhʉsh witorhcha\n\nVamos a…\n...danzar · Ich yiwap na\n...cantar · Ich ma akop na\n...jugar · Ich yos ma ip na\n...reír · (Ich) Yʉmashrhitap na\n...saltar · Ich tʉp tʉp ka oy yip na\n...arrullar · (Ich) Mashukapa uwap na\n...aprender · Ich yotowanpap na\n...sembrar · Ich ma ashpop na\n...cazar · Ich orha putaw top na\n...cosechar · Ich ma anunp na\n...recoger los frutos en el monte · Ich ó rhan wi pʉrhʉ um sanun si\n...trabajar · Ich ó rhan iwo akrhʉnkap na\n...reunirnos en la asamblea · Ich shinpa tow yan yuwnitap na\n...organizar · Ich ó rhano kurhnikap na\n...dormir · Ich ump nʉsi\n...soñar · Ich ó rhano wosʉntʉ ʉp na\n...aprender a escribir nuestra lengua · Ich ʉpʉ wonkʉ rhan minp na\n...cocinar · Ich ma witay ʉp na\n...fumar tabaco · Ich tapa apuma pna\n...bañarnos en el río · Ich aki umpa ayisi yuka oyi\n...darle comida a los marranos · Ich kipirhko ʉntakap na\n...tocar carrizo · Ich sokʉ itop na\n...preparar chicha · Ich sõya ʉp na\n...tejer mochila · Ich mayush ʉkap na\n…hacer la paletilla · Ich minkwi ʉp na\n...fabricar la flecha · Ich miska ʉp na\n...hacer el arco (voy a hacer un arco) · Ich wakarha urhʉp\n...hacer una pipa · Ich tapash ʉkap na\n...quemar esta planta para los malos espíritus · Ich ma wishan ayap na okato wãya ima na"
+      "vocabularyCategoryIndexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "original": "Colores\nAmarillo · Arhamo\nVerde · Shipa\nAzul · Shipa\nRojo · Pskano\nMorado · Kumti\nBlanco · Sʉw kano\nCafé · Kokpa\nNegro · Korhowcha\n\nNúmeros\nUno · Kumash\nDos · Kosash\nTres · Kosirhash\nCuatro · Kosatkash\nCinco · Mash puni\n\nPartes del cuerpo\nCabeza · Yowasarh\nFrente · Yipitrhorh\nOjo · Yanurh\nNariz · Yunarh\nBoca · Yipotarh\nLengua · Yinosh\nDiente · Yʉrh\nOreja · Yipanarh\nCuello · Yʉpʉmʉrh\nEspalda · Yʉnkarh\nEstómago · Yiposirh\nBrazo · Yapush\nDedos · Yomash\nManos · Yomash\nPierna · Yunsirh\nRodilla · Yimikrhirh\nPies · Yushish\nCabello · Yũsirh\nBarba · Yipotamirh\nCeja · Yanʉptʉrh\nOmbligo · Yipũskurh\nUñas · Yomakshrhu\nPecho · Yowarhapsh\nCostilla · Yowaparhʉrh\n\nFamilia\nMamá · Mamsh\nPapá · Papsh\nBebé · Mashukapãsh\nNiño y niña · Kacha\nHijo · Yinpakosh\nHija · Yinpakosh\nHermano mayor (tercera persona) · Yirhõsh\nHermano del medio (tercera persona) · Yakõsh\nHermana mayor (tercera persona) · Yipash\nHermana menor (tercera persona) · Yipsh\nAbuelo materno (primera persona) · Tatach\nAbuela materna (primera persona) · Chuchi\nAbuelo paterno (primera persona) · Akuch\nAbuela paterna (primera persona) · Chuchi\nTío materno (primera persona) · Awoch\nTía materna (primera persona) · Asãsh\nTío paterno (primera persona) · Papash\nTía paterna (segunda persona) · Awãsh\nSobrino paterno (segunda persona) · Amomsh\nSobrina paterna (segunda persona) · Insh\nSobrino materno (segunda persona) · Apatsh\nSobrina materna (segunda persona) · Apatsh\nPrimo · Ikõnsh\nPrima · Inash\nNieto (segunda persona) · Irhipapsh\nNieta (segunda persona) · Irhipapsh\n\nSonido y música\nSonido · Yorh\nCarrizo · Soksh\n\nEmociones\nAlegría · Tuwakshirhi\nTristeza · Wʉrhʉpi\nEstoy alegre · Awʉ tuwakshirhi yas\nEstoy triste · Wʉrhʉpi yas\nEstoy enamorado · Awʉ wʉrhʉpi yas\n\nSaludos\nBuenos días · Pinatrho rhan\nBuenas tardes · Kowãpi rhan\nBuenas noches · Pin niyamimi\nBienvenidos · Chorh sha mʉtanat\n¿Amanecieron bien? · ¿Patumi mikitat?\nMi nombre es · Awʉ yisirh\nHasta luego (ya me voy) · Pin tos\nQue le vaya bien · Tompiyi tochi\nMuchas gracias · Amokarharh\nHola (cuando llega a la casa) · Sha mʉtat\nHola (cuando se encuentra a alguien en el camino) · ¿Chõy tos ma?\nAdiós (cuando no sabe cuándo va a volver) · Utpʉrh owaya\nAdiós (cuando uno sabe que se va a volver a encontrar) · Tos\nQue duerman bien · Patumi nʉkchi\n\nAnimales\nPájaro · Pshash\nChau chau (pájaro) · Shoma\nPájaro carpintero · Sakhurhash\nPava · Karhukash\nTucán (carraquero) · Kʉrhakrha\nColibrí · Kushnash\nÁguila · Mapash\nAvispa · Masaya\nMariposa · Kanashwish\nAraña · Arhãyash\nTigre, Jaguar, Tigrillo · Pakosa\nVenado · Amusha\nÑeque · Kasarhi\nMico (capuchino) · Shʉrhʉrhʉ\nOso perezoso · Wãyi\nOso hormiguero real · Arhuka\nArmadillo · Kamashrhu\nCaracol · Nopãsh\nRatón · Tʉponka\nArdilla · Kʉrhʉksh\nPuma / León · Sorhá\nPerro / Perra · Pirhu\nGato / Gata · Mishush\nGallo / Gallina · Karhina\nVaca · Pakash\nBurro · Murhash\nPez · Poshish\nSapo · Kupirhcho\nPulga · Shipo\nGusano · Korhʉkʉ\nEscorpión · Wipshutayo\nMosquito · Kasapana\nMosca · Kayanku\nCucaracha · Kishi\n\nCacería\nCazar · Ich orharh putaw top na\nNido · Ich pshantush top na\nArco · Wakarha\nFlecha grande · Paletilla\nFlecha pequeña · Umash\nFlecha para cazar pájaros · Misash\nFlecha · Miskarh\nEstuche · Napash\nMachete · Mashiti\nCuando la persona no falla el tiro con la flecha · Sokani\n\nTejido y cosas de la casa\nMochila · Mayush\nCollar · Mokʉsh\nAbanico · Pʉpsh\nHuso · Pʉrhash\nAguja · Akusash\nLana · Mawush\nEstera · Apotsh\nCanasto general · Minorh / Minosh\nCanasto para granos pequeños · Tin Kanosh\nCanasto para granos grandes · Tumtum Kanosh\nPipa · Tapash\n\nAlimentos\nMaíz · Mayishash\nMaíz cariaco · Mish\nFrijol · Komatash\nPlátano · Kurhantana\nLimón · Nimosh\nUvas silvestres · Arhishti\nPescado · Poshish\nChicha fuerte · Sõya\nChicha dulce · Toka\nArroz · Arhõsh\nHongo oreja de palo · Otʉnkaya\nOtros tipos de hongos · Nonopia, Panasha, Otʉnkaya, Shishi\nProteína · Yʉtapʉrh\nMalanga · Sʉrhya\nGuaimaro · Sharhash\nÑame · Ñamsh\nJobo · Supirha\nPalo de guayabito · Kononopirhash\nMaracuyá silvestre · Shʉrhʉsh witorhcha\n\nVamos a…\n...danzar · Ich yiwap na\n...cantar · Ich ma akop na\n...jugar · Ich yos ma ip na\n...reír · (Ich) Yʉmashrhitap na\n...saltar · Ich tʉp tʉp ka oy yip na\n...arrullar · (Ich) Mashukapa uwap na\n...aprender · Ich yotowanpap na\n...sembrar · Ich ma ashpop na\n...cazar · Ich orha putaw top na\n...cosechar · Ich ma anunp na\n...recoger los frutos en el monte · Ich ó rhan wi pʉrhʉ um sanun si\n...trabajar · Ich ó rhan iwo akrhʉnkap na\n...reunirnos en la asamblea · Ich shinpa tow yan yuwnitap na\n...organizar · Ich ó rhano kurhnikap na\n...dormir · Ich ump nʉsi\n...soñar · Ich ó rhano wosʉntʉ ʉp na\n...aprender a escribir nuestra lengua · Ich ʉpʉ wonkʉ rhan minp na\n...cocinar · Ich ma witay ʉp na\n...fumar tabaco · Ich tapa apuma pna\n...bañarnos en el río · Ich aki umpa ayisi yuka oyi\n...darle comida a los marranos · Ich kipirhko ʉntakap na\n...tocar carrizo · Ich sokʉ itop na\n...preparar chicha · Ich sõya ʉp na\n...tejer mochila · Ich mayush ʉkap na\n…hacer la paletilla · Ich minkwi ʉp na\n...fabricar la flecha · Ich miska ʉp na\n...hacer el arco (voy a hacer un arco) · Ich wakarha urhʉp\n...hacer una pipa · Ich tapash ʉkap na\n...quemar esta planta para los malos espíritus · Ich ma wishan ayap na okato wãya ima na",
+      "audioFileBase": "Yuk-05-Vocabularios_1-voc",
+      "duration": "9:58",
+      "authorOrOrigin": "N/A",
+      "captureDate": "28/05/2026 \n 29/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Karen Luciana Barreto Carrillo\nLuis Andrés Capitán Capitán\nFaiber Darío Capitán Romero\nMaira Alejandra González\nAnderson José González Capitán \nKiara Marcela González Jiménez\nShaira Valentina Carrillo Jiménez \nKarelis Capitán Romero \nEder Enrique González Quiroz \nJean Carlo Jiménez Maestre"
+      }
     },
     {
       "number": "06",
       "title": "Shinprha ichok wat",
       "spanishTitle": "No vayas a llorar",
-      "kind": "Relato o canto",
+      "kind": "Arrullo",
       "tracks": "Pista 6",
       "intro": "En este arrullo para su primer hijo, Kirkisa, Alba Marina pide a la naturaleza que le ayude a calmar a su bebé. En su alma siente que ella le responde que hasta el canto de los pájaros se ha ido apagando debido a la pérdida del territorio. Escucha cómo una mamá yukpa le habla a los espíritus de la naturaleza.",
-      "audio": "audio/yukpa/Yuk-06.mp3",
+      "audio": "audio/yukpa/Yuk-06-Shinprha_ichok_wat-arr.mp3",
       "language": "Yukpa + Español",
       "activities": [
         2
       ],
       "original": "Shinprha ichok wat\nShini prha,\nShini prha, ichok wat.\nMachkirha, yamash rhan,\nUpish sha sitakrhotok,\nShini rhpat nayi,\nShinip wat.\nOwaya amopo nik wat.\nOwaya wanik.",
-      "translation": "No vayas a llorar\nNo llores,\nNo llores, no lo estés haciendo.\nMachki (espíritus), esto deseo,\nA su hermanito, que lo hagan callar,\nLlorando está nuevamente,\nLlorando está.\nPor ti la tierra así está.\nEl cielo está."
+      "translation": "No vayas a llorar\nNo llores,\nNo llores, no lo estés haciendo.\nMachki (espíritus), esto deseo,\nA su hermanito, que lo hagan callar,\nLlorando está nuevamente,\nLlorando está.\nPor ti la tierra así está.\nEl cielo está.",
+      "audioFileBase": "Yuk-06-Shinprha_ichok_wat-arr",
+      "duration": "1:05",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "26/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Alba Marina Quiroz Pérez"
+      }
     },
     {
       "number": "07",
       "title": "Sokʉ",
       "spanishTitle": "Carrizo",
-      "kind": "Relato o canto",
+      "kind": "Relato",
       "tracks": "Pista 7",
       "intro": "Muchos de los cantos yukpa se interpretan con la flauta sokʉ e imitan las voces de los pájaros. Existe un sonido que imita la voz del macho y siempre suena primero. Otro sonido, que es hembra, responde al primer canto. Dicen que así es el enamoramiento. Escucha atentamente las palabras de Shashash, Juan Maestre Martínez, y Li, Jan Carlos Maestre.",
-      "audio": "audio/yukpa/Yuk-07.mp3",
+      "audio": "audio/yukpa/Yuk-07-Soku-rel.mp3",
       "language": "Yukpa + Español",
       "activities": [
         3
       ],
       "original": "Sokʉ\nMash otak inish rhan kʉsh kʉrhakrhash. Kʉsh rhan tk nurhipikanak mawarha.\nY Worhish pkano parejo pkan tk nurhipikanak.\nSa tʉs karharh ó nich muy claro; yuwisha nʉkanako tk patumi yuwisha.\nÓ nich tk kʉsh sa nʉkanak: —Och, amorhan ʉtʉnko, awʉ rhpat kuyipyiksha yimopash kashi, awʉ komopasha—, nʉkanako tk.",
-      "translation": "Carrizo\nEste que así se ve es el tucán carraquero macho. En verdad, es el macho el que sopló de esta manera junto a la hembra. Y en pareja lo interpretaban.\nEntonces así solía hacerlo para que fuera muy claro; así se dice. Debía ser bonito.\nEntonces el macho así dijo: —Primero canten ustedes, y yo les responderé; después de ti, yo te responderé—, decía."
+      "translation": "Carrizo\nEste que así se ve es el tucán carraquero macho. En verdad, es el macho el que sopló de esta manera junto a la hembra. Y en pareja lo interpretaban.\nEntonces así solía hacerlo para que fuera muy claro; así se dice. Debía ser bonito.\nEntonces el macho así dijo: —Primero canten ustedes, y yo les responderé; después de ti, yo te responderé—, decía.",
+      "audioFileBase": "Yuk-07-Soku-rel",
+      "duration": "1:51",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "26/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Juan Maestre Martínez \nJean Carlo Jiménez Maestre"
+      }
     },
     {
       "number": "08",
       "title": "Witarhash. El canto de la palizada",
       "spanishTitle": "El canto de la palizada",
-      "kind": "Relato o canto",
+      "kind": "Música",
       "tracks": "Pista 8",
       "intro": "Witarhash, en lengua watiya, significa ‘palizada’: una gran cama de ramas y hojas, donde los yukpa se esconden para cazar pájaros. Cuentan que un día, un yukpa salió de cacería, y la palizada le dijo que tenía un canto para atraer a los animales. De allí viene el Witarhash: un canto de cacería y felicidad, que también se entona en el Baile del Niño para darle la bienvenida. Cuando nace un niño, del mismo modo que cuando la cacería es abundante, los yukpa sienten una gran alegría. Escucha a Tite, Eder Enrique González Quiroz, y a Shashash, Juan Maestre Martínez, interpretar esta canción con la flauta sokʉ.",
-      "audio": "audio/yukpa/Yuk-08.mp3",
+      "audio": "audio/yukpa/Yuk-08-Witarhash_el_canto_de_la_palizada-mus.mp3",
       "language": "Yukpa + Español",
       "activities": [
         3
-      ]
+      ],
+      "audioFileBase": "Yuk-08-Witarhash_el_canto_de_la_palizada-mus",
+      "duration": "4:02",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "25/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Carrizo: Jean Carlos Jiménez Maestre"
+      }
     },
     {
       "number": "09",
@@ -170,68 +250,120 @@
       "kind": "Vocabulario",
       "tracks": "Pista 9",
       "intro": "Cada palabra guarda una manera de ver el mundo. Los yukpa no cuentan meses durante el embarazo, cuentan lunas: Tashi kuno marhop na? ‘¿Cuántas lunas has dejado pasar?’. Escuchemos algunas palabras de la comunidad, en lengua y en español:",
-      "audio": "audio/yukpa/Yuk-09.mp3",
+      "audio": "audio/yukpa/Yuk-09-Vocabularios_2-voc.mp3",
       "language": "Yukpa + Español",
       "activities": [
         4
       ],
       "singleReading": true,
-      "vocabularyCategoryIndexes": [7, 8, 9, 10, 11, 12],
-      "original": "Colores\nAmarillo · Arhamo\nVerde · Shipa\nAzul · Shipa\nRojo · Pskano\nMorado · Kumti\nBlanco · Sʉw kano\nCafé · Kokpa\nNegro · Korhowcha\n\nNúmeros\nUno · Kumash\nDos · Kosash\nTres · Kosirhash\nCuatro · Kosatkash\nCinco · Mash puni\n\nPartes del cuerpo\nCabeza · Yowasarh\nFrente · Yipitrhorh\nOjo · Yanurh\nNariz · Yunarh\nBoca · Yipotarh\nLengua · Yinosh\nDiente · Yʉrh\nOreja · Yipanarh\nCuello · Yʉpʉmʉrh\nEspalda · Yʉnkarh\nEstómago · Yiposirh\nBrazo · Yapush\nDedos · Yomash\nManos · Yomash\nPierna · Yunsirh\nRodilla · Yimikrhirh\nPies · Yushish\nCabello · Yũsirh\nBarba · Yipotamirh\nCeja · Yanʉptʉrh\nOmbligo · Yipũskurh\nUñas · Yomakshrhu\nPecho · Yowarhapsh\nCostilla · Yowaparhʉrh\n\nFamilia\nMamá · Mamsh\nPapá · Papsh\nBebé · Mashukapãsh\nNiño y niña · Kacha\nHijo · Yinpakosh\nHija · Yinpakosh\nHermano mayor (tercera persona) · Yirhõsh\nHermano del medio (tercera persona) · Yakõsh\nHermana mayor (tercera persona) · Yipash\nHermana menor (tercera persona) · Yipsh\nAbuelo materno (primera persona) · Tatach\nAbuela materna (primera persona) · Chuchi\nAbuelo paterno (primera persona) · Akuch\nAbuela paterna (primera persona) · Chuchi\nTío materno (primera persona) · Awoch\nTía materna (primera persona) · Asãsh\nTío paterno (primera persona) · Papash\nTía paterna (segunda persona) · Awãsh\nSobrino paterno (segunda persona) · Amomsh\nSobrina paterna (segunda persona) · Insh\nSobrino materno (segunda persona) · Apatsh\nSobrina materna (segunda persona) · Apatsh\nPrimo · Ikõnsh\nPrima · Inash\nNieto (segunda persona) · Irhipapsh\nNieta (segunda persona) · Irhipapsh\n\nSonido y música\nSonido · Yorh\nCarrizo · Soksh\n\nEmociones\nAlegría · Tuwakshirhi\nTristeza · Wʉrhʉpi\nEstoy alegre · Awʉ tuwakshirhi yas\nEstoy triste · Wʉrhʉpi yas\nEstoy enamorado · Awʉ wʉrhʉpi yas\n\nSaludos\nBuenos días · Pinatrho rhan\nBuenas tardes · Kowãpi rhan\nBuenas noches · Pin niyamimi\nBienvenidos · Chorh sha mʉtanat\n¿Amanecieron bien? · ¿Patumi mikitat?\nMi nombre es · Awʉ yisirh\nHasta luego (ya me voy) · Pin tos\nQue le vaya bien · Tompiyi tochi\nMuchas gracias · Amokarharh\nHola (cuando llega a la casa) · Sha mʉtat\nHola (cuando se encuentra a alguien en el camino) · ¿Chõy tos ma?\nAdiós (cuando no sabe cuándo va a volver) · Utpʉrh owaya\nAdiós (cuando uno sabe que se va a volver a encontrar) · Tos\nQue duerman bien · Patumi nʉkchi\n\nAnimales\nPájaro · Pshash\nChau chau (pájaro) · Shoma\nPájaro carpintero · Sakhurhash\nPava · Karhukash\nTucán (carraquero) · Kʉrhakrha\nColibrí · Kushnash\nÁguila · Mapash\nAvispa · Masaya\nMariposa · Kanashwish\nAraña · Arhãyash\nTigre, Jaguar, Tigrillo · Pakosa\nVenado · Amusha\nÑeque · Kasarhi\nMico (capuchino) · Shʉrhʉrhʉ\nOso perezoso · Wãyi\nOso hormiguero real · Arhuka\nArmadillo · Kamashrhu\nCaracol · Nopãsh\nRatón · Tʉponka\nArdilla · Kʉrhʉksh\nPuma / León · Sorhá\nPerro / Perra · Pirhu\nGato / Gata · Mishush\nGallo / Gallina · Karhina\nVaca · Pakash\nBurro · Murhash\nPez · Poshish\nSapo · Kupirhcho\nPulga · Shipo\nGusano · Korhʉkʉ\nEscorpión · Wipshutayo\nMosquito · Kasapana\nMosca · Kayanku\nCucaracha · Kishi\n\nCacería\nCazar · Ich orharh putaw top na\nNido · Ich pshantush top na\nArco · Wakarha\nFlecha grande · Paletilla\nFlecha pequeña · Umash\nFlecha para cazar pájaros · Misash\nFlecha · Miskarh\nEstuche · Napash\nMachete · Mashiti\nCuando la persona no falla el tiro con la flecha · Sokani\n\nTejido y cosas de la casa\nMochila · Mayush\nCollar · Mokʉsh\nAbanico · Pʉpsh\nHuso · Pʉrhash\nAguja · Akusash\nLana · Mawush\nEstera · Apotsh\nCanasto general · Minorh / Minosh\nCanasto para granos pequeños · Tin Kanosh\nCanasto para granos grandes · Tumtum Kanosh\nPipa · Tapash\n\nAlimentos\nMaíz · Mayishash\nMaíz cariaco · Mish\nFrijol · Komatash\nPlátano · Kurhantana\nLimón · Nimosh\nUvas silvestres · Arhishti\nPescado · Poshish\nChicha fuerte · Sõya\nChicha dulce · Toka\nArroz · Arhõsh\nHongo oreja de palo · Otʉnkaya\nOtros tipos de hongos · Nonopia, Panasha, Otʉnkaya, Shishi\nProteína · Yʉtapʉrh\nMalanga · Sʉrhya\nGuaimaro · Sharhash\nÑame · Ñamsh\nJobo · Supirha\nPalo de guayabito · Kononopirhash\nMaracuyá silvestre · Shʉrhʉsh witorhcha\n\nVamos a…\n...danzar · Ich yiwap na\n...cantar · Ich ma akop na\n...jugar · Ich yos ma ip na\n...reír · (Ich) Yʉmashrhitap na\n...saltar · Ich tʉp tʉp ka oy yip na\n...arrullar · (Ich) Mashukapa uwap na\n...aprender · Ich yotowanpap na\n...sembrar · Ich ma ashpop na\n...cazar · Ich orha putaw top na\n...cosechar · Ich ma anunp na\n...recoger los frutos en el monte · Ich ó rhan wi pʉrhʉ um sanun si\n...trabajar · Ich ó rhan iwo akrhʉnkap na\n...reunirnos en la asamblea · Ich shinpa tow yan yuwnitap na\n...organizar · Ich ó rhano kurhnikap na\n...dormir · Ich ump nʉsi\n...soñar · Ich ó rhano wosʉntʉ ʉp na\n...aprender a escribir nuestra lengua · Ich ʉpʉ wonkʉ rhan minp na\n...cocinar · Ich ma witay ʉp na\n...fumar tabaco · Ich tapa apuma pna\n...bañarnos en el río · Ich aki umpa ayisi yuka oyi\n...darle comida a los marranos · Ich kipirhko ʉntakap na\n...tocar carrizo · Ich sokʉ itop na\n...preparar chicha · Ich sõya ʉp na\n...tejer mochila · Ich mayush ʉkap na\n…hacer la paletilla · Ich minkwi ʉp na\n...fabricar la flecha · Ich miska ʉp na\n...hacer el arco (voy a hacer un arco) · Ich wakarha urhʉp\n...hacer una pipa · Ich tapash ʉkap na\n...quemar esta planta para los malos espíritus · Ich ma wishan ayap na okato wãya ima na"
+      "vocabularyCategoryIndexes": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "original": "Colores\nAmarillo · Arhamo\nVerde · Shipa\nAzul · Shipa\nRojo · Pskano\nMorado · Kumti\nBlanco · Sʉw kano\nCafé · Kokpa\nNegro · Korhowcha\n\nNúmeros\nUno · Kumash\nDos · Kosash\nTres · Kosirhash\nCuatro · Kosatkash\nCinco · Mash puni\n\nPartes del cuerpo\nCabeza · Yowasarh\nFrente · Yipitrhorh\nOjo · Yanurh\nNariz · Yunarh\nBoca · Yipotarh\nLengua · Yinosh\nDiente · Yʉrh\nOreja · Yipanarh\nCuello · Yʉpʉmʉrh\nEspalda · Yʉnkarh\nEstómago · Yiposirh\nBrazo · Yapush\nDedos · Yomash\nManos · Yomash\nPierna · Yunsirh\nRodilla · Yimikrhirh\nPies · Yushish\nCabello · Yũsirh\nBarba · Yipotamirh\nCeja · Yanʉptʉrh\nOmbligo · Yipũskurh\nUñas · Yomakshrhu\nPecho · Yowarhapsh\nCostilla · Yowaparhʉrh\n\nFamilia\nMamá · Mamsh\nPapá · Papsh\nBebé · Mashukapãsh\nNiño y niña · Kacha\nHijo · Yinpakosh\nHija · Yinpakosh\nHermano mayor (tercera persona) · Yirhõsh\nHermano del medio (tercera persona) · Yakõsh\nHermana mayor (tercera persona) · Yipash\nHermana menor (tercera persona) · Yipsh\nAbuelo materno (primera persona) · Tatach\nAbuela materna (primera persona) · Chuchi\nAbuelo paterno (primera persona) · Akuch\nAbuela paterna (primera persona) · Chuchi\nTío materno (primera persona) · Awoch\nTía materna (primera persona) · Asãsh\nTío paterno (primera persona) · Papash\nTía paterna (segunda persona) · Awãsh\nSobrino paterno (segunda persona) · Amomsh\nSobrina paterna (segunda persona) · Insh\nSobrino materno (segunda persona) · Apatsh\nSobrina materna (segunda persona) · Apatsh\nPrimo · Ikõnsh\nPrima · Inash\nNieto (segunda persona) · Irhipapsh\nNieta (segunda persona) · Irhipapsh\n\nSonido y música\nSonido · Yorh\nCarrizo · Soksh\n\nEmociones\nAlegría · Tuwakshirhi\nTristeza · Wʉrhʉpi\nEstoy alegre · Awʉ tuwakshirhi yas\nEstoy triste · Wʉrhʉpi yas\nEstoy enamorado · Awʉ wʉrhʉpi yas\n\nSaludos\nBuenos días · Pinatrho rhan\nBuenas tardes · Kowãpi rhan\nBuenas noches · Pin niyamimi\nBienvenidos · Chorh sha mʉtanat\n¿Amanecieron bien? · ¿Patumi mikitat?\nMi nombre es · Awʉ yisirh\nHasta luego (ya me voy) · Pin tos\nQue le vaya bien · Tompiyi tochi\nMuchas gracias · Amokarharh\nHola (cuando llega a la casa) · Sha mʉtat\nHola (cuando se encuentra a alguien en el camino) · ¿Chõy tos ma?\nAdiós (cuando no sabe cuándo va a volver) · Utpʉrh owaya\nAdiós (cuando uno sabe que se va a volver a encontrar) · Tos\nQue duerman bien · Patumi nʉkchi\n\nAnimales\nPájaro · Pshash\nChau chau (pájaro) · Shoma\nPájaro carpintero · Sakhurhash\nPava · Karhukash\nTucán (carraquero) · Kʉrhakrha\nColibrí · Kushnash\nÁguila · Mapash\nAvispa · Masaya\nMariposa · Kanashwish\nAraña · Arhãyash\nTigre, Jaguar, Tigrillo · Pakosa\nVenado · Amusha\nÑeque · Kasarhi\nMico (capuchino) · Shʉrhʉrhʉ\nOso perezoso · Wãyi\nOso hormiguero real · Arhuka\nArmadillo · Kamashrhu\nCaracol · Nopãsh\nRatón · Tʉponka\nArdilla · Kʉrhʉksh\nPuma / León · Sorhá\nPerro / Perra · Pirhu\nGato / Gata · Mishush\nGallo / Gallina · Karhina\nVaca · Pakash\nBurro · Murhash\nPez · Poshish\nSapo · Kupirhcho\nPulga · Shipo\nGusano · Korhʉkʉ\nEscorpión · Wipshutayo\nMosquito · Kasapana\nMosca · Kayanku\nCucaracha · Kishi\n\nCacería\nCazar · Ich orharh putaw top na\nNido · Ich pshantush top na\nArco · Wakarha\nFlecha grande · Paletilla\nFlecha pequeña · Umash\nFlecha para cazar pájaros · Misash\nFlecha · Miskarh\nEstuche · Napash\nMachete · Mashiti\nCuando la persona no falla el tiro con la flecha · Sokani\n\nTejido y cosas de la casa\nMochila · Mayush\nCollar · Mokʉsh\nAbanico · Pʉpsh\nHuso · Pʉrhash\nAguja · Akusash\nLana · Mawush\nEstera · Apotsh\nCanasto general · Minorh / Minosh\nCanasto para granos pequeños · Tin Kanosh\nCanasto para granos grandes · Tumtum Kanosh\nPipa · Tapash\n\nAlimentos\nMaíz · Mayishash\nMaíz cariaco · Mish\nFrijol · Komatash\nPlátano · Kurhantana\nLimón · Nimosh\nUvas silvestres · Arhishti\nPescado · Poshish\nChicha fuerte · Sõya\nChicha dulce · Toka\nArroz · Arhõsh\nHongo oreja de palo · Otʉnkaya\nOtros tipos de hongos · Nonopia, Panasha, Otʉnkaya, Shishi\nProteína · Yʉtapʉrh\nMalanga · Sʉrhya\nGuaimaro · Sharhash\nÑame · Ñamsh\nJobo · Supirha\nPalo de guayabito · Kononopirhash\nMaracuyá silvestre · Shʉrhʉsh witorhcha\n\nVamos a…\n...danzar · Ich yiwap na\n...cantar · Ich ma akop na\n...jugar · Ich yos ma ip na\n...reír · (Ich) Yʉmashrhitap na\n...saltar · Ich tʉp tʉp ka oy yip na\n...arrullar · (Ich) Mashukapa uwap na\n...aprender · Ich yotowanpap na\n...sembrar · Ich ma ashpop na\n...cazar · Ich orha putaw top na\n...cosechar · Ich ma anunp na\n...recoger los frutos en el monte · Ich ó rhan wi pʉrhʉ um sanun si\n...trabajar · Ich ó rhan iwo akrhʉnkap na\n...reunirnos en la asamblea · Ich shinpa tow yan yuwnitap na\n...organizar · Ich ó rhano kurhnikap na\n...dormir · Ich ump nʉsi\n...soñar · Ich ó rhano wosʉntʉ ʉp na\n...aprender a escribir nuestra lengua · Ich ʉpʉ wonkʉ rhan minp na\n...cocinar · Ich ma witay ʉp na\n...fumar tabaco · Ich tapa apuma pna\n...bañarnos en el río · Ich aki umpa ayisi yuka oyi\n...darle comida a los marranos · Ich kipirhko ʉntakap na\n...tocar carrizo · Ich sokʉ itop na\n...preparar chicha · Ich sõya ʉp na\n...tejer mochila · Ich mayush ʉkap na\n…hacer la paletilla · Ich minkwi ʉp na\n...fabricar la flecha · Ich miska ʉp na\n...hacer el arco (voy a hacer un arco) · Ich wakarha urhʉp\n...hacer una pipa · Ich tapash ʉkap na\n...quemar esta planta para los malos espíritus · Ich ma wishan ayap na okato wãya ima na",
+      "audioFileBase": "Yuk-09-Vocabularios_2-voc",
+      "duration": "5:08",
+      "authorOrOrigin": "N/A",
+      "captureDate": "28/05/2026 \n 29/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Karen Luciana Barreto Carrillo\nLuis Andrés Capitán Capitán\nFaiber Darío Capitán Romero\nMaira Alejandra González\nAnderson José González Capitán \nKiara Marcela González Jiménez\nShaira Valentina Carrillo Jiménez \nKarelis Capitán Romero \nEder Enrique González Quiroz \nJean Carlo Jiménez Maestre"
+      }
     },
     {
       "number": "10",
       "title": "Yonash, shini prha",
       "spanishTitle": "Hermanita, no llores",
-      "kind": "Relato o canto",
+      "kind": "Arrullo",
       "tracks": "Pista 10",
       "intro": "Mónica canta un arrullo para una niña. Le pide que no llore más porque sus lágrimas le duelen a Owayash. Con su canto llama a sus hermanitos para que se acerquen y la cuiden hasta que el sueño la alcance mientras ella atiende los oficios de la vida y de la casa. Los yukpa comparten las tareas de cuidado desde que los niños llegan al mundo. ¿Recuerdas cómo te arrullaban cuando eras pequeño?",
-      "audio": "audio/yukpa/Yuk-10.mp3",
+      "audio": "audio/yukpa/Yuk-10-Yonash_shini_prha-arr.mp3",
       "language": "Yukpa + Español",
       "activities": [
         2
       ],
       "original": "Yonash, shini prha\nInash shini na, ¡ah!\nYonash shini na ¡ah!\nShini kachpa ¡ah!\nInashi shinirh na\nShinirh na, shini kach pa ¡ah!\nYonash shini na ¡ah!\nYonash shini na ¡ah! shini kach pa ¡ah!\nYonashi, shinirh na, shinirh na\nShini kach pa ¡ah!\nYonash shini na ¡ah!\nInash shini na ¡ah!\nShini kachpa ¡ah!\nYonashi shinirh ma, shinirh ma ¡ah!\nShinirh kachpa ¡ah!\nYonash shini na ¡ah!\nInash shini na ¡ah!\nShini kachpa ¡ah!\nYonashi shinirh na\nShinirh ma ¡ah!, shinirh ma ¡ah!\nYonash shini na ¡ah!\nIkap sitok wat, shini kach pa ¡ah!\nYonashi shinirh na\nShinirh ma ¡ah!\nWayi kach pa ¡ah!\nYonash shini na ¡ah!\nIkap sitok wat ¡ah!, shini kach pa ¡ah!\nYonashi, shinirh na, shinirh ma\nShini kach pa ¡ah!\nYonash shini na ¡ah!\nIkap sitok wat ¡ah!, shini kach pa ¡ah!\nYonashi, shinirh na, shinirh ma\nShini kach pa ¡ah!\nYonash, shini na,\nIkap tama wat, ikap sitok wat\nYonashi, shinirh ma, shinirh na ¡ah!\nShini kach ma ¡ah!\nYonashi, shinirh na, shinirh ma\nIkap sitok wat ¡ah!, shini kach pa ¡ah!",
-      "translation": "Hermanita, no llores\nEstá llorando, su hermanita mayor\nLlorando está, ¡ah!\nTu hermanita llorando está, ¡ah!\nLlorando está, llorando así es.\nHermanita llorando está, ¡ah!, hermanita\nLlorando está, ¡ah!, llorando, así es.\nHermanita llorando está, llorando está, ¡ah!,\nLlora, así es, ¡eh!\nHermanita llorando está, ¡ah!\nTu hermanita llorando está, ¡ah!\nLlorando así es, ¡ah!\nHermanita llorando tu estás ¡ah!, llorando está\nLlorando está, ¡ah!, llorando así es, ¡ah!\nLa hermanita llorando está, ¡ah!\n¡Aaaaah! tu hermanita llorando está\nLlorando así es, ¡eh!\nLa hermanita llorando está, ¡ah!\nLlorando está, ¡aaaaah!, llorando está, ¡ah!\nLa hermanita llorando está, ¡ah!\nPero mírenla, llorando así es\nTu hermanita ¡aaaaah! llorando está, ¡ah!\nLlorando está, malo es, ¡eh!\nLa hermanita llorando está, ¡ah!\nRápido mírala, ¡ah!, llorando así es\nLlorando está, ¡ah!\nLa hermanita llorando está, ¡ah!\nPero mírenla, llorando así es\nTu hermanita ¡aaaaah! llorando está, ¡ah!\nLlorando está, malo es, ¡eh!\nLa hermanita llorando está, ¡ah!\nRápido mírala, ¡ah!, llorando así es\nLlorando está, ¡ah!"
+      "translation": "Hermanita, no llores\nEstá llorando, su hermanita mayor\nLlorando está, ¡ah!\nTu hermanita llorando está, ¡ah!\nLlorando está, llorando así es.\nHermanita llorando está, ¡ah!, hermanita\nLlorando está, ¡ah!, llorando, así es.\nHermanita llorando está, llorando está, ¡ah!,\nLlora, así es, ¡eh!\nHermanita llorando está, ¡ah!\nTu hermanita llorando está, ¡ah!\nLlorando así es, ¡ah!\nHermanita llorando tu estás ¡ah!, llorando está\nLlorando está, ¡ah!, llorando así es, ¡ah!\nLa hermanita llorando está, ¡ah!\n¡Aaaaah! tu hermanita llorando está\nLlorando así es, ¡eh!\nLa hermanita llorando está, ¡ah!\nLlorando está, ¡aaaaah!, llorando está, ¡ah!\nLa hermanita llorando está, ¡ah!\nPero mírenla, llorando así es\nTu hermanita ¡aaaaah! llorando está, ¡ah!\nLlorando está, malo es, ¡eh!\nLa hermanita llorando está, ¡ah!\nRápido mírala, ¡ah!, llorando así es\nLlorando está, ¡ah!\nLa hermanita llorando está, ¡ah!\nPero mírenla, llorando así es\nTu hermanita ¡aaaaah! llorando está, ¡ah!\nLlorando está, malo es, ¡eh!\nLa hermanita llorando está, ¡ah!\nRápido mírala, ¡ah!, llorando así es\nLlorando está, ¡ah!",
+      "audioFileBase": "Yuk-10-Yonash_shini_prha-arr",
+      "duration": "3:21",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "26/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Mónica Fernández Maestre"
+      }
     },
     {
       "number": "11",
       "title": "Flechando en San Genaro",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 11",
       "intro": "Es de mañana en San Genaro. En el monte se escucha el canto de los pájaros, el susurro del viento y el sonido de los insectos. Un cazador yukpa prepara sus flechas antes de salir de cacería y practica para afinar su puntería. Escucha con atención: ¿cómo suenan las flechas al atravesar el aire?",
-      "audio": "audio/yukpa/Yuk-11.mp3",
-      "language": "Yukpa + Español",
+      "audio": "audio/yukpa/Yuk-11-Flechando_en_san_genaro-pai-son.mp3",
+      "language": "N/A",
       "activities": [
         4
-      ]
+      ],
+      "audioFileBase": "Yuk-11-Flechando_en_san_genaro-pai-son",
+      "duration": "9:44",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "captureDate": "2026-05-28 00:00:00",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "N/A"
+      }
     },
     {
       "number": "12",
       "title": "Imitando las voces de las aves",
       "spanishTitle": "",
-      "kind": "Relato o canto",
+      "kind": "Imitación",
       "tracks": "Pista 12",
       "intro": "Los yukpa son expertos cazadores. En el monte imitan los cantos de las aves para atraerlas a sus nidos. Escucha a Tite hablar el lenguaje de los pájaros.",
-      "audio": "audio/yukpa/Yuk-12.mp3",
+      "audio": "audio/yukpa/Yuk-12-Imitando_las_voces_de_las_aves-imi.mp3",
       "language": "Yukpa + Español",
       "activities": [
         0
-      ]
+      ],
+      "audioFileBase": "Yuk-12-Imitando_las_voces_de_las_aves-imi",
+      "duration": "2:26",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "2026-05-28 00:00:00",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Eder Enrique González Quiroz"
+      }
     },
     {
       "number": "13",
       "title": "De noche en San Genaro",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 13",
       "intro": "Cae la noche sobre la Serranía del Perijá. Un grillo marca con su canto el final del día mientras, poco a poco, los Yukpa terminan sus tareas y se preparan para descansar. Escucha cómo la noche está llena de vida. ¿Qué otros sonidos puedes descubrir en este paisaje nocturno?",
-      "audio": "audio/yukpa/Yuk-13.mp3",
-      "language": "Yukpa + Español",
+      "audio": "audio/yukpa/Yuk-13-De_noche_en_san_genaro-pai-son.mp3",
+      "language": "N/A",
       "activities": [
         4
-      ]
+      ],
+      "audioFileBase": "Yuk-13-De_noche_en_san_genaro-pai-son",
+      "duration": "5:00",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "captureDate": "29/05/2026",
+      "credits": {
+        "mixingAndMastering": "Pablo Martínez",
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "N/A"
+      }
     }
   ],
   "vocabulary": [
@@ -1083,35 +1215,151 @@
     {
       "title": "Nombrar el paisaje",
       "items": [
-        { "spanish": "Tierra", "yukpa": "Nono", "palenquero": "Nono" },
-        { "spanish": "Cielo", "yukpa": "Owaya", "palenquero": "Owaya" },
-        { "spanish": "Montaña", "yukpa": "Wipsa", "palenquero": "Wipsa" },
-        { "spanish": "Sol", "yukpa": "Wicho", "palenquero": "Wicho" },
-        { "spanish": "Luna", "yukpa": "Kuno", "palenquero": "Kuno" },
-        { "spanish": "Estrella", "yukpa": "Shiko", "palenquero": "Shiko" },
-        { "spanish": "Día", "yukpa": "Anowa", "palenquero": "Anowa" },
-        { "spanish": "Noche", "yukpa": "Kokó", "palenquero": "Kokó" },
-        { "spanish": "Árbol", "yukpa": "Wi", "palenquero": "Wi" },
-        { "spanish": "Hoja", "yukpa": "Wicha", "palenquero": "Wicha" },
-        { "spanish": "Flor", "yukpa": "Yipisorh", "palenquero": "Yipisorh" },
-        { "spanish": "Pasto", "yukpa": "Woshi", "palenquero": "Woshi" },
-        { "spanish": "Río", "yukpa": "Kuna", "palenquero": "Kuna" },
-        { "spanish": "Arena", "yukpa": "Sasarhi", "palenquero": "Sasarhi" },
-        { "spanish": "Piedra", "yukpa": "Top", "palenquero": "Top" },
-        { "spanish": "Camino", "yukpa": "Osimarh", "palenquero": "Osimarh" },
-        { "spanish": "Agua", "yukpa": "Kuna", "palenquero": "Kuna" },
-        { "spanish": "Fuego", "yukpa": "Sospa", "palenquero": "Sospa" },
-        { "spanish": "Viento", "yukpa": "Posicho", "palenquero": "Posicho" },
-        { "spanish": "Lluvia", "yukpa": "Kiyopo", "palenquero": "Kiyopo" },
-        { "spanish": "Trueno (el cielo suena)", "yukpa": "Owaya tokrhoyip", "palenquero": "Owaya tokrhoyip" },
-        { "spanish": "Serranía (nuestra casa)", "yukpa": "Ichporh", "palenquero": "Ichporh" },
-        { "spanish": "Amanecer", "yukpa": "Ikmipok", "palenquero": "Ikmipok" },
-        { "spanish": "Atardecer", "yukpa": "Yamimpok", "palenquero": "Yamimpok" },
-        { "spanish": "Sabana", "yukpa": "Woshitkarh", "palenquero": "Woshitkarh" },
-        { "spanish": "Monte", "yukpa": "Owashpa", "palenquero": "Owashpa" },
-        { "spanish": "Cascada", "yukpa": "Yicharha", "palenquero": "Yicharha" },
-        { "spanish": "Pozo del río", "yukpa": "Kuna anapa", "palenquero": "Kuna anapa" },
-        { "spanish": "Caño", "yukpa": "Chakta", "palenquero": "Chakta" }
+        {
+          "spanish": "Tierra",
+          "yukpa": "Nono",
+          "palenquero": "Nono"
+        },
+        {
+          "spanish": "Cielo",
+          "yukpa": "Owaya",
+          "palenquero": "Owaya"
+        },
+        {
+          "spanish": "Montaña",
+          "yukpa": "Wipsa",
+          "palenquero": "Wipsa"
+        },
+        {
+          "spanish": "Sol",
+          "yukpa": "Wicho",
+          "palenquero": "Wicho"
+        },
+        {
+          "spanish": "Luna",
+          "yukpa": "Kuno",
+          "palenquero": "Kuno"
+        },
+        {
+          "spanish": "Estrella",
+          "yukpa": "Shiko",
+          "palenquero": "Shiko"
+        },
+        {
+          "spanish": "Día",
+          "yukpa": "Anowa",
+          "palenquero": "Anowa"
+        },
+        {
+          "spanish": "Noche",
+          "yukpa": "Kokó",
+          "palenquero": "Kokó"
+        },
+        {
+          "spanish": "Árbol",
+          "yukpa": "Wi",
+          "palenquero": "Wi"
+        },
+        {
+          "spanish": "Hoja",
+          "yukpa": "Wicha",
+          "palenquero": "Wicha"
+        },
+        {
+          "spanish": "Flor",
+          "yukpa": "Yipisorh",
+          "palenquero": "Yipisorh"
+        },
+        {
+          "spanish": "Pasto",
+          "yukpa": "Woshi",
+          "palenquero": "Woshi"
+        },
+        {
+          "spanish": "Río",
+          "yukpa": "Kuna",
+          "palenquero": "Kuna"
+        },
+        {
+          "spanish": "Arena",
+          "yukpa": "Sasarhi",
+          "palenquero": "Sasarhi"
+        },
+        {
+          "spanish": "Piedra",
+          "yukpa": "Top",
+          "palenquero": "Top"
+        },
+        {
+          "spanish": "Camino",
+          "yukpa": "Osimarh",
+          "palenquero": "Osimarh"
+        },
+        {
+          "spanish": "Agua",
+          "yukpa": "Kuna",
+          "palenquero": "Kuna"
+        },
+        {
+          "spanish": "Fuego",
+          "yukpa": "Sospa",
+          "palenquero": "Sospa"
+        },
+        {
+          "spanish": "Viento",
+          "yukpa": "Posicho",
+          "palenquero": "Posicho"
+        },
+        {
+          "spanish": "Lluvia",
+          "yukpa": "Kiyopo",
+          "palenquero": "Kiyopo"
+        },
+        {
+          "spanish": "Trueno (el cielo suena)",
+          "yukpa": "Owaya tokrhoyip",
+          "palenquero": "Owaya tokrhoyip"
+        },
+        {
+          "spanish": "Serranía (nuestra casa)",
+          "yukpa": "Ichporh",
+          "palenquero": "Ichporh"
+        },
+        {
+          "spanish": "Amanecer",
+          "yukpa": "Ikmipok",
+          "palenquero": "Ikmipok"
+        },
+        {
+          "spanish": "Atardecer",
+          "yukpa": "Yamimpok",
+          "palenquero": "Yamimpok"
+        },
+        {
+          "spanish": "Sabana",
+          "yukpa": "Woshitkarh",
+          "palenquero": "Woshitkarh"
+        },
+        {
+          "spanish": "Monte",
+          "yukpa": "Owashpa",
+          "palenquero": "Owashpa"
+        },
+        {
+          "spanish": "Cascada",
+          "yukpa": "Yicharha",
+          "palenquero": "Yicharha"
+        },
+        {
+          "spanish": "Pozo del río",
+          "yukpa": "Kuna anapa",
+          "palenquero": "Kuna anapa"
+        },
+        {
+          "spanish": "Caño",
+          "yukpa": "Chakta",
+          "palenquero": "Chakta"
+        }
       ]
     },
     {
@@ -1316,37 +1564,130 @@
     }
   },
   "photos": [
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7300033_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7308209_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7308276_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7308681_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7308715_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7308747_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7308827_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7308872_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7309060_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7309476_Juan Franco_2026.jpg", "alt": "Fotografía 10 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7309584_Juan Franco_2026.jpg", "alt": "Fotografía 11 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7309765_Juan Franco_2026.jpg", "alt": "Fotografía 12 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7309788_Juan Franco_2026.jpg", "alt": "Fotografía 13 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V00141_Juan Franco_2026.jpg", "alt": "Fotografía 14 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V00400_Juan Franco_2026.jpg", "alt": "Fotografía 15 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V00896_Juan Franco_2026.jpg", "alt": "Fotografía 16 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V01432_Juan Franco_2026.jpg", "alt": "Fotografía 17 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V01442_Juan Franco_2026.jpg", "alt": "Fotografía 18 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V01583-Pano_Juan Franco_2026.jpg", "alt": "Fotografía 19 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V05945_Juan Franco_2026.jpg", "alt": "Fotografía 20 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V06144_Juan Franco_2026.jpg", "alt": "Fotografía 21 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V06162_Juan Franco_2026.jpg", "alt": "Fotografía 22 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V06972_Juan Franco_2026.jpg", "alt": "Fotografía 23 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V07073_Juan Franco_2026.jpg", "alt": "Fotografía 24 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V07266_Juan Franco_2026.jpg", "alt": "Fotografía 25 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V07972_Juan Franco_2026.jpg", "alt": "Fotografía 26 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V08881_Juan Franco_2026.jpg", "alt": "Fotografía 27 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09493_Juan Franco_2026.jpg", "alt": "Fotografía 28 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09799_Juan Franco_2026.jpg", "alt": "Fotografía 29 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09841_Juan Franco_2026.jpg", "alt": "Fotografía 30 de la comunidad Yukpa." },
-    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09878_Juan Franco_2026.jpg", "alt": "Fotografía 31 de la comunidad Yukpa." }
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7300033_Juan Franco_2026.jpg",
+      "alt": "Fotografía 01 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308209_Juan Franco_2026.jpg",
+      "alt": "Fotografía 02 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308276_Juan Franco_2026.jpg",
+      "alt": "Fotografía 03 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308681_Juan Franco_2026.jpg",
+      "alt": "Fotografía 04 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308715_Juan Franco_2026.jpg",
+      "alt": "Fotografía 05 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308747_Juan Franco_2026.jpg",
+      "alt": "Fotografía 06 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308827_Juan Franco_2026.jpg",
+      "alt": "Fotografía 07 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308872_Juan Franco_2026.jpg",
+      "alt": "Fotografía 08 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309060_Juan Franco_2026.jpg",
+      "alt": "Fotografía 09 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309476_Juan Franco_2026.jpg",
+      "alt": "Fotografía 10 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309584_Juan Franco_2026.jpg",
+      "alt": "Fotografía 11 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309765_Juan Franco_2026.jpg",
+      "alt": "Fotografía 12 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309788_Juan Franco_2026.jpg",
+      "alt": "Fotografía 13 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V00141_Juan Franco_2026.jpg",
+      "alt": "Fotografía 14 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V00400_Juan Franco_2026.jpg",
+      "alt": "Fotografía 15 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V00896_Juan Franco_2026.jpg",
+      "alt": "Fotografía 16 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V01432_Juan Franco_2026.jpg",
+      "alt": "Fotografía 17 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V01442_Juan Franco_2026.jpg",
+      "alt": "Fotografía 18 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V01583-Pano_Juan Franco_2026.jpg",
+      "alt": "Fotografía 19 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V05945_Juan Franco_2026.jpg",
+      "alt": "Fotografía 20 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V06144_Juan Franco_2026.jpg",
+      "alt": "Fotografía 21 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V06162_Juan Franco_2026.jpg",
+      "alt": "Fotografía 22 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V06972_Juan Franco_2026.jpg",
+      "alt": "Fotografía 23 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V07073_Juan Franco_2026.jpg",
+      "alt": "Fotografía 24 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V07266_Juan Franco_2026.jpg",
+      "alt": "Fotografía 25 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V07972_Juan Franco_2026.jpg",
+      "alt": "Fotografía 26 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V08881_Juan Franco_2026.jpg",
+      "alt": "Fotografía 27 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09493_Juan Franco_2026.jpg",
+      "alt": "Fotografía 28 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09799_Juan Franco_2026.jpg",
+      "alt": "Fotografía 29 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09841_Juan Franco_2026.jpg",
+      "alt": "Fotografía 30 de la comunidad Yukpa."
+    },
+    {
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09878_Juan Franco_2026.jpg",
+      "alt": "Fotografía 31 de la comunidad Yukpa."
+    }
   ],
   "activities": [
     {
