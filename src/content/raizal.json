@@ -673,11 +673,173 @@
       "title": "Números",
       "items": [
         {
-          "spanish": "Uno",
-          "english": "One",
-          "creole": "Wan",
-          "palenquero": "One · Wan"
-        }
+        "spanish": "Uno",
+        "english": "One",
+        "creole": "Wan",
+        "palenquero": "One · Wan"
+      },
+      {
+        "spanish": "Dos",
+        "english": "Two",
+        "creole": "Too",
+        "palenquero": "Two · Too"
+      },
+      {
+        "spanish": "Tres",
+        "english": "Three",
+        "creole": "Chree",
+        "palenquero": "Three · Chree"
+      },
+      {
+        "spanish": "Cuatro",
+        "english": "Four",
+        "creole": "Foa",
+        "palenquero": "Four · Foa"
+      },
+      {
+        "spanish": "Cinco",
+        "english": "Five",
+        "creole": "Faiv",
+        "palenquero": "Five · Faiv"
+      },
+      {
+        "spanish": "Seis",
+        "english": "Six",
+        "creole": "Siks",
+        "palenquero": "Six · Siks"
+      },
+      {
+        "spanish": "Siete",
+        "english": "Seven",
+        "creole": "Sevn",
+        "palenquero": "Seven · Sevn"
+      },
+      {
+        "spanish": "Ocho",
+        "english": "Eight",
+        "creole": "Ayt",
+        "palenquero": "Eight · Ayt"
+      },
+      {
+        "spanish": "Nueve",
+        "english": "Nine",
+        "creole": "Nain",
+        "palenquero": "Nine · Nain"
+      },
+      {
+        "spanish": "Diez",
+        "english": "Ten",
+        "creole": "Ten",
+        "palenquero": "Ten · Ten"
+      },
+      {
+        "spanish": "Once",
+        "english": "Eleven",
+        "creole": "Ilevn",
+        "palenquero": "Eleven · Ilevn"
+      },
+      {
+        "spanish": "Doce",
+        "english": "Twelve",
+        "creole": "Twelv",
+        "palenquero": "Twelve · Twelv"
+      },
+      {
+        "spanish": "Trece",
+        "english": "Thirteen",
+        "creole": "Terteen",
+        "palenquero": "Thirteen · Terteen"
+      },
+      {
+        "spanish": "Catorce",
+        "english": "Fourteen",
+        "creole": "Foateen",
+        "palenquero": "Fourteen · Foateen"
+      },
+      {
+        "spanish": "Quince",
+        "english": "Fifteen",
+        "creole": "Fifteen",
+        "palenquero": "Fifteen · Fifteen"
+      },
+      {
+        "spanish": "Dieciséis",
+        "english": "Sixteen",
+        "creole": "Siksteen",
+        "palenquero": "Sixteen · Siksteen"
+      },
+      {
+        "spanish": "Diecisiete",
+        "english": "Seventeen",
+        "creole": "Semteen",
+        "palenquero": "Seventeen · Semteen"
+      },
+      {
+        "spanish": "Dieciocho",
+        "english": "Eighteen",
+        "creole": "Ayteen",
+        "palenquero": "Eighteen · Ayteen"
+      },
+      {
+        "spanish": "Diecinueve",
+        "english": "Nineteen",
+        "creole": "Nainteen",
+        "palenquero": "Nineteen · Nainteen"
+      },
+      {
+        "spanish": "Veinte",
+        "english": "Twenty",
+        "creole": "Tweni",
+        "palenquero": "Twenty · Tweni"
+      },
+      {
+        "spanish": "Treinta",
+        "english": "Thirty",
+        "creole": "Terti, toti",
+        "palenquero": "Thirty · Terti, toti"
+      },
+      {
+        "spanish": "Cuarenta",
+        "english": "Forty",
+        "creole": "Faati",
+        "palenquero": "Forty · Faati"
+      },
+      {
+        "spanish": "Cincuenta",
+        "english": "Fifty",
+        "creole": "Fifti",
+        "palenquero": "Fifty · Fifti"
+      },
+      {
+        "spanish": "Sesenta",
+        "english": "Sixty",
+        "creole": "Siksti",
+        "palenquero": "Sixty · Siksti"
+      },
+      {
+        "spanish": "Setenta",
+        "english": "Seventy",
+        "creole": "Semti",
+        "palenquero": "Seventy · Semti"
+      },
+      {
+        "spanish": "Ochenta",
+        "english": "Eighty",
+        "creole": "Ayti",
+        "palenquero": "Eighty · Ayti"
+      },
+      {
+        "spanish": "Noventa",
+        "english": "Ninety",
+        "creole": "Nainti",
+        "palenquero": "Ninety · Nainti"
+      },
+      {
+        "spanish": "Cien",
+        "english": "A hundred",
+        "creole": "Honjrid",
+        "palenquero": "A hundred · Honjrid"
+      }
       ]
     },
     {
