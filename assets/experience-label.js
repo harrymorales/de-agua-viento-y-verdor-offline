@@ -67,14 +67,19 @@
   const guideIntroductions = Object.fromEntries(['palenque', 'raizal', 'rrom', 'yukpa', 'inga', 'cofan'].map(slug => [slug, guideText]));
   const intro = guideIntroductions[territory];
   if (!intro) return;
-  const addGuideIntroduction = () => {
+  const syncGuideIntroduction = () => {
     const guide = document.querySelector('.guide-list');
+    const activityReader = document.querySelector('.activity-reader');
+    if (activityReader) {
+      document.querySelectorAll('.guide-introduction').forEach(element => element.remove());
+      return;
+    }
     if (!guide || guide.querySelector('.guide-introduction')) return;
     const section = document.createElement('section'); section.className = 'guide-introduction';
     const heading = document.createElement('h3'); heading.textContent = intro.title; section.append(heading);
     intro.paragraphs.forEach(text => { const paragraph = document.createElement('p'); paragraph.textContent = text; section.append(paragraph); });
     guide.prepend(section);
   };
-  addGuideIntroduction();
-  new MutationObserver(addGuideIntroduction).observe(document.body, { childList: true, subtree: true });
+  syncGuideIntroduction();
+  new MutationObserver(syncGuideIntroduction).observe(document.body, { childList: true, subtree: true });
 })();
