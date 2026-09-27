@@ -17,8 +17,8 @@
   "cover": {
     "title": "Rrom",
     "subtitle": "Relatos, cantos, palabras y paisajes sonoros de la Kumpania Tolima.",
-    "image": "",
-    "imageAlt": ""
+    "image": "images/rrom/web/portada/Rrom_A7V00352_Juan Franco_2026.jpg",
+    "imageAlt": "Niña rrom con atuendo tradicional."
   },
   "communityProfile": {
     "facts": [
@@ -969,7 +969,17 @@
       "end": 0
     }
   },
-  "photos": [],
+  "photos": [
+    {"src": "images/rrom/web/fototeca/Rrom_A7308164_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7308177_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7V00281_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7V00683_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7V01977_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7V02714_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7V05099_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7V05435_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad Rrom."},
+    {"src": "images/rrom/web/fototeca/Rrom_A7V06732_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad Rrom."}
+  ],
   "activities": [
     {
       "title": "El amanecer del camino y el pulso de la carreta (le vurdona)",
@@ -1045,6 +1055,8 @@
   "culturalArticles": [
     {
       "title": "Cuando un niño gitano llega al mundo",
+      "image": "images/rrom/web/conoce/01-cuando-un-nino-gitano-llega-al-mundo.jpg",
+      "imageAlt": "Imagen asociada al artículo Cuando un niño gitano llega al mundo.",
       "paragraphs": [
         "Cuando una madre gitana trae un bebé al mundo, se guarda en su habitación durante cuarenta días. Los hombres no pueden pasar por allí, y ella tampoco puede salir a verlos. Durante ese tiempo, las mujeres de la familia la cuidan, la acompañan, acunan y atienden a su bebé. Al cumplirse los cuarenta días, recogen sus almohadas, sus sábanas, sus platos y todo lo que ella usó durante la dieta, y lo desechan. Solo entonces el bebé está listo para ser visto por el mundo.",
         "Para los gitanos, la identidad, el linaje y la pertenencia al grupo se heredan por parte del padre; es decir, se es rrom por ser hijo de un hombre rrom. Por eso, cuando llega un hijo varón a la familia, todo se vuelve una fiesta y en la casa hay alegría: es él quien llevará el apellido, quien guardará la tradición y garantizará que nunca se pierda la vitsa o el linaje."
@@ -1052,6 +1064,8 @@
     },
     {
       "title": "La crianza gitana",
+      "image": "images/rrom/web/conoce/02-la-crianza-gitana.jpg",
+      "imageAlt": "Imagen asociada al artículo La crianza gitana.",
       "paragraphs": [
         "Son los papás y los abuelos quienes se hacen cargo del aprendizaje de los niños; las mamás y las abuelas, de lo que deben saber las niñas.",
         "A ellas les enseñan los oficios para atender la casa con esmero, las comidas para no olvidar quiénes son, a preparar un buen café para las visitas y a lucir impecables desde que comienza el día. Antes leían la mano para ganarse la vida y tener su propio dinero. Al ladito de sus mamás o de sus mamios, aprendían lo que debían saber y decir para cultivar ese don y, al crecer, les enseñaban a coser sus propios vestidos, anchos y coloridos, que giraban con ellas al danzar.",
@@ -1061,6 +1075,8 @@
     },
     {
       "title": "La vida familiar",
+      "image": "images/rrom/web/conoce/03-la-vida-familiar.jpg",
+      "imageAlt": "Imagen asociada al artículo La vida familiar.",
       "paragraphs": [
         "Siendo niños, shavoge, reciben de su familia el Zakono Romanó: el conjunto de costumbres y tradiciones que rigen la vida del pueblo gitano. Allí viven la música, la danza y el palmoteo; los principios y normas que los orientan, como la kris romani; el azafrán, la sarma y el pimentón dulce; y el romanés.",
         "A medida que participan de la vida familiar, asisten a las reuniones y su voz también se escucha en las conversaciones importantes. Más adelante, tanto el shavo ‘joven’ como la shei ‘jovencita’ empiezan a prepararse para la vida matrimonial. Cuando forman un hogar propio, abrazan el compromiso de vivir bajo las reglas y costumbres de su kumpania.",
@@ -1069,12 +1085,16 @@
     },
     {
       "title": "El valor de la palabra",
+      "image": "images/rrom/web/conoce/04-el-valor-de-la-palabra.jpg",
+      "imageAlt": "Imagen asociada al artículo El valor de la palabra.",
       "paragraphs": [
         "Entre los gitanos, la palabra es sagrada y vale más que todo el oro del mundo. Romperla es perder la dignidad y la confianza de la comunidad entera. Incluso en los negocios, tan propios del alma gitana, es la palabra la que manda. La palabra de un hombre o mujer gitana no es solo suya, es de su padre, su papo, su familia, su vitsa y todo el linaje que lo ha sostenido desde siempre."
       ]
     },
     {
       "title": "Caravanas, carretas y caballos",
+      "image": "images/rrom/web/conoce/05-caravanas-carretas-y-caballos.jpg",
+      "imageAlt": "Imagen asociada al artículo Caravanas, carretas y caballos.",
       "paragraphs": [
         "Desde tiempos muy antiguos, los caballos han acompañado el camino del pueblo rrom. Cuando las kumpanias iban de un lugar a otro, con sus caravanas de colores, los caballos tiraban de las carretas donde viajaban los niños, las mujeres y los mayores. Allí se acomodaban las cobijas de plumas de ganso, las telas y vestimentas, los calderos y las teteras para el shayo; los baúles de madera con documentos importantes, sus barajas y fotografías.",
         "Con ellos también viajaban las pieles, los cueros, los clavos y los martillos para elaborar los aperos y las sillas. Cabían perros guardianes, gallinas y animales pequeños para alimentar a la familia. Todo tenía su lugar en la carreta. Aunque ahora las familias gitanas no viajan en caravanas, ni utilizan sus carretas, los caballos permanecen en el alma y en la sangre Rrom.",
@@ -1085,6 +1105,8 @@
     },
     {
       "title": "Shib romaní",
+      "image": "images/rrom/web/conoce/06-shib-romani.jpg",
+      "imageAlt": "Imagen asociada al artículo Shib romaní.",
       "paragraphs": [
         "La shib romaní es una de las pocas lenguas del mundo que nació recorriendo distintos territorios y países. Los gitanos salieron de la India hace cientos de años y, en cada tierra, fueron recogiendo palabras nuevas. Por eso, su gramática conserva raíces del sánscrito antiguo, mientras que su léxico se fue mezclando con el persa, el griego, el armenio y las lenguas europeas con las que tuvieron contacto. Hoy, la shib romaní se escucha con más fuerza en cada palabra que ayuda a resolver asuntos importantes en la Kris romaní, durante la Pachiv, una fiesta de bienvenida o agasajo, y en los relatos de los papos y mamios, al recordar las historias antiguas junto a sus familias.",
         "Hay palabras que laten con más fuerza, como Rrom, que significa ‘persona’, ‘hombre’ o ‘esposo’, y que da nombre a todo el pueblo; o phral, que quiere decir ‘hermano del alma’, y se usa para llamar a cualquier gitano, aunque no sea de la misma vitsa. Con estas palabras recuerdan que, aunque estén en geografías distintas, siguen siendo un solo pueblo, una sola sangre, y que la shib romaní es la lengua que los junta, donde son familia, así se encuentren al otro lado del mar."
@@ -1092,6 +1114,8 @@
     },
     {
       "title": "El alma libre",
+      "image": "images/rrom/web/conoce/07-el-alma-libre.jpg",
+      "imageAlt": "Imagen asociada al artículo El alma libre.",
       "paragraphs": [
         "«Los gitanos somos como palomas. Cuando vivíamos en las carpas, en las pampas, al aire libre, nada nos detenía. Éramos libres como el viento. Los niños con los caballos; nosotras con nuestros vestidos anchos, luciendo la pañoleta que era lo más importante para las mujeres casadas. Todavía somos guerreros, todavía tenemos el alma libre, aunque el cuerpo viva encerrado en estos apartamenticos».",
         "Evangelina Gómez"
