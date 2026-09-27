@@ -15,7 +15,9 @@
   },
   "cover": {
     "title": "Inga",
-    "subtitle": "Relatos, cantos, palabras y paisajes sonoros del Resguardo Indígena de Aponte."
+    "subtitle": "Relatos, cantos, palabras y paisajes sonoros del Resguardo Indígena de Aponte.",
+    "image": "images/inga/web/portada/Inga_A7V00570_Juan Franco_2026.jpg",
+    "imageAlt": "Fotografía de la comunidad Inga."
   },
   "communityProfile": {
     "facts": [
@@ -1157,7 +1159,45 @@
       "end": 0
     }
   },
-  "photos": [],
+  "photos": [
+    { "src": "images/inga/web/fototeca/Inga_A7300437_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V00756_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01319_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01407_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01546_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01647_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01681_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01869_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01912_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V01987_Juan Franco_2026.jpg", "alt": "Fotografía 10 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V02245_Juan Franco_2026.jpg", "alt": "Fotografía 11 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V02319_Juan Franco_2026.jpg", "alt": "Fotografía 12 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V02367_Juan Franco_2026.jpg", "alt": "Fotografía 13 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V02628_Juan Franco_2026.jpg", "alt": "Fotografía 14 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V02719_Juan Franco_2026.jpg", "alt": "Fotografía 15 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03011_Juan Franco_2026.jpg", "alt": "Fotografía 16 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03087_Juan Franco_2026.jpg", "alt": "Fotografía 17 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03169_Juan Franco_2026.jpg", "alt": "Fotografía 18 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03206_Juan Franco_2026.jpg", "alt": "Fotografía 19 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03209_Juan Franco_2026.jpg", "alt": "Fotografía 20 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03225_Juan Franco_2026.jpg", "alt": "Fotografía 21 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03279_Juan Franco_2026.jpg", "alt": "Fotografía 22 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03407_Juan Franco_2026.jpg", "alt": "Fotografía 23 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03424_Juan Franco_2026.jpg", "alt": "Fotografía 24 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V03870_Juan Franco_2026.jpg", "alt": "Fotografía 25 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V04068_Juan Franco_2026.jpg", "alt": "Fotografía 26 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V04887_Juan Franco_2026.jpg", "alt": "Fotografía 27 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V05151_Juan Franco_2026.jpg", "alt": "Fotografía 28 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V06055_Juan Franco_2026.jpg", "alt": "Fotografía 29 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V06134_Juan Franco_2026.jpg", "alt": "Fotografía 30 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V07728_Juan Franco_2026.jpg", "alt": "Fotografía 31 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V07919_Juan Franco_2026.jpg", "alt": "Fotografía 32 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V08337_Juan Franco_2026.jpg", "alt": "Fotografía 33 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V08447_Juan Franco_2026.jpg", "alt": "Fotografía 34 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V08547-Pano_Juan Franco_2026.jpg", "alt": "Fotografía panorámica 35 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V08561-Pano_Juan Franco_2026.jpg", "alt": "Fotografía panorámica 36 de la comunidad Inga." },
+    { "src": "images/inga/web/fototeca/Inga_A7V08712-Pano_Juan Franco_2026.jpg", "alt": "Fotografía panorámica 37 de la comunidad Inga." }
+  ],
   "activities": [
     {
       "title": "El amanecer en el valle de Sibundoy: la comunidad de los elementos, el buen vivir y el canto del agua",
@@ -1233,12 +1273,16 @@
   "culturalArticles": [
     {
       "title": "Curando a la compañera",
+      "image": "images/inga/web/conoce/01-curando-a-la-compañera.jpg",
+      "imageAlt": "Imagen asociada al artículo Curando a la compañera.",
       "paragraphs": [
         "Cuando nacía un bebé, en la tulpa, cerquita del fogón, se enterraba el cordón umbilical para que no sintiera frío. Se abría un huequito y hacia dentro se soplaba con aguardiente y humo de cigarrillo. Después se colocaban los carbones, acomodaban el cordón y nuevamente soplaban con aguardiente y tabaco en bola, que habían majado horas atrás. Así, curaban a «la compañera», como llamaban al cordoncito, para que el niño no se asustara o le llegara el mal viento. Si a un niño se le arruinaban los dientes, era común escuchar: «¡No le han curado la compañera!». De este modo aseguraban a los pequeños porque, además, el territorio es ilusionero y los niños sabían perderse: se iban como si el monte mismo los estuviera llamando. Los dolientes, o familiares, sembraban el cordón y ponían las hierbas y remedios, pero eran los comadrones o las parteras quienes les explicaban, pasito a pasito, lo que debían hacer."
       ]
     },
     {
       "title": "Arrullos",
+      "image": "images/inga/web/conoce/02-arrullos.jpg",
+      "imageAlt": "Imagen asociada al artículo Arrullos.",
       "paragraphs": [
         "Cuando el bebé tiene un mesecito, la mamá lo coloca en la milla, ese nido que nace cuando se juntan las piernas y que otros llaman regazo. Allí lo mece y le susurra: «shhhhhh, shhhhhh», como si su voz fuera el arrullo del viento. Cuando agarra más fuercita, lo toma en los brazos y lo pone de pie para cantarle la alegría: «kisindi kindi, kisindi kindi, kisindi kindi», mientras lo zarandea suavemente.",
         "A los tres meses se vuelve su compañerito. Lo lleva a la chagra o al trabajo comunitario, envuelto en una chalina sobre su espalda. Desde allí, el bebé va mirando la tierrita, los limones, la arracacha, mientras lo arrullan con palabras como: puñuri wawita ‘duérmete niñito’.",
@@ -1248,6 +1292,8 @@
     },
     {
       "title": "Los niños Inga",
+      "image": "images/inga/web/conoce/03-los-niños-inga.jpg",
+      "imageAlt": "Imagen asociada al artículo Los niños Inga.",
       "paragraphs": [
         "Son las siete de la mañana. En medio de la bruma y la montaña, los niños corren a la escuela con su pacha, una túnica que llevan hasta la rodilla, y las niñas con su kusma, una falda anudada a la cintura con la faja o hiladillo. Tanto la kusma como la pacha son negras como el color de la tierra y están hechas de lana de ovejo. Desde hace algunos años, la comunidad, junto con sus autoridades, decidió cambiar los uniformes: las falditas plisadas y las camisas blancas que no decían mucho de quiénes eran o de dónde venían, por el vestido tradicional del pueblo Inga de Aponte.",
         "La escuela, a la que corren con sus trajecitos, camina bajo un Proyecto Educativo Comunitario: les enseñan el inga, celebran el Inti Raymi, les hablan del Taita Carlos, les hacen probar el remedio o ambiwaska, y desde pequeños, crecen sabiendo que nacieron para cuidar el territorio. Mientras aprenden a leer, también se van topando con las flautas, el charango, la guitarra, la zampoña, el bombo andino y los sonajeros que vienen de los Andes. En el recreo juegan a la chis, que es la lleva; al cuspe, que es un trompo al que le dan fuete; y a las escondidas.",
@@ -1258,6 +1304,8 @@
     },
     {
       "title": "La fiesta de nosotros",
+      "image": "images/inga/web/conoce/04-la-fiesta-de-nosotros.jpg",
+      "imageAlt": "Imagen asociada al artículo La fiesta de nosotros.",
       "paragraphs": [
         "El Atun Puncha es el «Día Grande», la «fiesta de nosotros». Donde haya un inga, sea en El Páramo o en el pueblo, se festeja. El carnaval empieza una semana antes del Miércoles de Ceniza con la ceremonia de remedio o ambiwaska para toda la comunidad; el sábado, se recuerdan los juegos «que se sabían jugar antes», como la vara encebada, los encostalados o la carrera del chaski; y el domingo, en el cambalache, se trueca choclo, arracacha, barbacuano, envueltos, gallinas, cuyes, ollas de barro y hasta tejidos hechos en guanga. Es el encuentro entre lo frío y lo caliente.",
         "El lunes llegan «toditos» los niños de las diferentes escuelas a Aponte y hacen un desfile. Antes de empezar, les ponen remedio: los limpian con plantas dulces y frescas, y les dan un poquitingo de «chicha tiernita», que es bien suavecita y no emborracha. Después van danzando en hileritas con su pacha, su kusma, sus coronas de plumas y sus collares de colores y tocan la música del carnaval con bombos pequeñitos o con tarritos llenos de semillas de chirilla o arvejitas, mientras cantan los versos del Atun Puncha. El Taita Carlos ya viene del Limón más para abajo/ El Taita Carlos ya se va del Limón más para abajo, se escucha a lo lejos… Cuando despiden al Taita, igual que los adultos, se ponen tristes.",
@@ -1268,6 +1316,8 @@
     },
     {
       "title": "La lengua ingana",
+      "image": "images/inga/web/conoce/05-la-lengua-ingana.jpg",
+      "imageAlt": "Imagen asociada al artículo La lengua ingana.",
       "paragraphs": [
         "Hace unos años, otras maneras de sentir y habitar el territorio llegaron a Aponte. En ese entonces, muchos se olvidaron de la lengua y ella, poco a poco, se fue quedando dormida. Esos días difíciles pasaron: hoy, junto con el café que se asoma verdecito en la montaña, la comunidad está recuperando el ingano y, con él, el modo de pensar bonito que habían tenido desde siempre.",
         "En la escuela de Granadillo, los símbolos saludan desde arriba, y abajito está su nombre escrito en letras, bien clarito. Atun iaku es el río grande, la vida que recorre el territorio; alpa manga, las ollas de barro o tierra para preparar la chicha; indi, el taita sol, el origen de todo lo que siente y respira; mama killa, la luna que marca los tiempos de siembra y cosecha; wiru sara, el maíz; la chagra, ‘huerta’ donde crece el prontoalivio y la ruda junto al fríjol y el café; el saparu, canasto con el que recogen lo que da la chagra.",
