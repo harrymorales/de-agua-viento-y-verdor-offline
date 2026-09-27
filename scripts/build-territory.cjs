@@ -98,7 +98,7 @@ const readingReplacements = [
   ['q.singleReading||ae==="original"?q.title:q.spanishTitle||q.title', 'G||ae==="original"?q.title:q.spanishTitle||q.title'],
   [
     '"aria-label":q.singleReading?"Abrir vocabulario":"Descubre c\\xF3mo se lee",children:[(0,s.jsx)("span",{children:q.singleReading?"Vocabulario":"Descubre c\\xF3mo se lee"})',
-    '"aria-label":q.singleReading?"Abrir vocabulario":G?"Abrir texto":"Descubre cómo se lee",children:[(0,s.jsx)("span",{children:q.singleReading?"Vocabulario":G?"Abrir texto":"Descubre cómo se lee"})'
+    '"aria-label":q.singleReading?"Abrir vocabulario":G&&!q.readingMode?"Abrir texto":"Descubre cómo se lee",children:[(0,s.jsx)("span",{children:q.singleReading?"Vocabulario":G&&!q.readingMode?"Abrir texto":"Descubre cómo se lee"})'
   ]
 ];
 for (const [from, to] of readingReplacements) {
