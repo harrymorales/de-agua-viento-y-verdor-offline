@@ -87,6 +87,28 @@
         { label: '1, Amanecer en Providencia', number: '01', before: 'Pistas ' },
         { label: '9, Fishing', number: '09', before: '; ' },
         { label: '13, Al mediodía en la playa de Manzanillo', number: '13', before: '; y ', after: '.' }
+      ],
+      'Pista 7, La siembra del cordón umbilical.': [
+        { label: '7, La siembra del cordón umbilical', number: '07', before: 'Pista ', after: '.' }
+      ],
+      'Pistas 5, Vocabularios; 9, Fishing; y 13, Al mediodía en la playa de Manzanillo.': [
+        { label: '5, Vocabularios', number: '05', before: 'Pistas ' },
+        { label: '9, Fishing', number: '09', before: '; ' },
+        { label: '13, Al mediodía en la playa de Manzanillo', number: '13', before: '; y ', after: '.' }
+      ],
+      'Pistas 6, Los McLean Brothers interpretan un shotis; y 12, Los McLean Brothers interpretan una mazurca.': [
+        { label: '6, Los McLean Brothers interpretan un shotis', number: '06', before: 'Pistas ' },
+        { label: '12, Los McLean Brothers interpretan una mazurca', number: '12', before: '; y ', after: '.' }
+      ],
+      'Pistas 4, He Died for Me; y 8, Sleep, baby, sleep.': [
+        { label: '4, He Died for Me', number: '04', before: 'Pistas ' },
+        { label: '8, Sleep, baby, sleep', number: '08', before: '; y ', after: '.' }
+      ],
+      'Pistas 2, Brown girl in the ring; 3, Naansi an Margaret stuori; 10, Drop a letter; y 11, Jesus loves the little children.': [
+        { label: '2, Brown girl in the ring', number: '02', before: 'Pistas ' },
+        { label: '3, Naansi an Margaret stuori', number: '03', before: '; ' },
+        { label: '10, Drop a letter', number: '10', before: '; ' },
+        { label: '11, Jesus loves the little children', number: '11', before: '; y ', after: '.' }
       ]
     }
   };
