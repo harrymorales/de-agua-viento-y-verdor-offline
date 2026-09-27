@@ -83,6 +83,29 @@ const replacements = [
 ];
 for (const [variable, value] of replacements) script = replaceExpression(script, variable, value);
 
+// A reading with only one available text must not render a second, empty tab.
+// This applies to vocabulary lists and to recordings published only in Spanish.
+const readingReplacements = [
+  [
+    'q=O===null?null:Ul[O],se=(0,pe.useMemo)(()=>q?q.singleReading||ae==="original"?q.original:q.translation:void 0,[q,ae]),Be=Hl[we]',
+    'q=O===null?null:Ul[O],G=!!(q&&(q.singleReading||!q.translation||q.language==="Español")),se=(0,pe.useMemo)(()=>q?G?q.original||q.translation:ae==="original"?q.original:q.translation:void 0,[q,ae,G]),Be=Hl[we]'
+  ],
+  ['className:`reading ${q.singleReading?"single-reading":""}`', 'className:`reading ${G?"single-reading":""}`'],
+  [
+    'children:q.singleReading?(0,s.jsx)("span",{children:"Vocabulario"}):(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)("button",{className:ae==="original"?"selected":"",onClick:()=>Se("original"),children:"Palenquero"}),(0,s.jsx)("button",{className:ae==="translation"?"selected":"",onClick:()=>Se("translation"),children:"Espa\\xF1ol"})]})',
+    'children:q.singleReading?(0,s.jsx)("span",{children:"Vocabulario"}):G?(0,s.jsx)("span",{children:q.language==="Español"?"Español":q.language}):(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)("button",{className:ae==="original"?"selected":"",onClick:()=>Se("original"),children:"Palenquero"}),(0,s.jsx)("button",{className:ae==="translation"?"selected":"",onClick:()=>Se("translation"),children:"Español"})]})'
+  ],
+  ['q.singleReading||ae==="original"?q.title:q.spanishTitle||q.title', 'G||ae==="original"?q.title:q.spanishTitle||q.title'],
+  [
+    '"aria-label":q.singleReading?"Abrir vocabulario":"Descubre c\\xF3mo se lee",children:[(0,s.jsx)("span",{children:q.singleReading?"Vocabulario":"Descubre c\\xF3mo se lee"})',
+    '"aria-label":q.singleReading?"Abrir vocabulario":G?"Abrir texto":"Descubre cómo se lee",children:[(0,s.jsx)("span",{children:q.singleReading?"Vocabulario":G?"Abrir texto":"Descubre cómo se lee"})'
+  ]
+];
+for (const [from, to] of readingReplacements) {
+  if (!script.includes(from)) throw new Error('No se encontró una sección de lectura para actualizar.');
+  script = script.replace(from, to);
+}
+
 // Make active territory selection accept the content used to generate this copy.
 script = script.replace('if(v!=="palenque")', `if(v!=="${slug}")`);
 // Generated territory pages open directly in their own audioteca. The portal
