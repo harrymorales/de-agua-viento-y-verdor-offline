@@ -1450,7 +1450,7 @@
       "end": 53
     },
     "Colores": {
-      "start": 55,
+      "start": 54,
       "end": 94
     },
     "Animales": {
@@ -1475,10 +1475,10 @@
     },
     "Emociones": {
       "start": 320,
-      "end": 359
+      "end": 355
     },
     "Nombrar el paisaje": {
-      "start": 360,
+      "start": 356,
       "end": 432
     }
   },
