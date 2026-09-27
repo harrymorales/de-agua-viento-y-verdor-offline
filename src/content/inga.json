@@ -4,7 +4,7 @@
     "name": "Inga",
     "language": "Inga y español",
     "readingOriginalLabel": "Inga",
-    "status": "text-ready",
+    "status": "published",
     "sources": [
       "De agua viento y verdor 4.docx",
       "Metadatos_Audioteca_FINAL.xlsm"
@@ -52,19 +52,23 @@
       "number": "01",
       "title": "Quebrada San Francisco",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 1",
       "intro": "Así suena la quebrada San Francisco desde el fondo de sus aguas frías y transparentes. Bajo el agua, la corriente mueve pequeñas piedras que chocan, ruedan y producen sonidos muy especiales. Escucha con atención: ¿qué te hacen sentir estos sonidos bajo el agua?",
-      "audio": "audio/inga/Ing-01-Quebrada_San_Francisco.mp3",
+      "audio": "audio/inga/Ing-01-Quebrada_san_francisco-pai-son.mp3",
       "duration": "5:00",
       "language": "N/A",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "N/A"
       },
       "activities": [
         0
-      ]
+      ],
+      "audioFileBase": "Ing-01-Quebrada_san_francisco-pai-son",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "captureDate": "2026-06-19 00:00:00"
     },
     {
       "number": "02",
@@ -73,18 +77,22 @@
       "kind": "Canción",
       "tracks": "Pista 2",
       "intro": "Escucha a los niños de la agrupación Miski Taki contar a través de su canto cómo el Taita Carlos Tamabioy llegó al territorio de Aponte, dejó familias y tierras y cada año vuelve y vive en el Carnaval del Atun Puncha.",
-      "audio": "audio/inga/Ing-02-Taita_Carlos.mp3",
+      "audio": "audio/inga/Ing-02-Taita_carlos-can.mp3",
       "duration": "4:19",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Institución Educativa Agropecuaria Inga de Aponte\nEscuela Rural Paramo alto: Eimi Yalen López\nDana Gaviria Janamejoy\nMayely Janamejoy\nAlison Lopez\nYadid Jamioy\nValentina Santa Cruz\nCristian Jamioy\nSofia Gaviria López\nJhostin Chasoy\nKarol Agreda\nProfesor Emir Agreda Santacruz"
       },
       "activities": [
         3
       ],
       "original": "Taita Carluspa\nGuaranga sugta patsag watapi Taita Carlus chaiaura, (kuti)\nPaipa kimsa wambrakunaua ñaña i warmi María Melchor, (kuti)\nSamurshakuna atun llagtamanda chaiarshakuna Tamabioyma, (kuti)\nMaskaspa alpa sakingapa paipa kuiaskakunamanda. (kuti)\nPaipa imasa iuiaiua iachachispa sakirshami, (kuti)\nKausangapa sugllapi iukangapa suma kausai. (kuti)\nTaita Carlusta iuiarispa muiurisunchi Atun Puncha, (kuti)\nKausachispa paipa chaiai chasallatata paipa ri. (kuti)\nNukanchipa Taita samaku paipa samai kaipimka, (kuti)\nSinchiachispa tukuikunata katigringapa ñambita. (kuti)",
-      "translation": "En los años 1600, cuando Taita Carlos llegó, (bis)\nCon sus tres hijos, su hermana y su esposa María Melchor, (bis)\nProcedentes de Sibundoy llegaron hasta Tamabioy, (bis)\nBuscando tierra pa’ dejar a su pueblo tan querido. (bis)\nCon su manera de pensar, gran enseñanza nos dejó, (bis)\nQue vivamos en unidad pa’ tener un mundo mejor. (bis)\nRecordando a nuestro Taita, celebramos el Carnaval, (bis)\nConmemorando su llegada y recordando su partida. (bis)\nNuestro Taita descansa en paz, pero su espíritu quedó, (bis)\nDándonos fuerza y valor pa’ seguir nuestro camino. (bis)"
+      "translation": "En los años 1600, cuando Taita Carlos llegó, (bis)\nCon sus tres hijos, su hermana y su esposa María Melchor, (bis)\nProcedentes de Sibundoy llegaron hasta Tamabioy, (bis)\nBuscando tierra pa’ dejar a su pueblo tan querido. (bis)\nCon su manera de pensar, gran enseñanza nos dejó, (bis)\nQue vivamos en unidad pa’ tener un mundo mejor. (bis)\nRecordando a nuestro Taita, celebramos el Carnaval, (bis)\nConmemorando su llegada y recordando su partida. (bis)\nNuestro Taita descansa en paz, pero su espíritu quedó, (bis)\nDándonos fuerza y valor pa’ seguir nuestro camino. (bis)",
+      "audioFileBase": "Ing-02-Taita_carlos-can",
+      "authorOrOrigin": "Letra: Leticia Santa Cruz, Olmedo Santa Cruz Chasoy, basado en una melodia de Ángel Guaracas",
+      "captureDate": "18/06/2026"
     },
     {
       "number": "03",
@@ -93,18 +101,22 @@
       "kind": "Canción",
       "tracks": "Pista 3",
       "intro": "Los niños de Aponte nacieron para ser wasikamas. La maestra Ermencia compuso esta canción para sembrar en «los más pequeñitos» el amor por el territorio. Los invita a cuidarlo: observando, caminando, preguntando, escuchando. ¿Puedes despertar tus sentidos para cuidar la naturaleza? Escucha esta voz pequeñita.",
-      "audio": "audio/inga/Ing-03-Risunchi.mp3",
+      "audio": "audio/inga/Ing-03-Risunchi-can.mp3",
       "duration": "0:34",
       "language": "Inga",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Samuel Pantoja Gómez"
       },
       "activities": [
         0
       ],
       "original": "Risunchi tukuikuna.\nKauangapa mama alpama.\nPurispa, kauaspa,\nUiaspa, tantiaspa.\nUiaspa iuiaikuna,\nSumailla iachaikunchi.",
-      "translation": "Vamos todos a observar.\nA la madre tierra hay que cuidar.\nCaminando, observando,\nEscuchando, tocando.\nEscuchando el pensamiento,\nVamos a aprender bonito."
+      "translation": "Vamos todos a observar.\nA la madre tierra hay que cuidar.\nCaminando, observando,\nEscuchando, tocando.\nEscuchando el pensamiento,\nVamos a aprender bonito.",
+      "audioFileBase": "Ing-03-Risunchi-can",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "17/06/2026"
     },
     {
       "number": "04",
@@ -113,18 +125,22 @@
       "kind": "Arrullo",
       "tracks": "Pista 4",
       "intro": "Este arrullo nació en la familia Jamioy Janamijoy. Recuerda el momento cuando los niños empiezan a gatear sobre el piso de tierra; sus mamás los abrazan y les dicen, con todo el querer que les cabe: «Takispa ugllai nukapa llatancito», «Venga mi desnudito». Escúchalo en la voz amorosa de Rosita.",
-      "audio": "audio/inga/Ing-04-Takispa_ugllai_nukapa_llatancito.mp3",
+      "audio": "audio/inga/Ing-04-Takispa_ugllai_nukapa_llatancito-arr.mp3",
       "duration": "2:31",
       "language": "Inga",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Rosa  Elena Jamioy"
       },
       "activities": [
         1
       ],
       "original": "Llatan, llatan, purikungi wawita.\nLlatan, llatan, llukakungi wawita.\nLlatan, llatan, kalpakungi wawita.\nLlatan, llatan, wakakungi wawita.\nLlatan, llatan, kuiauangi wawita.\nKamba makisitu kawachiuangi, nukapa wawita.",
-      "translation": "Desnudo, desnudo, bebito caminas.\nDesnudo, desnudo, bebito gateas.\nDesnudo, desnudo, bebito lloras.\nDesnudo, desnudo, bebito me amas.\nCon tu manito me muestras, mi bebito."
+      "translation": "Desnudo, desnudo, bebito caminas.\nDesnudo, desnudo, bebito gateas.\nDesnudo, desnudo, bebito lloras.\nDesnudo, desnudo, bebito me amas.\nCon tu manito me muestras, mi bebito.",
+      "audioFileBase": "Ing-04-Takispa_ugllai_nukapa_llatancito-arr",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "18/06/2026"
     },
     {
       "number": "05",
@@ -133,18 +149,22 @@
       "kind": "Canción",
       "tracks": "Pista 5",
       "intro": "El Páramo Alto es una vereda muy importante para el resguardo de Aponte. Allí, en medio del viento frío y sus inmensas montañas, han nacido músicos, líderes y sabedores que guardan con esmero las tradiciones del pueblo Inga. Escucha esta canción en las voces de los niños de la escuela de la vereda.",
-      "audio": "audio/inga/Ing-05-Nuka_kausani_Paramu_Awapi.mp3",
+      "audio": "audio/inga/Ing-05-Nuka_kausani_paramu_awapi-can.mp3",
       "duration": "0:40",
       "language": "Inga",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Institución Educativa Agropecuaria Inga de Aponte\nEscuela Rural Paramo alto\nGrado Primero\nJhonner Elian Ceron Santacruz\nFreider Sebastian Chasoy Pujimuy\nPaula Daniela Gaviria Bolaños\nErica Lisbeth Ordoñez Delgado\nEvelyn Yulieth Rojas Jacanamejoy\nGeiler Miguel Santacruz Santacruz\nMaria Jose Santacruz Santacruz\nGrado Cuarto\nValeriln Sofia Bolaños Santacruz\nKenyi Julian Gaviria Lopez\nGrado Quinto\nYerson Lopez Pujimuy\nYaleni Alejandra Santacruz Bolaños\nProfesor: José María Ortíz Chamorro"
       },
       "activities": [
         4
       ],
       "original": "Nuka kausani Paramu Awapi,\nNuka kausani Paramu Awapi,\nMaipi waira pukui imasa chiri.\nMaipi waira pukui imasa chiri.\nNuka kausani Paramu Awapi,\nNuka kausani Paramu Awapi,\nIukagmanda suma alpa mama.\nIukagmanda suma alpa mama.\nNuka kausani Paramu Awapi.\nNuka kausani Paramu Awapi.",
-      "translation": "Yo vivo en Páramo Alto,\nYo vivo en Páramo Alto,\nDonde el viento sopla frío.\nDonde el viento sopla frío.\nYo vivo en el Páramo Alto,\nYo vivo en el Páramo Alto,\nPorque es bella su naturaleza.\nPorque es bella su naturaleza.\nYo vivo en Páramo Alto.\nYo vivo en Páramo Alto."
+      "translation": "Yo vivo en Páramo Alto,\nYo vivo en Páramo Alto,\nDonde el viento sopla frío.\nDonde el viento sopla frío.\nYo vivo en el Páramo Alto,\nYo vivo en el Páramo Alto,\nPorque es bella su naturaleza.\nPorque es bella su naturaleza.\nYo vivo en Páramo Alto.\nYo vivo en Páramo Alto.",
+      "audioFileBase": "Ing-05-Nuka_kausani_paramu_awapi-can",
+      "authorOrOrigin": "José María Ortíz Chamorro",
+      "captureDate": "2006-06-18 00:00:00"
     },
     {
       "number": "06",
@@ -153,18 +173,22 @@
       "kind": "Canción",
       "tracks": "Pista 6",
       "intro": "Para los ingas, pensar bonito, vivir bonito, querer bonito es el camino para vivir bonito con la familia, la comunidad y el territorio. Escucha esta canción en la voz de Mariela Pujimuy.",
-      "audio": "audio/inga/Ing-06-Suma_Kausai.mp3",
+      "audio": "audio/inga/Ing-06-Suma_kausai-can.mp3",
       "duration": "2:56",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Mariela Pujimoy Janamejoy"
       },
       "activities": [
         0
       ],
       "original": "Nukapa umawa allilla iuiani.\nNukapa umawa allilla iuiani.\nNukapa ringrikunawa allilla uiani.\nNukapa ringrikunawa allilla uiani.\nNukapa simiwa suma rimani.\nNukapa simiwa suma rimani.\nNukapa makikunawa allilla llankani.\nNukapa makikunawa allilla llankani.\nNukapa sunguwa allilla kuiani.\nNukapa sunguwa allilla kuiani.\nChasa, runasina allillami kausani.\nChasa, runasina allillami kausani.",
-      "translation": "Con mi cabeza pienso bien. \nCon mis oídos escucho bien.\nCon mis oídos escucho bien.\nCon mi boca hablo bien.\nCon mi boca hablo bien.\nCon mis manos trabajo bien.\nCon mis manos trabajo bien.\nCon mi corazón quiero bien.\nCon mi corazón quiero bien.\nAsí, como persona, vivo bien.\nAsí, como persona, vivo bien."
+      "translation": "Con mi cabeza pienso bien. \nCon mis oídos escucho bien.\nCon mis oídos escucho bien.\nCon mi boca hablo bien.\nCon mi boca hablo bien.\nCon mis manos trabajo bien.\nCon mis manos trabajo bien.\nCon mi corazón quiero bien.\nCon mi corazón quiero bien.\nAsí, como persona, vivo bien.\nAsí, como persona, vivo bien.",
+      "audioFileBase": "Ing-06-Suma_kausai-can",
+      "authorOrOrigin": "Mariela Pujimoy Janamejoy",
+      "captureDate": "19/06/2026"
     },
     {
       "number": "07",
@@ -173,18 +197,22 @@
       "kind": "Canción",
       "tracks": "Pista 7",
       "intro": "Dicen que Granadillo es el primer sitio donde se asoman los rayos del sol desde la laguna sagrada en el resguardo de Aponte. Quienes viven en esta vereda conservan la lengua propia, la unidad, el divichido, las mingas, los cambalaches y todo lo que corresponde como «verdaderos ingas». Escucha esta canción que la comunidad le canta al río. ¿De dónde vienen y a dónde van los ríos donde tú vives?",
-      "audio": "audio/inga/Ing-07-Iaku,_iaku,_iaku.mp3",
+      "audio": "audio/inga/Ing-07-Iaku_iaku_iaku-can.mp3",
       "duration": "2:08",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "HERNÁN ISACC AGREDA - VOZ \nCRISTIAN DAYAN CHASOY MAVISOY - BOMBO \nJEFREY ALEXANDER HANSASOY LÓPEZ - GUITARRA Y VOZ \nEDUAR JAVIER JANAMEJOY MONTENEGRO - GUITARRA Y VOZ EDUAR JANAMEJOR\nDEINER JANAMEJOY - ZAMPOÑA \nPEDRO CARLOSAMA PROFESOR Institución Educativa Técnica agropecuaria Inga Aponte (Granadillo)"
       },
       "activities": [
         0
       ],
       "original": "Iaku, iaku, iaku, ¿maima rikungi?\nIaku, iaku, iaku, ¿maima rikungi?\nNuka kalpaspa atun iakuma.\nNuka kalpaspa atun iakuma.\nIaku, iaku, iaku, ¿imaura tigramungi?\nIaku, iaku, iaku, ¿imaura tigramungi?\nMana tigramungapakani ni imaurapas.\nMana tigramungapakani ni imaurapas.",
-      "translation": "Río, río, río, ¿a dónde vas?\nRío, río, río, ¿a dónde vas?\nYo en mi carrera voy hacia el mar.\nYo en mi carrera voy hacia el mar.\nRío, río, río, ¿cuándo volverás?\nRío, río, río, ¿cuándo volverás?\nVolver ya no puedo nunca jamás.\nVolver ya no puedo nunca jamás."
+      "translation": "Río, río, río, ¿a dónde vas?\nRío, río, río, ¿a dónde vas?\nYo en mi carrera voy hacia el mar.\nYo en mi carrera voy hacia el mar.\nRío, río, río, ¿cuándo volverás?\nRío, río, río, ¿cuándo volverás?\nVolver ya no puedo nunca jamás.\nVolver ya no puedo nunca jamás.",
+      "audioFileBase": "Ing-07-Iaku_iaku_iaku-can",
+      "authorOrOrigin": "Tradición Oral (Putumayo)",
+      "captureDate": "16/06/2026"
     },
     {
       "number": "08",
@@ -193,18 +221,22 @@
       "kind": "Vocabulario",
       "tracks": "Pista 8",
       "intro": "En Aponte, el inga se habla en la casa, se enseña en la escuela y se comparte con los mayores. Escucha algunas de las palabras con las que la comunidad nombra a su familia, su territorio y otros elementos que hacen parte de su vida cotidiana.",
-      "audio": "audio/inga/Ing-08-Vocabularios.mp3",
+      "audio": "audio/inga/Ing-08-Vocabularios-voc.mp3",
       "duration": "7:23",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "SWHAY DWARY JANAMEJOY PUJUMOY, ITXEL JANAMEJOY, CARMELINA CHINDOY, ROSA JAMIOY, LAUREN MANUELA LUNA CARLOS, JULIO CHINDOY"
       },
       "activities": [
         4
       ],
       "singleReading": true,
-      "original": "Animales\nPerro · Alku\nGato · Misitu\nGallina · Atawalpa\nGallo · Kari atawalpa\nVaca · Wagra\nCaballo · Chaki Muru\nOveja · Milmunchu\nCuy · Sancha\nMosca · Chuspi\nHormiga · Añangu\nOso · Usu\nGusano · Kuru\nLoro · Uritu\nPiojo · Usa\nCaracol · Churu\nPez · Chalwa\nPájaro · Pisku\nMariposa · Pilpintu\nColibrí · Kindi\nSapo · Ambatu\nBúho · Kuskungu\nPavo · Chumbu\nMunchira · Chinikuku\nPato · Piskuiaku\nGorrión · Pichinchi\nVenado · Taruka\nCerdo · Kuchi\nSerpiente o culebra · Kukuwaska, Amarun\nConejo · Sancha chupa umutu\nRatón · Ukucha\n\nNúmeros\nUno · Sug\nDos · Iskai\nTres · Kimsa\nCuatro · Chusku\nCinco · Pichka\nSeis · Sugta\nSiete · Kanchis\nOcho · Pusag\nNueve · Iskun\nDiez · Chunga\n\nColores\nAmarillo · Killu\nVerde · Pangusu\nAzul · Awapachasina\nRojo · Puka\nCafé · Kusni\nNegro · Iana\nBlanco · Iura\nGris · Uchpusu\n\nPartes del cuerpo\nCabeza · Uma\nCara · Ñawi\nOjo · Ñawimuru\nCejas · Ñawimilma\nNariz · Singa\nBoca · Simi\nLengua · Kallu\nDiente · Kiru\nEspalda · Wasa\nEstómago · Wigsa\nBrazo · Mashkadiru\nMano · Maki\nDedos · Didukuna\nPierna · Changa\nPie · Chaki\nRodilla · Kungush\nOreja · Ringri\nCabello · Agcha\nUña · Sillu\nCorazón · Sungu\n\nFamilia\nMamá · Mamita, Mama\nPapá · Taita\nBebé · Wawa\nHermano/a · Wagki\nAbuelo · Taita Siñush\nAbuela · Mama Siñura\nNieto · Ñitu kuna\nNieta · Ñita\nTío · Taitapa wagki, Tiu\nTía · Mamapa wagki,Tia\nSobrino · Subrinu\nSobrina · Subrina\nPrimo · Primu\nPrima · Prima\nEsposo · Kusa\nEsposa · Warmi\nCuñado · Kuñadu\nCuñada · Kuñada\n\nSaludos\nBuenos días · Pakaripuangi\n\nVerbos\nPensar · Iuiai\n\nPensar y sentir\n(Estar) feliz · Alli llakai / alli iachiri\n\nVamos a…\n…jugar · Risunchi pugllangapa\n…caminar por la montaña · Risunchi puringapa sacha ukuta\n…la chagra · Risunchi chagrama\n…la tulpa · Risunchi tulpama\n…hablar Inga · Risunchi inga simi rimangapa\n…cocinar · Risunchi ianungapa\n…tejer · Risunchi awangapa\n…donde el taita · Risunchi taita pagma\n…Atun Puncha · Risunchi Atun Punchama\n…danzar · Risunchi muiringapa\n…trabajar · Risunchi apachingapa\n\nNombrar el paisaje\nNaturaleza · Alpa Mama\nSol · Indi\nLuna · Killa\nEstrella · Chaska\nCielo · Awapacha\nArcoíris · Kuichi\nMontaña · Sacha uku\nRío · Atun iaku\nPiedra · Rumi\nQuebrada · Uchulla iaku\nAgua · Iaku\nTierra · Alpa\nBarro · Turu\nFlor · Tugtu\nÁrbol · Sacha\nFuego · Nina\nViento · Waira\nLluvia · Tamia\nCamino · Ñambi\nDía · Puncha\nTarde · Chisi\nNoche · Tuta\nAmanecer · Pakari\nAtardecer · Chisiai\nVolcán · Utku nina\n\nSonido, música y silencio\nSonido · Uiarigkuna\nSilencio · Upalla\nBombo · Bumbu\nFlauta · Flauta\nZampoña · Zampoña\nCantar · Taki\nCanción · Taki kuna\nSonajero (semillas que suenan) · Muiukunaua uiachidiru\nMientras vivamos, cantemos · Kausankamalla takisunchi\nMientras vivamos, bailemos · Kausankamalla muiurisunchi\n\nMundo espiritual\nYagé · Ambi waska\nMédico tradicional · Taita sinchi\nLimpieza · Waira pichai\nCuidadores del territorio · Wasikamakuna / Wasikamas\nCanto de Taita · Taita sinchipa taki\nEspíritu · Waira, samai"
+      "original": "Animales\nPerro · Alku\nGato · Misitu\nGallina · Atawalpa\nGallo · Kari atawalpa\nVaca · Wagra\nCaballo · Chaki Muru\nOveja · Milmunchu\nCuy · Sancha\nMosca · Chuspi\nHormiga · Añangu\nOso · Usu\nGusano · Kuru\nLoro · Uritu\nPiojo · Usa\nCaracol · Churu\nPez · Chalwa\nPájaro · Pisku\nMariposa · Pilpintu\nColibrí · Kindi\nSapo · Ambatu\nBúho · Kuskungu\nPavo · Chumbu\nMunchira · Chinikuku\nPato · Piskuiaku\nGorrión · Pichinchi\nVenado · Taruka\nCerdo · Kuchi\nSerpiente o culebra · Kukuwaska, Amarun\nConejo · Sancha chupa umutu\nRatón · Ukucha\n\nNúmeros\nUno · Sug\nDos · Iskai\nTres · Kimsa\nCuatro · Chusku\nCinco · Pichka\nSeis · Sugta\nSiete · Kanchis\nOcho · Pusag\nNueve · Iskun\nDiez · Chunga\n\nColores\nAmarillo · Killu\nVerde · Pangusu\nAzul · Awapachasina\nRojo · Puka\nCafé · Kusni\nNegro · Iana\nBlanco · Iura\nGris · Uchpusu\n\nPartes del cuerpo\nCabeza · Uma\nCara · Ñawi\nOjo · Ñawimuru\nCejas · Ñawimilma\nNariz · Singa\nBoca · Simi\nLengua · Kallu\nDiente · Kiru\nEspalda · Wasa\nEstómago · Wigsa\nBrazo · Mashkadiru\nMano · Maki\nDedos · Didukuna\nPierna · Changa\nPie · Chaki\nRodilla · Kungush\nOreja · Ringri\nCabello · Agcha\nUña · Sillu\nCorazón · Sungu\n\nFamilia\nMamá · Mamita, Mama\nPapá · Taita\nBebé · Wawa\nHermano/a · Wagki\nAbuelo · Taita Siñush\nAbuela · Mama Siñura\nNieto · Ñitu kuna\nNieta · Ñita\nTío · Taitapa wagki, Tiu\nTía · Mamapa wagki,Tia\nSobrino · Subrinu\nSobrina · Subrina\nPrimo · Primu\nPrima · Prima\nEsposo · Kusa\nEsposa · Warmi\nCuñado · Kuñadu\nCuñada · Kuñada\n\nSaludos\nBuenos días · Pakaripuangi\n\nVerbos\nPensar · Iuiai\n\nPensar y sentir\n(Estar) feliz · Alli llakai / alli iachiri\n\nVamos a…\n…jugar · Risunchi pugllangapa\n…caminar por la montaña · Risunchi puringapa sacha ukuta\n…la chagra · Risunchi chagrama\n…la tulpa · Risunchi tulpama\n…hablar Inga · Risunchi inga simi rimangapa\n…cocinar · Risunchi ianungapa\n…tejer · Risunchi awangapa\n…donde el taita · Risunchi taita pagma\n…Atun Puncha · Risunchi Atun Punchama\n…danzar · Risunchi muiringapa\n…trabajar · Risunchi apachingapa\n\nNombrar el paisaje\nNaturaleza · Alpa Mama\nSol · Indi\nLuna · Killa\nEstrella · Chaska\nCielo · Awapacha\nArcoíris · Kuichi\nMontaña · Sacha uku\nRío · Atun iaku\nPiedra · Rumi\nQuebrada · Uchulla iaku\nAgua · Iaku\nTierra · Alpa\nBarro · Turu\nFlor · Tugtu\nÁrbol · Sacha\nFuego · Nina\nViento · Waira\nLluvia · Tamia\nCamino · Ñambi\nDía · Puncha\nTarde · Chisi\nNoche · Tuta\nAmanecer · Pakari\nAtardecer · Chisiai\nVolcán · Utku nina\n\nSonido, música y silencio\nSonido · Uiarigkuna\nSilencio · Upalla\nBombo · Bumbu\nFlauta · Flauta\nZampoña · Zampoña\nCantar · Taki\nCanción · Taki kuna\nSonajero (semillas que suenan) · Muiukunaua uiachidiru\nMientras vivamos, cantemos · Kausankamalla takisunchi\nMientras vivamos, bailemos · Kausankamalla muiurisunchi\n\nMundo espiritual\nYagé · Ambi waska\nMédico tradicional · Taita sinchi\nLimpieza · Waira pichai\nCuidadores del territorio · Wasikamakuna / Wasikamas\nCanto de Taita · Taita sinchipa taki\nEspíritu · Waira, samai",
+      "audioFileBase": "Ing-08-Vocabularios-voc",
+      "authorOrOrigin": "Vocabulario",
+      "captureDate": "16/06/2026"
     },
     {
       "number": "09",
@@ -213,18 +245,22 @@
       "kind": "Arrullo",
       "tracks": "Pista 9",
       "intro": "Peregrina acompaña el sueño de su niña y la invita a cerrar sus ojitos, sabiendo que un día bonito la espera al despertar. Escucha su dulce arrullo. ¿Con qué palabras te arrullaban cuando eras niño?",
-      "audio": "audio/inga/Ing-09-Puñupuai,_wawita.mp3",
+      "audio": "audio/inga/Ing-09-Punupuai_wawita-arr.mp3",
       "duration": "2:26",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Peregrina Janamejoy"
       },
       "activities": [
         1
       ],
       "original": "Puñupuai, wawita, suma puñupuai.\nÑawikuna uichkarispa, suma puñupuai.\nKamba mamita suma kauangapka.\nKamba mamita suma kauangapka.\nUichkai ñawisitu suma muskupuai,\nUichkai ñawisitu suma muskupuai,\nI ña kaia suma, suma punchamka.\nI ña kaia suma, suma punchamka.\nUchulla wawita, suma puñupuai,\nUchulla wawita, suma puñupuai,\nKamba mamita suma iachiri.\nI kamba mamita suma iachiri.\nUichkai ñawisitu, suma puñupuai,\nUichkai ñawisitu, suma puñupuai,\nI ña kaia suma pakaringapka.\nI ña kaia suma pakaringapka.",
-      "translation": "Duérmete, mi niñita, duerme bonito.\nCerrando los ojitos, duerme bonito.\nTu mamita te va a ver bonito.\nTu mamita te va a ver bonito.\nCierra tus ojitos, sueña bonito,\nCierra tus ojitos, sueña bonito,\nQue el día de mañana, bonito día será.\nQue el día de mañana, bonito día será.\nPequeña niña, duerme bonito,\nPequeña niña, duerme bonito,\nQue tu mamita se sentirá contenta.\nTu mamita se sentirá contenta.\nCierra tus ojitos, duerme bonito,\nCierra tus ojitos, duerme bonito,\nQue mañana va a amanecer bonito.\nQue mañana va a amanecer bonito."
+      "translation": "Duérmete, mi niñita, duerme bonito.\nCerrando los ojitos, duerme bonito.\nTu mamita te va a ver bonito.\nTu mamita te va a ver bonito.\nCierra tus ojitos, sueña bonito,\nCierra tus ojitos, sueña bonito,\nQue el día de mañana, bonito día será.\nQue el día de mañana, bonito día será.\nPequeña niña, duerme bonito,\nPequeña niña, duerme bonito,\nQue tu mamita se sentirá contenta.\nTu mamita se sentirá contenta.\nCierra tus ojitos, duerme bonito,\nCierra tus ojitos, duerme bonito,\nQue mañana va a amanecer bonito.\nQue mañana va a amanecer bonito.",
+      "audioFileBase": "Ing-09-Punupuai_wawita-arr",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "15/06/2026"
     },
     {
       "number": "10",
@@ -233,18 +269,22 @@
       "kind": "Canción",
       "tracks": "Pista 10",
       "intro": "El Atun Puncha es el «Día Grande» del pueblo Inga. Las familias se reencuentran, se perdonan, se abrazan y agradecen a la Alpa Mama por la vida y los alimentos. El carnaval también es el tiempo para recordar al Taita Carlos Tamabioy danzando y cantando en su memoria. Escucha los versos del Atun Puncha cantados por el profesor Julio Chindoy y los niños de la Institución Educativa Agropecuaria Inga de Aponte.",
-      "audio": "audio/inga/Ing-10-Atun_Puncha.mp3",
+      "audio": "audio/inga/Ing-10-Atun_puncha-can.mp3",
       "duration": "4:35",
       "language": "Inga",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Institución Educativa Agropecuaria Inga de Aponte\nGRUPO DE MÚSICA DE LA INSTITUCIÓN PROFESOR JULIO CHINDOY- YESID ALEJANDRO JAMIOY  CHINDOY (ZAMPOÑA)  SEBASTIÁN PORTILLA CHASOY (ZAMPOÑA) - CARLOS ANDRÉS CHINDOY GÓMEZ (FLAUTA) - JOHAN DAVID NARVAEZ FLÓREZ (QUENA Y CHACHAS) - ALAN ISAAC  HERAZO (BOMBO) ANDRES FELIPE LÓPEZ - (GUITARRA)  JULIO CHINDOY (CHARANGO)  VALERIA ALEXANDRA MENESES (MARACAS) LAURA CRISTINA JAMSASOY  (DE  LOS GRADOS 6,7,8,10)"
       },
       "activities": [
         3
       ],
       "original": "Taita Carlus ñam samuku\nLimunmanda mas urai.\nTaita Carlus ñam samuku\nAwarikumanda mas urai.\nKauangapa nukanchita.\nTaita Carlus ñam chaiasa.\nPai kam nukamchiwa.\nMuiurisunchi Atun Puncha\nKumurispa, saiarispa.\nKausasunchi kai Puncha.\nCoro\nIuiaspa, takispa,\nPurispa, saruspa.\nMuiurisunchi Atun Puncha,\nKausankamalla muiurisunchi.\nJuai, juai, juai, juai, juai, juai.\n(Muiurisunchi Atun Puncha\nKuti kasama, kuti chasama)\nKunapuncha Atun Puncha.\nNukanchipa punchamka.\nUairarrisunchi tukuikuna,\nMuiurisunchi kalusturinda.\nKuti kasama, kuti chasama.\nTugtu churaspa maki kuaspa,\nSuma suma kausasunchi,\nKai wata ñam tukurisa.\nKaia kami musu wata.\nAllilla ñugpagma risunchi.\nCoro\nKauaspa, rimaspa,\nUpiaspa, mikuspa.\nMuiurisunchi Atun Puncha,\nKausankamalla muiurisunchi.\nJuai, juai, juai, juai, juai, juai.\n(Kausankamalla muiurisunchi.\nKunampuncha Atun Punchamka)\nKausariuagpi watapi,\nKuti, kuti muiurisa.\nÑa mana kausariuagpi,\nKunapuncha muiurisa.\nChasa, chasa, pakarinkama.\nTaita Carlus ñami riku\nLimunmanda mas urai.\nTaita Carlus ñami riku\nAwarikumanda mas urai.\nKut sug watapi tigrangapka.\nCoro\nÑugpagma katima.\nAllima llukima.\nMuiurisunchi Atun Puncha,\nKausankamalla muiurisunchi.\nJuai, juai, juai, juai, juai, juai.\n(Ari, ari, ari, muiurisunchi.\nTaita Carlus kaipimka.\nTaita Carlus ñam chaiasa)",
-      "translation": "Taita Carlos ya viene\nDe Limón, más para abajo.\nTaita Carlos ya viene\nDe Aguarico, más para abajo.\nDe visita a nosotros.\nTaita Carlos ya llegó.\nÉl está entre nosotros.\nDancemos en este Día Grande\nAgachándonos, levantándonos.\nVivamos este día.\nCoro\nPensando, cantando,\nCaminando, pisando firme.\nDancemos este Día Grande,\nMientras vivamos, dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Dancemos el Día Grande\nDe aquí para allá, de allá para acá)\nHoy es el Atun Puncha.\nHoy es el día de nuestra fiesta.\nTodos moviéndonos,\nDancemos en El Día Grande.\nDe aquí para allá, de allá para acá.\nPoniendo flores,\nDando la mano,\nPara un buen vivir.\nEste año ya se acabó,\nMañana es un nuevo año.\nSigamos bien hacia delante.\nCoro\nMirando, hablando,\nTomando, comiendo.\nDancemos en este Día Grande,\nMientras vivamos dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Mientras vivamos, dancemos.\nHoy es el Gran Día)\nSi vivo el próximo año,\nOtra vez, otra vez danzaré.\nY, si ya no vivo,\nHoy danzaré.\nAsí, así, hasta el amanecer.\nTaita Carlos ya se va\nDe Limón, más para abajo.\nTaita Carlos ya se va\nDe Aguarico, más para abajo.\nEl próximo año volverá.\nCoro\nPara adelante, para atrás.\nA la derecha y a la izquierda.\nDancemos este Día Grande,\nMientras vivamos dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Sí, sí, sí, dancemos.\nTaita Carlos está aquí.\nTaita Carlos ya llegó)"
+      "translation": "Taita Carlos ya viene\nDe Limón, más para abajo.\nTaita Carlos ya viene\nDe Aguarico, más para abajo.\nDe visita a nosotros.\nTaita Carlos ya llegó.\nÉl está entre nosotros.\nDancemos en este Día Grande\nAgachándonos, levantándonos.\nVivamos este día.\nCoro\nPensando, cantando,\nCaminando, pisando firme.\nDancemos este Día Grande,\nMientras vivamos, dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Dancemos el Día Grande\nDe aquí para allá, de allá para acá)\nHoy es el Atun Puncha.\nHoy es el día de nuestra fiesta.\nTodos moviéndonos,\nDancemos en El Día Grande.\nDe aquí para allá, de allá para acá.\nPoniendo flores,\nDando la mano,\nPara un buen vivir.\nEste año ya se acabó,\nMañana es un nuevo año.\nSigamos bien hacia delante.\nCoro\nMirando, hablando,\nTomando, comiendo.\nDancemos en este Día Grande,\nMientras vivamos dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Mientras vivamos, dancemos.\nHoy es el Gran Día)\nSi vivo el próximo año,\nOtra vez, otra vez danzaré.\nY, si ya no vivo,\nHoy danzaré.\nAsí, así, hasta el amanecer.\nTaita Carlos ya se va\nDe Limón, más para abajo.\nTaita Carlos ya se va\nDe Aguarico, más para abajo.\nEl próximo año volverá.\nCoro\nPara adelante, para atrás.\nA la derecha y a la izquierda.\nDancemos este Día Grande,\nMientras vivamos dancemos.\nJuai, juai, juai, juai, juai, juai.\n(Sí, sí, sí, dancemos.\nTaita Carlos está aquí.\nTaita Carlos ya llegó)",
+      "audioFileBase": "Ing-10-Atun_puncha-can",
+      "authorOrOrigin": "Tradicional (pueblo Inga)",
+      "captureDate": "16/06/2026"
     },
     {
       "number": "11",
@@ -253,19 +293,23 @@
       "kind": "Canción",
       "tracks": "Pista 11",
       "intro": "El Buen Vivir es muy importante para el pueblo Inga. Escucha, en la voz de la mayora sabedora Ermencia Chasoy, esta canción que recoge los principios y valores que rigen «la vida y la honra» de su pueblo.",
-      "audio": "audio/inga/Ing-11-Nuka_kani_Inga_Apunti_llagtamanda.mp3",
+      "audio": "audio/inga/Ing-11-Nuka_kani_inga_apunti_llagtamanda-can.mp3",
       "duration": "1:18",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Ermencia Chasoy"
       },
       "activities": [
         2,
         4
       ],
       "original": "Nuka kani Inga Apunti llagtamanda.\nIukani allilla kanga nuki kim kutsukunaua alli suma kausai iukangapa.\nMana sisai  — No robar\nMana llullai — No mentir\nMana killai — No ser perezoso\nAlli kai — Ser digno\nAtun suglla iuiai — Unidad\nAlpa Mama — Territorio\nAtun kausai nukanchi iukaska — Cultura\nNukanchi kaskasina kausanga — Autonomía\nTukuikuna Parlaspa — Participación",
-      "translation": "Yo soy del pueblo inga de Aponte.\nTengo que ser bien conmigo mismo y con los demás para tener un buen vivir.\nMana sisai — No robar\nMana llullai — No mentir\nMana killai — No ser perezoso\nAlli kai — Ser digno\nAtun suglla iuiai — Unidad\nMama Alpa —Territorio\nAtun kausai nukanchi iukaska — Cultura\nNukanchi kaskasina kausanga — Autonomía\nTukuikuna Parlaspa — Participación\nPrincipios que rigen la vida y la honra\nDel pueblo Inga en Aponte para pervivir."
+      "translation": "Yo soy del pueblo inga de Aponte.\nTengo que ser bien conmigo mismo y con los demás para tener un buen vivir.\nMana sisai — No robar\nMana llullai — No mentir\nMana killai — No ser perezoso\nAlli kai — Ser digno\nAtun suglla iuiai — Unidad\nMama Alpa —Territorio\nAtun kausai nukanchi iukaska — Cultura\nNukanchi kaskasina kausanga — Autonomía\nTukuikuna Parlaspa — Participación\nPrincipios que rigen la vida y la honra\nDel pueblo Inga en Aponte para pervivir.",
+      "audioFileBase": "Ing-11-Nuka_kani_inga_apunti_llagtamanda-can",
+      "authorOrOrigin": "Ermencia Chasoy",
+      "captureDate": "19/06/2026"
     },
     {
       "number": "12",
@@ -274,18 +318,22 @@
       "kind": "Arrullo",
       "tracks": "Pista 12",
       "intro": "Carmelina cantaba este arrullo a su nieto cuando soplaba el viento, pidiéndole ayuda para mecerlo. Ahora que el pequeño ha crecido, lo cantan juntos y duermen cuando cae la tarde. Deja que su canto te acompañe.",
-      "audio": "audio/inga/Ing-12-Waira,_wairita.mp3",
+      "audio": "audio/inga/Ing-12-Waira_wairita-arr.mp3",
       "duration": "0:34",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "Carmelina Chindoy"
       },
       "activities": [
         3
       ],
       "original": "Pukui allimandita,\nNukapa wawita\nSumita puñungapa.\nPaipa muskuipi samuchu atun Taita.",
-      "translation": "Viento, vientico,\nSopla despacito,\nPara que mi niño\nDuerma tranquilito.\nY que en sus sueños llegue Diosito."
+      "translation": "Viento, vientico,\nSopla despacito,\nPara que mi niño\nDuerma tranquilito.\nY que en sus sueños llegue Diosito.",
+      "audioFileBase": "Ing-12-Waira_wairita-arr",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "19/06/2026"
     },
     {
       "number": "13",
@@ -294,52 +342,64 @@
       "kind": "Relato",
       "tracks": "Pista 13",
       "intro": "Existen enfermedades muy propias del mundo de los espíritus que alcanzan a las personas, a veces a los animalitos, pero especialmente a los niños, que son «tiernos» para recibir las energías ajenas. Escucha la sabiduría del pueblo Inga en la voz de la mayora María Gómez Chasoy. Ella nos habla del causato, achka llaki, que es una pena o una tristeza muy honda; del malviento, kuku waira, el mal de ojo, ujiai, y la caída del cuajo, cuajo urmaska, junto con los cuidados tradicionales que sirven para aliviar estos males.",
-      "audio": "audio/inga/Ing-13-Enfermedades_y_cuidados.mp3",
+      "audio": "audio/inga/Ing-13-Enfermedades_y_cuidados-rel.mp3",
       "duration": "17:36",
       "language": "Inga + Español",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "María Gómez Chasoy\nTraducción Carmelina Chindoy"
       },
       "activities": [
         1
-      ]
+      ],
+      "audioFileBase": "Ing-13-Enfermedades_y_cuidados-rel",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "15/06/2026"
     },
     {
       "number": "14",
       "title": "Limpieza del Taita",
       "spanishTitle": "",
-      "kind": "Canto ritual",
+      "kind": "Canto Ritual",
       "tracks": "Pista 14",
       "intro": "Waira quiere decir ‘viento’ y es, además, un manojo de hojas secas de sanganga, una planta sagrada amazónica, con la que el taita limpia el cuerpo y el espíritu de la comunidad. El taita sopla, canta y agita la waira sobre sus «pacientes» para alejar las malas energías. Escucha un pequeño ritual de sanación para un bebé de la comunidad de Aponte.",
-      "audio": "audio/inga/Ing-14-Limpieza_del_Taita.mp3",
+      "audio": "audio/inga/Ing-14-Limpieza_del_taita-can-rit.mp3",
       "duration": "10:03",
       "language": "Inga",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "JUVENAL JANAMEJOY -  MANUEL ANTONIO JANAMEJOY - CARLOS JANAMEJOY - IAN ALEXANDER"
       },
       "activities": [
         1
-      ]
+      ],
+      "audioFileBase": "Ing-14-Limpieza_del_taita-can-rit",
+      "authorOrOrigin": "Tradición Oral",
+      "captureDate": "2026-06-17 00:00:00"
     },
     {
       "number": "15",
       "title": "Anochecer en Tacumbina",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 15",
       "intro": "",
-      "audio": "audio/inga/Ing-15-Anochecer_en_Tacumbina.mp3",
+      "audio": "audio/inga/Ing-15-Anochecer_en_tacumbina-pai-son.mp3",
       "duration": "4:30",
       "language": "N/A",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
-        "productionAndRecording": "León David Cobo"
+        "productionAndRecording": "León David Cobo",
+        "interpreterArtist": "N/A"
       },
       "activities": [
         4
-      ]
+      ],
+      "audioFileBase": "Ing-15-Anochecer_en_tacumbina-pai-son",
+      "authorOrOrigin": "León David Cobo Estrada",
+      "captureDate": "2026-06-19 00:00:00"
     }
   ],
   "vocabulary": [
@@ -1160,43 +1220,154 @@
     }
   },
   "photos": [
-    { "src": "images/inga/web/fototeca/Inga_A7300437_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V00756_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01319_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01407_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01546_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01647_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01681_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01869_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01912_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V01987_Juan Franco_2026.jpg", "alt": "Fotografía 10 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V02245_Juan Franco_2026.jpg", "alt": "Fotografía 11 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V02319_Juan Franco_2026.jpg", "alt": "Fotografía 12 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V02367_Juan Franco_2026.jpg", "alt": "Fotografía 13 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V02628_Juan Franco_2026.jpg", "alt": "Fotografía 14 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V02719_Juan Franco_2026.jpg", "alt": "Fotografía 15 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03011_Juan Franco_2026.jpg", "alt": "Fotografía 16 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03087_Juan Franco_2026.jpg", "alt": "Fotografía 17 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03169_Juan Franco_2026.jpg", "alt": "Fotografía 18 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03206_Juan Franco_2026.jpg", "alt": "Fotografía 19 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03209_Juan Franco_2026.jpg", "alt": "Fotografía 20 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03225_Juan Franco_2026.jpg", "alt": "Fotografía 21 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03279_Juan Franco_2026.jpg", "alt": "Fotografía 22 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03407_Juan Franco_2026.jpg", "alt": "Fotografía 23 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03424_Juan Franco_2026.jpg", "alt": "Fotografía 24 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V03870_Juan Franco_2026.jpg", "alt": "Fotografía 25 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V04068_Juan Franco_2026.jpg", "alt": "Fotografía 26 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V04887_Juan Franco_2026.jpg", "alt": "Fotografía 27 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V05151_Juan Franco_2026.jpg", "alt": "Fotografía 28 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V06055_Juan Franco_2026.jpg", "alt": "Fotografía 29 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V06134_Juan Franco_2026.jpg", "alt": "Fotografía 30 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V07728_Juan Franco_2026.jpg", "alt": "Fotografía 31 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V07919_Juan Franco_2026.jpg", "alt": "Fotografía 32 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V08337_Juan Franco_2026.jpg", "alt": "Fotografía 33 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V08447_Juan Franco_2026.jpg", "alt": "Fotografía 34 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V08547-Pano_Juan Franco_2026.jpg", "alt": "Fotografía panorámica 35 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V08561-Pano_Juan Franco_2026.jpg", "alt": "Fotografía panorámica 36 de la comunidad Inga." },
-    { "src": "images/inga/web/fototeca/Inga_A7V08712-Pano_Juan Franco_2026.jpg", "alt": "Fotografía panorámica 37 de la comunidad Inga." }
+    {
+      "src": "images/inga/web/fototeca/Inga_A7300437_Juan Franco_2026.jpg",
+      "alt": "Fotografía 01 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V00756_Juan Franco_2026.jpg",
+      "alt": "Fotografía 02 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01319_Juan Franco_2026.jpg",
+      "alt": "Fotografía 03 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01407_Juan Franco_2026.jpg",
+      "alt": "Fotografía 04 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01546_Juan Franco_2026.jpg",
+      "alt": "Fotografía 05 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01647_Juan Franco_2026.jpg",
+      "alt": "Fotografía 06 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01681_Juan Franco_2026.jpg",
+      "alt": "Fotografía 07 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01869_Juan Franco_2026.jpg",
+      "alt": "Fotografía 08 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01912_Juan Franco_2026.jpg",
+      "alt": "Fotografía 09 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V01987_Juan Franco_2026.jpg",
+      "alt": "Fotografía 10 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V02245_Juan Franco_2026.jpg",
+      "alt": "Fotografía 11 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V02319_Juan Franco_2026.jpg",
+      "alt": "Fotografía 12 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V02367_Juan Franco_2026.jpg",
+      "alt": "Fotografía 13 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V02628_Juan Franco_2026.jpg",
+      "alt": "Fotografía 14 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V02719_Juan Franco_2026.jpg",
+      "alt": "Fotografía 15 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03011_Juan Franco_2026.jpg",
+      "alt": "Fotografía 16 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03087_Juan Franco_2026.jpg",
+      "alt": "Fotografía 17 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03169_Juan Franco_2026.jpg",
+      "alt": "Fotografía 18 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03206_Juan Franco_2026.jpg",
+      "alt": "Fotografía 19 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03209_Juan Franco_2026.jpg",
+      "alt": "Fotografía 20 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03225_Juan Franco_2026.jpg",
+      "alt": "Fotografía 21 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03279_Juan Franco_2026.jpg",
+      "alt": "Fotografía 22 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03407_Juan Franco_2026.jpg",
+      "alt": "Fotografía 23 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03424_Juan Franco_2026.jpg",
+      "alt": "Fotografía 24 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V03870_Juan Franco_2026.jpg",
+      "alt": "Fotografía 25 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V04068_Juan Franco_2026.jpg",
+      "alt": "Fotografía 26 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V04887_Juan Franco_2026.jpg",
+      "alt": "Fotografía 27 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V05151_Juan Franco_2026.jpg",
+      "alt": "Fotografía 28 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V06055_Juan Franco_2026.jpg",
+      "alt": "Fotografía 29 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V06134_Juan Franco_2026.jpg",
+      "alt": "Fotografía 30 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V07728_Juan Franco_2026.jpg",
+      "alt": "Fotografía 31 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V07919_Juan Franco_2026.jpg",
+      "alt": "Fotografía 32 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V08337_Juan Franco_2026.jpg",
+      "alt": "Fotografía 33 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V08447_Juan Franco_2026.jpg",
+      "alt": "Fotografía 34 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V08547-Pano_Juan Franco_2026.jpg",
+      "alt": "Fotografía panorámica 35 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V08561-Pano_Juan Franco_2026.jpg",
+      "alt": "Fotografía panorámica 36 de la comunidad Inga."
+    },
+    {
+      "src": "images/inga/web/fototeca/Inga_A7V08712-Pano_Juan Franco_2026.jpg",
+      "alt": "Fotografía panorámica 37 de la comunidad Inga."
+    }
   ],
   "activities": [
     {
