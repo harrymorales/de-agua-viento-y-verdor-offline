@@ -183,6 +183,7 @@
       "audioFileBase": "Rro-06-Sar_chiravelpe_le_sarmy-exp",
       "duration": "1:33",
       "language": "Romanés",
+      "readingMode": "original-only",
       "authorOrOrigin": "Evangelina Triana; tradición oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
@@ -207,6 +208,7 @@
       "audioFileBase": "Rro-07-Receta_de_la_sarma-tra",
       "duration": "2:11",
       "language": "Español",
+      "readingMode": "spanish-only",
       "authorOrOrigin": "Esperanza Gómez Triana; tradición oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
