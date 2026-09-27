@@ -628,47 +628,47 @@
   "vocabularyAudioSegments": {
     "Las partes del cuerpo": {
       "start": 0,
-      "end": 32.016
+      "end": 32
     },
     "Familia": {
-      "start": 38.711,
-      "end": 90.024
+      "start": 32,
+      "end": 85
     },
     "Así se saluda en Palenque": {
-      "start": 91.815,
-      "end": 109.281
+      "start": 86,
+      "end": 105
     },
     "Nombrar el paisaje": {
-      "start": 112.044,
-      "end": 188.024
+      "start": 106,
+      "end": 175
     },
     "Creciendo en Palenque": {
-      "start": 189.153,
-      "end": 234.202
+      "start": 176,
+      "end": 221
     },
     "Otras palabras de la comunidad": {
-      "start": 236.453,
-      "end": 313.702
+      "start": 223,
+      "end": 266
     },
     "Miscelánea de palabras": {
-      "start": 320.555,
-      "end": 366.337
+      "start": 267,
+      "end": 326
     },
     "Pronombres": {
-      "start": 366.975,
-      "end": 383.194
+      "start": 327,
+      "end": 346
     },
     "En la escuela": {
-      "start": 392.924,
-      "end": 462.315
+      "start": 347,
+      "end": 405
     },
     "Sonido, música y silencio": {
-      "start": 465.266,
-      "end": 592.559
+      "start": 406,
+      "end": 471
     },
     "Vamos a…": {
-      "start": 593.806,
-      "end": 718.024
+      "start": 472,
+      "end": 554
     }
   },
   "photos": [
@@ -936,7 +936,7 @@
       "original": "Las partes del cuerpo\nCabeza: Kabea, kabesa\nPelo: Kabéo\nOreja: Oleja\nOjo: Ma ojo\nNariz: Narise\nBoca: Mboka\nFrente: Flende\nBarriga: Barika\nMano: Ma mano\nOmbligo: Lombligo\nRodilla: Luría\nTobillo: Kakañá\nCadera: Sankajo\n\nFamilia\nFamilia: Famía\nMamá: Mae\nHermano: Numano\nHermana: Numana\nTía: Cha\nTío: Cho\nMadrina: Maína\nPadrino: Paíno\nAbuelo: Aguelo\nAbuela: Aguela\nPapá: Tatá, Tata\nAmigo: Kombilesa\nPrimo: Primo numano\nPrima: Prima numana\nEsposo: Birikueto mi\nEsposa: Birikueta mi\nNovio: Amore\nNovia: Amore\n\nAsí se saluda en Palenque\nBuenos días: Asina ría\nBuenas tardes: Asina po tadde\nBuenas noches: Asina po noche\nHasta luego: Ata uto begá\nHasta mañana: Ata maána\n¿Cómo estás?: Kumo kusa tá\n\nNombrar el paisaje\nLuna: Luna\nEstrella: Etreya\nMontaña: Monde\nCielo: Sielo\nSol: Só\nRío: Loyo ngánde\nArroyo: Loyo\nMar: Máa\nArena: Alena\nÁrbol: Abbo o Pálo\nPozo: Poso\nMontaña: Monde\nAgua: Apú\nRayo: Rayo\nLluvia: Yubia\nTrueno: Relámpago\nSembrado: Sembláo\nBosque: Monde\nPozo: Poso\nPoza: Chimbumbe\nCamino: Kamino\nCerca: Sekka\nFlor: Flo\nFruta: Fruta\n\nCreciendo en Palenque\nNiño recién nacido (entre 1 y 2 meses de edad): Chipirikuatro\nNiño pequeño (entre 3 y 4 meses): Chikinindingo\nNiño de más de un año: Monasito\nHijo o niño adolescente: Moná\nMuchos niños: Majanasito\n\nOtras palabras de la comunidad\nKuagro: Organización de base de la comunidad de San Basilio de Palenque. Kuagro quiere decir ‘grupo’ de personas sin importar la edad. Kuagro viene también de kuagriyá.\nKuagriyá: Personas que están en el rango de las mismas edades. Que nacieron en el mismo año o en años cercanos.\nKamajan: Es el jefe del kuagro. Es la persona que dirige el kuagro.\nMa miembro: Personas que pertenecen al kuagro.\n\nMiscelánea de palabras\nPelea: Chamukina\nBulla, escándalo: Tropilisio\nBaile, Bailar: Sarangiá\nFiesta: Oriki\nPersona negra: Prieto\nAnimal: Nimao\nBarrio Arriba: Lariba\nBarrio Abajo: Labajo\nLadrón: Lairo\nOtro: Uto\n\nPronombres\nYo: I\nTú: Bo\nÉl: Ele\nNosotros / nosotras: Suto\nUstedes: Enú\nEllos / ellas: Ané\n\nEn la escuela\nJugar: Jarocha\nPatio: Tra kolao\nEstudiante: Etulé\nProfesora: Piacha\nSentarse: Sendá\nPararse: Palá\nEscribir: Katriá\nPrestar atención: Preta tañío\nHagan silencio: Kaeno mboka\nEscuchar: Kuchá\nRecreo: Salino pa tra kolao\nCorrer: Kolé\nAgacharse: Ñingota\nPararse: Palá\nMirar: Guatiá\nTrabajar: Makania\n\nSonido, música y silencio\nLlamador: Ñamaro\nTambora: Tambora\nAlegre: Jarocho\nPechiche: Pechiche\nGuache: Guache\nMaraca: Maraka\nBongó: Bongó\nMarímbula: Marímbula\nArco de boca: Arko ri mboka\nSonido: Tropeo\nSilencio: Kaeno mboka\nRuido: Tropeo\nGolpe de tambor: Pamma andi tambó\nCuero de tambor: Peyéjo ri tambó\nClave: Clave\nTimba: Timba\nEscuchar: Kuchá\n\nVamos a…\n…cantar: Minino pa suto kandá\n…trabajar: Salino pa suto makania\n…sembrar: Salino pa suto bae semblá\n…bailar: Salino pa suto bae sangariá\n…cocinar: Salino pa suto bae kusiná\n…dormir: Salino pa suto bae ndrumí\n…construir una casa: Minino pa suto asé un posá\n…trabajar al monte: Salino pa suto bae makania andi monde\n…pescar: Salino pa suto bae jalá pekao\n…pilar el arroz: Salino pa suto bae pila aló\n…preparar ñeque: Salino pa suto bae asé ñeque\n…nadar: Salino pa suto bae nara andi loyo\n…construir un tambor: Salino pa suto bae asé ma tabala",
       "audio": "audio/palenque/Pal-09-Vocabularios-voc.mp3",
       "audioFileBase": "Pal-09-Vocabularios-voc",
-      "duration": "12:01",
+      "duration": "9:14",
       "language": "Palenquero + Español",
       "authorOrOrigin": "N/A",
       "captureDate": "09/05/2026",
