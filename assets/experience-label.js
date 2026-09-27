@@ -81,5 +81,40 @@
     guide.prepend(section);
   };
   syncGuideIntroduction();
-  new MutationObserver(syncGuideIntroduction).observe(document.body, { childList: true, subtree: true });
+  const linkedGuideTracks = {
+    raizal: {
+      'Pistas 1, Amanecer en Providencia; 9, Fishing; y 13, Al mediodía en la playa de Manzanillo.': [
+        { label: '1, Amanecer en Providencia', number: '01', before: 'Pistas ' },
+        { label: '9, Fishing', number: '09', before: '; ' },
+        { label: '13, Al mediodía en la playa de Manzanillo', number: '13', before: '; y ', after: '.' }
+      ]
+    }
+  };
+  const addGuideTrackLinks = () => {
+    const configurations = linkedGuideTracks[territory];
+    if (!configurations) return;
+    document.querySelectorAll('.activity-tracks').forEach(element => {
+      const links = configurations[element.textContent.trim()];
+      if (!links || element.dataset.trackLinksReady) return;
+      element.dataset.trackLinksReady = 'true';
+      element.replaceChildren();
+      links.forEach(link => {
+        if (link.before) element.append(document.createTextNode(link.before));
+        const button = document.createElement('button');
+        button.type = 'button'; button.className = 'guide-track-link'; button.textContent = link.label;
+        button.setAttribute('aria-label', `Abrir pista ${link.number}: ${link.label.replace(/^\d+,\s*/, '')}`);
+        button.addEventListener('click', () => {
+          const record = [...document.querySelectorAll('.record')].find(item => item.querySelector('.record-number')?.textContent.trim() === link.number);
+          if (!record) return;
+          record.click();
+          document.querySelector('.guide-overlay button[aria-label="Cerrar"]')?.click();
+        });
+        element.append(button);
+        if (link.after) element.append(document.createTextNode(link.after));
+      });
+    });
+  };
+  const syncGuideContent = () => { syncGuideIntroduction(); addGuideTrackLinks(); };
+  syncGuideContent();
+  new MutationObserver(syncGuideContent).observe(document.body, { childList: true, subtree: true });
 })();

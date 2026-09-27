@@ -19,3 +19,6 @@
 .guide-introduction h3 { color: #173f55; font: 700 24px/1.1 Georgia, serif; margin: 0 0 10px; }
 .guide-introduction p { color: #33443c; font: 16px/1.58 Georgia, serif; margin: 0 0 11px; }
 .guide-introduction p:last-child { margin-bottom: 0; }
+
+.guide-track-link { appearance: none; border: 0; border-bottom: 1px solid currentColor; background: transparent; color: inherit; cursor: pointer; font: inherit; line-height: inherit; padding: 0; text-align: inherit; }
+.guide-track-link:hover, .guide-track-link:focus-visible { color: #185775; }
