@@ -93,7 +93,7 @@
   const addGuideTrackLinks = () => {
     const configurations = linkedGuideTracks[territory];
     if (!configurations) return;
-    document.querySelectorAll('.activity-tracks').forEach(element => {
+    document.querySelectorAll('.activity-reader .activity-tracks').forEach(element => {
       const links = configurations[element.textContent.trim()];
       if (!links || element.dataset.trackLinksReady) return;
       element.dataset.trackLinksReady = 'true';
