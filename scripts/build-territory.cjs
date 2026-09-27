@@ -108,11 +108,27 @@ for (const [from, to] of readingReplacements) {
 script = script.replaceAll('Hl.map(', 'qa.map(').replaceAll('Hl[we]', 'qa[we]');
 script = script.replace('onClick:()=>{U(E),Se("original")}', 'onClick:()=>{U(E),Pa(0),Se("original")}');
 
+// The source guide includes observation notes and inclusion adaptations.
+// Render them with the existing guide card treatment whenever content provides
+// those fields, so no text is hidden from the published experience.
+const activityKeyMarker = String.raw`(0,s.jsxs)("div",{className:"activity-key",children:[(0,s.jsx)("b",{children:"Clave pedag\xF3gica"}),(0,s.jsx)("p",{children:La[be].key})]})`;
+const activityKeyReplacement = String.raw`${activityKeyMarker},La[be].observation&&(0,s.jsxs)("div",{className:"activity-key",children:[(0,s.jsx)("b",{children:"Observaci\xF3n y registro"}),(0,s.jsx)("p",{children:La[be].observation})]}),La[be].adaptations&&(0,s.jsxs)("div",{className:"activity-key",children:[(0,s.jsx)("b",{children:"Adaptaciones e inclusi\xF3n"}),(0,s.jsx)("p",{children:La[be].adaptations})]})`;
+if (!script.includes(activityKeyMarker)) throw new Error('No se encontró el detalle de la experiencia para completar.');
+script = script.replace(activityKeyMarker, activityKeyReplacement);
+
 // Make active territory selection accept the content used to generate this copy.
 script = script.replace('if(v!=="palenque")', `if(v!=="${slug}")`);
 // Generated territory pages open directly in their own audioteca. The portal
 // remains the shared point of entry and sends visitors to these pages.
 script = script.replace('let[v,z]=(0,pe.useState)(null)', `let[v,z]=(0,pe.useState)(${JSON.stringify(slug)})`);
+
+// The original Palenque bundle hard-codes its vocabulary as track 07. Content
+// supplied for each territory identifies its own vocabulary record instead.
+const vocabularyTrackNumbers = renderData.tracks
+  .filter(track => track.singleReading)
+  .map(track => track.number);
+const vocabularyTrackCondition = `${JSON.stringify(vocabularyTrackNumbers)}.includes(q.number)`;
+script = script.replaceAll('q.number==="07"', vocabularyTrackCondition);
 
 if (slug !== 'palenque') {
   // The original engine contains a small number of Palenque-only labels and
@@ -120,11 +136,6 @@ if (slug !== 'palenque') {
   // text-preview; its layout and interaction code remain untouched.
   const cover = renderData.cover || {};
   const profile = renderData.communityProfile || {};
-  const vocabularyTrackNumbers = renderData.tracks
-    .filter(track => track.singleReading)
-    .map(track => track.number);
-  const vocabularyTrackCondition = `${JSON.stringify(vocabularyTrackNumbers)}.includes(q.number)`;
-  script = script.replaceAll('q.number==="07"', vocabularyTrackCondition);
   script = script.replaceAll('Acerca de Palenque', `Acerca de ${renderData.meta.name}`);
   script = script.replaceAll('Conoce Palenque', `Conoce ${renderData.meta.name}`);
   script = script.replaceAll('children:"Palenquero"', `children:${JSON.stringify(renderData.meta.readingOriginalLabel || renderData.meta.language || 'Lengua de la comunidad')}`);
