@@ -1285,39 +1285,39 @@
   "vocabularyAudioSegments": {
     "Familia": {
       "start": 0,
-      "end": 0
+      "end": 53
     },
     "Colores": {
-      "start": 0,
-      "end": 0
+      "start": 55,
+      "end": 94
     },
     "Animales": {
-      "start": 0,
-      "end": 0
+      "start": 95,
+      "end": 126
     },
     "Números": {
-      "start": 0,
-      "end": 0
+      "start": 127,
+      "end": 182
     },
     "Partes del cuerpo": {
-      "start": 0,
-      "end": 0
+      "start": 183,
+      "end": 228
     },
     "Animales marinos": {
-      "start": 0,
-      "end": 0
+      "start": 229,
+      "end": 271
     },
     "Música y vamos a…": {
-      "start": 0,
-      "end": 0
+      "start": 272,
+      "end": 320
     },
     "Emociones": {
-      "start": 0,
-      "end": 0
+      "start": 321,
+      "end": 356
     },
     "Nombrar el paisaje": {
-      "start": 0,
-      "end": 0
+      "start": 357,
+      "end": 432
     }
   },
   "photos": [
