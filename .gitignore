@@ -10,6 +10,9 @@ Desktop.ini
 .vercel/
 
 # Original photography is retained locally; optimized web versions are published.
+images/palenque/portada/
+images/palenque/fototeca/
+images/palenque/conoce/
 images/raizal/portada/
 images/raizal/fototeca/
 images/raizal/conoce/
