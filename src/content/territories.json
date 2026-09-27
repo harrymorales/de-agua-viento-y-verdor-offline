@@ -16,7 +16,7 @@
     {
       "slug": "cofan",
       "name": "Cofán",
-      "status": "text-ready",
+      "status": "published",
       "contentFile": "cofan.json"
     },
     {
@@ -34,7 +34,7 @@
     {
       "slug": "rrom",
       "name": "Rrom",
-      "status": "text-ready",
+      "status": "published",
       "contentFile": "rrom.json"
     }
   ]

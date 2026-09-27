@@ -4,7 +4,7 @@
     "name": "Rrom",
     "language": "Romanés o shib romaní y español",
     "readingOriginalLabel": "Romanés",
-    "status": "text-ready",
+    "status": "published",
     "sources": [
       "De agua viento y verdor 4.docx",
       "Metadatos_Audioteca_FINAL.xlsm"
@@ -58,7 +58,7 @@
       "number": "01",
       "title": "Caporal galopando",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 1",
       "intro": "Bajo el intenso sol de la finca en Venadillo, Tolima, Caporal y su jinete galopan juntos en el campo. Sus cascos golpean fuerte la tierra y marcan un ritmo que se acerca y se aleja. Los caballos han tenido un lugar muy importante en la vida y la cultura del pueblo rrom. Escucha con atención: ¿habías oído alguna vez un caballo galopar tan de cerca?",
       "audio": "audio/rrom/Rro-01-Caporal_galopando-pai-son.mp3",
@@ -69,12 +69,13 @@
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "N/A"
       },
       "image": "",
       "activities": [
         0
-      ]
+      ],
+      "captureDate": "2026-05-16 00:00:00"
     },
     {
       "number": "02",
@@ -87,18 +88,19 @@
       "audioFileBase": "Rro-02-Le_vurdona-rel",
       "duration": "1:18",
       "language": "Romanés + Español",
-      "authorOrOrigin": "Evangelina Triana; traducción Esperanza Gómez Triana",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Evangelina Triana \nAlfonso Gómez\nTraducción: Esperanza Gómez Triana"
       },
       "image": "",
       "activities": [
         0
       ],
       "original": "Ame mai anglal, el Rrom, desde que avile kadka, ando kako them,\nIncha andel thema pirenas andel karrety, con el caballo; pirenas pe sa le riga.\nKadka, ande Colombia, ame veslian andel tsery, desde el mult, de demult, de mucho tiempo, vesasas andel tsery.\nY ame siempre pirasas andel tsery.",
-      "translation": "Nosotros antes, los Rrom, desde que llegamos aquí, a este país…\nOtros andaban por los países en las carretas, con el caballo; andaban por todas partes.\nAquí, desde que estamos en Colombia, andábamos en toldos, desde hace mucho, mucho, de mucho tiempo, vivíamos en las toldas.\nY nosotros siempre andábamos en las carpas."
+      "translation": "Nosotros antes, los Rrom, desde que llegamos aquí, a este país…\nOtros andaban por los países en las carretas, con el caballo; andaban por todas partes.\nAquí, desde que estamos en Colombia, andábamos en toldos, desde hace mucho, mucho, de mucho tiempo, vivíamos en las toldas.\nY nosotros siempre andábamos en las carpas.",
+      "captureDate": "14/05/2026"
     },
     {
       "number": "03",
@@ -111,18 +113,19 @@
       "audioFileBase": "Rro-03-Le_tsery-rel",
       "duration": "3:56",
       "language": "Romanés + Español",
-      "authorOrOrigin": "Evangelina Triana y Alfonso Gómez; traducción Esperanza Gómez Triana",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Evangelina Triana \nAlfonso Gómez\nTraducción: Esperanza Gómez Triana"
       },
       "image": "",
       "activities": [
         1
       ],
       "original": "Amaro phuro kana ame sichardiame sar kerelpe e tsera.\nKai keras amari tsera.\nAme suvasala, la sarasala, antsarasala,\nAndel duy trin dyes\nUliarasala, ay, pintisarasala, con el mumeli, ay, gasolina, pintisarasala.\nAme vesasas andel tsery.\nAmare thana sas de por, sas le seranda sas de por.\nSas yek kola kai bucholas perinda, también con el por.\nAme samas vivisas desa bien\nPorque sasame el poñebi.\nSasame amari ebiya;\nChirabasas o xaven pe phúu,\nAndel angar pale.\nY ame vivisas de sas sabroso andel tsery.",
-      "translation": "Nuestro abuelo nos enseñaba cómo se hace la carpa.\nQue hagamos nuestra carpa.\nNosotros la cosíamos, la arreglábamos, la armábamos,\nEn dos días o tres días\nLa bajábamos, la pintábamos con esperma (vela) y gasolina, la pintábamos.\nNosotros vivíamos en las toldas.\nNuestras camas eran de plumas, las almohadas eran de plumas (de ganso).\nHabía una cosa que se llamaba perinda, también de plumas.\nNosotras vivíamos muy bien\nPorque teníamos las alfombras.\nTeníamos un soplete;\nCocinábamos la comida en la tierra,\nCon carbones también.\nVivíamos muy sabroso en las toldas."
+      "translation": "Nuestro abuelo nos enseñaba cómo se hace la carpa.\nQue hagamos nuestra carpa.\nNosotros la cosíamos, la arreglábamos, la armábamos,\nEn dos días o tres días\nLa bajábamos, la pintábamos con esperma (vela) y gasolina, la pintábamos.\nNosotros vivíamos en las toldas.\nNuestras camas eran de plumas, las almohadas eran de plumas (de ganso).\nHabía una cosa que se llamaba perinda, también de plumas.\nNosotras vivíamos muy bien\nPorque teníamos las alfombras.\nTeníamos un soplete;\nCocinábamos la comida en la tierra,\nCon carbones también.\nVivíamos muy sabroso en las toldas.",
+      "captureDate": "14/05/2026"
     },
     {
       "number": "04",
@@ -135,18 +138,19 @@
       "audioFileBase": "Rro-04-Arrurru_mugo_shavo-arr",
       "duration": "2:06",
       "language": "Romanés + Español",
-      "authorOrOrigin": "Evangelina Triana; traducción Esperanza Gómez Triana",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Evangelina Triana \nTraducción: Esperanza Gómez Triana"
       },
       "image": "",
       "activities": [
         2
       ],
       "original": "Arrurru mugo shavo\nArrurru mugo shavo\nArrurru mugo shavo\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto.\nArrurru mugo shavo\nArrurru mugo shavo\nKai avel o dilo ay xalto\nArrurru, arrurru.\nArrurru mugo shavo\nArrurru mugo shavo\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto\nAvel o dilo ay xalto.\nArrurru mugo niño\nArrurru mugo shavo\nAvel o dilo ay xalto.\nArrurru mugo shavo\nArrurru mugo shavo\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto.\nArrurru mugo shavo\nArrurru mugo shavo\nArrurru mugo shavo\nKai avel o dilo ay xalto\nSoutuke mugo tsinogo\nKai avel o dilo ay xalto.",
-      "translation": "Arrurrú mi niño\nArrurrú mi niño\nArrurrú mi niño\nDuérmete mi chiquito\nQue viene el loco y te comerá."
+      "translation": "Arrurrú mi niño\nArrurrú mi niño\nArrurrú mi niño\nDuérmete mi chiquito\nQue viene el loco y te comerá.",
+      "captureDate": "15/05/2026"
     },
     {
       "number": "05",
@@ -159,18 +163,19 @@
       "audioFileBase": "Rro-05-E_bramia_akana_pe_de_domul-rel",
       "duration": "1:21",
       "language": "Romanés + Español",
-      "authorOrOrigin": "Evangelina Triana; traducción Esperanza Gómez Triana",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Evangelina Triana \nAlfonso Gómez\nTraducción: Esperanza Gómez Triana"
       },
       "image": "",
       "activities": [
         2
       ],
       "original": "Amenge, el Rromenge, amaro suato si como sare esencia ana ameré el phure,\nAme sicharas kai le tsinoge desde chiquitos te aven serios, te aven con palabra ando muy.\nAmari vida ningeralas ahora.\nChi zhanas de pasado ni presente; solo adyes si amaro dyes.",
-      "translation": "Para nosotros, los Rrom, nuestra palabra es como la esencia desde nuestros ancestros,\nQue nosotros enseñamos a los niños desde chiquitos que sean serios, que lleven la palabra en el rostro.\nNuestra vida la llevamos en el ahora.\nNo distinguimos pasado ni presente; solo hoy es nuestro día."
+      "translation": "Para nosotros, los Rrom, nuestra palabra es como la esencia desde nuestros ancestros,\nQue nosotros enseñamos a los niños desde chiquitos que sean serios, que lleven la palabra en el rostro.\nNuestra vida la llevamos en el ahora.\nNo distinguimos pasado ni presente; solo hoy es nuestro día.",
+      "captureDate": "14/05/2026"
     },
     {
       "number": "06",
@@ -184,18 +189,19 @@
       "duration": "1:33",
       "language": "Romanés",
       "readingMode": "original-only",
-      "authorOrOrigin": "Evangelina Triana; tradición oral",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Evangelina Triana"
       },
       "image": "",
       "activities": [
         3
       ],
       "original": "Ame chirabas el sarmy,\nAmaro xaben.\nKadia si kai chirabe o manus e sarmy:\nChinel o manus el repollos, el saxa,\nChirabele.\nE receta si kadia:\nChinel o manus,\nO mas balesko,\nO mas gurbano,\nPurum, cetino, o pimenton.\nTolpe y oreso.\nMolilpe o mas gurbano, molilpe o mas balesko.\nSa kodola amisle o manus\nCon oreso na de sabut chirado.\nTol el condimentos.\nTol e piparka.\nAy revolvi kodo sai.\nAndurme kana avel ya chirado el hoji katar o sax,\nO manus envolvis\nKodo mas, oreso, el condimentos.\nY tol piparca; o mas kai si e piparca.",
-      "translation": "Nosotros cocinamos la sarma,\nNuestra comida.\nAsí es como cocinamos nosotros la sarma:\nCompramos nosotros el repollo, el repollo,\nLo cocinamos.\nY la receta es así:\nAsí compramos nosotros,\nLa carne de cerdo,\nLa carne de res,\nCebolla, aceite, el pimentón.\nSe pone el arroz.\nSe muele la carne de res, se muele la carne de cerdo.\nSe revuelve todo eso\nCon arroz no tan cocinado.\nSe ponen los condimentos.\nSe pone el ají.\nSe revuelve todo así.\nCuando se cocinan las hojas del repollo,\nNosotros envolvemos\nEsa carne, arroz, los condimentos.\nY agregar ají; lo más importante es el ají."
+      "translation": "Nosotros cocinamos la sarma,\nNuestra comida.\nAsí es como cocinamos nosotros la sarma:\nCompramos nosotros el repollo, el repollo,\nLo cocinamos.\nY la receta es así:\nAsí compramos nosotros,\nLa carne de cerdo,\nLa carne de res,\nCebolla, aceite, el pimentón.\nSe pone el arroz.\nSe muele la carne de res, se muele la carne de cerdo.\nSe revuelve todo eso\nCon arroz no tan cocinado.\nSe ponen los condimentos.\nSe pone el ají.\nSe revuelve todo así.\nCuando se cocinan las hojas del repollo,\nNosotros envolvemos\nEsa carne, arroz, los condimentos.\nY agregar ají; lo más importante es el ají.",
+      "captureDate": "14/05/2026"
     },
     {
       "number": "07",
@@ -209,17 +215,18 @@
       "duration": "2:11",
       "language": "Español",
       "readingMode": "spanish-only",
-      "authorOrOrigin": "Esperanza Gómez Triana; tradición oral",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Esperanza Gómez Triana"
       },
       "image": "",
       "activities": [
         3
       ],
-      "original": "Nosotros cocinamos la sarma,\nNuestra comida.\nAsí es como cocinamos nosotros la sarma:\nCompramos nosotros el repollo, el repollo,\nLo cocinamos.\nY la receta es así:\nAsí compramos nosotros,\nLa carne de cerdo,\nLa carne de res,\nCebolla, aceite, el pimentón.\nSe pone el arroz.\nSe muele la carne de res, se muele la carne de cerdo.\nSe revuelve todo eso\nCon arroz no tan cocinado.\nSe ponen los condimentos.\nSe pone el ají.\nSe revuelve todo así.\nCuando se cocinan las hojas del repollo,\nNosotros envolvemos\nEsa carne, arroz, los condimentos.\nY agregar ají; lo más importante es el ají."
+      "original": "Nosotros cocinamos la sarma,\nNuestra comida.\nAsí es como cocinamos nosotros la sarma:\nCompramos nosotros el repollo, el repollo,\nLo cocinamos.\nY la receta es así:\nAsí compramos nosotros,\nLa carne de cerdo,\nLa carne de res,\nCebolla, aceite, el pimentón.\nSe pone el arroz.\nSe muele la carne de res, se muele la carne de cerdo.\nSe revuelve todo eso\nCon arroz no tan cocinado.\nSe ponen los condimentos.\nSe pone el ají.\nSe revuelve todo así.\nCuando se cocinan las hojas del repollo,\nNosotros envolvemos\nEsa carne, arroz, los condimentos.\nY agregar ají; lo más importante es el ají.",
+      "captureDate": "14/05/2026"
     },
     {
       "number": "08",
@@ -232,18 +239,19 @@
       "audioFileBase": "Rro-08-Vocabularios-voc",
       "duration": "6:17",
       "language": "Romanés + Español",
-      "authorOrOrigin": "Alfonso Gómez, Eduardo Gómez Triana, David Eduardo Gómez Barreto y Yance Gómez Barreto",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Alfonso Gómez, Eduardo Gómez Triana,David Eduardo Gómez Barreto, Yance Gómez Barreto"
       },
       "image": "",
       "activities": [
         0
       ],
       "singleReading": true,
-      "original": "Animales\nCaballo · Gras\nYegua · Grasní\nPerra · Zhuklí\nPerro · Zhukel\nGallo · Vasnó\nGallina · Kaini\nPájaro · Chiriklí\nCulebra · Sap, Sibina\nSapo · Braska\nPez · Masho\nPulga · Pishon\nRatón · Girtso\nChivo · Bakro\nVaca · Gurumní\nCerdo · Balo\nMosca · Makh\nGusano · Chermo\n\nAtuendos\nSombrero · Estayi\nCinturón · Prastia\nCamisa · Gad\nPantalón · Caltsy\n\nCamino\nViaje, camino, carretera · Drom\nPueblo · Gabá\nRío · Pay\nPersonas · Gadzhe\nCarpa · Tsery\n\nSilencio y música\nSilencio · Ashen\nMúsica · Yilaban\n\nAlma gitana\nReír · Asaimos\nJugar · Kelasamenge\n\nFamilia\nPapá · Dad\nMamá · Dey\nHijo · Shav, Shavo\nHija · Shei\nHermano · Phral\nHermana · Phei\nAbuelo · Papo\nAbuela · Mamio\nSuegro (si yo soy el yerno) · Sokro\nSuegra (si yo soy el yerno) · Sakra\nSuegro (si lo dice la nuera) · Moa\nSuegra (si lo dice la nuera) · Dale\nBisabuelo · Duckto papo\nBisabuela · Mamio\nCuñado · Kunato\nCuñada · Tetenisa, Kunata\nSobrino · Nepoto\nSobrina · Nepoto\nTío · Kak\nTía · Bibío\nNieto · Nepoto\nNieta · Nepoto\n\nNombrar el paisaje\nDía · Dyes\nNoche · Riat\nEstrella(s) · Sherjaria\nSol · Kam\nCielo · Chery\nViento · Valval\nFuego · Yak\nTierra · Phúu\nAgua · Pay\nLluvia · Bursin\nÁrbol · Kash\nFlor · Luluyi\nRoca · Bax\nPotrero · Kimpuria\nMontaña · Plain\nVida · Trayo\n\nColores\nAzul · Uneto, Sinio\nBlanco · Parno\nNegro · Kalo\nMorado · Uneto\nRojo · Lolo\nAmarillo · Galbeno\nVerde · Zeleno\nCafé · Kafa\n\nNúmeros\nUno · Yek\nDos · Duy\nTres · Trin\nCuatro · Estar\nCinco · Painsh\nSeis · Sou\nSiete · Eftá\nOcho · Octo, Oxto\nNueve · Enia\nDiez · Des\nOnce · Desuyek\nDoce · Desuduy\nTrece · Desutrin\nCatorce · Desuestar\nQuince · Desupainsh\nDieciséis · Desusou\nDiecisiete · Desueftá\nDieciocho · Desuocto, Desuoxto\nDiecinueve · Desuenia\nVeinte · Bish\nCien · Eck cel\nMil · (Eck) mia\nCien mil · Eck cel mia\n\nSaludos\nBuenos días · Droboy tume\nBuenas tardes · Droboy tume\nBuenas noches · Droboy tume\nGracias · Nais\n¿Cómo estás? · Sar san\nHasta luego (Vaya con Dios) · Devlesa\n\nOtros atuendos\nDelantal · Cretinche\nPañoleta · Dicló\nVestido · Gadá\nAretes · Eslagá\nCollar · Lantso\nPulsera · Busleto"
+      "original": "Animales\nCaballo · Gras\nYegua · Grasní\nPerra · Zhuklí\nPerro · Zhukel\nGallo · Vasnó\nGallina · Kaini\nPájaro · Chiriklí\nCulebra · Sap, Sibina\nSapo · Braska\nPez · Masho\nPulga · Pishon\nRatón · Girtso\nChivo · Bakro\nVaca · Gurumní\nCerdo · Balo\nMosca · Makh\nGusano · Chermo\n\nAtuendos\nSombrero · Estayi\nCinturón · Prastia\nCamisa · Gad\nPantalón · Caltsy\n\nCamino\nViaje, camino, carretera · Drom\nPueblo · Gabá\nRío · Pay\nPersonas · Gadzhe\nCarpa · Tsery\n\nSilencio y música\nSilencio · Ashen\nMúsica · Yilaban\n\nAlma gitana\nReír · Asaimos\nJugar · Kelasamenge\n\nFamilia\nPapá · Dad\nMamá · Dey\nHijo · Shav, Shavo\nHija · Shei\nHermano · Phral\nHermana · Phei\nAbuelo · Papo\nAbuela · Mamio\nSuegro (si yo soy el yerno) · Sokro\nSuegra (si yo soy el yerno) · Sakra\nSuegro (si lo dice la nuera) · Moa\nSuegra (si lo dice la nuera) · Dale\nBisabuelo · Duckto papo\nBisabuela · Mamio\nCuñado · Kunato\nCuñada · Tetenisa, Kunata\nSobrino · Nepoto\nSobrina · Nepoto\nTío · Kak\nTía · Bibío\nNieto · Nepoto\nNieta · Nepoto\n\nNombrar el paisaje\nDía · Dyes\nNoche · Riat\nEstrella(s) · Sherjaria\nSol · Kam\nCielo · Chery\nViento · Valval\nFuego · Yak\nTierra · Phúu\nAgua · Pay\nLluvia · Bursin\nÁrbol · Kash\nFlor · Luluyi\nRoca · Bax\nPotrero · Kimpuria\nMontaña · Plain\nVida · Trayo\n\nColores\nAzul · Uneto, Sinio\nBlanco · Parno\nNegro · Kalo\nMorado · Uneto\nRojo · Lolo\nAmarillo · Galbeno\nVerde · Zeleno\nCafé · Kafa\n\nNúmeros\nUno · Yek\nDos · Duy\nTres · Trin\nCuatro · Estar\nCinco · Painsh\nSeis · Sou\nSiete · Eftá\nOcho · Octo, Oxto\nNueve · Enia\nDiez · Des\nOnce · Desuyek\nDoce · Desuduy\nTrece · Desutrin\nCatorce · Desuestar\nQuince · Desupainsh\nDieciséis · Desusou\nDiecisiete · Desueftá\nDieciocho · Desuocto, Desuoxto\nDiecinueve · Desuenia\nVeinte · Bish\nCien · Eck cel\nMil · (Eck) mia\nCien mil · Eck cel mia\n\nSaludos\nBuenos días · Droboy tume\nBuenas tardes · Droboy tume\nBuenas noches · Droboy tume\nGracias · Nais\n¿Cómo estás? · Sar san\nHasta luego (Vaya con Dios) · Devlesa\n\nOtros atuendos\nDelantal · Cretinche\nPañoleta · Dicló\nVestido · Gadá\nAretes · Eslagá\nCollar · Lantso\nPulsera · Busleto",
+      "captureDate": "15/05/2026"
     },
     {
       "number": "09",
@@ -256,18 +264,19 @@
       "audioFileBase": "Rro-09-Soutuke_mugo_tsinogo-arr",
       "duration": "2:01",
       "language": "Romanés + Español",
-      "authorOrOrigin": "Paula Andrea Churón; traducción Dalila Gómez",
+      "authorOrOrigin": "Dalila Gómez",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Paula Andrea Churón"
       },
       "image": "",
       "activities": [
         2
       ],
       "original": "Soutuke, soutuke, soutuke, mugo tsinogo,\nKai texara anklel o kam.\nAy o Del ulel\nTe dav tu te jas.\nAy o Del ulel\nTe dav tu te jas.\n(Bis)\nSoutuke, soutuke, soutuke, mugo tsinogo,\nKai texara anklel o kam.\nAy o Del ulel\nTe dav tu te jas.\nAy o Del ulel\nTe dav tu te jas.\nSoutuke, soutuke.",
-      "translation": "Duerme, duerme, duerme, mi chiquito,\nQue mañana sale el sol.\nY Diosito bajará\nPara darte de comer.\nY Diosito bajará\nPara darte de comer.\n(Bis)\nDuerme, duerme, duerme, mi chiquito,\nQue mañana sale el sol.\nY Diosito bajará\nPara darte de comer.\nY Diosito bajará\nPara darte de comer.\nDuerme, duerme."
+      "translation": "Duerme, duerme, duerme, mi chiquito,\nQue mañana sale el sol.\nY Diosito bajará\nPara darte de comer.\nY Diosito bajará\nPara darte de comer.\n(Bis)\nDuerme, duerme, duerme, mi chiquito,\nQue mañana sale el sol.\nY Diosito bajará\nPara darte de comer.\nY Diosito bajará\nPara darte de comer.\nDuerme, duerme.",
+      "captureDate": "15/05/2026"
     },
     {
       "number": "10",
@@ -280,22 +289,23 @@
       "audioFileBase": "Rro-10-La_bandera_y_la_pachiv-exp",
       "duration": "1:40",
       "language": "Romanés + Español",
-      "authorOrOrigin": "Eduardo Gómez Triana; tradición oral",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Eduardo Gómez Triana"
       },
       "image": "",
       "activities": [
         4
-      ]
+      ],
+      "captureDate": "15/05/2026"
     },
     {
       "number": "11",
       "title": "De tarde en El Salado",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 11",
       "intro": "Cae la tarde en el parque de la urbanización Timaká; hace calor en el barrio El Salado de Ibagué. Un avión irrumpe con su estruendo y cruza el cielo; juegan las niñas y los niños, ladran los perros y otros sonidos aparecen y desaparecen a nuestro alrededor. Escucha con atención: ¿qué otros sonidos puedes descubrir?",
       "audio": "audio/rrom/Rro-11-De_tarde_en_el_salado-pai-son.mp3",
@@ -306,12 +316,13 @@
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "N/A"
       },
       "image": "",
       "activities": [
         4
-      ]
+      ],
+      "captureDate": "14/05/2026"
     }
   ],
   "vocabulary": [
@@ -973,15 +984,42 @@
     }
   },
   "photos": [
-    {"src": "images/rrom/web/fototeca/Rrom_A7308164_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7308177_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7V00281_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7V00683_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7V01977_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7V02714_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7V05099_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7V05435_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad Rrom."},
-    {"src": "images/rrom/web/fototeca/Rrom_A7V06732_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad Rrom."}
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7308164_Juan Franco_2026.jpg",
+      "alt": "Fotografía 01 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7308177_Juan Franco_2026.jpg",
+      "alt": "Fotografía 02 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7V00281_Juan Franco_2026.jpg",
+      "alt": "Fotografía 03 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7V00683_Juan Franco_2026.jpg",
+      "alt": "Fotografía 04 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7V01977_Juan Franco_2026.jpg",
+      "alt": "Fotografía 05 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7V02714_Juan Franco_2026.jpg",
+      "alt": "Fotografía 06 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7V05099_Juan Franco_2026.jpg",
+      "alt": "Fotografía 07 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7V05435_Juan Franco_2026.jpg",
+      "alt": "Fotografía 08 de la comunidad Rrom."
+    },
+    {
+      "src": "images/rrom/web/fototeca/Rrom_A7V06732_Juan Franco_2026.jpg",
+      "alt": "Fotografía 09 de la comunidad Rrom."
+    }
   ],
   "activities": [
     {

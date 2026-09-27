@@ -4,7 +4,7 @@
     "name": "Cofán",
     "language": "A’ingae y español",
     "readingOriginalLabel": "A’ingae",
-    "status": "text-ready",
+    "status": "published",
     "sources": [
       "De agua viento y verdor 4.docx",
       "Metadatos_Audioteca_FINAL.xlsm"
@@ -60,23 +60,24 @@
       "number": "01",
       "title": "De mañana a la orilla del río La Hormiga",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 1",
       "intro": "Es una mañana calurosa y húmeda en el Resguardo de Yarinal. A orillas del río La Hormiga se escucha el rumor del agua, mientras las aves y los insectos van y vienen entre la selva. Desde lejos llegan los bajos de una música que suena en el caserío. Escucha con atención: ¿cuántos sonidos cercanos y lejanos puedes descubrir?",
       "audio": "audio/cofan/Cof-01-De_manana_a_la_orilla_del_rio_la_hormiga-pai-son.mp3",
       "audioFileBase": "Cof-01-De_manana_a_la_orilla_del_rio_la_hormiga-pai-son",
       "duration": "5:00",
       "language": "N/A",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "León David Cobo Estrada",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "N/A"
       },
       "image": "",
       "activities": [
         0
-      ]
+      ],
+      "captureDate": "2026-07-01 00:00:00"
     },
     {
       "number": "02",
@@ -88,19 +89,20 @@
       "audio": "audio/cofan/Cof-02-Chuni_sethapaemba-can.mp3",
       "audioFileBase": "Cof-02-Chuni_sethapaemba-can",
       "duration": "1:11",
-      "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "language": "Cofán",
+      "authorOrOrigin": "Lucelly Omaira Lucitante Mendua",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Leidy Johana Queta"
       },
       "image": "",
       "activities": [
         0
       ],
       "original": "Shishihesw chunita\nShishihe na’esw pakhuma\nMandindiamitsw dwse (khuangise)\nAiyehepa indita\nAnswndevitsw dyaiya\nKañeñemitsw dyaiya (khuangise)\nThe’phwtsekha ambatsw\nAvwhatshe bairahe (khuangise)\nAndyuite napisitsw (khuangise)",
-      "translation": "Nutria de Yarinal.\nEn el río va persiguiendo los sábalos.\nEspera flotando tranquilita.\nCuando lo agarra,\nSube a la orilla\nSentada mirando a todos lados.\nCuando come y se llena,\nBaila contenta"
+      "translation": "Nutria de Yarinal.\nEn el río va persiguiendo los sábalos.\nEspera flotando tranquilita.\nCuando lo agarra,\nSube a la orilla\nSentada mirando a todos lados.\nCuando come y se llena,\nBaila contenta",
+      "captureDate": "02/07/2026"
     },
     {
       "number": "03",
@@ -113,18 +115,19 @@
       "audioFileBase": "Cof-03-Khuanifuekhu_ande_kundasepa_aindekhw_kansechu-rel",
       "duration": "2:07",
       "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Roveyro López"
       },
       "image": "",
       "activities": [
         2
       ],
       "original": "Maha a’indekhw, dwshwndekhw, kaentsw ateswpa kansefayengi iha kundaseye va ingi kansepa andema mahandekhwtangi ateswfambi va ande ande tsusini kansefa a’indekhw\nkhentsw swfa maha kwendzandekhwha.\n(Kuankua ande kansechu)\nVa ande tsusinindatsw kansefa kuankua a’indekhw.\nTuyaken ateswfangi kuankua a’indekhwhatsw khentsw swfa kuendzandekhw,\nKuankuahatsw ambia shufa biafave a’indekhw.\nKansefa ande tsusini.\n(Ingi a’indekhw kansechu ande)\nTuyakaen ingi kansefa ingi a´idekhwha kansefa hañu va andeni.\n(Sefakhuni a’indekhw kansechu ande)\nTshumba sefakhuni’khe a’indekhw kansefa.\nMaha a’indekhwngi ateswfa kundasechu kunsianane Kunsiana ha’chu,\nTuyakaentsw u´fendyudyu hachutsw kahe sefakhuni.\nTsakasingi ingi a’indekhw inhamba tseni sefakhunikhe a’indekhw kansefa.",
-      "translation": "Niños, jóvenes, abuelos, les hago la invitación para que conozcan nuestra historia. Quiero contarles por qué hay algunos que no conocemos esta historia.\n(Mundo de abajo, donde viven los kuankua)\nDentro de la tierra viven personas llamadas kuankua.\nComo también conocemos que los kuankua, nos cuentan los mayores,\nQue los kuankua tienen el pene largo.\nViven dentro de la tierra.\n(Mundo donde vivimos los cofán)\nTambién en esta tierra vivimos nosotros, los cofanes de ahora.\n(Donde vive la gente del cielo)\nTambién en el cielo vive gente.\nAlgunos cofán conocemos que la mujer cóndor se fue allá,\nComo también las estrellas viven en el cielo.\nPor eso, nosotros, los cofán, pensamos que allá en el cielo vive gente cofán."
+      "translation": "Niños, jóvenes, abuelos, les hago la invitación para que conozcan nuestra historia. Quiero contarles por qué hay algunos que no conocemos esta historia.\n(Mundo de abajo, donde viven los kuankua)\nDentro de la tierra viven personas llamadas kuankua.\nComo también conocemos que los kuankua, nos cuentan los mayores,\nQue los kuankua tienen el pene largo.\nViven dentro de la tierra.\n(Mundo donde vivimos los cofán)\nTambién en esta tierra vivimos nosotros, los cofanes de ahora.\n(Donde vive la gente del cielo)\nTambién en el cielo vive gente.\nAlgunos cofán conocemos que la mujer cóndor se fue allá,\nComo también las estrellas viven en el cielo.\nPor eso, nosotros, los cofán, pensamos que allá en el cielo vive gente cofán.",
+      "captureDate": "02/07/2026"
     },
     {
       "number": "04",
@@ -137,18 +140,19 @@
       "audioFileBase": "Cof-04-Mendetshengi_kansefa-can",
       "duration": "0:44",
       "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Letra: Clemencia Lucitante Mendua, Melodía: tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Clemencia Lucitante Mendua \nTraducción: Roveyro López"
       },
       "image": "",
       "activities": [
         4
       ],
       "original": "Hañundakha mendetshengi kansefa,\nKukama atapasi ingiha khe sutatsw.\nNepesingi, mendetshe kansefa.\nTayupiakhaen mingaethengi kansefa.\nTsangaengikha nepifa.",
-      "translation": "Ahora vivimos mal,\nPorque se multiplicaron los colonos.\nEstamos desapareciendo, vivimos mal.\nYa no podemos vivir como antes.\nEstamos desapareciendo."
+      "translation": "Ahora vivimos mal,\nPorque se multiplicaron los colonos.\nEstamos desapareciendo, vivimos mal.\nYa no podemos vivir como antes.\nEstamos desapareciendo.",
+      "captureDate": "29/06/2026"
     },
     {
       "number": "05",
@@ -161,16 +165,17 @@
       "audioFileBase": "Cof-05-Imitaciones_animales-rel",
       "duration": "11:01",
       "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Roveyro López"
       },
       "image": "",
       "activities": [
         0
-      ]
+      ],
+      "captureDate": "01/07/2026"
     },
     {
       "number": "06",
@@ -183,16 +188,17 @@
       "audioFileBase": "Cof-06-Canto_de_ceremonia-can",
       "duration": "3:03",
       "language": "Cofán",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Peregrino Grefa"
       },
       "image": "",
       "activities": [
         1
-      ]
+      ],
+      "captureDate": "30/06/2026"
     },
     {
       "number": "07",
@@ -205,18 +211,19 @@
       "audioFileBase": "Cof-07-Tayusw_ai_ufa_kundasepa-rel",
       "duration": "4:05",
       "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Peregrino Grefa\nTraducción: Roveyro López"
       },
       "image": "",
       "activities": [
         1
       ],
       "original": "Kuse kuse, ña kundaseye ingi manie hi’chuma.\nIngiha Chigate, ingima twse u’tieha buña ingi\nA’indekhw paiyindekhw, a’indekhw.\nChigate, tise, chama maña maña\nTsetsepama tsuñe tsumba patshi\nA’ima fundupa ingiha sumbu.\nTsumbate ingima tsakae afasi ingiha\nIngiha ayafama ateswpa kanse hañu tsumbate anthe ingi ateswye\nYahemathe nasw chiga tusema sumbuembate maña hwñe a’indekhwma\nTsumba kuensi tsema wtensi ingiha, kw’ipa pa mwtsi numba anthe\nTsematsw Chigatsw agathu anthe tsumba ingi\nAtesundukwa tsakaen kwipa ingi a’indekhw sehepa kanseye\nIngi dwshwndekhw paiyindekhuma seheye tsetsw chigaha anthe ingima.\nTsumba tsakae ingima anthesi\nIngiha, chiga, eee, yahema kuipa,\nUtaemba kwipate ingi chigama kambahwma kañe.\nTsumba kundaseye makae seheye makae sehepa antechuma atheye.\nChigatsw ingima tsakae anthe kaentsw athepa na’swma kañe.\nÑua faeswha egate tsumba ingeha bai andema\nIngiha kanhe tsunsi\nIngima anthechu, ingi faesw a’indekhwha kukama hisi hafa, ingi sia a’ibe da’fa tsampini ingi katiye bai.",
-      "translation": "Buenas noches, quiero contarles de dónde venimos.\nNuestro Dios, a nosotros, él, primero nos reunió\nA los cofán, todos los cofán.\nDios, él, mandó a la mamá para que hiciera la chicha para todos.\nReunió a los cofán y gritó para que salieran.\nDespués, así habló a nosotros.\nDejó nuestro idioma para que nosotros pudiéramos aprenderlo.\nEl yagé es el cabello de Dios.\nDespués de que sembraron el yagé, creció, y nosotros lo cocinamos.\nPor eso Dios nos dejó el remedio a nosotros, los jóvenes, para poder aprender a curar.\nEntonces así nos dejó a nosotros.\nNosotros, Dios, eee, yagé tomamos.\nAprendimos a cocinar el yagé para poder ver el rostro de Dios.\nNos dejó para que tomemos y vivamos bien.\nPara conocer el cielo (a Dios).\nPrimero tomó Dios, después nosotros.\nEl remedio que nos mostró Dios para contarnos cómo curar.\nDios a nosotros nos dejó para vivir de esto.\nPara que podamos ver al dueño (del yagé), a través de él ver lo bueno y lo malo en esta tierra.\nA nosotros nos dejó. Cuando las personas se convirtieron en personas invisibles, se fueron a la selva y nosotros nos quedamos aquí."
+      "translation": "Buenas noches, quiero contarles de dónde venimos.\nNuestro Dios, a nosotros, él, primero nos reunió\nA los cofán, todos los cofán.\nDios, él, mandó a la mamá para que hiciera la chicha para todos.\nReunió a los cofán y gritó para que salieran.\nDespués, así habló a nosotros.\nDejó nuestro idioma para que nosotros pudiéramos aprenderlo.\nEl yagé es el cabello de Dios.\nDespués de que sembraron el yagé, creció, y nosotros lo cocinamos.\nPor eso Dios nos dejó el remedio a nosotros, los jóvenes, para poder aprender a curar.\nEntonces así nos dejó a nosotros.\nNosotros, Dios, eee, yagé tomamos.\nAprendimos a cocinar el yagé para poder ver el rostro de Dios.\nNos dejó para que tomemos y vivamos bien.\nPara conocer el cielo (a Dios).\nPrimero tomó Dios, después nosotros.\nEl remedio que nos mostró Dios para contarnos cómo curar.\nDios a nosotros nos dejó para vivir de esto.\nPara que podamos ver al dueño (del yagé), a través de él ver lo bueno y lo malo en esta tierra.\nA nosotros nos dejó. Cuando las personas se convirtieron en personas invisibles, se fueron a la selva y nosotros nos quedamos aquí.",
+      "captureDate": "29/06/2026"
     },
     {
       "number": "08",
@@ -229,16 +236,17 @@
       "audioFileBase": "Cof-08-Canto_espiritual-can",
       "duration": "2:18",
       "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Eliseo Queta"
       },
       "image": "",
       "activities": [
         1
-      ]
+      ],
+      "captureDate": "03/07/2026"
     },
     {
       "number": "09",
@@ -251,18 +259,19 @@
       "audioFileBase": "Cof-09-Vocabularios-voc",
       "duration": "7:24",
       "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Roveyro López"
       },
       "image": "",
       "activities": [
         4
       ],
       "singleReading": true,
-      "original": "Animales\nPerro · Ain\nGato · Mishuma / kiri\nGallo · Araparahw\nVaca · Vaura\nGrillo de tierra · Shishi\nAvispa · Pa'tha\nAlacrán · Tini\nAraña · Khayahw\nHormiga conga · Unu\nHormiga pequeña · A'hw\nCucaracha · Shipikhu\nMosca · Tenkenchu\nZancudo · Ancha\nMosquito · Thutsw\nColibrí · A'tshe\nMariposa · Thuviya\nÁguila · Pindu\nPaloma · Manambe\nLoro · Khachapa\nTortuga · Twtwkhuchu\nPava · Pa'u\nVenado · Shankhu\nArmadillo · Ihi\nGuara · Kiya\nDanta · Khuvi\nNutria pequeña · Chuni\nNutria grande · Sararu\nMico nocturno · Kunsisi\nMico cotudo · A'chu\nMono pequeño rojo (cotoncillo) · Tsu'ga\nMico chorongo · Kunsi\nCulebra · Iyu\nCulebra cascabel · Kufasi\nCulebra coral · Twntw iyu\nCulebra 24 · Shishiye iyu, shanage Iyu\nCulebra roja · Kanungu iyu\nBoa · Kahansi\nBoruga · Chanange\nPez (sardina) · Sambiri\nPintadillo (bagre) · Dzendzekhu\nPiraña · Daru\nPicalón · Khumasi\nYulo · Yuvwrw\nOso caballuno y oso hormiguero · Be'tha / Itsw\nTigre · Thesi\n\nNombrar el paisaje\nBosque · Tsampi\nRío · Na'e\nQuebrada · Naiki\nCielo · Sefakhu\nSol · Kuehe\nLuna · Kusesw chiga, khuvw\nEstrella · U'fe\nFlor · Te'ta\nSemilla · Chwn, Te'tachu\nFuego · Singe\nViento · Fingia\nPasto · Shushuvi\nPiedra · Patw\nBarro (greda) · Apicha\nArena · Sisipa\nAgua · Tsa'khw\nLluvia · W'hi\nTrueno · Tsanda\nRayo · Tsandaenfa, tsandabeyafa\nCamino · Tsaiki\nTierra · Ande\nDía · A'ta\nTarde · Sime\nNoche · Kuse\nAmanecer · A'tahi, a'tani\nAtardecer · Kusehi, kuseni\nNoche oscura · Siñeite, sia kuse\nNoche clara · Khwveinte, khwvw kuse\nHoja · Khakehe, khake\nRaíz · Tsainfa\n\nFamilia\nMamá · Mama\nPapá · Yaya\nHijo · Harichu\nHija · Shenu / Unke\nBebé · Aipanu\nNiño · Dw'shw\nMujer · Pwshesw\nHombre · Tsandie\nHermano (mi hermano) · Ña antia\nHermana (mi hermana) · Ña antia pwshesw\nAbuelo · Yayakhasheye\nAbuela · Mamakhashe\nTío · Tuntu\nTía · Chunge\nPrimo / Prima · Antia\n\nColores\nAmarillo · Kiupa\nAzul · Indzia / Indzwa\nVerde · Indzia\nRojo · Kw'a\nMorado · Pahakhu\nBlanco · Tutua\nNegro · Sia\n\nPartes del cuerpo\nCabeza · Tsuve\nCara · Kambahw\nOjo · Tsu'fe\nPestaña · Biyuyufa\nCeja · Biyufa\nNariz · Tsufatw\nBoca · Ayafa\nDiente · The'thu\nCuello · Tsifw\nEspalda · Sepakhu\nEstómago (barriga) · Thwpa, ihamathi\nOmbligo · Siuma, sauma\nBrazo · Tive, kungwkhu\nPierna · Thenangu\nRodilla · Tswthachu\nDedos · Tsimiakw, tsemiankhu\nCabello · Tuse\nPies · Tswthe\n\nMundo espiritual\nMedicina tradicional (nuestros remedios) · Ingi sehepa, ingi tayusw sehepa\nTaita · Kuraga\nSabedor · Ateswchu a'i\nYagé · U'fa\nCasa de yagé · U'fa tsa'u\nDios · Chiga\nCorona · Yanyakhw, utifakhw\nPluma que se usa en la nariz · Te'takhu\nTabaco · Khwmba\nLugar sagrado · Ñutshe kuirachu ande, ñutshe kuirachu e'thi\nCumplir con las normas de cuidado del taita · Asethwye\n\nVamos a…\n…cazar · Hinge pandzagaye, hinge pandzaye\n…la selva · Hinge tsampini haye\n…el río · Hinge na'eni haye\n…jugar · Hinge kufengaye\n…dormir · Hinge anangaye\n…pescar · Hinge simbangaye\n…nadar · Hinge kayangaye\n…bailar · Hinge anyungaye\n…montar en la canoa · Hinge shavunga hakañe\n…cocinar · (Hinge) Uteañe\n…cocinar el chontaduro · Hinge umama utengañe, hinge umama utaeñe\n\nRío\nRío · Na'e\nCanoa · Shagu\nInterior de la canoa · Shagunakhw\nRemo · Chhuchhufindi\nRemar · Chhuiye\nEl río está seco · Na'etsw samba\nEl río está crecido · Na'etsw bua\nCorriente del río · Kinfa\nCorriente fuerte del río · Kingufa\nIr río abajo · A'ningae\nRío arriba · Asukhwe\nGuiar la canoa · Asithaeñe\nPescar · Simbaye\n\nEmociones\nFeliz · Avwhatshe\n\nSonido, música y silencio\nSonido · Henfa\nMúsica · Heñafa\nSilencio · Wpitse, hupitshe\nCanción · Sethapaemchw, sethapaemba\nBaile · Andyupa\nTambor · Khusha\nSonajero · Shasha\nFlauta · Fururukhu\nHojas con las que limpia el taita · Sanganga"
+      "original": "Animales\nPerro · Ain\nGato · Mishuma / kiri\nGallo · Araparahw\nVaca · Vaura\nGrillo de tierra · Shishi\nAvispa · Pa'tha\nAlacrán · Tini\nAraña · Khayahw\nHormiga conga · Unu\nHormiga pequeña · A'hw\nCucaracha · Shipikhu\nMosca · Tenkenchu\nZancudo · Ancha\nMosquito · Thutsw\nColibrí · A'tshe\nMariposa · Thuviya\nÁguila · Pindu\nPaloma · Manambe\nLoro · Khachapa\nTortuga · Twtwkhuchu\nPava · Pa'u\nVenado · Shankhu\nArmadillo · Ihi\nGuara · Kiya\nDanta · Khuvi\nNutria pequeña · Chuni\nNutria grande · Sararu\nMico nocturno · Kunsisi\nMico cotudo · A'chu\nMono pequeño rojo (cotoncillo) · Tsu'ga\nMico chorongo · Kunsi\nCulebra · Iyu\nCulebra cascabel · Kufasi\nCulebra coral · Twntw iyu\nCulebra 24 · Shishiye iyu, shanage Iyu\nCulebra roja · Kanungu iyu\nBoa · Kahansi\nBoruga · Chanange\nPez (sardina) · Sambiri\nPintadillo (bagre) · Dzendzekhu\nPiraña · Daru\nPicalón · Khumasi\nYulo · Yuvwrw\nOso caballuno y oso hormiguero · Be'tha / Itsw\nTigre · Thesi\n\nNombrar el paisaje\nBosque · Tsampi\nRío · Na'e\nQuebrada · Naiki\nCielo · Sefakhu\nSol · Kuehe\nLuna · Kusesw chiga, khuvw\nEstrella · U'fe\nFlor · Te'ta\nSemilla · Chwn, Te'tachu\nFuego · Singe\nViento · Fingia\nPasto · Shushuvi\nPiedra · Patw\nBarro (greda) · Apicha\nArena · Sisipa\nAgua · Tsa'khw\nLluvia · W'hi\nTrueno · Tsanda\nRayo · Tsandaenfa, tsandabeyafa\nCamino · Tsaiki\nTierra · Ande\nDía · A'ta\nTarde · Sime\nNoche · Kuse\nAmanecer · A'tahi, a'tani\nAtardecer · Kusehi, kuseni\nNoche oscura · Siñeite, sia kuse\nNoche clara · Khwveinte, khwvw kuse\nHoja · Khakehe, khake\nRaíz · Tsainfa\n\nFamilia\nMamá · Mama\nPapá · Yaya\nHijo · Harichu\nHija · Shenu / Unke\nBebé · Aipanu\nNiño · Dw'shw\nMujer · Pwshesw\nHombre · Tsandie\nHermano (mi hermano) · Ña antia\nHermana (mi hermana) · Ña antia pwshesw\nAbuelo · Yayakhasheye\nAbuela · Mamakhashe\nTío · Tuntu\nTía · Chunge\nPrimo / Prima · Antia\n\nColores\nAmarillo · Kiupa\nAzul · Indzia / Indzwa\nVerde · Indzia\nRojo · Kw'a\nMorado · Pahakhu\nBlanco · Tutua\nNegro · Sia\n\nPartes del cuerpo\nCabeza · Tsuve\nCara · Kambahw\nOjo · Tsu'fe\nPestaña · Biyuyufa\nCeja · Biyufa\nNariz · Tsufatw\nBoca · Ayafa\nDiente · The'thu\nCuello · Tsifw\nEspalda · Sepakhu\nEstómago (barriga) · Thwpa, ihamathi\nOmbligo · Siuma, sauma\nBrazo · Tive, kungwkhu\nPierna · Thenangu\nRodilla · Tswthachu\nDedos · Tsimiakw, tsemiankhu\nCabello · Tuse\nPies · Tswthe\n\nMundo espiritual\nMedicina tradicional (nuestros remedios) · Ingi sehepa, ingi tayusw sehepa\nTaita · Kuraga\nSabedor · Ateswchu a'i\nYagé · U'fa\nCasa de yagé · U'fa tsa'u\nDios · Chiga\nCorona · Yanyakhw, utifakhw\nPluma que se usa en la nariz · Te'takhu\nTabaco · Khwmba\nLugar sagrado · Ñutshe kuirachu ande, ñutshe kuirachu e'thi\nCumplir con las normas de cuidado del taita · Asethwye\n\nVamos a…\n…cazar · Hinge pandzagaye, hinge pandzaye\n…la selva · Hinge tsampini haye\n…el río · Hinge na'eni haye\n…jugar · Hinge kufengaye\n…dormir · Hinge anangaye\n…pescar · Hinge simbangaye\n…nadar · Hinge kayangaye\n…bailar · Hinge anyungaye\n…montar en la canoa · Hinge shavunga hakañe\n…cocinar · (Hinge) Uteañe\n…cocinar el chontaduro · Hinge umama utengañe, hinge umama utaeñe\n\nRío\nRío · Na'e\nCanoa · Shagu\nInterior de la canoa · Shagunakhw\nRemo · Chhuchhufindi\nRemar · Chhuiye\nEl río está seco · Na'etsw samba\nEl río está crecido · Na'etsw bua\nCorriente del río · Kinfa\nCorriente fuerte del río · Kingufa\nIr río abajo · A'ningae\nRío arriba · Asukhwe\nGuiar la canoa · Asithaeñe\nPescar · Simbaye\n\nEmociones\nFeliz · Avwhatshe\n\nSonido, música y silencio\nSonido · Henfa\nMúsica · Heñafa\nSilencio · Wpitse, hupitshe\nCanción · Sethapaemchw, sethapaemba\nBaile · Andyupa\nTambor · Khusha\nSonajero · Shasha\nFlauta · Fururukhu\nHojas con las que limpia el taita · Sanganga",
+      "captureDate": "01/07/2026\n02/07/2026"
     },
     {
       "number": "10",
@@ -275,16 +284,17 @@
       "audioFileBase": "Cof-10-Ingi_andyupa-can",
       "duration": "12:30",
       "language": "Cofán",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Interpretación:\nAlisson Chapal\nMelania Jojoa \nMarleny Garreta\nMaria Nimbania Jojoa \nOlga Grefa \nPeregrino Grefa \nClemencia Lucitante\nAnunciación Grefa \nAlbertino Grefa"
       },
       "image": "",
       "activities": [
         3
-      ]
+      ],
+      "captureDate": "30/06/2026"
     },
     {
       "number": "11",
@@ -297,18 +307,19 @@
       "audioFileBase": "Cof-11-Ai_kankhenga_sethapaemba-him",
       "duration": "4:18",
       "language": "Cofán",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Guaipaz\nLuis Sánchez \nKevin Coquinche \nLeidy Johana Queta"
       },
       "image": "",
       "activities": [
         3
       ],
       "original": "Tayusw a’indekhwta\nVa andeni mingeua.\nA’indekhw kansefa,\nAvwhatshe kansefaya.\nPaua kankhengata\nAndyupatsw panshaenfa.\nI.\nBianisw kukamagu.\nHipa a’ima fithithifa.\nPatshima itsafasi.\nÑumbiyengi kansefa.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa\nII.\nTsunsi hañu bupa\nIywkhu kansefaya\nIngi undikhwchuma\nNepisi tuekiañe.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa\nIII.\nIngi kuendzandekhw\nHañupie kansefaya,\nIngi ayafama,\nNepiansi tuekiañe.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa\nIV.\nChigama iñahamba\nHukhapie ateswpa,\nApuikhw kundasepa,\nPhimphitshe kansefaye.\nTayusw a’indekhwta\nVa andeni mingeua\nA’indekhw kansefa\nAvwhatshe kansefaya\nPaua kankhengata\nAndyupatsw panshaenfa",
-      "translation": "Coro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nI.\nVinieron los españoles.\nVinieron y mataron a los cofán.\nUsurparon todas las tierras.\nPor eso vivimos tristes.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nII.\nAhora en el cabildo\nNos unimos\nPara dar la pelea\nPor rescatar nuestra cultura\nQue hemos perdido.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nIII.\nTodavía existen nuestros mayores\nPara enseñar nuestro idioma,\nQue hemos perdido,\nY queremos recuperar.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nIV.\nPedimos a Dios\nPara poder conocer,\nPara dialogar con el Estado,\nY volver a vivir en paz.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas."
+      "translation": "Coro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nI.\nVinieron los españoles.\nVinieron y mataron a los cofán.\nUsurparon todas las tierras.\nPor eso vivimos tristes.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nII.\nAhora en el cabildo\nNos unimos\nPara dar la pelea\nPor rescatar nuestra cultura\nQue hemos perdido.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nIII.\nTodavía existen nuestros mayores\nPara enseñar nuestro idioma,\nQue hemos perdido,\nY queremos recuperar.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.\nIV.\nPedimos a Dios\nPara poder conocer,\nPara dialogar con el Estado,\nY volver a vivir en paz.\nCoro\nLos ancestros cofán\nEran un inmenso pueblo.\nLos cofán vivían,\nVivían muy contentos.\nTodos los pueblos\nCelebraban las fiestas.",
+      "captureDate": "02/07/2026"
     },
     {
       "number": "12",
@@ -321,40 +332,42 @@
       "audioFileBase": "Cof-12-Aipanu_anane_sethapaemba-arr",
       "duration": "1:36",
       "language": "Cofán + Español",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "Tradición Oral",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "Clemencia Lucitante Mendua \nTraducción: Roveyro López"
       },
       "image": "",
       "activities": [
         4
       ],
       "original": "Anaha, aipanu, anaha, aipanu.\nKe yayambe shukhaeñe,\nKe yayaha semahesi.\nAnaha i´nambe, anaha i’nambe,\nAipanu, aipanu,\nKe yayambe shukhaeñe.\nKe yayaha semahesi.\nAnaha, anaha.",
-      "translation": "Duerme, bebé, duerme, bebé.\nPara poder cocinarle a tu papá,\nPorque él está trabajando.\nDuerme sin llorar, duerme sin llorar,\nBebé, bebé,\nPara poder cocinarle a tu papá.\nPorque él está trabajando.\nDuerme, duerme."
+      "translation": "Duerme, bebé, duerme, bebé.\nPara poder cocinarle a tu papá,\nPorque él está trabajando.\nDuerme sin llorar, duerme sin llorar,\nBebé, bebé,\nPara poder cocinarle a tu papá.\nPorque él está trabajando.\nDuerme, duerme.",
+      "captureDate": "29/06/2026"
     },
     {
       "number": "13",
       "title": "De noche en el Resguardo Yarinal",
       "spanishTitle": "",
-      "kind": "Paisaje sonoro",
+      "kind": "Paisaje Sonoro",
       "tracks": "Pista 13",
       "intro": "Cae la noche en la selva y se despiertan muchas voces de insectos nocturnos que se mezclan en la oscuridad. A lo lejos, desde la cancha de fútbol, llegan las voces de los jóvenes de la comunidad que juegan un partido. Escucha con atención: ¿qué sonidos parecen estar cerca y cuáles llegan desde lejos?",
       "audio": "audio/cofan/Cof-13-De_noche_en_el_resguardo_yarinal-pai-son.mp3",
       "audioFileBase": "Cof-13-De_noche_en_el_resguardo_yarinal-pai-son",
       "duration": "5:00",
       "language": "N/A",
-      "authorOrOrigin": "Según Metadatos_Audioteca_FINAL.xlsm",
+      "authorOrOrigin": "León David Cobo Estrada",
       "credits": {
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
-        "license": "© Ministerio de Educación Nacional de Colombia\n© Ministerio de las Culturas, las Artes y los Saberes de Colombia"
+        "interpreterArtist": "N/A"
       },
       "image": "",
       "activities": [
         4
-      ]
+      ],
+      "captureDate": "2026-07-02 00:00:00"
     }
   ],
   "vocabulary": [
@@ -1252,30 +1265,102 @@
     }
   },
   "photos": [
-    { "src": "images/cofan/web/fototeca/Cofan_A7V00266_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V00291_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V01091_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V01128_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V02592_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V02928_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V03782_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V03961_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V04187_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V04236_Juan Franco_2026.jpg", "alt": "Fotografía 10 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V04319_Juan Franco_2026.jpg", "alt": "Fotografía 11 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V06308_Juan Franco_2026.jpg", "alt": "Fotografía 12 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V06451_Juan Franco_2026.jpg", "alt": "Fotografía 13 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V06920_Juan Franco_2026.jpg", "alt": "Fotografía 14 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V07676_Juan Franco_2026.jpg", "alt": "Fotografía 15 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V08337_Juan Franco_2026.jpg", "alt": "Fotografía 16 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V08563_Juan Franco_2026.jpg", "alt": "Fotografía 17 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V09102_Juan Franco_2026.jpg", "alt": "Fotografía 18 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V09115_Juan Franco_2026.jpg", "alt": "Fotografía 19 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V09120_Juan Franco_2026.jpg", "alt": "Fotografía 20 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V09172_Juan Franco_2026.jpg", "alt": "Fotografía 21 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V09201_Juan Franco_2026.jpg", "alt": "Fotografía 22 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V09389_Juan Franco_2026.jpg", "alt": "Fotografía 23 de la comunidad cofán." },
-    { "src": "images/cofan/web/fototeca/Cofan_A7V09972_Juan Franco_2026.jpg", "alt": "Fotografía 24 de la comunidad cofán." }
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V00266_Juan Franco_2026.jpg",
+      "alt": "Fotografía 01 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V00291_Juan Franco_2026.jpg",
+      "alt": "Fotografía 02 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V01091_Juan Franco_2026.jpg",
+      "alt": "Fotografía 03 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V01128_Juan Franco_2026.jpg",
+      "alt": "Fotografía 04 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V02592_Juan Franco_2026.jpg",
+      "alt": "Fotografía 05 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V02928_Juan Franco_2026.jpg",
+      "alt": "Fotografía 06 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V03782_Juan Franco_2026.jpg",
+      "alt": "Fotografía 07 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V03961_Juan Franco_2026.jpg",
+      "alt": "Fotografía 08 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V04187_Juan Franco_2026.jpg",
+      "alt": "Fotografía 09 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V04236_Juan Franco_2026.jpg",
+      "alt": "Fotografía 10 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V04319_Juan Franco_2026.jpg",
+      "alt": "Fotografía 11 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V06308_Juan Franco_2026.jpg",
+      "alt": "Fotografía 12 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V06451_Juan Franco_2026.jpg",
+      "alt": "Fotografía 13 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V06920_Juan Franco_2026.jpg",
+      "alt": "Fotografía 14 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V07676_Juan Franco_2026.jpg",
+      "alt": "Fotografía 15 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V08337_Juan Franco_2026.jpg",
+      "alt": "Fotografía 16 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V08563_Juan Franco_2026.jpg",
+      "alt": "Fotografía 17 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V09102_Juan Franco_2026.jpg",
+      "alt": "Fotografía 18 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V09115_Juan Franco_2026.jpg",
+      "alt": "Fotografía 19 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V09120_Juan Franco_2026.jpg",
+      "alt": "Fotografía 20 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V09172_Juan Franco_2026.jpg",
+      "alt": "Fotografía 21 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V09201_Juan Franco_2026.jpg",
+      "alt": "Fotografía 22 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V09389_Juan Franco_2026.jpg",
+      "alt": "Fotografía 23 de la comunidad cofán."
+    },
+    {
+      "src": "images/cofan/web/fototeca/Cofan_A7V09972_Juan Franco_2026.jpg",
+      "alt": "Fotografía 24 de la comunidad cofán."
+    }
   ],
   "activities": [
     {
