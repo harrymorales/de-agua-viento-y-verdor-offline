@@ -112,6 +112,98 @@
       ]
     }
   };
+  const guideLinks = (prefix, tracks) => tracks.map(([number, label], index) => ({
+    number,
+    label,
+    before: index === 0 ? prefix : index === tracks.length - 1 ? '; y ' : '; ',
+    after: index === tracks.length - 1 ? '.' : ''
+  }));
+  Object.assign(linkedGuideTracks, {
+    palenque: {
+      'Pista 1: Amanecer en el monte;  Pistas 3 y 4: Itoria ri Palenge': guideLinks('Pistas ', [
+        ['01', '1, Amanecer en el monte'], ['03', '3, Itoria ri Palenge'], ['04', '4, Historia de Palenque']
+      ]),
+      'Pista 2: Tra kolao ri posá': guideLinks('Pista ', [['02', '2, Tra kolao ri posá']]),
+      'Pistas 3 y 4: Itoria ri Palenge': guideLinks('Pistas ', [
+        ['03', '3, Itoria ri Palenge'], ['04', '4, Historia de Palenque']
+      ]),
+      'Pistas 6 y 7: Kuendo ri Cho Konejo i Cho Tigre': guideLinks('Pistas ', [
+        ['06', '6, Kuendo ri Cho Konejo i Cho Tigre'], ['07', '7, Cuento de Tío Conejo y Tío Tigre']
+      ]),
+      'Pista 12: Ña Marikita mosa Pista 15: De mañana en la Plaza Central': guideLinks('Pistas ', [
+        ['12', '12, Ña marikita mosa'], ['15', '15, De mañana en la Plaza Central']
+      ]),
+      'Pista 5: Canto a la ofrenda - Tata Suto Pista 13: Cuidados del niño Pista 14: Saraguia ri mueto': guideLinks('Pistas ', [
+        ['05', '5, Tata Suto'], ['13', '13, Cuidados del niño'], ['14', '14, Saraguia ri mueto']
+      ]),
+      'Pista 8: Concierto didáctico Pista 9: Vocabularios': guideLinks('Pistas ', [
+        ['08', '8, Concierto didáctico'], ['09', '9, Vocabularios']
+      ]),
+      'Pistas 10 y 11: Kuendo ri ma fieta ri ma abe [Cuento de la fiesta de las aves]': guideLinks('Pistas ', [
+        ['10', '10, Kuendo ri ma fieta ri ma abe'], ['11', '11, Cuento de la fiesta de las aves']
+      ])
+    },
+    cofan: {
+      'Pistas 1, 2 y 5.': guideLinks('Pistas ', [
+        ['01', '1, De mañana a la orilla del río La Hormiga'], ['02', '2, Chuni sethapaemba'], ['05', '5, Imitaciones animales']
+      ]),
+      'Pistas 6, 7 y 8.': guideLinks('Pistas ', [
+        ['06', '6, Canto de ceremonia'], ['07', '7, Tayusw a’i: u’fa kundasepa'], ['08', '8, Canto espiritual']
+      ]),
+      'Pista 3.': guideLinks('Pista ', [['03', '3, Khuanifuekhu ande kundasepa a’indekhw kansechu']]),
+      'Pistas 10 y 11.': guideLinks('Pistas ', [
+        ['10', '10, Ingi andyupa'], ['11', '11, A’i kankhenga sethapaemba']
+      ]),
+      'Pistas 4, 9, 12 y 13.': guideLinks('Pistas ', [
+        ['04', '4, Mendetshengi kansefa'], ['09', '9, Vocabularios'], ['12', '12, Aipanu anañe sethapaemba'], ['13', '13, De noche en el Resguardo Yarinal']
+      ])
+    },
+    inga: {
+      'Pistas 1, Quebrada San Francisco; 3, Risunchi; 6, Suma Kausai; y 7, Iaku, iaku, iaku.': guideLinks('Pistas ', [
+        ['01', '1, Quebrada San Francisco'], ['03', '3, Risunchi'], ['06', '6, Suma Kausai'], ['07', '7, Iaku, iaku, iaku']
+      ]),
+      'Pistas 4, Takispa ugllai nukapa llatancito; 9, Puñupuai, wawita; 13, Enfermedades y cuidados; y 14, Limpieza del Taita.': guideLinks('Pistas ', [
+        ['04', '4, Takispa ugllai nukapa llatancito'], ['09', '9, Puñupuai, wawita'], ['13', '13, Enfermedades y cuidados'], ['14', '14, Limpieza del Taita']
+      ]),
+      'Pista 11, Nuka kani Inga Apunti llagtamanda.': guideLinks('Pista ', [['11', '11, Nuka kani Inga Apunti llagtamanda']]),
+      'Pistas 2, Taita Carlos; 10, Atun Puncha; y 12, Waira, wairita.': guideLinks('Pistas ', [
+        ['02', '2, Taita Carlos'], ['10', '10, Atun Puncha'], ['12', '12, Waira, wairita']
+      ]),
+      'Pistas 5, Nuka kausani Paramu Awapi; 8, Vocabularios; 11, Nuka kani Inga Apunti llagtamanda; y 15, Anochecer en Tacumbina.': guideLinks('Pistas ', [
+        ['05', '5, Nuka kausani Paramu Awapi'], ['08', '8, Vocabularios'], ['11', '11, Nuka kani Inga Apunti llagtamanda'], ['15', '15, Anochecer en Tacumbina']
+      ])
+    },
+    yukpa: {
+      'Pistas 1, Amanecer en San Genaro; 2, Owaya tamurhya trho ktaworh, taniap Papsh Yukpa iyanak; y 3, Cuando la tierra se estaba formando, Papsh sacó a los Yukpa de un árbol.': guideLinks('Pistas ', [
+        ['01', '1, Amanecer en San Genaro'], ['02', '2, Owaya tamurhya trho ktaworh, taniap Papsh Yukpa iyanak'], ['03', '3, Cuando la tierra se estaba formando, Papsh sacó a los Yukpa de un árbol']
+      ]),
+      'Pista 5, Vocabularios 1.': guideLinks('Pista ', [['05', '5, Vocabularios 1']]),
+      'Pistas 6, Shinprha ichok wat; y 10, Yonash, shini prha.': guideLinks('Pistas ', [
+        ['06', '6, Shinprha ichok wat'], ['10', '10, Yonash, shini prha']
+      ]),
+      'Pistas 7, Sokʉ; y 8, Witarhash. El canto de la palizada.': guideLinks('Pistas ', [
+        ['07', '7, Sokʉ'], ['08', '8, Witarhash. El canto de la palizada']
+      ]),
+      'Pistas 9, Vocabularios 2; 11, Flechando en San Genaro; 12, Imitando las voces de las aves; y 13, De noche en San Genaro.': guideLinks('Pistas ', [
+        ['09', '9, Vocabularios 2'], ['11', '11, Flechando en San Genaro'], ['12', '12, Imitando las voces de las aves'], ['13', '13, De noche en San Genaro']
+      ])
+    },
+    rrom: {
+      'Pistas 1, Caporal galopando; 2, Le vurdona; y 8, Vocabularios.': guideLinks('Pistas ', [
+        ['01', '1, Caporal galopando'], ['02', '2, Le vurdona'], ['08', '8, Vocabularios']
+      ]),
+      'Pista 3, Le tsery.': guideLinks('Pista ', [['03', '3, Le tsery']]),
+      'Pistas 4, Arrurru mugo shavo; 5, E bramia akana pe de domul; y 9, Soutuke, mugo tsinogo.': guideLinks('Pistas ', [
+        ['04', '4, Arrurru mugo shavo'], ['05', '5, E bramia akana pe de domul'], ['09', '9, Soutuke, mugo tsinogo']
+      ]),
+      'Pistas 6 y 7, Sar chiravelpe le sarmy.': guideLinks('Pistas ', [
+        ['06', '6, Sar chiravelpe le sarmy'], ['07', '7, Receta de la sarma']
+      ]),
+      'Pistas 10, La bandera y la Pachiv; y 11, De tarde en El Salado.': guideLinks('Pistas ', [
+        ['10', '10, La bandera y la Pachiv'], ['11', '11, De tarde en El Salado']
+      ])
+    }
+  });
   const addGuideTrackLinks = () => {
     const configurations = linkedGuideTracks[territory];
     if (!configurations) return;
