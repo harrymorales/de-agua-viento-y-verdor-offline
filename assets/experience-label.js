@@ -104,10 +104,17 @@
         button.type = 'button'; button.className = 'guide-track-link'; button.textContent = link.label;
         button.setAttribute('aria-label', `Abrir pista ${link.number}: ${link.label.replace(/^\d+,\s*/, '')}`);
         button.addEventListener('click', () => {
-          const record = [...document.querySelectorAll('.record')].find(item => item.querySelector('.record-number')?.textContent.trim() === link.number);
-          if (!record) return;
-          record.click();
-          document.querySelector('.guide-overlay button[aria-label="Cerrar"]')?.click();
+          const selectTrack = () => {
+            const record = [...document.querySelectorAll('.record')].find(item => item.querySelector('.record-number')?.textContent.trim() === link.number);
+            if (!record) return;
+            record.click();
+            document.querySelector('.guide-overlay button[aria-label="Cerrar"]')?.click();
+          };
+          if (document.querySelector('.record')) { selectTrack(); return; }
+          const enterAudioteca = [...document.querySelectorAll('button')].find(item => item.textContent.includes('Entrar a la audioteca'));
+          if (!enterAudioteca) return;
+          enterAudioteca.click();
+          window.setTimeout(selectTrack, 0);
         });
         element.append(button);
         if (link.after) element.append(document.createTextNode(link.after));
