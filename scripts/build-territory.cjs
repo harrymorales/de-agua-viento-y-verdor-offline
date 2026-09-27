@@ -118,7 +118,11 @@ if (slug !== 'palenque') {
   // text-preview; its layout and interaction code remain untouched.
   const cover = renderData.cover || {};
   const profile = renderData.communityProfile || {};
-  script = script.replaceAll('q.number==="07"', `q.number===${JSON.stringify(renderData.tracks.find(track => track.singleReading)?.number || '')}`);
+  const vocabularyTrackNumbers = renderData.tracks
+    .filter(track => track.singleReading)
+    .map(track => track.number);
+  const vocabularyTrackCondition = `${JSON.stringify(vocabularyTrackNumbers)}.includes(q.number)`;
+  script = script.replaceAll('q.number==="07"', vocabularyTrackCondition);
   script = script.replaceAll('Acerca de Palenque', `Acerca de ${renderData.meta.name}`);
   script = script.replaceAll('Conoce Palenque', `Conoce ${renderData.meta.name}`);
   script = script.replaceAll('children:"Palenquero"', `children:${JSON.stringify(renderData.meta.readingOriginalLabel || renderData.meta.language || 'Lengua de la comunidad')}`);
