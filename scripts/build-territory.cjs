@@ -88,7 +88,7 @@ for (const [variable, value] of replacements) script = replaceExpression(script,
 const readingReplacements = [
   [
     'q=O===null?null:Ul[O],se=(0,pe.useMemo)(()=>q?q.singleReading||ae==="original"?q.original:q.translation:void 0,[q,ae]),Be=Hl[we]',
-    'q=O===null?null:Ul[O],G=!!(q&&(q.readingMode||q.singleReading||!q.translation||q.language==="Español")),se=(0,pe.useMemo)(()=>q?G?q.readingMode==="spanish-only"?q.translation||q.original:q.original||q.translation:ae==="original"?q.original:q.translation:void 0,[q,ae,G]),Be=Hl[we]'
+    'q=O===null?null:Ul[O],G=!!(q&&(q.readingMode||q.singleReading||!q.translation||q.language==="Español")),se=(0,pe.useMemo)(()=>q?G?q.readingMode==="spanish-only"?q.translation||q.original:q.original||q.translation:ae==="original"?q.original:q.translation:void 0,[q,ae,G]),qa=q&&q.vocabularyCategoryIndexes?q.vocabularyCategoryIndexes.map(m=>Hl[m]):Hl,Be=qa[we]'
   ],
   ['className:`reading ${q.singleReading?"single-reading":""}`', 'className:`reading ${G?"single-reading":""}`'],
   [
@@ -105,6 +105,8 @@ for (const [from, to] of readingReplacements) {
   if (!script.includes(from)) throw new Error('No se encontró una sección de lectura para actualizar.');
   script = script.replace(from, to);
 }
+script = script.replaceAll('Hl.map(', 'qa.map(').replaceAll('Hl[we]', 'qa[we]');
+script = script.replace('onClick:()=>{U(E),Se("original")}', 'onClick:()=>{U(E),Pa(0),Se("original")}');
 
 // Make active territory selection accept the content used to generate this copy.
 script = script.replace('if(v!=="palenque")', `if(v!=="${slug}")`);
