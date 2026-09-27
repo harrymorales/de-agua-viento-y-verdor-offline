@@ -11,7 +11,9 @@
   },
   "cover": {
     "title": "Yukpa",
-    "subtitle": "Relatos, cantos, palabras y paisajes sonoros de la Serranía del Perijá."
+    "subtitle": "Relatos, cantos, palabras y paisajes sonoros de la Serranía del Perijá.",
+    "image": "images/yukpa/web/portada/Yukpa_A7V09980_Juan Franco_2026.jpg",
+    "imageAlt": "Fotografía de la comunidad Yukpa."
   },
   "communityProfile": {
     "facts": [
@@ -1277,7 +1279,39 @@
       "end": 0
     }
   },
-  "photos": [],
+  "photos": [
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7300033_Juan Franco_2026.jpg", "alt": "Fotografía 01 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7308209_Juan Franco_2026.jpg", "alt": "Fotografía 02 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7308276_Juan Franco_2026.jpg", "alt": "Fotografía 03 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7308681_Juan Franco_2026.jpg", "alt": "Fotografía 04 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7308715_Juan Franco_2026.jpg", "alt": "Fotografía 05 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7308747_Juan Franco_2026.jpg", "alt": "Fotografía 06 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7308827_Juan Franco_2026.jpg", "alt": "Fotografía 07 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7308872_Juan Franco_2026.jpg", "alt": "Fotografía 08 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7309060_Juan Franco_2026.jpg", "alt": "Fotografía 09 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7309476_Juan Franco_2026.jpg", "alt": "Fotografía 10 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7309584_Juan Franco_2026.jpg", "alt": "Fotografía 11 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7309765_Juan Franco_2026.jpg", "alt": "Fotografía 12 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7309788_Juan Franco_2026.jpg", "alt": "Fotografía 13 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V00141_Juan Franco_2026.jpg", "alt": "Fotografía 14 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V00400_Juan Franco_2026.jpg", "alt": "Fotografía 15 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V00896_Juan Franco_2026.jpg", "alt": "Fotografía 16 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V01432_Juan Franco_2026.jpg", "alt": "Fotografía 17 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V01442_Juan Franco_2026.jpg", "alt": "Fotografía 18 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V01583-Pano_Juan Franco_2026.jpg", "alt": "Fotografía 19 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V05945_Juan Franco_2026.jpg", "alt": "Fotografía 20 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V06144_Juan Franco_2026.jpg", "alt": "Fotografía 21 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V06162_Juan Franco_2026.jpg", "alt": "Fotografía 22 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V06972_Juan Franco_2026.jpg", "alt": "Fotografía 23 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V07073_Juan Franco_2026.jpg", "alt": "Fotografía 24 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V07266_Juan Franco_2026.jpg", "alt": "Fotografía 25 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V07972_Juan Franco_2026.jpg", "alt": "Fotografía 26 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V08881_Juan Franco_2026.jpg", "alt": "Fotografía 27 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09493_Juan Franco_2026.jpg", "alt": "Fotografía 28 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09799_Juan Franco_2026.jpg", "alt": "Fotografía 29 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09841_Juan Franco_2026.jpg", "alt": "Fotografía 30 de la comunidad Yukpa." },
+    { "src": "images/yukpa/web/fototeca/Yukpa_A7V09878_Juan Franco_2026.jpg", "alt": "Fotografía 31 de la comunidad Yukpa." }
+  ],
   "activities": [
     {
       "title": "El amanecer en la serranía: el árbol de Manʉrhacha y el despertar de las articulaciones",
