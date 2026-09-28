@@ -748,7 +748,7 @@
         0
       ],
       "audio": "audio/palenque/Pal-01-Amanecer_en_el_monte-pai-son.mp3",
-      "image": "images/amanecer-en-el-monte.png",
+      "image": "images/palenque/web/ilustraciones/Pal-01-Amanecer_en_el_monte-pai-son.png",
       "audioFileBase": "Pal-01-Amanecer_en_el_monte-pai-son",
       "duration": "5:01",
       "language": "N/A",
@@ -771,7 +771,7 @@
         1
       ],
       "audio": "audio/palenque/Pal-02-Tra_kolao_ri_posa-ron.mp3",
-      "image": "images/tra-kolao.png",
+      "image": "images/palenque/web/ilustraciones/Pal-02-Tra_kolao_ri_posa-ron.png",
       "original": "Tra kolao ri posá sendá patikula,\n\nKuando yobé se moja i se gobbé a seká,\n\nÑingoteno, monasito, botbeno a palá,\n\nLui ñingota nú, nú sabé jarocha.\n\nH, i, j, k, l, m, ñ, a,\n\nKiéne sotá, ta salí,\n\nKiéne sotá, ta salí,\n\nKiéne sotá, ta salí.",
       "translation": "El patio de mi casa es muy particular,\n\nCuando llueve, se moja y se vuelve a secar,\n\nAgáchense, mis hijos, y vuélvanse a parar,\n\nEl que no se agache no sabe jugar.\n\nH, i, j, k, l, m, ñ, a,\n\nEl que se suelte, se sale,\n\nEl que se suelte, se sale,\n\nEl que se suelte, se sale.",
       "audioFileBase": "Pal-02-Tra_kolao_ri_posa-ron",
@@ -796,7 +796,7 @@
         2
       ],
       "audio": "audio/palenque/Pal-03-Itoria_ri_palenge-rel.mp3",
-      "image": "images/itoria-ri-palenge.png",
+      "image": "images/palenque/web/ilustraciones/Pal-03-Itoria_ri_palenge-rel (1)-Photoroom.png",
       "original": "Majaná, preteno tañío. Palenge, paraje suto, andi suto ta bibí, a lanká jué asina.\n\nAndi un tiembo ayaaaa biejo, ayaaa, andi ma jende ri ande, un ma jende ri ayá ri Uropa asé bae jutá utro jende ayá andi Afrika. Ané asé bae jutalo. Ané asé bae jutalo i ané asé a malá ané ku karena pa trelo pakí o pa uto pate, ritinto andi ané ta bibindo pa makania sin ndalo bambalasá, sin pagá makaneo ané.\n\nAntose, ané a kujelo i a yebalo malao andi un ma mbakko ngánde, po riba ri apú, apú salao, ese loke suto asé ñamá máa ke a ten un bera ke jende asé ñamá playa.\n\nAntose ma jende a trelo asina ndando ndulo, andi un mbakko uuuuu… andi un mbakko uuuu i ané a yegá ai Katagena.\n\nKuando ané yegá ai Katagena, ma jende lo ke asé Palenge asé bae kombetsá: «Suto ten ke bae juindo pandi monde, suto ten ke bae juindo, pandi monde». Asina ke ané a poné ri akueddo, ané a poné ri akueddo i lo ke lanká ku akueddo jué Benko Bioho.\n\nAntose ané a komensá ku peinao andi kabesa ri ma mujé; ku tambó, ku ma orisha, ku Rioso, i tambié ané asé un lengua; ese lengua loke suto ten akí a Palenge ané a aselo pa ané poné ri akueddo i salí juindo pa monde.\n\nI ai, andi un ría, kuando ma jende ri Uropa ataba ndrumindo to ané, to ané ataba ndrumindo ai andi andi balentiela ané, ané taba lonká; antose ma jende ri Palenge a kujé tambó i ! I a salí kolendo pa monde.\n\nRepué ke ané a bae kombetsá, puéto andi kabesa ri ma mujé, puandi ané taba lanká, kombetsá andi lengua puandi ané taba lanká, pero tambié ku tambó pa chitiá aké ora e ke enú tamba salí kolendo pa monde.\n\nKu ese jué lanká Palenge. Palenge a lanká ku eso.\n\nAntose, kuando ma jende yegá akí traio po Benko; kuando ané a yegá akí Palenge, ané asé kasa ku ese i ta akí. Kuchá te: ese jué sonio ri panma. Kuchá te: ku panma… ané a ponelo techo ri panma, a malao ku mbujuko i a forralo ku tusí ri ngombe, tiela i mbalo. I repué lo ke ané to ese pila chocha ri posá ané a sekkalo ku palo.\n\nI ai jué lanká Palenge.\n\nAntose, suto a kelá bibindo akí Palenge i suto a tené kumo intrumendo tambó. Ese tambó loke suto ten pa chitiá kuando jende asé lungá, pa chitiá i sangariá ku oriki i pa asé fetiba tambié.",
       "audioFileBase": "Pal-03-Itoria_ri_palenge-rel",
       "duration": "4:16",
@@ -830,7 +830,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Manuel Pérez Salinas"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-04-Historia_de_palenque-rel-tra.png"
     },
     {
       "number": "05",
@@ -842,7 +843,7 @@
         5
       ],
       "audio": "audio/palenque/Pal-05-Tata_suto-can.mp3",
-      "image": "images/tio-conejo-y-tio-tigre.png",
+      "image": "images/palenque/web/ilustraciones/Pal-05-Tata_suto-can.png",
       "original": "Suto ta ofrese bo, Tata suto\n\nSuto ta ofrese bo, Tata suto\n\nSuto ta ofrese bo, Tata suto\n\nEse pan i e bino ke bo nda suto ño\n\nEse pan i e bino ke bo nda suto ño\n\nKujelo ku bonda i bendesi a suto\n\nKujelo ku bonda i bendesi a suto",
       "translation": "Te presentamos el vino y el pan.\n\nBendito seas por siempre, Señor.\n\nBendito seas, Señor, por este pan que nos diste,\n\nFruto del esfuerzo y del trabajo de los hombres.",
       "audioFileBase": "Pal-05-Tata_suto-can",
@@ -866,7 +867,7 @@
         3
       ],
       "audio": "audio/palenque/Pal-06-Kuendo_ri_cho_konejo_i_cho_tigre-rel.mp3",
-      "image": "images/concierto-didactico.png",
+      "image": "images/palenque/web/ilustraciones/Pal-06-Kuendo_ri_cho_konejo_i_cho_tigre-rel.png",
       "original": "Andi un biaje teneba un fieta andi plasa ri Palenge. Andi taba to ma nimao. To ma nimao taba ai plasa tandoba reuni andi plasa. Kuando to ma nimao taba ai plasa, ané a komensá a miná to ma kala, karajo… i sola a kombetsá:\n\n—Ombe, akí a fattá uno ri suto.\n\nMa uto a kombetsá:\n\n—¿Kiéne jué fattá?\n\n—Ombe, a fattá Cho Tigre.\n\n—Ombeee, i tú bere sabé ke Cho Tigre, Cho Tigre se ta reguetto ku suto nú… ombeee.\n\n—No…pero ele ten ke miní…\n\nI ai a komensá un pelotera: ¿kiéne jué tan trelo, kiéne jué tan aselo miní? Ke ele tan miní nú; utere sabé ke ele se kelé ta jundo ku suto nú.\n\n—Gueno, suto tan ndá ri chibo a loke ke tré a Cho Tigre pa kí pa plasa, pa andi fieta loke suto ten.\n\nCho Konejo, kumo ele a sendá ma abilioroso, Cho Konejo a kombetsá:\n\n—I tan trelo, i tan trelo pakí pa plasa, pandi suto ta.\n\n—Gueno to mundo a kombetsá —Gueno, Cho Konejo tan trelo—.\n\n—Gueno, ngalá ma ri peso aora loke bo miní ku ele, suto tan ndá bo ma ri peso po trelo.\n\nGueno, asina ke Cho Konejo a ngalá i a bae pa posá ele. I a ngalá un sía, loke aseba poné a ma mulo ku kabayo pa bae pa monde, a ngalá freno i a ngalá un ma epuela loke é teneba. Ele a ngalalo, i a salí pa ayá pa Bajoloma. Ayá Bajoloma ele a ngalá ese ma kusa i ele a gualalo i ele a salí pa ayá pa Puente Machuka. Kuando ele a yegá ayá Puente Machuka, ele a kombetsá:\n\n—Gueno… pueakí Cho Tigre asé pasá to lo ría. Ya se topá ku ele akí; andi ese paraje loke ta akí i ta perando akí.\n\nJeee. Ele a sendá ai. A ka kreo, kuando ele a miná pa ayá, pa kamino i La China, ele a sindí ma paso ri Cho Tigre loi taba miní.\n\n—Eddaaaa… ayá ta miní Cho Tigre.\n\nGueno, kuando Cho Tigre taba asekka, Cho Konejo a komensá a rabiá: ¡Ouuuun, ouuuun!\n\nKuando Cho Tigre yegá, Cho Tigre a kombetsá:\n\n—Aja, Cho Konejo, ¿ke jué ta pasá bo?\n\n—Ombe, Cho Tigre… ya ten ndolo barika, i ya pole kamina nú. Ndolo barika a ten mí, ke i pole kamina nú.\n\n—Ombeee, Cho Konejo, i bo lejo asina ri Palenge.\n\nSale Cho Konejo:\n\n—Ombe, Cho Tigre, ombe, yebá mí ata i kruse ri San Kayetano, ombe.\n\n—Agueno. Miní pa i yebá bo. I tan yebá bo ata ai. Ri ai pa ayá, bo miná be kumo bo tan yegá ayá Palenge.\n\nAsina gue. Unabe Cho Tigre a ngalá, ngalá Cho Konejo, i a montalo ai espalda i a salí. Kuando ané yegá ai kruse ri San Kayetano, taba yegá ai kruse San Kayetano, Cho Konejo a komensá ku rabiaera: ¡Ouuuu, ouuuun!\n\nSale Cho Tigre:\n\n—Karajo, ndolo ta kabá ku cho konejo, paaae.\n\nAsina gue. Kuando ané yegá ai kruse San Kayetano, unabe Cho Tigre a ngalá Cho Konejo i a bajalo… ¡Guaaaa! I a bajalo ai.\n\nSale Cho Konejo:\n\n—Mmmmmm… Kompae Tigre, ¿bo tan rejá mí akí? Ku ese ndolo ngánde loi ten, ¡auuuu!, i tan lungá agué, i tan lungá agué.\n\n—Karajoo —sale Cho Tigre—. Aja, Konejo, ¿i ke jué loke bo kreé?\n\n—Ombe, yebá mí ata ayá andi La Anguiya, ombeee.\n\nSale Cho Tigre:\n\n—Noooo, i tando pandi Anguiya nú. Ayá puete bo a kombetsá mí pa i rejá bo akí kruse ri San Kayetano.\n\n—Ombe, yebá mí…\n\nUnabe Cho Konejo ¡ruaaa! a asé pribao.\n\nSale Cho Tigre:\n\n—¡Ñedda, Cho Konejo! Cho Konejo, palá ke i tan yebá bo pa ayá La Anguiya.\n\nAsina gue. Unabe Cho Tigre a ngalá Cho Konejo, i a ichalo ai ombre ri ele i a salí ku ele pa ayá pa Anguiya. Kamine, i Cho Konejo kejando; kamine, i Cho Konejo kejando; kamine, i Cho Konejo kejando.\n\nKuando ané a yegá ai La Anguiya, unabe Cho Tigre a ngalá Cho Konejo i a bajao ai arena.\n\nSale Cho Tigre:\n\n—Gueno, Cho Konejo… ata kí sí. I ta pasá ri akí nú.\n\nSale Cho Konejo:\n\n—¡Uuuuu! Cho Tigre, nú bae rejá mí akí nú, pokke i tan lungá akí, ¡uuuuu! Ai mi mae, i tan morí agué, i tan morí agué.\n\nUnabe Cho Konejo, ¡praaaa!, a asé pribao. Eddaaaa. I ri unabe Cho Tigre a poné gritá:\n\n—¡Cho Konejo, Cho Konejo, Cho Konejo!\n\nI Cho Konejo, aondeee. Cho Konejo, muétto ai.\n\nA rrato Cho Konejo:\n\n—Mmmmm.\n\n—Ombe, ele ata bibo, tabia. Cho Konejo, ¿kumo bo ata sindí?\n\n—I ta má, má taba… Ombe, yebá mí ata ai Bajoloma.\n\nRise Cho Tigre:\n\n—¿Koomo, Cho Konejo? Ombe, bo a kombetsá mí primero pa i yebá bo pa i kruse ri San Kayetano, aora bo a plantá ke pa i trebá ata La Anguiya, ¡i aora bo tan asé mí bae pa ayá, Bajoloma! Cho Konejo… ¡Cho Konejooo!\n\n— …\n\n—Gueno. Kumo bo ta má, miní pa i yebá bo, ombeee.\n\nAsina gue. Ele a ngalo ku ele pa ayá Bajoloma. Asina gue, ai tando Cho Konejo; Cho Konejo tando ku un rabiera.\n\n¡Puruuuuu! Cho Konejo a piá.\n\n—Eddaaa —Sale Cho Tigre—, Cho Konejo a ta má, Cho Konejo ata grabe. Kumo ele ke yegá ayá Bajoloma, ele se sabba.\n\nAsina gue. Salieron; Cho Tigre ku Cho Konejo ai ombro ri ele. Jeee. Kuandi ané yegá ai Bajoloma, apena Cho Tigre a bajá a Cho Konejo.\n\nRi unabe, Cho Konejo a kai. ¡Pindangán!, echo muétto.\n\n—Eddaaaa —y Cho Tigre—, pue kí ta pasá nadie pa bé yebá Cho Konejo pa Palenge, paeee. I a pole pasá ri akí nú; akí sí ele tan kelá.\n\nCho Konejo, Cho Konejo… Cho Konejo asé guetsa i a kagá.\n\nCho Tigre:\n\n¡Mieddaaaa! Cho Konejo tan lungá agué, paeee. ¿Kumo i ten ke asé aora?\n\nAi, Cho Konejo a gobbé.\n\n—Aja, Cho Konejo, ¿ke jué ta pasá, ombeee?\n\n—Ombe, ya ta má. Yebá mí ata ai andi Mijere. Yebá mí ata andi Mijere, rejá mí ai, ai kuakkié pasé i kuakkié me yebá pa ayá pa sentro ri salú.\n\n—Noooo.\n\nCho Tigre a plantá.\n\n—I tan pasá ri kí nú. Ya miná ke bo atá tando bo asé mí pa i miní atrá bo; si bo tan lungá akí, bo tan lungá, poro i tan pasá ri akí nú.\n\nCho Konejo… ¡bunnn!... A pribá. Ai, Cho Tigre asé, i Cho Konejo otra be gobbé.\n\n—Guenoo —sale Cho Tigre—. Gueno…Palá, pué, palá ke i ta yebá bo pandi Mijere.\n\nSale Cho Konejo:\n\n—Gueno… pero, palá ai, ke ya ten un butiko akí pa bo yebá mí ele tambié.\n\n—¡Kumo! ¿I ta yebá bo i ya ten ke yebá mbutto tambié? ¿Andi ta yebá to ese kagga?\n\n—Ombe, bo lo yebá. Ombe, bo lo yebá.\n\nSale Cho Tigre:\n\n—Sákalo mbutto, pa i yebalo, pué…\n\nUnabe, Cho Konejo a yegá andi taba sía, ku freno i ma epuela.\n\n—Palá i tan poné bo ese.\n\n—¿A bo tan poné mí ese loke tai? Gueno, poné mí ele, pueeee.\n\nCho Konejo a ngalá sía i ponelo Cho Tigre. A kujé apretaera i a apretalo bien apretao.\n\nCho Konejo a ngalá freno i a poné Cho Tigre freno i a apretao babbá bien apretao. Kuando Cho Tigre a rekuirá, Cho Konejo a ngalá ma epuela i a poné ma empuela.\n\nGuenoo. I komensá konejo a rrabiá.\n\nSale Cho Tigre:\n\n—Gueno, subí beee, pa i yebá bo pandi Mijere, ombeee.\n\nAsina gue. Cho Konejo a trepá riba ri Cho Tigre, i ané a salí subiendo loma ri Bajoloma.\n\nJeee. Kuando ané a yegá ai andi andi ta posá, andi ta bibí Abaro Mague, ai Cho Tigre a poné rretrechero, ke é tandoba pasá ri ai nú, ke é tandoba pasá ri ai nú. Cho Konejo a kujé ma epuela i Cho Konejo a ngalá epuela i a komensá puyá mbarika ri Cho Tigre,\n\ni Cho Tigre, pa trá, pa lande i pa trá.\n\nCho Konejo:\n\n—¡Jarria, karajo! Ke bo tan kujé e pasá pa plasa, bo tan kujé e pa ayá pa Palenge, ombe…\n\nAsina gue. Cho Konejo a tré Cho Tigre pai pa plasa. Kuando Cho Konejo yegá ku Cho Tigre ai plasa, i to ma nimao, to ma nimao asé un jarana, gritando:\n\n—¡Cho Konejo! ¡Cho Konejo! ¡Cho Konejo!\n\nGueno, i Cho Konejo a yegá… ¡Pran!...\n\n—Ya kumbetsá utere ke i ta trelo; ya se enfenmó, i ya trelo.\n\nAsina gue. Ele a ngalá Cho Tigre i ele a malao ai plasa. I ma uto nimao a ndá a Cho Konejo ma ri peso ri ele.\n\nGuenooo, i fieta a lanká, i Cho Tigre ai chokao. Gueno, i kuando Cho Tigre a sotá, Cho Tigre a bae.\n\nI Cho Tigre a kombetsalo:\n\n—I tan ngalá bo, yo te kojo, ombeee. Ayá kruse yo te kojo.\n\nCho Tigre a bae. Ma jende a seguí andi fieta.\n\nI kolorín kolorao, kuento a kabao.",
       "audioFileBase": "Pal-06-Kuendo_ri_cho_konejo_i_cho_tigre-rel",
       "duration": "9:11",
@@ -899,7 +900,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Andreus Manuel Valdéz Torres"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-07-Cuento_de_tio_conejo_y_tio_tigre-rel-tra.png"
     },
     {
       "number": "08",
@@ -911,7 +913,7 @@
         6
       ],
       "audio": "audio/palenque/Pal-08-Concierto_didactico-mus.mp3",
-      "image": "images/na-mariquita.png",
+      "image": "images/palenque/web/ilustraciones/Pal-08-Concierto_didactico-mus.png",
       "audioFileBase": "Pal-08-Concierto_didactico-mus",
       "duration": "6:06",
       "language": "Palenquero + Español",
@@ -944,7 +946,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "John Daniel Cáceres Salgado, \nIneidy María Pérez Rodriguez, María Reyes Rodríguez"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-09-Vocabularios-voc.png"
     },
     {
       "number": "10",
@@ -966,7 +969,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Andreus Manuel Valdéz Torres"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-10-Kuendo_ri_ma_fieta_ri_ma_abe-rel.png"
     },
     {
       "number": "11",
@@ -988,7 +992,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Andreus Manuel Valdéz Torres"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-11-Cuento_de_la_fiesta_de_las_aves-rel-tra.png"
     },
     {
       "number": "12",
@@ -1011,7 +1016,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Niños grupo 2 grado tercero de la Institución Técnica Agropecuaria Benkos Biohó de Palenque.  Elkin Cáceres Valdés\nYuraimis Canate Valdés\nJonh Caseres Salgado\nGelen Caseres Miranda\nMateo Cassiani Miranda\nJhoriel Cassiani Valdés\nJhon Escorcia Arroyo\nMirelis Estrada Torres\nMia Fruto Navarro\nFaneidis Hernández Herrera\nElan Lozada Valdés\nDorialis Márquez Casseres\nLiz Glei Palomino Hernández\nJuander Pérez Navarro\nSheylis Reyes Hernández\nKeiber Rocha Girado\nKiara Rocha Girado\nJhorveilis Salgado Navarro\nAlaika Salinas Herrera\nHailer Tejedor Aguilar\nDaniela Torres Cassianis\nYaneilis Torres Santana \nAcompañamiento de la profesora Moraima Simarra\nTambor: Luis Carlos Cassiani"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-12-Na_marikita_mosa-ron.png"
     },
     {
       "number": "13",
@@ -1032,7 +1038,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "ROSALINA CAÑATE PARDO VOZ, Traducción MORAIMA SIMARRA HERNÁNDEZ"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-13-Cuidados_del_nino-exp.png"
     },
     {
       "number": "14",
@@ -1053,7 +1060,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "ROSALINA CAÑATE PARDO VOZ, Traducción MORAIMA SIMARRA HERNÁNDEZ"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-14-Saraguia_ri_mueto-can.png"
     },
     {
       "number": "15",
@@ -1075,7 +1083,8 @@
         "mixingAndMastering": "Pablo Martínez",
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "N/A"
-      }
+      },
+      "image": "images/palenque/web/ilustraciones/Pal-15-De_manana_en_la_plaza_central-pai-son.png"
     }
   ],
   "activities": [
