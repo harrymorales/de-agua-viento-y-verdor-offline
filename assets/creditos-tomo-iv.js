@@ -116,33 +116,34 @@
 
   const escape = value => String(value).replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
   const people = entries => entries.map(([role, name]) => `<section><p>${escape(role)}</p><h3>${escape(name)}</h3></section>`).join('');
-  const cards = entries => entries.map(card => `<article class="credits-print-card"><h2>${escape(card.title)}</h2><div>${people(card.people)}</div></article>`).join('');
-  const sections = groups.map(group => `<section class="credits-print-section"><header><span>${group.number}</span><h2>${group.heading}</h2></header><div class="credits-print-grid">${cards(group.cards)}</div></section>`).join('');
+  const card = entry => `<article class="credits-print-card"><h2>${escape(entry.title)}</h2><div>${people(entry.people)}</div></article>`;
+  const legal = `
+    <section class="credits-print-legal">
+      <h2>Información editorial y derechos</h2>
+      <p><b>Audioteca: <i>De agua, viento y verdor, tomo IV</i></b><br>© CoCrea, 2026<br><b>Edición multilingüe</b><br><b>ISBN</b><br><em>Sin dato</em></p>
+      <p><b>Bogotá D. C., Colombia</b></p>
+      <h2>Derechos de autor, derechos colectivos y autorización de uso</h2>
+      <p><b>© De los cantos, relatos, narraciones, vocabularios, músicas, sonoridades y demás expresiones culturales tradicionales:</b> las comunidades palenquera, rrom, yukpa, raizal, inga y cofán, según corresponda a cada contenido.</p>
+      <p>Los contenidos de origen comunitario mantienen su naturaleza colectiva y su vínculo con el patrimonio cultural inmaterial de los pueblos y comunidades que participaron en su creación, transmisión y registro. La autorización otorgada para esta publicación no implica transferencia de la titularidad colectiva ni apropiación de los conocimientos, expresiones culturales tradicionales, lenguas, sonoridades o saberes de las comunidades.</p>
+      <p>Los derechos de intérpretes, ejecutantes, narradores y demás participantes corresponden a sus respectivos titulares y se ejercen conforme a las autorizaciones individuales suscritas para el proyecto.</p>
+      <h2>Autorización de circulación y uso</h2>
+      <p>Las comunidades autorizan a CoCrea, el Ministerio de Educación Nacional y el Ministerio de las Culturas, las Artes y los Saberes, mediante licencia gratuita y no exclusiva, a reproducir, divulgar, distribuir y poner a disposición los contenidos aprobados de la Audioteca <i>De agua, viento y verdor, tomo IV</i>, en plataformas y medios institucionales, con fines educativos, culturales y de acceso público.</p>
+      <p>Se permiten las adecuaciones técnicas, lingüísticas y de accesibilidad necesarias, siempre que no alteren su sentido cultural. Se prohíbe su comercialización o monetización.</p>
+      <h2>Convenio</h2>
+      <p>Esta publicación es producto del <b>Convenio Interadministrativo No. CVI-MEN-0001-2026</b>, suscrito entre el Ministerio de Educación Nacional, el Ministerio de las Culturas, las Artes y los Saberes No. 0932-2026 y la Corporación Colombia Crea Talento – CoCrea.</p>
+    </section>`;
 
   document.getElementById('root').innerHTML = `
     <main class="credits-page credits-print">
-      <header class="credits-print-masthead">
-        <a href="index.html" class="credits-print-back">← Volver al inicio</a>
-        <p>Audioteca <i>De agua, viento y verdor</i>, tomo IV</p>
-        <div><span>© CoCrea, 2026</span><span>Edición multilingüe</span><span>ISBN · Sin dato</span></div>
-        <h1>Créditos</h1>
-        <p class="credits-print-subtitle">Paisajes sonoros, cantos y relatos en lenguas nativas para niños y niñas</p>
+      <header class="credits-print-header">
+        <div><a href="index.html">← Volver al inicio</a><p>Audioteca <i>De agua, viento y verdor</i>,<br>tomo IV</p></div>
+        <img src="images/portal/creditos-logos.png" alt="Ministerio de Educación, Ministerio de las Culturas y CoCrea">
       </header>
-      ${sections}
-      <section class="credits-print-rights">
-        <span>Información editorial y derechos</span>
-        <h2>Derechos colectivos y autorización de uso</h2>
-        <p>© De los cantos, relatos, narraciones, vocabularios, músicas, sonoridades y demás expresiones culturales tradicionales: las comunidades palenquera, rrom, yukpa, raizal, inga y cofán, según corresponda a cada contenido.</p>
-        <p>Los contenidos de origen comunitario mantienen su naturaleza colectiva y su vínculo con el patrimonio cultural inmaterial de los pueblos y comunidades que participaron en su creación, transmisión y registro. La autorización otorgada para esta publicación no implica transferencia de la titularidad colectiva ni apropiación de los conocimientos, expresiones culturales tradicionales, lenguas, sonoridades o saberes de las comunidades.</p>
-        <p>Los derechos de intérpretes, ejecutantes, narradores y demás participantes corresponden a sus respectivos titulares y se ejercen conforme a las autorizaciones individuales suscritas para el proyecto.</p>
-        <h2>Autorización de circulación y uso</h2>
-        <p>Las comunidades autorizan a CoCrea, el Ministerio de Educación Nacional y el Ministerio de las Culturas, las Artes y los Saberes, mediante licencia gratuita y no exclusiva, a reproducir, divulgar, distribuir y poner a disposición los contenidos aprobados de la Audioteca <i>De agua, viento y verdor, tomo IV</i>, en plataformas y medios institucionales, con fines educativos, culturales y de acceso público.</p>
-        <p>Se permiten las adecuaciones técnicas, lingüísticas y de accesibilidad necesarias, siempre que no alteren su sentido cultural. Se prohíbe su comercialización o monetización.</p>
-      </section>
-      <section class="credits-print-section credits-print-convenio">
-        <header><span>04</span><h2>Convenio</h2></header>
-        <p class="credits-convenio">Esta publicación es producto del <b>Convenio Interadministrativo No. CVI-MEN-0001-2026</b>, suscrito entre el Ministerio de Educación Nacional, el Ministerio de las Culturas, las Artes y los Saberes No. 0932-2026 y la Corporación Colombia Crea Talento – CoCrea.</p>
-      </section>
-      <footer class="credits-print-footer"><span>Bogotá D. C., Colombia</span><a href="index.html">De agua, viento y verdor</a></footer>
+      <div class="credits-print-columns">
+        <section>${card(groups[0].cards[0])}${card(groups[0].cards[1])}${card(groups[0].cards[2])}</section>
+        <section>${card(groups[1].cards[0])}${card(groups[1].cards[1])}${card(groups[2].cards[0])}${card(groups[1].cards[2])}</section>
+        <section>${card(groups[2].cards[1])}${legal}</section>
+      </div>
+      <footer class="credits-print-footer"><span>2</span><a href="index.html">De agua, viento y verdor</a></footer>
     </main>`;
 })();

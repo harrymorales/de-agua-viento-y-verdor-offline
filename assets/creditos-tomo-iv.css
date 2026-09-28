@@ -1,47 +1,23 @@
-:root {
-  --credits-ink: #243d45;
-  --credits-blue: #226581;
-  --credits-red: #cf653d;
-  --credits-gold: #d2a934;
-  --credits-paper: #f8f5ee;
-  --credits-rule: #c8d0ca;
-}
-
-.credits-print { background: var(--credits-paper); color: var(--credits-ink); padding: clamp(28px, 5vw, 76px) clamp(22px, 7vw, 130px) 0; }
-.credits-print-masthead { border-top: 5px solid var(--credits-blue); border-bottom: 1px solid var(--credits-rule); padding: 18px 0 28px; }
-.credits-print-back { color: var(--credits-blue); letter-spacing: .1em; text-transform: uppercase; font: 800 10px Arial, sans-serif; text-decoration: none; }
-.credits-print-masthead > p:first-of-type { color: var(--credits-blue); margin: 42px 0 7px; font: 700 16px/1.35 Georgia, serif; }
-.credits-print-masthead > div { display: flex; flex-wrap: wrap; gap: 6px 19px; }
-.credits-print-masthead > div span, .credits-print-footer { color: #65756f; letter-spacing: .1em; text-transform: uppercase; font: 800 9px/1.35 Arial, sans-serif; }
-.credits-print-masthead h1 { color: var(--credits-ink); letter-spacing: -.05em; margin: 31px 0 8px; font: clamp(54px, 9vw, 116px)/.8 Georgia, serif; }
-.credits-print-subtitle { color: #586b64; max-width: 500px; margin: 0; font: 18px/1.4 Georgia, serif; }
-
-.credits-print-section { border-bottom: 1px solid var(--credits-rule); padding: clamp(38px, 5vw, 70px) 0; }
-.credits-print-section > header { display: flex; align-items: baseline; gap: 12px; margin-bottom: 28px; }
-.credits-print-section > header span { color: var(--credits-red); font: 20px Georgia, serif; }
-.credits-print-section > header h2 { color: var(--credits-blue); letter-spacing: -.035em; margin: 0; font: clamp(34px, 4.5vw, 62px)/.95 Georgia, serif; }
-.credits-print-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 30px; }
-.credits-print-card { min-width: 0; }
-.credits-print-card h2 { color: var(--credits-blue); border-bottom: 2px solid var(--credits-gold); margin: 0 0 13px; padding-bottom: 9px; font: 700 16px/1.25 Georgia, serif; }
-.credits-print-card section { border-top: 1px solid #dce1da; padding: 10px 0 11px; }
-.credits-print-card section:first-child { border-top: 0; padding-top: 0; }
-.credits-print-card section p { color: #687872; letter-spacing: .025em; margin: 0 0 3px; font: 800 9px/1.35 Arial, sans-serif; }
-.credits-print-card section h3 { color: #304840; margin: 0; font: 15px/1.3 Georgia, serif; }
-
-.credits-print-rights { color: #f8f5ee; background: var(--credits-blue); margin: 0 calc(-1 * clamp(22px, 7vw, 130px)); padding: clamp(42px, 7vw, 94px) clamp(22px, 7vw, 130px); }
-.credits-print-rights > span { color: #f4cf50; letter-spacing: .14em; text-transform: uppercase; font: 800 10px Arial, sans-serif; }
-.credits-print-rights h2 { color: #fffdf7; letter-spacing: -.035em; max-width: 790px; margin: 14px 0 15px; font: clamp(32px, 4vw, 57px)/1 Georgia, serif; }
-.credits-print-rights p { max-width: 930px; margin: 0 0 17px; font: 16px/1.62 Georgia, serif; }
-.credits-print-convenio { padding-bottom: clamp(50px, 7vw, 90px); }
-.credits-convenio { color: #3c514a; max-width: 920px; margin: 0; font: 19px/1.65 Georgia, serif; }
-.credits-print-footer { border-top: 5px solid var(--credits-gold); display: flex; justify-content: space-between; gap: 20px; padding: 20px 0 30px; }
-.credits-print-footer a { color: var(--credits-blue); text-decoration: none; }
-
-@media (max-width: 850px) { .credits-print-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (max-width: 600px) {
-  .credits-print { padding-inline: 22px; }
-  .credits-print-grid { grid-template-columns: 1fr; gap: 27px; }
-  .credits-print-rights { margin-inline: -22px; padding-inline: 22px; }
-  .credits-print-masthead h1 { font-size: 68px; }
-  .credits-print-footer { align-items: flex-start; flex-direction: column; }
-}
+:root { --credit-ink: #0f1515; --credit-blue: #206782; --credit-red: #d25e43; --credit-paper: #faf7f0; }
+.credits-print { background: var(--credit-paper); color: var(--credit-ink); max-width: 1380px; margin: 0 auto; padding: clamp(24px, 4vw, 64px) clamp(22px, 5vw, 78px) 20px; }
+.credits-print-header { display: grid; grid-template-columns: minmax(190px, .8fr) minmax(480px, 2.1fr); align-items: start; gap: 28px; margin: 0 0 35px; }
+.credits-print-header > div { padding-top: 3px; }
+.credits-print-header a { color: var(--credit-blue); letter-spacing: .08em; text-transform: uppercase; font: 800 9px Arial, sans-serif; text-decoration: none; }
+.credits-print-header p { color: var(--credit-blue); margin: 27px 0 0; font: 700 16px/1.15 Georgia, serif; }
+.credits-print-header img { width: 100%; max-width: 760px; height: auto; justify-self: end; }
+.credits-print-columns { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(24px, 4vw, 64px); align-items: start; }
+.credits-print-card { margin: 0 0 25px; break-inside: avoid; }
+.credits-print-card h2, .credits-print-legal h2 { color: var(--credit-blue); margin: 0 0 7px; font: 700 13px/1.15 Georgia, serif; }
+.credits-print-card section { margin: 0 0 7px; }
+.credits-print-card section p { margin: 0 0 1px; font: 700 12px/1.17 Georgia, serif; }
+.credits-print-card section h3 { margin: 0; font: 11px/1.17 Georgia, serif; }
+.credits-print-card:nth-child(4) h2, .credits-print-card:nth-child(4) section p { color: var(--credit-red); }
+.credits-print-legal { border-top: 1px solid #aec1c1; margin-top: 9px; padding-top: 14px; }
+.credits-print-legal h2 { margin-top: 0; font-size: 12px; }
+.credits-print-legal p { margin: 0 0 11px; font: 9px/1.28 Georgia, serif; }
+.credits-print-legal p b { font-weight: 700; }
+.credits-print-legal em { color: var(--credit-red); font-style: normal; }
+.credits-print-footer { color: var(--credit-gold, #c9ad39); justify-content: space-between; display: flex; margin-top: 25px; font: 20px/1 Georgia, serif; }
+.credits-print-footer a { color: var(--credit-blue); font-size: 12px; text-decoration: none; }
+@media (max-width: 900px) { .credits-print-header { grid-template-columns: 1fr; } .credits-print-header img { justify-self: start; max-width: 640px; } .credits-print-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 620px) { .credits-print { padding: 26px 20px; } .credits-print-columns { grid-template-columns: 1fr; } .credits-print-header { gap: 18px; } .credits-print-header p { margin-top: 18px; } }
