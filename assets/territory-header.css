@@ -12,3 +12,23 @@
 .brand small {
   opacity: .88;
 }
+
+/* Acciones principales: Cal de muro, de la paleta de Palenque. */
+.topbar .photo-button,
+.topbar .guide-button,
+.topbar .context-button {
+  background: #E9D6B5;
+  box-shadow: 0 3px #C8B18D;
+  color: #392C2A;
+}
+
+.topbar .photo-button:hover,
+.topbar .guide-button:hover,
+.topbar .context-button:hover {
+  background: #E9D6B5;
+  filter: brightness(1.04);
+}
+
+.topbar .context-button span {
+  color: #392C2A;
+}
