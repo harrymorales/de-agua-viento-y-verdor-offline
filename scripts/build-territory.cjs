@@ -234,5 +234,5 @@ fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html>
 <link rel="stylesheet" href="../../assets/guide-layout-fix.css">
 <link rel="stylesheet" href="../../assets/brand-logo.css">
 <link rel="stylesheet" href="../../assets/territory-header.css">
-</head><body><div id="root"></div><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-4"></script></body></html>\n`, 'utf8');
+</head><body><div id="root"></div><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-5"></script></body></html>\n`, 'utf8');
 console.log(`Audioteca generada: territories/${slug}/index.html`);

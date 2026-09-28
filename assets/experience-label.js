@@ -47,7 +47,7 @@
 
     // On a generated territory page, the original brand button only resets
     // that copy of the app. It must return to the shared portal instead.
-    if (territory && label.includes('volver a las comunidades')) {
+    if (territory && (button.classList.contains('brand') || label.includes('volver a las comunidades'))) {
       event.preventDefault();
       event.stopImmediatePropagation();
       location.assign(new URL('../../index.html', location.href));
