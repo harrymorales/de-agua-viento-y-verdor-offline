@@ -28,6 +28,7 @@
 .title-wrap p {
   -webkit-line-clamp: unset;
   display: block;
+  max-height: none;
   overflow: visible;
 }
 
