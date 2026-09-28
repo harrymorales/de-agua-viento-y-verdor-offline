@@ -1,0 +1,10 @@
+/* Identidad gráfica compartida: reemplaza el símbolo naranja de las audiotecas. */
+.brand-mark {
+  background: #fff url("../favicon_audioteca_margen_blanco_reducido.png") center / cover no-repeat;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.brand-mark i {
+  display: none;
+}

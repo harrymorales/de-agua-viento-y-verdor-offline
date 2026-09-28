@@ -8,9 +8,9 @@
   "background_color": "#fffdf7",
   "icons": [
     {
-      "src": "favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "favicon_audioteca_margen_blanco_reducido.png",
+      "sizes": "2048x2048",
+      "type": "image/png",
       "purpose": "any"
     }
   ]

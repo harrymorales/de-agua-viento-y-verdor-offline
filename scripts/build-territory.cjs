@@ -207,8 +207,9 @@ fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html>
 <html lang="es"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#185775"><title>${territory.name} · De agua, viento y verdor</title>
-<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../../favicon_audioteca_margen_blanco_reducido.png" type="image/png">
 <link rel="stylesheet" href="../../assets/jsx-runtime-CZNtXjXx.css">
 <link rel="stylesheet" href="../../assets/guide-layout-fix.css">
+<link rel="stylesheet" href="../../assets/brand-logo.css">
 </head><body><div id="root"></div><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-4"></script></body></html>\n`, 'utf8');
 console.log(`Audioteca generada: territories/${slug}/index.html`);
