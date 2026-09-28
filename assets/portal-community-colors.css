@@ -1,0 +1,12 @@
+/* Colores guía de cada acceso comunitario en el mapa inicial. */
+.community-link.community-1 { --community-color: #137F92; } /* Raizal */
+.community-link.community-2 { --community-color: #B75635; } /* Palenque */
+.community-link.community-3 { --community-color: #32775E; } /* Cofán */
+.community-link.community-4 { --community-color: #465F91; } /* Inga */
+.community-link.community-5 { --community-color: #BB842D; color: #24211E; } /* Yukpa */
+.community-link.community-6 { --community-color: #713E73; } /* Rrom */
+
+.community-link { background: var(--community-color); }
+
+.community-link:hover { background: var(--community-color); filter: brightness(1.08); }
+.community-link:focus-visible { outline-color: #fff; }
