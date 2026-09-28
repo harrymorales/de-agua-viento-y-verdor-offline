@@ -108,6 +108,13 @@ for (const [from, to] of readingReplacements) {
 script = script.replaceAll('Hl.map(', 'qa.map(').replaceAll('Hl[we]', 'qa[we]');
 script = script.replace('onClick:()=>{U(E),Se("original")}', 'onClick:()=>{U(E),Pa(0),Se("original")}');
 
+// Some vocabulary sections include a short editorial note. Render it directly
+// below the section name without changing the vocabulary layout.
+const vocabularyHeaderMarker = '(0,s.jsx)("span",{children:q.number==="07"?qa[we].title:G||ae==="original"?q.title:q.spanishTitle||q.title})';
+const vocabularyHeaderReplacement = '(0,s.jsxs)("div",{className:"vocab-reading-title",children:[(0,s.jsx)("span",{children:q.number==="07"?qa[we].title:G||ae==="original"?q.title:q.spanishTitle||q.title}),q.number==="07"&&qa[we].note&&(0,s.jsx)("small",{children:qa[we].note})]})';
+if (!script.includes(vocabularyHeaderMarker)) throw new Error('No se encontró el encabezado del vocabulario para completar su nota.');
+script = script.replace(vocabularyHeaderMarker, vocabularyHeaderReplacement);
+
 // The source guide includes observation notes and inclusion adaptations.
 // Render them with the existing guide card treatment whenever content provides
 // those fields, so no text is hidden from the published experience.

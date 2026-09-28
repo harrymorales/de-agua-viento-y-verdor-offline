@@ -22,3 +22,22 @@
 
 .guide-track-link { appearance: none; border: 0; border-bottom: 1px solid currentColor; background: transparent; color: inherit; cursor: pointer; font: inherit; line-height: inherit; padding: 0; text-align: inherit; }
 .guide-track-link:hover, .guide-track-link:focus-visible { color: #185775; }
+
+/* The introductory text of each audio record is editorial content, not a card
+   preview. Keep the original typography but never cut a paragraph mid-sentence. */
+.title-wrap p {
+  -webkit-line-clamp: unset;
+  display: block;
+  overflow: visible;
+}
+
+.vocab-reading-title {
+  min-width: 0;
+}
+
+.vocab-reading-title small {
+  color: #53635b;
+  margin-top: 4px;
+  font: 13px/1.35 Georgia, serif;
+  display: block;
+}

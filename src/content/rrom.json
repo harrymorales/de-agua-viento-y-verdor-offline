@@ -903,12 +903,12 @@
     },
     {
       "title": "Otros atuendos",
+      "note": "(No incluidos en la grabación)",
       "items": [
         {
           "spanish": "Delantal",
           "romanes": "Cretinche",
-          "palenquero": "Cretinche",
-          "note": "No incluidos en la grabación."
+          "palenquero": "Cretinche"
         },
         {
           "spanish": "Pañoleta",
