@@ -116,22 +116,20 @@
 
   const escape = value => String(value).replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
   const people = entries => entries.map(([role, name]) => `<section><p>${escape(role)}</p><h3>${escape(name)}</h3></section>`).join('');
-  const cards = entries => entries.map(card => `<article class="credit-card"><h2>${escape(card.title)}</h2><div>${people(card.people)}</div></article>`).join('');
-  const sections = groups.map(group => `<section class="credits-section ${group.tone}"><div class="credits-section-title"><span>${group.number}</span><h2>${group.heading}</h2></div><div class="credits-grid">${cards(group.cards)}</div></section>`).join('');
+  const cards = entries => entries.map(card => `<article class="credits-print-card"><h2>${escape(card.title)}</h2><div>${people(card.people)}</div></article>`).join('');
+  const sections = groups.map(group => `<section class="credits-print-section"><header><span>${group.number}</span><h2>${group.heading}</h2></header><div class="credits-print-grid">${cards(group.cards)}</div></section>`).join('');
 
   document.getElementById('root').innerHTML = `
-    <main class="credits-page">
-      <header class="credits-hero">
-        <a href="index.html" class="credits-back">← Volver al inicio</a>
-        <span>Memoria editorial</span>
+    <main class="credits-page credits-print">
+      <header class="credits-print-masthead">
+        <a href="index.html" class="credits-print-back">← Volver al inicio</a>
+        <p>Audioteca <i>De agua, viento y verdor</i>, tomo IV</p>
+        <div><span>© CoCrea, 2026</span><span>Edición multilingüe</span><span>ISBN · Sin dato</span></div>
         <h1>Créditos</h1>
-        <p>Instituciones, comunidades y personas que hicieron posible la edición multilingüe de <i>De agua, viento y verdor, tomo IV</i>.</p>
+        <p class="credits-print-subtitle">Paisajes sonoros, cantos y relatos en lenguas nativas para niños y niñas</p>
       </header>
-      <section class="credits-band">
-        <b>Audioteca · tomo IV</b><span>© CoCrea, 2026</span><span>Edición multilingüe</span><span>ISBN · Sin dato</span><span>Bogotá D. C., Colombia</span>
-      </section>
       ${sections}
-      <section class="rights-note">
+      <section class="credits-print-rights">
         <span>Información editorial y derechos</span>
         <h2>Derechos colectivos y autorización de uso</h2>
         <p>© De los cantos, relatos, narraciones, vocabularios, músicas, sonoridades y demás expresiones culturales tradicionales: las comunidades palenquera, rrom, yukpa, raizal, inga y cofán, según corresponda a cada contenido.</p>
@@ -141,10 +139,10 @@
         <p>Las comunidades autorizan a CoCrea, el Ministerio de Educación Nacional y el Ministerio de las Culturas, las Artes y los Saberes, mediante licencia gratuita y no exclusiva, a reproducir, divulgar, distribuir y poner a disposición los contenidos aprobados de la Audioteca <i>De agua, viento y verdor, tomo IV</i>, en plataformas y medios institucionales, con fines educativos, culturales y de acceso público.</p>
         <p>Se permiten las adecuaciones técnicas, lingüísticas y de accesibilidad necesarias, siempre que no alteren su sentido cultural. Se prohíbe su comercialización o monetización.</p>
       </section>
-      <section class="credits-section credits-pale">
-        <div class="credits-section-title"><span>04</span><h2>Convenio</h2></div>
-        <p class="credits-convenio">Esta publicación es producto del <b>Convenio Interadministrativo No. CV-I-MEN-0001-2026</b>, suscrito entre el Ministerio de Educación Nacional, el Ministerio de las Culturas, las Artes y los Saberes y la Corporación Colombia Crea Talento – CoCrea.</p>
+      <section class="credits-print-section credits-print-convenio">
+        <header><span>04</span><h2>Convenio</h2></header>
+        <p class="credits-convenio">Esta publicación es producto del <b>Convenio Interadministrativo No. CVI-MEN-0001-2026</b>, suscrito entre el Ministerio de Educación Nacional, el Ministerio de las Culturas, las Artes y los Saberes No. 0932-2026 y la Corporación Colombia Crea Talento – CoCrea.</p>
       </section>
-      <footer class="credits-footer"><img src="images/portal/cobranding-blanco.png" alt="Ministerio de Educación, Ministerio de las Culturas y CoCrea"><a href="index.html">De agua, viento y verdor</a></footer>
+      <footer class="credits-print-footer"><span>Bogotá D. C., Colombia</span><a href="index.html">De agua, viento y verdor</a></footer>
     </main>`;
 })();
