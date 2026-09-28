@@ -1,0 +1,41 @@
+/* Visor ampliado para observar fotografías sin alterar la cuadrícula. */
+.photo-overlay {
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+}
+
+.photo-overlay .photo-panel {
+  width: min(1480px, 100%);
+  height: 100%;
+  max-height: none;
+  padding: clamp(14px, 2vw, 26px);
+}
+
+.photo-panel .photo-viewer {
+  flex: 1;
+  height: auto;
+  margin-top: 0;
+}
+
+.photo-panel .photo-frame {
+  padding: clamp(6px, 1.2vw, 16px);
+}
+
+.photo-panel .photo-frame img {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.photo-panel .photo-footer {
+  padding: 8px 2px 0;
+}
+
+@media (width <= 760px) {
+  .photo-overlay { padding: 6px; }
+  .photo-overlay .photo-panel { padding: 14px 12px 10px; }
+  .photo-panel .photo-footer { gap: 10px; padding-top: 6px; }
+}
