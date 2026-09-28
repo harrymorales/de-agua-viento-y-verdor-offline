@@ -71,9 +71,11 @@
         {
           title: 'Mango Producciones',
           people: [
+            { heading: 'Equipo lingüístico' },
             ['Par Lingüístico Rrom', 'Daniel Gómez'],
             ['Par Lingüístico Yukpa', 'Wilson Pardo'],
             ['Par Lingüístico Cofán', 'María Helena Tobar'],
+            { heading: 'Edición, mezcla y masterización' },
             ['Asistente mezcla', 'Adriana Moreno'],
             ['Ingeniero de mezcla y masterización', 'Pablo Martínez'],
             ['Asistente de mezcla', 'Mario Lora']
@@ -96,7 +98,8 @@
           ]
         },
         {
-          title: 'Producción editorial transmedia',
+          title: 'Producción editorial',
+          tone: 'credits-print-card--accent',
           people: [
             ['Producción ejecutiva', 'Lee Morales'],
             ['Administración', 'Katiana Avendaño'],
@@ -115,8 +118,10 @@
   ];
 
   const escape = value => String(value).replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
-  const people = entries => entries.map(([role, name]) => `<section><p>${escape(role)}</p><h3>${escape(name)}</h3></section>`).join('');
-  const card = entry => `<article class="credits-print-card"><h2>${escape(entry.title)}</h2><div>${people(entry.people)}</div></article>`;
+  const people = entries => entries.map(entry => entry.heading
+    ? `<h3 class="credits-print-subheading">${escape(entry.heading)}</h3>`
+    : `<section><p>${escape(entry[0])}</p><h3>${escape(entry[1])}</h3></section>`).join('');
+  const card = entry => `<article class="credits-print-card${entry.tone ? ` ${entry.tone}` : ''}"><h2>${escape(entry.title)}</h2><div>${people(entry.people)}</div></article>`;
   const legal = `
     <section class="credits-print-legal">
       <h2>Información editorial y derechos</h2>
