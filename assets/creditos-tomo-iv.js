@@ -144,6 +144,6 @@
         <section>${card(groups[1].cards[0])}${card(groups[1].cards[1])}${card(groups[2].cards[0])}${card(groups[1].cards[2])}</section>
         <section>${card(groups[2].cards[1])}${legal}</section>
       </div>
-      <footer class="credits-print-footer"><span>2</span><a href="index.html">De agua, viento y verdor</a></footer>
+      <footer class="credits-print-footer"><a href="index.html">De agua, viento y verdor</a></footer>
     </main>`;
 })();

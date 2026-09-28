@@ -16,7 +16,7 @@
 .credits-print-legal p { margin: 0 0 11px; font: 9px/1.28 Georgia, serif; }
 .credits-print-legal p b { font-weight: 700; }
 .credits-print-legal em { color: var(--credit-red); font-style: normal; }
-.credits-print-footer { color: var(--credit-gold, #c9ad39); justify-content: space-between; display: flex; margin-top: 25px; font: 20px/1 Georgia, serif; }
+.credits-print-footer { color: var(--credit-gold, #c9ad39); justify-content: flex-end; display: flex; margin-top: 25px; font: 20px/1 Georgia, serif; }
 .credits-print-footer a { color: var(--credit-blue); font-size: 12px; text-decoration: none; }
 @media (max-width: 900px) { .credits-print-header { grid-template-columns: 1fr; } .credits-print-header img { justify-self: start; max-width: 640px; } .credits-print-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 620px) { .credits-print { padding: 26px 20px; } .credits-print-columns { grid-template-columns: 1fr; } .credits-print-header { gap: 18px; } .credits-print-header p { margin-top: 18px; } }
