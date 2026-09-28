@@ -57,6 +57,8 @@
     const name = label.replace(/^ir a la audioteca\s+/, '');
     const slug = portalTerritories[name];
     if (!slug || (label !== name && label !== `ir a la audioteca ${name}`)) return;
+    const isPortalCommunityButton = button.classList.contains('community-link') || button.classList.contains('map-hotspot');
+    if (!isPortalCommunityButton) return;
     event.preventDefault();
     event.stopImmediatePropagation();
     const destination = territory ? `../${slug}/index.html` : `territories/${slug}/index.html`;
