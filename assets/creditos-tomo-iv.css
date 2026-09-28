@@ -1,0 +1,33 @@
+.credits-page .credit-card section {
+  border-top: 1px solid var(--line);
+  padding: 13px 0 15px;
+}
+
+.credits-page .credit-card section:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.credits-page .credit-card section p {
+  color: #60706a;
+  letter-spacing: .03em;
+  margin: 0 0 5px;
+  font: 700 10px/1.35 Arial, sans-serif;
+}
+
+.credits-page .credit-card section h3 {
+  color: #263d48;
+  margin: 0;
+  font: 18px/1.25 Georgia, serif;
+}
+
+.credits-page .rights-note h2 + p {
+  margin-top: 0;
+}
+
+.credits-page .credits-convenio {
+  color: #33443c;
+  max-width: 900px;
+  margin: 0;
+  font: 18px/1.6 Georgia, serif;
+}
