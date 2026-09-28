@@ -16,6 +16,17 @@ if (!territory) throw new Error(`No existe el territorio ${slug} en territories.
 const textPreview = territory.status === 'text-ready';
 if (territory.status !== 'published' && !textPreview) throw new Error(`${territory.name} está en estado ${territory.status}; complete y valide su contenido antes de construirlo.`);
 
+const territoryHeaders = {
+  palenque: { name: 'Palenque', tagline: 'Tierra, tambor y verdor', color: '#B75635', ink: '#FFFFFF' },
+  raizal: { name: 'Raizal', tagline: 'Mar, arrecife y luz insular', color: '#137F92', ink: '#FFFFFF' },
+  rrom: { name: 'Rrom', tagline: 'Camino, tejido y encuentro', color: '#713E73', ink: '#FFFFFF' },
+  inga: { name: 'Inga', tagline: 'Montaña, trama y páramo', color: '#465F91', ink: '#FFFFFF' },
+  cofan: { name: 'Cofán', tagline: 'Selva, río y sombra húmeda', color: '#32775E', ink: '#FFFFFF' },
+  yukpa: { name: 'Yukpa', tagline: 'Serranía, ave y fuego', color: '#BB842D', ink: '#24211E' }
+};
+const territoryHeader = territoryHeaders[slug];
+if (!territoryHeader) throw new Error(`No hay encabezado definido para ${slug}.`);
+
 const data = JSON.parse(fs.readFileSync(path.join(root, 'src', 'content', territory.contentFile), 'utf8'));
 // A text preview must never produce broken audio controls. The editable source
 // keeps the intended routes; only the generated preview omits playback until
@@ -129,6 +140,17 @@ script = script.replace('if(v!=="palenque")', `if(v!=="${slug}")`);
 // remains the shared point of entry and sends visitors to these pages.
 script = script.replace('let[v,z]=(0,pe.useState)(null)', `let[v,z]=(0,pe.useState)(${JSON.stringify(slug)})`);
 
+// Each territory keeps the shared header layout but identifies itself with its
+// editorial name, tagline and guide colour from the approved palette.
+const sharedHeader = '(0,s.jsxs)("span",{children:[(0,s.jsx)("b",{children:"De agua, viento y verdor"}),(0,s.jsx)("small",{children:"Volver a las comunidades"})]})';
+const territoryHeaderMarkup = `(0,s.jsxs)("span",{children:[(0,s.jsx)("b",{children:${JSON.stringify(territoryHeader.name)}}),(0,s.jsx)("small",{children:${JSON.stringify(territoryHeader.tagline)}})]})`;
+if (!script.includes(sharedHeader)) throw new Error('No se encontró el encabezado compartido en el motor original.');
+script = script.replace(sharedHeader, territoryHeaderMarkup);
+script = script.replace(
+  'className:"shell",children:',
+  `className:"shell",style:{"--territory-guide":${JSON.stringify(territoryHeader.color)},"--territory-header-ink":${JSON.stringify(territoryHeader.ink)}},children:`
+);
+
 // The original Palenque bundle hard-codes its vocabulary as track 07. Content
 // supplied for each territory identifies its own vocabulary record instead.
 const vocabularyTrackNumbers = renderData.tracks
@@ -211,5 +233,6 @@ fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html>
 <link rel="stylesheet" href="../../assets/jsx-runtime-CZNtXjXx.css">
 <link rel="stylesheet" href="../../assets/guide-layout-fix.css">
 <link rel="stylesheet" href="../../assets/brand-logo.css">
+<link rel="stylesheet" href="../../assets/territory-header.css">
 </head><body><div id="root"></div><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-4"></script></body></html>\n`, 'utf8');
 console.log(`Audioteca generada: territories/${slug}/index.html`);

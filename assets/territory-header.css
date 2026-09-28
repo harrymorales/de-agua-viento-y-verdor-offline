@@ -1,0 +1,14 @@
+/* Identidad de cada comunidad según la paleta editorial aprobada. */
+.topbar {
+  background: var(--territory-guide, #185775);
+  border-bottom-color: transparent;
+}
+
+.brand b,
+.brand small {
+  color: var(--territory-header-ink, #fff);
+}
+
+.brand small {
+  opacity: .88;
+}
