@@ -21,6 +21,7 @@
 }
 
 .photo-panel .photo-frame {
+  background: var(--territory-guide, #132d39);
   padding: clamp(6px, 1.2vw, 16px);
   position: relative;
 }
