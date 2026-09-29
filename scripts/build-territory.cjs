@@ -26,6 +26,15 @@ const territoryHeaders = {
 };
 const territoryHeader = territoryHeaders[slug];
 if (!territoryHeader) throw new Error(`No hay encabezado definido para ${slug}.`);
+const territoryMapImages = {
+  palenque: 'Palenque.png',
+  raizal: 'Raizal.png',
+  rrom: 'Rrom.png',
+  inga: 'Inga.png',
+  cofan: 'Cofa\u0301n.png',
+  yukpa: 'Yukpa.png'
+};
+const territoryMapImage = `images/portal/Mapas/${territoryMapImages[slug]}`;
 
 const data = JSON.parse(fs.readFileSync(path.join(root, 'src', 'content', territory.contentFile), 'utf8'));
 // A text preview must never produce broken audio controls. The editable source
@@ -35,6 +44,13 @@ const renderData = textPreview
   ? { ...data, tracks: data.tracks.map(track => ({ ...track, audio: '', audioFallback: '' })) }
   : data;
 let script = fs.readFileSync(path.join(root, 'assets', 'offline-index.js'), 'utf8');
+
+if (slug === 'palenque') {
+  const currentMapSource = 'src:"images/portal/mapa-comunidades.png"';
+  const mapPosition = script.lastIndexOf(currentMapSource);
+  if (mapPosition < 0) throw new Error('No se encontró el mapa de Palenque en el motor original.');
+  script = `${script.slice(0, mapPosition)}src:${JSON.stringify(territoryMapImage)}${script.slice(mapPosition + currentMapSource.length)}`;
+}
 
 function findExpressionStart(code, variable) {
   const marker = `${variable}=`;
@@ -206,7 +222,7 @@ if (slug !== 'palenque') {
   const cultureChildren = [
     `(0,s.jsx)("div",{className:"culture-label",children:"Ficha de la comunidad"})`,
     `(0,s.jsx)("h3",{children:${JSON.stringify(renderData.meta.name)}})`,
-    `(0,s.jsxs)("div",{className:"culture-layout",children:[(0,s.jsx)("dl",{children:[${factRows}]}),(0,s.jsx)("div",{className:"map-wrap",children:(0,s.jsx)("img",{src:"images/portal/mapa-comunidades.png",alt:${JSON.stringify(`Mapa ilustrado de Colombia con la ubicación de la comunidad ${renderData.meta.name}`)}})})]})`,
+    `(0,s.jsxs)("div",{className:"culture-layout",children:[(0,s.jsx)("dl",{children:[${factRows}]}),(0,s.jsx)("div",{className:"map-wrap",children:(0,s.jsx)("img",{src:${JSON.stringify(territoryMapImage)},alt:${JSON.stringify(`Mapa ilustrado de Colombia con la ubicación de la comunidad ${renderData.meta.name}`)}})})]})`,
     profile.heritageNote ? `(0,s.jsx)("p",{className:"heritage-note",children:${JSON.stringify(profile.heritageNote)}})` : ''
   ].filter(Boolean).join(',');
   const cultureMarker = 'className:"culture-card",children:';
@@ -235,5 +251,5 @@ fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html>
 <link rel="stylesheet" href="../../assets/brand-logo.css">
 <link rel="stylesheet" href="../../assets/territory-header.css">
 <link rel="stylesheet" href="../../assets/photo-viewer.css?v=5">
-</head><body><div id="root"></div><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-6"></script></body></html>\n`, 'utf8');
+</head><body><div id="root"></div><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-6"></script><script src="../../assets/portal-map-updates.js?v=1"></script></body></html>\n`, 'utf8');
 console.log(`Audioteca generada: territories/${slug}/index.html`);

@@ -8,22 +8,10 @@
       "contentFile": "palenque.original.json"
     },
     {
-      "slug": "raizal",
-      "name": "Raizal",
+      "slug": "rrom",
+      "name": "Rrom",
       "status": "published",
-      "contentFile": "raizal.json"
-    },
-    {
-      "slug": "cofan",
-      "name": "Cofán",
-      "status": "published",
-      "contentFile": "cofan.json"
-    },
-    {
-      "slug": "inga",
-      "name": "Inga",
-      "status": "published",
-      "contentFile": "inga.json"
+      "contentFile": "rrom.json"
     },
     {
       "slug": "yukpa",
@@ -32,10 +20,22 @@
       "contentFile": "yukpa.json"
     },
     {
-      "slug": "rrom",
-      "name": "Rrom",
+      "slug": "raizal",
+      "name": "Raizal",
       "status": "published",
-      "contentFile": "rrom.json"
+      "contentFile": "raizal.json"
+    },
+    {
+      "slug": "inga",
+      "name": "Inga",
+      "status": "published",
+      "contentFile": "inga.json"
+    },
+    {
+      "slug": "cofan",
+      "name": "Cofán",
+      "status": "published",
+      "contentFile": "cofan.json"
     }
   ]
 }
