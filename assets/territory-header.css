@@ -39,6 +39,7 @@
   justify-self: center;
   width: 100%;
   max-width: 420px;
+  height: auto;
   min-height: 0;
   line-height: 0;
 }
