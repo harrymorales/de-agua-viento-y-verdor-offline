@@ -1,4 +1,7 @@
 /* Colores guía de cada acceso comunitario en el mapa inicial. */
+.portal-home,
+.site-preloader { background: #F4EDE3; }
+
 .community-link.community-1 { --community-color: #137F92; } /* Raizal */
 .community-link.community-2 { --community-color: #B75635; } /* Palenque */
 .community-link.community-3 { --community-color: #32775E; } /* Cofán */
