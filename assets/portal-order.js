@@ -10,6 +10,7 @@
     const ordered = approvedOrder
       .map(name => buttons.find(button => normalize(button.textContent).includes(name)))
       .filter(Boolean);
+    if (ordered.length !== approvedOrder.length || ordered.every((button, index) => buttons[index] === button)) return;
     ordered.forEach(button => container.appendChild(button));
   };
 
