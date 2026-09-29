@@ -18,6 +18,5 @@
     orderCommunities(document.querySelector('.community-map'));
     orderCommunities(document.querySelector('.map-art'));
   };
-  update();
-  requestAnimationFrame(update);
+  [0, 50, 200, 600].forEach(delay => window.setTimeout(update, delay));
 })();
