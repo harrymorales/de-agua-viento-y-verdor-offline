@@ -19,5 +19,5 @@
     orderCommunities(document.querySelector('.map-art'));
   };
   update();
-  new MutationObserver(update).observe(document.body, { childList: true, subtree: true });
+  requestAnimationFrame(update);
 })();
