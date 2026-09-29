@@ -32,3 +32,19 @@
 .topbar .context-button span {
   color: #392C2A;
 }
+
+/* El fondo del mapa acompaña exactamente el tamaño de la ilustración. */
+.culture-layout .map-wrap {
+  align-self: start;
+  justify-self: center;
+  width: 100%;
+  max-width: 420px;
+  min-height: 0;
+  line-height: 0;
+}
+
+.culture-layout .map-wrap img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
