@@ -10,3 +10,20 @@
 
 .community-link:hover { background: var(--community-color); filter: brightness(1.08); }
 .community-link:focus-visible { outline-color: #fff; }
+
+/* Orden aprobado: Palenque, Rrom, Yukpa, Raizal, Inga y Cofán. */
+.community-link.community-2 { order: 1; }
+.community-link.community-6 { order: 2; }
+.community-link.community-5 { order: 3; }
+.community-link.community-1 { order: 4; }
+.community-link.community-4 { order: 5; }
+.community-link.community-3 { order: 6; }
+
+@media (min-width: 681px) {
+  .community-link.community-2 { bottom: 30%; left: 10%; right: auto; }
+  .community-link.community-6 { bottom: 27%; left: 27%; right: auto; }
+  .community-link.community-5 { bottom: 26%; left: 42%; right: auto; }
+  .community-link.community-1 { bottom: 26%; left: auto; right: 42%; }
+  .community-link.community-4 { bottom: 27%; left: auto; right: 25%; }
+  .community-link.community-3 { bottom: 30%; left: auto; right: 9%; }
+}
