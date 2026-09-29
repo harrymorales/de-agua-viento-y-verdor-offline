@@ -49,3 +49,11 @@
   width: 100%;
   height: auto;
 }
+
+/* Flujo editorial de cada registro: texto, audio, ilustración y experiencia. */
+.stage > .title-wrap { order: 1; }
+.stage > .vocab-categories { order: 2; }
+.stage > .player { order: 3; margin-top: 18px; }
+.stage > .record-illustration { order: 4; }
+.stage > .record-activities { order: 5; }
+.stage > .listening-prompt { order: 6; }
