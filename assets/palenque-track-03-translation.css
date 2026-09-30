@@ -1,0 +1,14 @@
+/* La pista 04 conserva su audio, sin panel de texto asociado. */
+.palenque-track-04 .workspace {
+  grid-template-columns: 270px minmax(0, 1fr);
+}
+
+.palenque-track-04 .reading-rail { display: none; }
+
+@media (max-width: 980px) {
+  .palenque-track-04 .workspace { grid-template-columns: 210px minmax(0, 1fr); }
+}
+
+@media (max-width: 760px) {
+  .palenque-track-04 .workspace { display: flex; }
+}
