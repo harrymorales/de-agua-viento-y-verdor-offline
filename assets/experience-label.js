@@ -240,4 +240,21 @@
   const syncGuideContent = () => { syncGuideIntroduction(); addGuideTrackLinks(); };
   syncGuideContent();
   new MutationObserver(syncGuideContent).observe(document.body, { childList: true, subtree: true });
+
+  // React reuses the scrollable reader between experiences. Reset its
+  // position after selecting one so every experience opens at its heading.
+  const resetExperienceReader = () => {
+    requestAnimationFrame(() => {
+      const reader = document.querySelector('.activity-reader');
+      if (!reader) return;
+      reader.scrollTop = 0;
+      window.setTimeout(() => { reader.scrollTop = 0; }, 40);
+    });
+  };
+  document.addEventListener('click', event => {
+    const button = event.target.closest('button');
+    if (!button) return;
+    const label = button.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase();
+    if (label.startsWith('ver experiencia') || label.startsWith('ver actividad')) resetExperienceReader();
+  });
 })();
