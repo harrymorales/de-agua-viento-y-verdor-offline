@@ -28,17 +28,16 @@
   .portal-04 { bottom: 58px; }
 
   .community-link {
-    bottom: 12%;
     right: auto;
     transform: translateX(-50%);
   }
 
-  .community-link.community-2 { left: 10%; } /* Palenque */
-  .community-link.community-6 { left: 25%; } /* Rrom */
-  .community-link.community-5 { left: 41%; } /* Yukpa */
-  .community-link.community-1 { left: 57%; } /* Raizal */
-  .community-link.community-4 { left: 73%; } /* Inga */
-  .community-link.community-3 { left: 88%; } /* Cofán */
+  .community-link.community-2 { bottom: 12%; left: 10%; } /* Palenque */
+  .community-link.community-6 { bottom: 12%; left: 25%; } /* Rrom */
+  .community-link.community-5 { bottom: 12%; left: 41%; } /* Yukpa */
+  .community-link.community-1 { bottom: 12%; left: 57%; } /* Raizal */
+  .community-link.community-4 { bottom: 12%; left: 73%; } /* Inga */
+  .community-link.community-3 { bottom: 12%; left: 88%; } /* Cofán */
 }
 
 /* Acerca los accesos al bloque editorial en teléfono, sin tocar la ilustración. */
