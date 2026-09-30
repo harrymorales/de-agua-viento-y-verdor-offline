@@ -1,10 +1,10 @@
-/* Las pistas 03 y 04 de Palenque tienen una sola lectura: no requieren pestaña. */
+/* Las pistas con una sola lectura no requieren pestaña de idioma. */
 (() => {
   const syncSingleLanguageReading = () => {
     const number = document.querySelector('.record.active .record-number')?.textContent.trim();
     document.querySelector('.shell')?.classList.toggle(
       'single-language-track',
-      number === '03' || number === '04'
+      ['03', '04', '06', '07', '10', '11'].includes(number)
     );
   };
 
