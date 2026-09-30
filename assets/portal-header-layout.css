@@ -63,6 +63,11 @@
   outline: 0;
 }
 
+@media (min-width: 681px) {
+  /* Evita que el control de música cubra el acceso a Palenque. */
+  .home-sound { top: 92px; bottom: auto; }
+}
+
 @media (max-width: 680px) {
   .portal-home .portal-footer.portal-header {
     height: 64px;
