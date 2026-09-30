@@ -57,3 +57,17 @@
 .stage > .record-illustration { order: 4; }
 .stage > .record-activities { order: 5; }
 .stage > .listening-prompt { order: 6; }
+
+/* Portada móvil: el contenido se lee antes del borde inferior y no choca
+   con la pestaña «Acerca de…». */
+@media (max-width: 760px) {
+  .cover .cover-copy {
+    align-self: flex-start;
+    margin: clamp(210px, 30vh, 300px) 0 0;
+    padding: 24px;
+  }
+
+  .cover .cover-copy p {
+    margin: 16px 0;
+  }
+}
