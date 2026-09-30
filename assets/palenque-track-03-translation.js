@@ -22,7 +22,7 @@
     if (!reading || !copy || !tabs) return;
 
     reading.classList.remove('single-reading');
-    const palenqueroText = copy.textContent;
+    const palenqueroText = copy.querySelector('p')?.textContent || copy.textContent;
     const source = await getContent();
     const originalTrack = source.tracks.find(track => track.number === number);
     const translationTrack = source.tracks.find(track => track.number === pairs[number]);
@@ -40,7 +40,9 @@
       const isPalenquero = language === 'palenquero';
       palenquero.classList.toggle('selected', isPalenquero);
       spanish.classList.toggle('selected', !isPalenquero);
-      copy.textContent = isPalenquero ? palenqueroText : translation;
+      const paragraph = document.createElement('p');
+      paragraph.textContent = isPalenquero ? palenqueroText : translation;
+      copy.replaceChildren(paragraph);
       if (heading) heading.textContent = isPalenquero ? originalTrack.title : translationTrack.title;
       copy.scrollTop = 0;
     };
