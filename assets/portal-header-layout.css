@@ -1,0 +1,79 @@
+/* Encabezado institucional del inicio. */
+.portal-home .portal-footer.portal-header {
+  z-index: 18;
+  position: absolute;
+  inset: 0 0 auto;
+  height: 76px;
+  padding: 10px clamp(22px, 4vw, 64px);
+  background: var(--sound-blue-dark, #185775);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.portal-header-brand,
+.portal-header-partners {
+  min-width: 0;
+  display: flex;
+  align-items: center;
+}
+
+.portal-header-brand { gap: 10px; }
+
+.portal-header-brand img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.portal-header-brand span {
+  color: #fff;
+  letter-spacing: -.025em;
+  font: 700 clamp(18px, 2.1vw, 27px)/1 Georgia, serif;
+}
+
+.portal-header-partners { gap: 18px; }
+
+.portal-header-partners > img {
+  width: min(360px, 36vw);
+  height: 42px;
+  object-fit: contain;
+  object-position: right center;
+}
+
+.portal-header-partners > a {
+  color: #fff;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  border: 1px solid #ffffff6b;
+  border-radius: 999px;
+  padding: 9px 14px;
+  flex: none;
+  font-size: 9px;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.portal-header-partners > a:hover,
+.portal-header-partners > a:focus-visible {
+  color: var(--sound-blue-dark, #185775);
+  background: var(--yellow, #f3c94a);
+  outline: 0;
+}
+
+@media (max-width: 680px) {
+  .portal-home .portal-footer.portal-header {
+    height: 64px;
+    padding: 8px 15px;
+    gap: 10px;
+  }
+
+  .portal-header-brand { gap: 7px; }
+  .portal-header-brand img { width: 35px; height: 35px; }
+  .portal-header-brand span { max-width: 145px; font-size: 16px; }
+  .portal-header-partners { gap: 9px; }
+  .portal-header-partners > img { width: min(112px, 29vw); height: 30px; }
+  .portal-header-partners > a { padding: 7px 9px; font-size: 7px; }
+}
