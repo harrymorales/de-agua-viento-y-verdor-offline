@@ -1,0 +1,44 @@
+/* Los accesos del mapa usan el retrato ya ilustrado de cada comunidad.
+   Solo aparece una ampliación al pasar el cursor o recibir foco. */
+.map-art .map-hotspot {
+  overflow: visible;
+  z-index: 1;
+}
+
+.map-art .map-hotspot::after {
+  content: "";
+  pointer-events: none;
+  opacity: 0;
+  background-image: var(--spot-map-image);
+  background-repeat: no-repeat;
+  background-size: var(--spot-map-size);
+  background-position: var(--spot-map-position);
+  border: 3px solid #fff;
+  border-radius: 50%;
+  width: 106px;
+  height: 106px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(.78);
+  transition: opacity .18s ease, transform .18s ease;
+  box-shadow: 0 7px 18px #173f5552;
+}
+
+.map-art .map-hotspot:hover::after,
+.map-art .map-hotspot:focus-visible::after {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.map-art .map-hotspot:focus-visible {
+  outline: 3px solid var(--yellow);
+  outline-offset: 4px;
+}
+
+@media (max-width: 680px) {
+  .map-art .map-hotspot::after {
+    width: 82px;
+    height: 82px;
+  }
+}

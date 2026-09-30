@@ -22,6 +22,22 @@
         cofan: ['44%', '81%', '19%']
       };
 
+      const syncSpotlights = () => {
+        const mapBounds = communityMap.getBoundingClientRect();
+        if (!mapBounds.width || !mapBounds.height) return;
+        const lensSize = window.matchMedia('(max-width: 680px)').matches ? 82 : 106;
+        document.querySelectorAll('.map-hotspot').forEach((button) => {
+          const slug = Object.keys(coordinates).find((name) => button.classList.contains(`hotspot-${name}`));
+          if (!slug) return;
+          const [left, top] = coordinates[slug];
+          const x = mapBounds.width * parseFloat(left) / 100;
+          const y = mapBounds.height * parseFloat(top) / 100;
+          button.style.setProperty('--spot-map-image', `url("${communityMap.currentSrc || communityMap.src}")`);
+          button.style.setProperty('--spot-map-size', `${mapBounds.width}px ${mapBounds.height}px`);
+          button.style.setProperty('--spot-map-position', `${lensSize / 2 - x}px ${lensSize / 2 - y}px`);
+        });
+      };
+
       document.querySelectorAll('.map-hotspot').forEach((button) => {
         const slug = Object.keys(coordinates).find((name) => button.classList.contains(`hotspot-${name}`));
         if (!slug) return;
@@ -30,6 +46,9 @@
         const label = button.querySelector('span');
         if (label) label.style.display = 'none';
       });
+      communityMap.addEventListener('load', syncSpotlights, { once: true });
+      requestAnimationFrame(syncSpotlights);
+      window.addEventListener('resize', syncSpotlights);
     }
 
   }
