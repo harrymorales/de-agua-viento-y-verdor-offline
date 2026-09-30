@@ -64,6 +64,10 @@
 }
 
 @media (min-width: 681px) {
+  /* Las aves y el follaje comienzan bajo el encabezado institucional. */
+  .portal-01,
+  .portal-02 { top: 76px; }
+
   /* Evita que el control de música cubra el acceso a Palenque. */
   .home-sound { top: 92px; bottom: auto; }
 }
@@ -81,4 +85,7 @@
   .portal-header-partners { gap: 9px; }
   .portal-header-partners > img { width: min(112px, 29vw); height: 30px; }
   .portal-header-partners > a { padding: 7px 9px; font-size: 7px; }
+
+  .portal-01,
+  .portal-02 { top: 64px; }
 }
