@@ -99,12 +99,21 @@
 }
 
 .photo-panel .photo-grid .photo-card {
+  aspect-ratio: 4 / 3;
+  background: #000;
+  border-radius: 14px;
+  display: block;
   min-width: 0;
-  height: auto;
   margin: 0;
+  overflow: hidden;
 }
 
-.photo-panel .photo-grid .photo-card img { height: auto; }
+.photo-panel .photo-grid .photo-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
 
 @media (max-width: 1024px) {
   .photo-panel .photo-grid {
