@@ -21,9 +21,15 @@
 }
 
 .photo-panel .photo-frame {
-  background: var(--territory-guide, #132d39);
+  background: #000;
   padding: clamp(6px, 1.2vw, 16px);
   position: relative;
+}
+
+/* La fototeca se presenta sin numeración visible. */
+.photo-panel .photo-grid .photo-card > span,
+.photo-panel .photo-footer > div > span {
+  display: none;
 }
 
 .photo-panel .photo-frame img {
