@@ -11,6 +11,8 @@
 
 .community-link { background: var(--community-color); }
 
+.community-link b { font-weight: 700; }
+
 .community-link:hover { background: var(--community-color); filter: brightness(1.08); }
 .community-link:focus-visible { outline-color: #fff; }
 
