@@ -63,7 +63,7 @@
 @media (max-width: 760px) {
   .cover .cover-copy {
     align-self: flex-start;
-    margin: clamp(210px, 30vh, 300px) 0 0;
+    margin: 0;
     padding: 24px;
   }
 
