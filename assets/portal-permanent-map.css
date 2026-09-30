@@ -1,0 +1,34 @@
+/* En pantallas amplias, el mapa acompaña permanentemente al inicio. */
+@media (min-width: 900px) {
+  .portal-home {
+    width: 69vw;
+    min-width: 0;
+  }
+
+  .portal-home .territory-map,
+  .portal-home .territory-map.open {
+    width: 31vw;
+    height: 100dvh;
+    max-height: none;
+    background: #f6efdf;
+    border-top: 0;
+    border-left: 1px solid #d5cdbd;
+    position: fixed;
+    inset: 0 0 auto auto;
+    transform: none;
+    transition: none;
+    box-shadow: -12px 0 30px #1b43521f;
+  }
+
+  .portal-home .map-toggle { display: none; }
+
+  .portal-home .map-content {
+    height: 100%;
+    padding: clamp(24px, 3vw, 46px) clamp(18px, 2vw, 32px) 32px;
+  }
+
+  .portal-home .map-art {
+    width: min(100%, 390px);
+    margin-top: clamp(16px, 2.5vw, 30px);
+  }
+}
