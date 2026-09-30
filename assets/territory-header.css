@@ -70,6 +70,11 @@
   margin: 10px 0 0;
   object-position: left top;
 }
+
+/* Una sola lectura no necesita mostrar una pestaña de idioma. */
+.shell.single-language-track .reading-tabs {
+  display: none;
+}
 .stage > .record-activities { order: 5; }
 .stage > .listening-prompt { order: 6; }
 
