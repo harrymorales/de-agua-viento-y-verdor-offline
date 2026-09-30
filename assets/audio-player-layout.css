@@ -1,34 +1,8 @@
-/* Lectura clara de tiempos y barra de progreso sin marcador circular. */
-.real-player .audio-track input {
-  -webkit-appearance: none;
-  appearance: none;
-  height: 5px;
-  background: transparent;
-}
-
-.real-player .audio-track input::-webkit-slider-runnable-track {
-  height: 5px;
-  background: #39413b;
-  border-radius: 999px;
-}
-
-.real-player .audio-track input::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
-  width: 0;
-  height: 0;
-}
-
-.real-player .audio-track input::-moz-range-track {
-  height: 5px;
-  background: #39413b;
-  border-radius: 999px;
-}
-
-.real-player .audio-track input::-moz-range-thumb {
-  width: 0;
-  height: 0;
-  border: 0;
+/* Lectura clara de tiempos, conservando el seguimiento de la pista. */
+.real-player .audio-play,
+.real-player .audio-play:hover,
+.real-player .audio-play:active {
+  box-shadow: none;
 }
 
 .real-player .audio-track div {
