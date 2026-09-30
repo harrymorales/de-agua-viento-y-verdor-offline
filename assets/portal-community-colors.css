@@ -25,19 +25,21 @@
 @media (min-width: 681px) {
   /* Cada acceso se ubica bajo el niño que representa su comunidad. */
   .portal-03,
-  .portal-04 { bottom: 58px; }
+  .portal-04 { bottom: clamp(-35px, calc(110px - 16vh), 25px); }
 
   .community-link {
     right: auto;
     transform: translateX(-50%);
   }
 
-  .community-link.community-2 { bottom: 12%; left: 10%; } /* Palenque */
-  .community-link.community-6 { bottom: 12%; left: 25%; } /* Rrom */
-  .community-link.community-5 { bottom: 12%; left: 41%; } /* Yukpa */
-  .community-link.community-1 { bottom: 12%; left: 57%; } /* Raizal */
-  .community-link.community-4 { bottom: 12%; left: 73%; } /* Inga */
-  .community-link.community-3 { bottom: 12%; left: 88%; } /* Cofán */
+  .community-link.community-2 { bottom: clamp(32px, 4.5vh, 48px); left: 10%; } /* Palenque */
+  .community-link.community-6 { bottom: clamp(32px, 4.5vh, 48px); left: 25%; } /* Rrom */
+  .community-link.community-5 { bottom: clamp(32px, 4.5vh, 48px); left: 41%; } /* Yukpa */
+  .community-link.community-1 { bottom: clamp(32px, 4.5vh, 48px); left: 57%; } /* Raizal */
+  .community-link.community-4 { bottom: clamp(32px, 4.5vh, 48px); left: 73%; } /* Inga */
+  .community-link.community-3 { bottom: clamp(32px, 4.5vh, 48px); left: 88%; } /* Cofán */
+
+  .portal-hint { display: none; }
 }
 
 /* Acerca los accesos al bloque editorial en teléfono, sin tocar la ilustración. */
