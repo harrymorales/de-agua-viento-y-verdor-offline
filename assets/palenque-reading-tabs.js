@@ -4,7 +4,7 @@
     const number = document.querySelector('.record.active .record-number')?.textContent.trim();
     document.querySelector('.shell')?.classList.toggle(
       'single-language-track',
-      ['04', '06', '07', '10', '11'].includes(number)
+      ['04', '07', '11'].includes(number)
     );
   };
 

@@ -1,16 +1,20 @@
-/* La versión en español de la historia acompaña la pista en palenquero. */
+/* Las traducciones acompañan las pistas originales en palenquero. */
 (() => {
-  let spanishText;
-
-  const getSpanishText = async () => {
-    if (spanishText) return spanishText;
-    const response = await fetch('../../src/content/palenque.original.json');
-    const content = await response.json();
-    spanishText = content.tracks.find(track => track.number === '04')?.translation || '';
-    return spanishText;
+  let content;
+  const pairs = {
+    '03': '04',
+    '06': '07',
+    '10': '11'
   };
 
-  const installTrack03Tabs = async () => {
+  const getContent = async () => {
+    if (content) return content;
+    const response = await fetch('../../src/content/palenque.original.json');
+    content = await response.json();
+    return content;
+  };
+
+  const installTranslationTabs = async (number) => {
     const reading = document.querySelector('.reading');
     const copy = reading?.querySelector('.scroll-copy');
     const tabs = reading?.querySelector('.reading-tabs');
@@ -19,8 +23,11 @@
 
     reading.classList.remove('single-reading');
     const palenqueroText = copy.textContent;
-    const translation = await getSpanishText();
-    if (!translation) return;
+    const source = await getContent();
+    const originalTrack = source.tracks.find(track => track.number === number);
+    const translationTrack = source.tracks.find(track => track.number === pairs[number]);
+    const translation = translationTrack?.translation;
+    if (!originalTrack || !translation) return;
 
     tabs.replaceChildren();
     const palenquero = document.createElement('button');
@@ -34,7 +41,7 @@
       palenquero.classList.toggle('selected', isPalenquero);
       spanish.classList.toggle('selected', !isPalenquero);
       copy.textContent = isPalenquero ? palenqueroText : translation;
-      if (heading) heading.textContent = isPalenquero ? 'Itoria ri Palenge' : 'Historia de Palenque';
+      if (heading) heading.textContent = isPalenquero ? originalTrack.title : translationTrack.title;
       copy.scrollTop = 0;
     };
 
@@ -47,10 +54,10 @@
   const syncReading = () => {
     const number = document.querySelector('.record.active .record-number')?.textContent.trim();
     const shell = document.querySelector('.shell');
-    shell?.classList.toggle('palenque-track-04', number === '04');
+    shell?.classList.toggle('palenque-translation-audio', ['04', '07', '11'].includes(number));
 
-    if (number === '03') window.setTimeout(() => void installTrack03Tabs(), 80);
-    if (number === '04') {
+    if (pairs[number]) window.setTimeout(() => void installTranslationTabs(number), 80);
+    if (['04', '07', '11'].includes(number)) {
       window.setTimeout(() => document.querySelector('.collapse-reading')?.click(), 80);
     }
   };
