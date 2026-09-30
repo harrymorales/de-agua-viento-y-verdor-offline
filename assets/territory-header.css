@@ -64,7 +64,12 @@
 .stage > .title-wrap { order: 1; }
 .stage > .vocab-categories { order: 2; }
 .stage > .player { order: 3; margin-top: 18px; }
-.stage > .record-illustration { order: 4; }
+.stage > .record-illustration {
+  order: 4;
+  align-self: flex-start;
+  margin: 10px 0 0;
+  object-position: left top;
+}
 .stage > .record-activities { order: 5; }
 .stage > .listening-prompt { order: 6; }
 
