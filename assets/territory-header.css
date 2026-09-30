@@ -75,6 +75,11 @@
 .shell.single-language-track .reading-tabs {
   display: none;
 }
+
+/* Las fichas de comunidad se recorren únicamente de arriba hacia abajo. */
+.context-panel .context-scroll {
+  overflow-x: hidden;
+}
 .stage > .record-activities { order: 5; }
 .stage > .listening-prompt { order: 6; }
 
