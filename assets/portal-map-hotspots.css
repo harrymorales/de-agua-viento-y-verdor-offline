@@ -31,9 +31,9 @@
   transform: translate(-50%, -50%) scale(1);
 }
 
+.map-art .map-hotspot:hover,
 .map-art .map-hotspot:focus-visible {
-  outline: 3px solid var(--yellow);
-  outline-offset: 4px;
+  outline: 0;
 }
 
 @media (max-width: 680px) {

@@ -14,12 +14,12 @@
       communityMap.src = assetPath('images/portal/Mapas/Mapa Comunidades.png');
 
       const coordinates = {
-        raizal: ['8%', '11%', '18%'],
-        palenque: ['44%', '31%', '19%'],
-        yukpa: ['65%', '22%', '19%'],
-        rrom: ['55%', '51%', '19%'],
-        inga: ['23%', '70%', '19%'],
-        cofan: ['44%', '81%', '19%']
+        raizal: ['8.5%', '9%', '18%'],
+        palenque: ['43.2%', '24%', '19%'],
+        yukpa: ['64.4%', '25.8%', '19%'],
+        rrom: ['51%', '51.4%', '19%'],
+        inga: ['30.7%', '71.4%', '19%'],
+        cofan: ['46.1%', '81.7%', '19%']
       };
 
       const syncSpotlights = () => {
@@ -29,9 +29,9 @@
         document.querySelectorAll('.map-hotspot').forEach((button) => {
           const slug = Object.keys(coordinates).find((name) => button.classList.contains(`hotspot-${name}`));
           if (!slug) return;
-          const [left, top] = coordinates[slug];
-          const x = mapBounds.width * parseFloat(left) / 100;
-          const y = mapBounds.height * parseFloat(top) / 100;
+          const buttonBounds = button.getBoundingClientRect();
+          const x = buttonBounds.left + buttonBounds.width / 2 - mapBounds.left;
+          const y = buttonBounds.top + buttonBounds.height / 2 - mapBounds.top;
           button.style.setProperty('--spot-map-image', `url("${communityMap.currentSrc || communityMap.src}")`);
           button.style.setProperty('--spot-map-size', `${mapBounds.width}px ${mapBounds.height}px`);
           button.style.setProperty('--spot-map-position', `${lensSize / 2 - x}px ${lensSize / 2 - y}px`);
