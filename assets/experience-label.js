@@ -251,10 +251,19 @@
       window.setTimeout(() => { reader.scrollTop = 0; }, 40);
     });
   };
+  const resetArticleReader = () => {
+    requestAnimationFrame(() => {
+      const reader = document.querySelector('.article-reader');
+      if (!reader) return;
+      reader.scrollTop = 0;
+      window.setTimeout(() => { reader.scrollTop = 0; }, 40);
+    });
+  };
   document.addEventListener('click', event => {
     const button = event.target.closest('button');
     if (!button) return;
     const label = button.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase();
     if (label.startsWith('ver experiencia') || label.startsWith('ver actividad')) resetExperienceReader();
+    if (label.startsWith('leer más') || label.startsWith('leer mas')) resetArticleReader();
   });
 })();
