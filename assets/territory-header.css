@@ -42,12 +42,22 @@
   height: auto;
   min-height: 0;
   line-height: 0;
+  background: transparent;
 }
 
 .culture-layout .map-wrap img {
   display: block;
   width: 100%;
   height: auto;
+}
+
+/* La nota se integra a la ficha: sin caja y con lectura en blanco. */
+.culture-card .heritage-note {
+  background: transparent;
+  border: 0;
+  color: #fff;
+  margin: 20px 0 0;
+  padding: 12px 0 0;
 }
 
 /* Flujo editorial de cada registro: texto, audio, ilustración y experiencia. */
