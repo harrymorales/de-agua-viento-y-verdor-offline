@@ -34,6 +34,11 @@
     transform: translateX(-50%);
   }
 
+  /* Conserva el movimiento original sin perder el anclaje bajo cada niño. */
+  .community-link:hover {
+    transform: translateX(-50%) translateY(-5px) scale(1.04);
+  }
+
   .community-link.community-2 { bottom: clamp(32px, 4.5vh, 48px); left: 10%; } /* Palenque */
   .community-link.community-6 { bottom: clamp(32px, 4.5vh, 48px); left: 25%; } /* Rrom */
   .community-link.community-5 { bottom: clamp(32px, 4.5vh, 48px); left: 41%; } /* Yukpa */
