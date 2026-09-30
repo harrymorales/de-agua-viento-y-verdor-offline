@@ -1,9 +1,65 @@
 /* En pantallas amplias, el mapa acompaña permanentemente al inicio. */
 @media (min-width: 900px) {
+  /* El inicio usa el espacio restante como una composición propia, no como
+     una versión recortada de la portada a pantalla completa. */
   .portal-home {
     width: 69vw;
     min-width: 0;
   }
+
+  .portal-home .portal-footer.portal-header {
+    padding-inline: clamp(20px, 3vw, 44px);
+    gap: clamp(12px, 1.8vw, 24px);
+  }
+
+  .portal-home .portal-header-partners {
+    gap: clamp(10px, 1.4vw, 18px);
+  }
+
+  .portal-home .portal-header-partners > img {
+    width: min(360px, 29vw);
+    height: 62px;
+  }
+
+  /* El follaje enmarca el titular sin competir con él. */
+  .portal-home .portal-01,
+  .portal-home .portal-02 {
+    width: 42vw;
+  }
+
+  .portal-home .portal-01 { left: -1vw; }
+  .portal-home .portal-02 { right: -1vw; }
+
+  .portal-home .portal-title {
+    width: min(520px, 56vw);
+    top: 45%;
+  }
+
+  .portal-home .portal-title h1 {
+    font-size: clamp(52px, 5vw, 76px);
+    line-height: .82;
+  }
+
+  .portal-home .portal-title p {
+    width: min(440px, 90%);
+    margin-top: 14px;
+    font-size: clamp(14px, 1.2vw, 18px);
+  }
+
+  /* Las niñas y los niños quedan en la base, con sus accesos a la vista. */
+  .portal-home .portal-03,
+  .portal-home .portal-04 {
+    width: 43vw;
+    bottom: -1.5vw;
+  }
+
+  .portal-home .community-link {
+    bottom: clamp(30px, 4vh, 44px);
+    min-width: 104px;
+    padding: 10px 15px;
+  }
+
+  .portal-home .community-link b { font-size: 17px; }
 
   .portal-home .territory-map,
   .portal-home .territory-map.open {
@@ -31,4 +87,21 @@
     width: min(100%, 390px);
     margin-top: clamp(16px, 2.5vw, 30px);
   }
+}
+
+/* En portátiles estrechos se conserva el panel permanente, pero con un
+   titular y encabezado más compactos para evitar solapamientos. */
+@media (min-width: 900px) and (max-width: 1120px) {
+  .portal-home .portal-header-brand span { font-size: 19px; }
+  .portal-home .portal-header-partners > img { width: min(235px, 26vw); }
+  .portal-home .portal-header-partners > a { padding-inline: 10px; font-size: 8px; }
+
+  .portal-home .portal-01,
+  .portal-home .portal-02 { width: 39vw; }
+  .portal-home .portal-title { top: 43%; }
+  .portal-home .portal-title h1 { font-size: clamp(46px, 5.3vw, 60px); }
+  .portal-home .portal-03,
+  .portal-home .portal-04 { width: 42vw; }
+  .portal-home .community-link { min-width: 88px; padding-inline: 10px; }
+  .portal-home .community-link b { font-size: 15px; }
 }
