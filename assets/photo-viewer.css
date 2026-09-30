@@ -21,7 +21,7 @@
 }
 
 .photo-panel .photo-frame {
-  background: #000;
+  background: transparent;
   padding: clamp(6px, 1.2vw, 16px);
   position: relative;
 }
@@ -60,7 +60,7 @@
 }
 
 .photo-panel .photo-feed figure {
-  background: #000;
+  background: transparent;
   border-radius: 16px;
   flex: none;
   margin: 0;
@@ -100,7 +100,7 @@
 
 .photo-panel .photo-grid .photo-card {
   aspect-ratio: 4 / 3;
-  background: #000;
+  background: transparent;
   border-radius: 14px;
   display: block;
   min-width: 0;
