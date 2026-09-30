@@ -47,27 +47,39 @@
   padding: 8px 2px 0;
 }
 
-/* La galería ocupa su panel y se desplaza solamente de arriba hacia abajo. */
-.photo-panel .photo-grid {
-  columns: unset;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(270px, 100%), 1fr));
-  gap: 14px;
-  flex: 1 1 auto;
-  min-height: 0;
-  overflow-x: hidden;
-  overflow-y: auto;
-  padding: 0 6px 24px 0;
-}
-
-.photo-panel .photo-grid .photo-card {
-  min-width: 0;
-  margin: 0;
-}
-
 @media (width <= 760px) {
   .photo-overlay { padding: 8px; }
   .photo-overlay .photo-panel { border-radius: 14px; padding: 14px 12px 10px; }
   .photo-panel .photo-footer { gap: 10px; padding-top: 6px; }
-  .photo-panel .photo-grid { gap: 8px; }
+}
+
+/* En móvil y tableta la galería se recorre verticalmente, conservando la
+   proporción de las fotografías en vez de convertirlas en franjas. */
+@media (max-width: 1024px) {
+  .photo-panel .photo-grid {
+    columns: unset;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: max-content;
+    align-content: start;
+    align-items: start;
+    gap: 10px;
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 0 6px 24px 0;
+  }
+
+  .photo-panel .photo-grid .photo-card {
+    min-width: 0;
+    height: auto;
+    margin: 0;
+  }
+
+  .photo-panel .photo-grid .photo-card img { height: auto; }
+}
+
+@media (max-width: 460px) {
+  .photo-panel .photo-grid { grid-template-columns: 1fr; }
 }
