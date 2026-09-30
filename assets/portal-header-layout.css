@@ -87,5 +87,12 @@
   .portal-header-partners > a { padding: 7px 9px; font-size: 7px; }
 
   .portal-01,
-  .portal-02 { top: 64px; }
+  .portal-02 {
+    /* El follaje y las aves enmarcan el título, sin cruzarlo. */
+    width: 35vw;
+    top: 64px;
+  }
+
+  .portal-01 { left: -3vw; }
+  .portal-02 { right: -3vw; }
 }
