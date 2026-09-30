@@ -3,7 +3,7 @@
   z-index: 18;
   position: absolute;
   inset: 0 0 auto;
-  height: 76px;
+  height: 88px;
   padding: 10px clamp(22px, 4vw, 64px);
   background: var(--sound-blue-dark, #185775);
   display: flex;
@@ -22,8 +22,8 @@
 .portal-header-brand { gap: 10px; }
 
 .portal-header-brand img {
-  width: 42px;
-  height: 42px;
+  width: 48px;
+  height: 48px;
   object-fit: contain;
   border-radius: 50%;
 }
@@ -37,8 +37,8 @@
 .portal-header-partners { gap: 18px; }
 
 .portal-header-partners > img {
-  width: min(360px, 36vw);
-  height: 42px;
+  width: min(460px, 40vw);
+  height: 58px;
   object-fit: contain;
   object-position: right center;
 }
@@ -66,10 +66,10 @@
 @media (min-width: 681px) {
   /* Las aves y el follaje comienzan bajo el encabezado institucional. */
   .portal-01,
-  .portal-02 { top: 76px; }
+  .portal-02 { top: 88px; }
 
   /* Evita que el control de música cubra el acceso a Palenque. */
-  .home-sound { top: 92px; bottom: auto; }
+  .home-sound { top: 104px; bottom: auto; }
 }
 
 @media (max-width: 680px) {
