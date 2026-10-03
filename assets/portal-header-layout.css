@@ -68,8 +68,34 @@
   .portal-01,
   .portal-02 { top: 96px; }
 
+  /* El bloque editorial ocupa el claro central: no se superpone al follaje
+     superior ni a la ilustración de las niñas y los niños. */
+  .portal-title { top: 28.2%; }
+
   /* Evita que el control de música cubra el acceso a Palenque. */
   .home-sound { top: 112px; bottom: auto; }
+}
+
+@media (min-width: 901px) {
+  /* En escritorio el texto conserva un área central completamente limpia.
+     El follaje queda en las esquinas y las niñas y los niños en la base. */
+  .portal-corner.portal-01,
+  .portal-corner.portal-02 {
+    width: 35vw;
+    top: 96px;
+  }
+
+  .portal-corner.portal-01 { left: 0; }
+  .portal-corner.portal-02 { right: 0; }
+
+  .portal-corner.portal-03,
+  .portal-corner.portal-04 {
+    width: 50.5vw;
+    bottom: -1vw;
+  }
+
+  .portal-corner.portal-03 { left: -1.5vw; }
+  .portal-corner.portal-04 { right: -1.5vw; }
 }
 
 @media (max-width: 680px) {

@@ -96,3 +96,54 @@
     margin: 16px 0;
   }
 }
+
+/* Navegación móvil y tablet: el menú de acciones se despliega verticalmente. */
+.mobile-navigation-toggle { display: none; }
+
+@media (max-width: 900px) {
+  .topbar { position: relative; z-index: 40; min-height: 64px; padding: 0 16px; }
+  .topbar .brand { max-width: calc(100% - 62px); }
+  .topbar .brand b { font-size: 18px; }
+  .mobile-navigation-toggle {
+    cursor: pointer; background: transparent; border: 1px solid #ffffff94; border-radius: 50%;
+    flex: 0 0 38px; width: 38px; height: 38px; padding: 9px; display: grid; align-content: center; gap: 4px;
+    color: var(--territory-header-ink, #fff);
+  }
+  .mobile-navigation-toggle span { background: currentColor; width: 100%; height: 2px; display: block; transition: transform .2s ease, opacity .2s ease; }
+  .topbar.mobile-navigation-open .mobile-navigation-toggle span:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+  .topbar.mobile-navigation-open .mobile-navigation-toggle span:nth-child(2) { opacity: 0; }
+  .topbar.mobile-navigation-open .mobile-navigation-toggle span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+  .topbar .top-actions { background: var(--territory-guide, #185775); box-shadow: 0 12px 24px #13231b40; width: 100%; padding: 12px 16px 16px; display: none; position: absolute; top: 100%; left: 0; }
+  .topbar.mobile-navigation-open .top-actions { z-index: 2; grid-template-columns: 1fr; gap: 9px; display: grid; }
+  .topbar .mobile-navigation-toggle { position: relative; z-index: 3; }
+  .topbar .top-actions button { text-align: left; justify-content: flex-start; width: 100%; min-height: 44px; padding: 11px 14px; }
+  .topbar .top-actions button {
+    font: 900 12px/1 Arial, Helvetica, sans-serif;
+    letter-spacing: .07em;
+  }
+  .topbar .top-actions .context-button { font-size: 12px; }
+  .topbar .top-actions .context-button span { font-size: 15px; }
+
+  /* El nombre de la comunidad conserva su lema para indicar el regreso al inicio. */
+  .topbar .brand small {
+    color: var(--territory-header-ink, #fff);
+    letter-spacing: .1em;
+    margin-top: 3px;
+    font-size: 9px;
+    line-height: 1.15;
+    display: block;
+  }
+
+  /* Las ventanas de Fototeca, Guía y Conoce empiezan bajo el encabezado.
+     Deja visible su título y conserva disponible el menú hamburguesa. */
+  .shell .overlay { padding-top: 82px; }
+  .shell .overlay .context-panel { height: calc(100dvh - 82px); }
+
+  /* Todas las pistas pasan a ser una lista vertical. */
+  .shell { height: auto; min-height: 100dvh; overflow: visible; }
+  .workspace { flex-direction: column; display: flex; }
+  .workspace .library { padding: 12px; display: block; }
+  .workspace .record-list { max-height: none; padding: 0; display: grid; gap: 7px; overflow: visible; }
+  .workspace .record { grid-template-columns: 31px minmax(0, 1fr) 16px; width: 100%; min-width: 0; min-height: 60px; }
+  .vocab-categories, .vocab-reader, .scroll-copy { scrollbar-color: var(--orange, #ef6d3d) #e7dfcf; scrollbar-width: auto; }
+}

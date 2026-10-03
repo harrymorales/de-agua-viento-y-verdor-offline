@@ -51,7 +51,9 @@
 
 /* Acerca los accesos al bloque editorial en teléfono, sin tocar la ilustración. */
 @media (max-width: 680px) {
-  .community-map { bottom: calc(46vw + 164px); }
+  /* Deja respiración bajo el título y su bajada: los accesos comunitarios
+     comienzan después del bloque editorial, sin cubrirlo. */
+  .community-map { bottom: calc(46vw + 138px); }
 
   .community-link {
     align-items: center;
@@ -68,5 +70,5 @@
 }
 
 @media (max-width: 680px) and (max-height: 760px) {
-  .community-map { bottom: calc(43vw + 154px); }
+  .community-map { bottom: calc(43vw + 132px); }
 }
