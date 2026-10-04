@@ -1,10 +1,23 @@
 /* Las traducciones acompañan las pistas originales en palenquero. */
 (() => {
   let content;
+  let managedReading;
   const pairs = {
     '03': '04',
     '06': '07',
     '10': '11'
+  };
+  const activeTrackNumber = () =>
+    document.querySelector('.record.active .record-number')?.textContent.trim();
+
+  /* React conserva referencias a sus nodos de lectura. Antes de que cambie
+     una pista restauramos esos nodos para que el cambio no cierre la app. */
+  const restoreManagedReading = () => {
+    if (!managedReading) return;
+    const { tabs, copy, originalTabs, originalCopy } = managedReading;
+    if (tabs.isConnected) tabs.replaceChildren(...originalTabs);
+    if (copy.isConnected) copy.replaceChildren(...originalCopy);
+    managedReading = null;
   };
 
   const getContent = async () => {
@@ -15,6 +28,12 @@
   };
 
   const installTranslationTabs = async (number) => {
+    if (activeTrackNumber() !== number) return;
+    const source = await getContent();
+    /* La carga del archivo es asíncrona. Si la persona ya eligió otra pista,
+       no se debe escribir la traducción anterior sobre esa nueva lectura. */
+    if (activeTrackNumber() !== number) return;
+
     const reading = document.querySelector('.reading');
     const copy = reading?.querySelector('.scroll-copy');
     const tabs = reading?.querySelector('.reading-tabs');
@@ -23,12 +42,18 @@
 
     reading.classList.remove('single-reading');
     const palenqueroText = copy.querySelector('p')?.textContent || copy.textContent;
-    const source = await getContent();
     const originalTrack = source.tracks.find(track => track.number === number);
     const translationTrack = source.tracks.find(track => track.number === pairs[number]);
     const translation = translationTrack?.translation;
     if (!originalTrack || !translation) return;
 
+    restoreManagedReading();
+    managedReading = {
+      tabs,
+      copy,
+      originalTabs: [...tabs.childNodes],
+      originalCopy: [...copy.childNodes]
+    };
     tabs.replaceChildren();
     const palenquero = document.createElement('button');
     const spanish = document.createElement('button');
@@ -37,6 +62,7 @@
     spanish.textContent = 'Español';
 
     const show = (language) => {
+      if (activeTrackNumber() !== number) return;
       const isPalenquero = language === 'palenquero';
       palenquero.classList.toggle('selected', isPalenquero);
       spanish.classList.toggle('selected', !isPalenquero);
@@ -67,4 +93,10 @@
   document.addEventListener('click', (event) => {
     if (event.target.closest('.record')) window.setTimeout(syncReading, 0);
   });
+
+  document.addEventListener('click', (event) => {
+    if (event.target.closest('.record, .collapse-reading, .vocab-categories button')) {
+      restoreManagedReading();
+    }
+  }, true);
 })();
