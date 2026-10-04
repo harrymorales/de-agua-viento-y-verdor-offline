@@ -1,31 +1,61 @@
-/* Los accesos se señalan suavemente sobre el retrato de cada comunidad. */
+/* Los accesos se señalan con un aro de selección, sin cubrir el retrato. */
 .map-art .map-hotspot {
   overflow: visible;
   z-index: 1;
 }
 
+.map-art .map-hotspot::before,
 .map-art .map-hotspot::after {
   content: "";
   pointer-events: none;
   opacity: 0;
-  background: #d94337;
-  border: 2px solid #b52d27;
+  background: transparent;
+  border: 3px solid #ef493d;
   border-radius: 50%;
-  width: 100%;
-  height: 100%;
   position: absolute;
-  inset: 0;
+  inset: -7%;
   transform: scale(.72);
-  transition: opacity .18s ease, transform .18s ease;
+  transition: opacity .16s ease, transform .2s cubic-bezier(.2, .9, .25, 1);
 }
 
+.map-art .map-hotspot::before {
+  border-color: #ff5549;
+  border-width: 2px;
+  inset: -19%;
+}
+
+.map-art .map-hotspot:hover::before,
+.map-art .map-hotspot:focus-visible::before,
+.map-art .map-hotspot:active::before,
 .map-art .map-hotspot:hover::after,
-.map-art .map-hotspot:focus-visible::after {
-  opacity: .42;
+.map-art .map-hotspot:focus-visible::after,
+.map-art .map-hotspot:active::after {
+  opacity: 1;
   transform: scale(1);
 }
 
+.map-art .map-hotspot:hover::before,
+.map-art .map-hotspot:focus-visible::before {
+  animation: map-selection-pulse 1.15s ease-out infinite;
+}
+
 .map-art .map-hotspot:hover,
-.map-art .map-hotspot:focus-visible {
+.map-art .map-hotspot:focus-visible,
+.map-art .map-hotspot:active {
   outline: 0;
+}
+
+@keyframes map-selection-pulse {
+  0% { opacity: 0; transform: scale(.76); }
+  32% { opacity: .9; }
+  100% { opacity: 0; transform: scale(1.27); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .map-art .map-hotspot:hover::before,
+  .map-art .map-hotspot:focus-visible::before {
+    animation: none;
+    opacity: .7;
+    transform: scale(1.06);
+  }
 }
