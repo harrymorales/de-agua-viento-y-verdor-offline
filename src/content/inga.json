@@ -1262,51 +1262,51 @@
   "vocabularyAudioSegments": {
     "Animales": {
       "start": 0,
-      "end": 0
+      "end": 75
     },
     "Números": {
-      "start": 0,
-      "end": 0
+      "start": 77,
+      "end": 99
     },
     "Colores": {
-      "start": 0,
-      "end": 0
+      "start": 100,
+      "end": 118
     },
     "Partes del cuerpo": {
-      "start": 0,
-      "end": 0
+      "start": 120,
+      "end": 163
     },
     "Familia": {
-      "start": 0,
-      "end": 0
+      "start": 164,
+      "end": 213
     },
     "Saludos": {
-      "start": 0,
-      "end": 0
+      "start": 214,
+      "end": 235
     },
     "Verbos": {
-      "start": 0,
-      "end": 0
+      "start": 235,
+      "end": 256
     },
     "Pensar y sentir": {
-      "start": 0,
-      "end": 0
+      "start": 257,
+      "end": 273
     },
     "Vamos a…": {
-      "start": 0,
-      "end": 0
+      "start": 273,
+      "end": 324
     },
     "Nombrar el paisaje": {
-      "start": 0,
-      "end": 0
+      "start": 325,
+      "end": 384
     },
     "Sonido, música y silencio": {
-      "start": 0,
-      "end": 0
+      "start": 384,
+      "end": 418
     },
     "Mundo espiritual": {
-      "start": 0,
-      "end": 0
+      "start": 420,
+      "end": 443
     }
   },
   "photos": [
