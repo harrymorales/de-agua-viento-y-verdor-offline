@@ -941,43 +941,43 @@
   "vocabularyAudioSegments": {
     "Animales": {
       "start": 0,
-      "end": 0
+      "end": 39
     },
     "Atuendos": {
-      "start": 0,
-      "end": 0
+      "start": 40,
+      "end": 48
     },
     "Camino": {
-      "start": 0,
-      "end": 0
+      "start": 49,
+      "end": 68
     },
     "Silencio y música": {
-      "start": 0,
-      "end": 0
+      "start": 69,
+      "end": 73
     },
     "Alma gitana": {
-      "start": 0,
-      "end": 0
+      "start": 74,
+      "end": 79
     },
     "Familia": {
-      "start": 0,
-      "end": 0
+      "start": 80,
+      "end": 125
     },
     "Nombrar el paisaje": {
-      "start": 0,
-      "end": 0
+      "start": 126,
+      "end": 153
     },
     "Colores": {
-      "start": 0,
-      "end": 0
+      "start": 154,
+      "end": 170
     },
     "Números": {
-      "start": 0,
-      "end": 0
+      "start": 171,
+      "end": 210
     },
     "Así se saluda en romanés": {
-      "start": 0,
-      "end": 0
+      "start": 211,
+      "end": 223
     },
     "Otros atuendos": {
       "start": 0,
