@@ -1255,43 +1255,43 @@
   "vocabularyAudioSegments": {
     "Animales": {
       "start": 0,
-      "end": 0
+      "end": 118
     },
     "Nombrar el paisaje": {
-      "start": 0,
-      "end": 0
+      "start": 118,
+      "end": 188
     },
     "Familia": {
-      "start": 0,
-      "end": 0
+      "start": 190,
+      "end": 229
     },
     "Colores": {
-      "start": 0,
-      "end": 0
+      "start": 230,
+      "end": 246
     },
     "Partes del cuerpo": {
-      "start": 0,
-      "end": 0
+      "start": 248,
+      "end": 286
     },
     "Mundo espiritual": {
-      "start": 0,
-      "end": 0
+      "start": 288,
+      "end": 319
     },
     "Vamos a…": {
-      "start": 0,
-      "end": 0
+      "start": 320,
+      "end": 356
     },
     "Río": {
-      "start": 0,
-      "end": 0
+      "start": 358,
+      "end": 394
     },
     "Emociones": {
-      "start": 0,
-      "end": 0
+      "start": 396,
+      "end": 417
     },
     "Sonido, música y silencio": {
-      "start": 0,
-      "end": 0
+      "start": 417,
+      "end": 439
     }
   },
   "photos": [
