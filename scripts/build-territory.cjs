@@ -37,6 +37,17 @@ const territoryMapImages = {
 const territoryMapImage = `images/portal/Mapas/${territoryMapImages[slug]}`;
 
 const data = JSON.parse(fs.readFileSync(path.join(root, 'src', 'content', territory.contentFile), 'utf8'));
+// The Inga vocabulary is maintained as structured entries. Build its reading
+// panel from those entries as well, so both views contain the same complete
+// list and cannot drift apart.
+if (slug === 'inga') {
+  const vocabularyReading = data.vocabulary
+    .map(section => `${section.title}\n${section.items.map(item => `${item.spanish} · ${item.inga}`).join('\n')}`)
+    .join('\n\n');
+  data.tracks = data.tracks.map(track => track.singleReading
+    ? { ...track, original: vocabularyReading }
+    : track);
+}
 // A text preview must never produce broken audio controls. The editable source
 // keeps the intended routes; only the generated preview omits playback until
 // the corresponding files exist.

@@ -880,6 +880,36 @@
           "spanish": "Buenos días",
           "inga": "Pakaripuangi",
           "palenquero": "Pakaripuangi"
+        },
+        {
+          "spanish": "Buenas tardes",
+          "inga": "Chisiapuangi",
+          "palenquero": "Chisiapuangi"
+        },
+        {
+          "spanish": "¿Cómo estás?",
+          "inga": "¿Imasata kangi?",
+          "palenquero": "¿Imasata kangi?"
+        },
+        {
+          "spanish": "Hasta mañana",
+          "inga": "Kaiakama",
+          "palenquero": "Kaiakama"
+        },
+        {
+          "spanish": "Gracias (Dios le pague)",
+          "inga": "Diusulupai / Pai",
+          "palenquero": "Diusulupai / Pai"
+        },
+        {
+          "spanish": "Mi nombre es…",
+          "inga": "Nuka sutikanimi",
+          "palenquero": "Nuka sutikanimi"
+        },
+        {
+          "spanish": "Que le vaya bien",
+          "inga": "Suma ripuachu",
+          "palenquero": "Suma ripuachu"
         }
       ]
     },
@@ -890,6 +920,36 @@
           "spanish": "Pensar",
           "inga": "Iuiai",
           "palenquero": "Iuiai"
+        },
+        {
+          "spanish": "Vivir",
+          "inga": "Kausai",
+          "palenquero": "Kausai"
+        },
+        {
+          "spanish": "Jugar",
+          "inga": "Pugllai",
+          "palenquero": "Pugllai"
+        },
+        {
+          "spanish": "Descansar",
+          "inga": "Samai",
+          "palenquero": "Samai"
+        },
+        {
+          "spanish": "Aprender",
+          "inga": "Iachaikui",
+          "palenquero": "Iachaikui"
+        },
+        {
+          "spanish": "Enseñar",
+          "inga": "Iachaichi",
+          "palenquero": "Iachaichi"
+        },
+        {
+          "spanish": "Estar bien",
+          "inga": "Alli llakai",
+          "palenquero": "Alli llakai"
         }
       ]
     },
@@ -900,6 +960,21 @@
           "spanish": "(Estar) feliz",
           "inga": "Alli llakai / alli iachiri",
           "palenquero": "Alli llakai / alli iachiri"
+        },
+        {
+          "spanish": "(Estar) triste",
+          "inga": "Irshki kai",
+          "palenquero": "Irshki kai"
+        },
+        {
+          "spanish": "(Estar) sorprendido",
+          "inga": "Mansuiaska",
+          "palenquero": "Mansuiaska"
+        },
+        {
+          "spanish": "(Estar) enojado",
+          "inga": "Piñariska",
+          "palenquero": "Piñariska"
         }
       ]
     },
