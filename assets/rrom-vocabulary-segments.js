@@ -1,15 +1,15 @@
 (() => {
   const segments = {
     'Animales': [0, 39],
-    'Atuendos': [40, 48],
-    'Camino': [49, 68],
+    'Atuendos': [39, 48],
+    'Camino': [48, 68],
     'Silencio y música': [69, 73],
     'Alma gitana': [74, 79],
     'Familia': [80, 125],
     'Nombrar el paisaje': [126, 153],
     'Colores': [154, 170],
     'Números': [171, 210],
-    'Así se saluda en romanés': [211, 223]
+    'Así se saluda en romanés': [210, 223]
   };
   let selection = 'Animales';
   let activeAudio;
