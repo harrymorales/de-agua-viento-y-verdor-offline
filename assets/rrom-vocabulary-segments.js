@@ -26,8 +26,12 @@
       audio.currentTime = start;
       audio.play().catch(() => {});
     };
-    if (audio.readyState >= 1) seek();
-    else audio.addEventListener('loadedmetadata', seek, { once: true });
+    // El componente base inicializa el audio después de montarlo y puede
+    // pausarlo en sus propios eventos. Esperamos a que termine esa
+    // inicialización antes de saltar al rango seleccionado.
+    const startSegment = () => window.setTimeout(seek, 0);
+    if (audio.readyState >= 3) startSegment();
+    else audio.addEventListener('canplay', startSegment, { once: true });
     audio.addEventListener('timeupdate', () => {
       if (audio.currentTime >= end) {
         audio.pause();
