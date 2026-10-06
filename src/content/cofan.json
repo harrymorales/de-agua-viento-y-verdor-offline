@@ -1168,6 +1168,36 @@
           "spanish": "Feliz",
           "aingae": "Avwhatshe",
           "palenquero": "Avwhatshe"
+        },
+        {
+          "spanish": "Triste",
+          "aingae": "Ñumbiye",
+          "palenquero": "Ñumbiye"
+        },
+        {
+          "spanish": "Enamorado",
+          "aingae": "Ambianchuye, ambianchu",
+          "palenquero": "Ambianchuye, ambianchu"
+        },
+        {
+          "spanish": "Enojado",
+          "aingae": "Iywkhaye",
+          "palenquero": "Iywkhaye"
+        },
+        {
+          "spanish": "Tener sueño",
+          "aingae": "Anaeswye",
+          "palenquero": "Anaeswye"
+        },
+        {
+          "spanish": "Tener hambre",
+          "aingae": "Khipaesw",
+          "palenquero": "Khipaesw"
+        },
+        {
+          "spanish": "Tener miedo",
+          "aingae": "Yuhuye",
+          "palenquero": "Yuhuye"
         }
       ]
     },

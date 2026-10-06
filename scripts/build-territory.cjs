@@ -37,12 +37,12 @@ const territoryMapImages = {
 const territoryMapImage = `images/portal/Mapas/${territoryMapImages[slug]}`;
 
 const data = JSON.parse(fs.readFileSync(path.join(root, 'src', 'content', territory.contentFile), 'utf8'));
-// The Inga vocabulary is maintained as structured entries. Build its reading
-// panel from those entries as well, so both views contain the same complete
-// list and cannot drift apart.
-if (slug === 'inga') {
+// These vocabularies are maintained as structured entries. Build their
+// reading panels from those entries too, so both views contain the same
+// complete list and cannot drift apart.
+if (slug === 'inga' || slug === 'cofan') {
   const vocabularyReading = data.vocabulary
-    .map(section => `${section.title}\n${section.items.map(item => `${item.spanish} · ${item.inga}`).join('\n')}`)
+    .map(section => `${section.title}\n${section.items.map(item => `${item.spanish} · ${item.inga || item.aingae}`).join('\n')}`)
     .join('\n\n');
   data.tracks = data.tracks.map(track => track.singleReading
     ? { ...track, original: vocabularyReading }
