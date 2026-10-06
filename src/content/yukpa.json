@@ -1529,31 +1529,31 @@
   "vocabularyAudioSegments": {
     "Colores": {
       "start": 0,
-      "end": 0
+      "end": 22
     },
     "Números": {
-      "start": 0,
-      "end": 0
+      "start": 22,
+      "end": 41
     },
     "Partes del cuerpo": {
-      "start": 0,
-      "end": 0
+      "start": 41,
+      "end": 113
     },
     "Familia": {
-      "start": 0,
-      "end": 0
+      "start": 117,
+      "end": 202
     },
     "Sonido y música": {
-      "start": 0,
-      "end": 0
+      "start": 203,
+      "end": 209
     },
     "Emociones": {
-      "start": 0,
-      "end": 0
+      "start": 209,
+      "end": 236
     },
     "Así se saluda en yukpa": {
-      "start": 0,
-      "end": 0
+      "start": 238,
+      "end": 306
     },
     "Animales": {
       "start": 0,
