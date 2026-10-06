@@ -1269,7 +1269,7 @@
       "end": 99
     },
     "Colores": {
-      "start": 100,
+      "start": 99,
       "end": 118
     },
     "Partes del cuerpo": {
@@ -1277,7 +1277,7 @@
       "end": 163
     },
     "Familia": {
-      "start": 164,
+      "start": 163,
       "end": 213
     },
     "Saludos": {
@@ -1285,7 +1285,7 @@
       "end": 235
     },
     "Verbos": {
-      "start": 235,
+      "start": 237,
       "end": 256
     },
     "Pensar y sentir": {
@@ -1293,7 +1293,7 @@
       "end": 273
     },
     "Vamos a…": {
-      "start": 273,
+      "start": 275,
       "end": 324
     },
     "Nombrar el paisaje": {
