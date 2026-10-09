@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="120" viewBox="0 0 1040 120" role="img" aria-labelledby="title">
+  <title id="title">Ministerio de Educación, Ministerio de las Culturas y CoCrea</title>
+  <g fill="#fff">
+    <path d="M45 8c-19 11-30 27-30 46 0 25 17 43 30 51 13-8 30-26 30-51 0-19-11-35-30-46Zm0 11c13 9 20 21 20 35 0 16-9 29-20 38-11-9-20-22-20-38 0-14 7-26 20-35Z"/>
+    <path d="M45 28c-8 8-13 17-13 28 0 9 5 19 13 26 8-7 13-17 13-26 0-11-5-20-13-28Zm0 10c3 5 5 11 5 18 0 5-2 11-5 15-3-4-5-10-5-15 0-7 2-13 5-18Z"/>
+    <text x="90" y="71" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Educación</text>
+    <rect x="254" y="18" width="2" height="84" rx="1"/>
+    <path d="M299 8c-19 11-30 27-30 46 0 25 17 43 30 51 13-8 30-26 30-51 0-19-11-35-30-46Zm0 11c13 9 20 21 20 35 0 16-9 29-20 38-11-9-20-22-20-38 0-14 7-26 20-35Z"/>
+    <path d="M299 28c-8 8-13 17-13 28 0 9 5 19 13 26 8-7 13-17 13-26 0-11-5-20-13-28Zm0 10c3 5 5 11 5 18 0 5-2 11-5 15-3-4-5-10-5-15 0-7 2-13 5-18Z"/>
+    <text x="344" y="71" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Culturas</text>
+    <rect x="535" y="18" width="2" height="84" rx="1"/>
+  </g>
+  <image href="logo-cocrea-oficial.svg" x="588" y="37" width="386" height="52" preserveAspectRatio="xMidYMid meet"/>
+</svg>
