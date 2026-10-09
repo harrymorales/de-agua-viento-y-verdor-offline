@@ -52,14 +52,14 @@
 .portal-partner-mark {
   display: block;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .portal-partner-mark:not(:last-child)::after {
   content: '';
   width: 1px;
   height: 38px;
-  background: #ffffff66;
+  background: #fff;
   position: absolute;
   top: 50%;
   right: -7px;
@@ -72,20 +72,22 @@
    Se recortan solo al mostrarlos, sin modificar sus archivos originales. */
 .portal-partner-mark--education,
 .portal-partner-mark--cultures {
-  width: 94px;
-  height: 54px;
+  width: 58px;
+  height: 42px;
 }
 
 .portal-partner-mark--education img,
 .portal-partner-mark--cultures img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
   object-position: center;
 }
 
-.portal-partner-mark--cocrea { width: 115px; }
-.portal-partner-mark--cocrea img { width: 115px; height: 42px; object-fit: contain; }
+.portal-partner-mark--education img { object-fit: cover; }
+.portal-partner-mark--cultures img { object-fit: contain; }
+
+.portal-partner-mark--cocrea { width: 86px; }
+.portal-partner-mark--cocrea img { width: 86px; height: 31px; object-fit: contain; }
 
 .portal-header-partners > a {
   color: #fff;
