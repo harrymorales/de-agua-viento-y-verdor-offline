@@ -68,8 +68,7 @@
 
 .portal-partner-mark img { display: block; }
 
-/* Los archivos entregados incluyen márgenes transparentes de exportación.
-   Se recortan solo al mostrarlos, sin modificar sus archivos originales. */
+/* Igualamos la altura visible de ambas marcas sin alterar su proporción. */
 .portal-partner-mark--education,
 .portal-partner-mark--cultures {
   width: 58px;
@@ -78,13 +77,16 @@
 
 .portal-partner-mark--education img,
 .portal-partner-mark--cultures img {
-  width: 100%;
-  height: 100%;
-  object-position: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: auto;
+  max-width: none;
+  transform: translate(-50%, -50%);
 }
 
-.portal-partner-mark--education img { object-fit: cover; }
-.portal-partner-mark--cultures img { object-fit: contain; }
+.portal-partner-mark--education img { height: 45.4px; }
+.portal-partner-mark--cultures img { height: 38px; }
 
 .portal-partner-mark--cocrea { width: 86px; }
 .portal-partner-mark--cocrea img { width: 86px; height: 31px; object-fit: contain; }
@@ -159,6 +161,8 @@
   .portal-partner-marks { gap: 9px; }
   .portal-partner-mark--education,
   .portal-partner-mark--cultures { width: 54px; height: 32px; }
+  .portal-partner-mark--education img { height: 34.6px; }
+  .portal-partner-mark--cultures img { height: 29px; }
   .portal-partner-mark--cocrea { width: 70px; }
   .portal-partner-mark--cocrea img { width: 70px; height: 27px; }
   .portal-partner-mark:not(:last-child)::after { height: 24px; right: -5px; }
