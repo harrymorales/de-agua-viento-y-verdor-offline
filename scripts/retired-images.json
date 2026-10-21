@@ -1,0 +1,114 @@
+[
+  {
+    "source": "images/amanecer-en-el-monte.png",
+    "target": "images/palenque/web/legacy/amanecer-en-el-monte.webp"
+  },
+  {
+    "source": "images/concierto-didactico.png",
+    "target": "images/palenque/web/legacy/concierto-didactico.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-01.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-01.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-02.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-02.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-03.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-03.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-04.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-04.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-05.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-05.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-06.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-06.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-07.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-07.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-08.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-08.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-09.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-09.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-10.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-10.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-11.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-11.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-12.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-12.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-13.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-13.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-14.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-14.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-15.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-15.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-16.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-16.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-17.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-17.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-18.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-18.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-19.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-19.webp"
+  },
+  {
+    "source": "images/fototeca/palenque-20.jpg",
+    "target": "images/palenque/web/legacy/fototeca/palenque-20.webp"
+  },
+  {
+    "source": "images/itoria-ri-palenge.png",
+    "target": "images/palenque/web/legacy/itoria-ri-palenge.webp"
+  },
+  {
+    "source": "images/na-mariquita.png",
+    "target": "images/palenque/web/legacy/na-mariquita.webp"
+  },
+  {
+    "source": "images/palenque-portadilla.jpg",
+    "target": "images/palenque/web/legacy/palenque-portadilla.webp"
+  },
+  {
+    "source": "images/palenque-suena-a-tambores.jpg",
+    "target": "images/palenque/web/legacy/palenque-suena-a-tambores.webp"
+  },
+  {
+    "source": "images/tio-conejo-y-tio-tigre.png",
+    "target": "images/palenque/web/legacy/tio-conejo-y-tio-tigre.webp"
+  },
+  {
+    "source": "images/tra-kolao.png",
+    "target": "images/palenque/web/legacy/tra-kolao.webp"
+  }
+]

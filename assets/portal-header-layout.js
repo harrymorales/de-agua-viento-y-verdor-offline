@@ -12,16 +12,16 @@
     const brand = document.createElement('div');
     brand.className = 'portal-header-brand';
     brand.innerHTML = [
-      '<img src="favicon_audioteca_margen_blanco_reducido.png" alt="Audioteca De agua, viento y verdor">',
+      '<img src="favicon.webp" alt="Audioteca De agua, viento y verdor">',
       '<span>De agua, viento y verdor</span>'
     ].join('');
 
     const partnerMarks = document.createElement('div');
     partnerMarks.className = 'portal-partner-marks';
     partnerMarks.innerHTML = [
-      '<span class="portal-partner-mark portal-partner-mark--education"><img src="images/logo educacion.png" alt="Ministerio de Educación Nacional"></span>',
-      '<span class="portal-partner-mark portal-partner-mark--cultures"><img src="images/logo cultura.png" alt="Ministerio de las Culturas, las Artes y los Saberes"></span>',
-      '<span class="portal-partner-mark portal-partner-mark--cocrea"><img src="images/logo-cocrea.svg" alt="CoCrea"></span>'
+      '<span class="portal-partner-mark portal-partner-mark--education"><img src="images/logos/logo educacion.png" alt="Ministerio de Educación Nacional"></span>',
+      '<span class="portal-partner-mark portal-partner-mark--cultures"><img src="images/logos/logo cultura.png" alt="Ministerio de las Culturas, las Artes y los Saberes"></span>',
+      '<span class="portal-partner-mark portal-partner-mark--cocrea"><img src="images/logos/logo-cocrea.svg" alt="CoCrea"></span>'
     ].join('');
     institutionalLogo.replaceWith(partnerMarks);
 

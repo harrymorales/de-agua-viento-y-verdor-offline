@@ -6,12 +6,12 @@
   function updateMaps() {
     document.querySelectorAll('.portal-corner').forEach((image) => {
       const match = image.className.match(/portal-(0[1-4])/);
-      if (match) image.src = assetPath(`images/portal/Home/${match[1]}.png`);
+      if (match) image.src = assetPath(`images/portal/Home/${match[1]}.webp`);
     });
 
     const communityMap = document.querySelector('.map-art img');
     if (communityMap) {
-      communityMap.src = assetPath('images/portal/Mapas/Mapa Comunidades.png');
+      communityMap.src = assetPath('images/portal/Mapas/Mapa Comunidades.webp');
 
       const coordinates = {
         raizal: ['8.5%', '9%', '18%'],

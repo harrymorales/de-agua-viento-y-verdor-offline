@@ -16,7 +16,7 @@
   "cover": {
     "title": "Inga",
     "subtitle": "Relatos, cantos, palabras y paisajes sonoros del Resguardo Indígena de Aponte.",
-    "image": "images/inga/web/portada/Inga_A7V00570_Juan Franco_2026.jpg",
+    "image": "images/inga/web/portada/Inga_A7V00570_Juan Franco_2026.webp",
     "imageAlt": "Fotografía de la comunidad Inga."
   },
   "communityProfile": {
@@ -69,7 +69,7 @@
       "audioFileBase": "Ing-01-Quebrada_san_francisco-pai-son",
       "authorOrOrigin": "León David Cobo Estrada",
       "captureDate": "2026-06-19 00:00:00",
-      "image": "images/inga/web/ilustraciones/Ing-01-Quebrada_san_francisco-pai-son.png"
+      "image": "images/inga/web/ilustraciones/Ing-01-Quebrada_san_francisco-pai-son.webp"
     },
     {
       "number": "02",
@@ -94,7 +94,7 @@
       "audioFileBase": "Ing-02-Taita_carlos-can",
       "authorOrOrigin": "Letra: Leticia Santa Cruz, Olmedo Santa Cruz Chasoy, basado en una melodia de Ángel Guaracas",
       "captureDate": "18/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-02-Taita_carlos-can.png"
+      "image": "images/inga/web/ilustraciones/Ing-02-Taita_carlos-can.webp"
     },
     {
       "number": "03",
@@ -119,7 +119,7 @@
       "audioFileBase": "Ing-03-Risunchi-can",
       "authorOrOrigin": "Tradición Oral",
       "captureDate": "17/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-03-Risunchi-can.png"
+      "image": "images/inga/web/ilustraciones/Ing-03-Risunchi-can.webp"
     },
     {
       "number": "04",
@@ -144,7 +144,7 @@
       "audioFileBase": "Ing-04-Takispa_ugllai_nukapa_llatancito-arr",
       "authorOrOrigin": "Tradición Oral",
       "captureDate": "18/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-04-Takispa_ugllai_nukapa_llatancito-arr.png"
+      "image": "images/inga/web/ilustraciones/Ing-04-Takispa_ugllai_nukapa_llatancito-arr.webp"
     },
     {
       "number": "05",
@@ -169,7 +169,7 @@
       "audioFileBase": "Ing-05-Nuka_kausani_paramu_awapi-can",
       "authorOrOrigin": "José María Ortíz Chamorro",
       "captureDate": "2006-06-18 00:00:00",
-      "image": "images/inga/web/ilustraciones/Ing-05-Nuka_kausani_paramu_awapi-can.png"
+      "image": "images/inga/web/ilustraciones/Ing-05-Nuka_kausani_paramu_awapi-can.webp"
     },
     {
       "number": "06",
@@ -194,7 +194,7 @@
       "audioFileBase": "Ing-06-Suma_kausai-can",
       "authorOrOrigin": "Mariela Pujimoy Janamejoy",
       "captureDate": "19/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-06-Suma_kausai-can.png"
+      "image": "images/inga/web/ilustraciones/Ing-06-Suma_kausai-can.webp"
     },
     {
       "number": "07",
@@ -219,7 +219,7 @@
       "audioFileBase": "Ing-07-Iaku_iaku_iaku-can",
       "authorOrOrigin": "Tradición Oral (Putumayo)",
       "captureDate": "16/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-07-Iaku_iaku_iaku-can.png"
+      "image": "images/inga/web/ilustraciones/Ing-07-Iaku_iaku_iaku-can.webp"
     },
     {
       "number": "08",
@@ -244,7 +244,7 @@
       "audioFileBase": "Ing-08-Vocabularios-voc",
       "authorOrOrigin": "Vocabulario",
       "captureDate": "16/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-08-Vocabularios-voc.png"
+      "image": "images/inga/web/ilustraciones/Ing-08-Vocabularios-voc.webp"
     },
     {
       "number": "09",
@@ -269,7 +269,7 @@
       "audioFileBase": "Ing-09-Punupuai_wawita-arr",
       "authorOrOrigin": "Tradición Oral",
       "captureDate": "15/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-09-Punupuai_wawita-arr.png"
+      "image": "images/inga/web/ilustraciones/Ing-09-Punupuai_wawita-arr.webp"
     },
     {
       "number": "10",
@@ -294,7 +294,7 @@
       "audioFileBase": "Ing-10-Atun_puncha-can",
       "authorOrOrigin": "Tradicional (pueblo Inga)",
       "captureDate": "16/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-10-Atun_puncha-can.png"
+      "image": "images/inga/web/ilustraciones/Ing-10-Atun_puncha-can.webp"
     },
     {
       "number": "11",
@@ -320,7 +320,7 @@
       "audioFileBase": "Ing-11-Nuka_kani_inga_apunti_llagtamanda-can",
       "authorOrOrigin": "Ermencia Chasoy",
       "captureDate": "19/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-11-Nuka_kani_inga_apunti_llagtamanda-can.png"
+      "image": "images/inga/web/ilustraciones/Ing-11-Nuka_kani_inga_apunti_llagtamanda-can.webp"
     },
     {
       "number": "12",
@@ -345,7 +345,7 @@
       "audioFileBase": "Ing-12-Waira_wairita-arr",
       "authorOrOrigin": "Tradición Oral",
       "captureDate": "19/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-12-Waira_wairita-arr.png"
+      "image": "images/inga/web/ilustraciones/Ing-12-Waira_wairita-arr.webp"
     },
     {
       "number": "13",
@@ -368,7 +368,7 @@
       "audioFileBase": "Ing-13-Enfermedades_y_cuidados-rel",
       "authorOrOrigin": "Tradición Oral",
       "captureDate": "15/06/2026",
-      "image": "images/inga/web/ilustraciones/Ing-13-Enfermedades_y_cuidados-rel.png"
+      "image": "images/inga/web/ilustraciones/Ing-13-Enfermedades_y_cuidados-rel.webp"
     },
     {
       "number": "14",
@@ -391,7 +391,7 @@
       "audioFileBase": "Ing-14-Limpieza_del_taita-can-rit",
       "authorOrOrigin": "Tradición Oral",
       "captureDate": "2026-06-17 00:00:00",
-      "image": "images/inga/web/ilustraciones/Ing-14-Limpieza_del_taita-can-rit.png"
+      "image": "images/inga/web/ilustraciones/Ing-14-Limpieza_del_taita-can-rit.webp"
     },
     {
       "number": "15",
@@ -414,7 +414,7 @@
       "audioFileBase": "Ing-15-Anochecer_en_tacumbina-pai-son",
       "authorOrOrigin": "León David Cobo Estrada",
       "captureDate": "2026-06-19 00:00:00",
-      "image": "images/inga/web/ilustraciones/Ing-15-Anochecer_en_tacumbina-pai-son.png"
+      "image": "images/inga/web/ilustraciones/Ing-15-Anochecer_en_tacumbina-pai-son.webp"
     }
   ],
   "vocabulary": [
@@ -1311,91 +1311,91 @@
   },
   "photos": [
     {
-      "src": "images/inga/web/fototeca/Inga_A7300437_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7300437_Juan Franco_2026.webp",
       "alt": "Fotografía 01 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V00756_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V00756_Juan Franco_2026.webp",
       "alt": "Fotografía 02 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01319_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01319_Juan Franco_2026.webp",
       "alt": "Fotografía 03 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01407_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01407_Juan Franco_2026.webp",
       "alt": "Fotografía 04 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01546_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01546_Juan Franco_2026.webp",
       "alt": "Fotografía 05 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01647_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01647_Juan Franco_2026.webp",
       "alt": "Fotografía 06 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01681_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01681_Juan Franco_2026.webp",
       "alt": "Fotografía 07 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01869_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01869_Juan Franco_2026.webp",
       "alt": "Fotografía 08 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01912_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01912_Juan Franco_2026.webp",
       "alt": "Fotografía 09 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V01987_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V01987_Juan Franco_2026.webp",
       "alt": "Fotografía 10 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V02245_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V02245_Juan Franco_2026.webp",
       "alt": "Fotografía 11 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V02319_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V02319_Juan Franco_2026.webp",
       "alt": "Fotografía 12 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V02367_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V02367_Juan Franco_2026.webp",
       "alt": "Fotografía 13 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V02628_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V02628_Juan Franco_2026.webp",
       "alt": "Fotografía 14 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V02719_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V02719_Juan Franco_2026.webp",
       "alt": "Fotografía 15 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03011_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03011_Juan Franco_2026.webp",
       "alt": "Fotografía 16 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03087_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03087_Juan Franco_2026.webp",
       "alt": "Fotografía 17 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03169_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03169_Juan Franco_2026.webp",
       "alt": "Fotografía 18 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03206_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03206_Juan Franco_2026.webp",
       "alt": "Fotografía 19 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03209_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03209_Juan Franco_2026.webp",
       "alt": "Fotografía 20 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03225_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03225_Juan Franco_2026.webp",
       "alt": "Fotografía 21 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03279_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03279_Juan Franco_2026.webp",
       "alt": "Fotografía 22 de la comunidad Inga."
     },
     {
@@ -1403,59 +1403,59 @@
       "alt": "Fotografía 23 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03424_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03424_Juan Franco_2026.webp",
       "alt": "Fotografía 24 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V03870_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V03870_Juan Franco_2026.webp",
       "alt": "Fotografía 25 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V04068_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V04068_Juan Franco_2026.webp",
       "alt": "Fotografía 26 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V04887_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V04887_Juan Franco_2026.webp",
       "alt": "Fotografía 27 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V05151_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V05151_Juan Franco_2026.webp",
       "alt": "Fotografía 28 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V06055_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V06055_Juan Franco_2026.webp",
       "alt": "Fotografía 29 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V06134_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V06134_Juan Franco_2026.webp",
       "alt": "Fotografía 30 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V07728_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V07728_Juan Franco_2026.webp",
       "alt": "Fotografía 31 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V07919_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V07919_Juan Franco_2026.webp",
       "alt": "Fotografía 32 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V08337_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V08337_Juan Franco_2026.webp",
       "alt": "Fotografía 33 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V08447_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V08447_Juan Franco_2026.webp",
       "alt": "Fotografía 34 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V08547-Pano_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V08547-Pano_Juan Franco_2026.webp",
       "alt": "Fotografía panorámica 35 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V08561-Pano_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V08561-Pano_Juan Franco_2026.webp",
       "alt": "Fotografía panorámica 36 de la comunidad Inga."
     },
     {
-      "src": "images/inga/web/fototeca/Inga_A7V08712-Pano_Juan Franco_2026.jpg",
+      "src": "images/inga/web/fototeca/Inga_A7V08712-Pano_Juan Franco_2026.webp",
       "alt": "Fotografía panorámica 37 de la comunidad Inga."
     }
   ],
@@ -1534,7 +1534,7 @@
   "culturalArticles": [
     {
       "title": "Curando a la compañera",
-      "image": "images/inga/web/conoce/01-curando-a-la-compañera.jpg",
+      "image": "images/inga/web/conoce/01-curando-a-la-compañera.webp",
       "imageAlt": "Imagen asociada al artículo Curando a la compañera.",
       "paragraphs": [
         "Cuando nacía un bebé, en la tulpa, cerquita del fogón, se enterraba el cordón umbilical para que no sintiera frío. Se abría un huequito y hacia dentro se soplaba con aguardiente y humo de cigarrillo. Después se colocaban los carbones, acomodaban el cordón y nuevamente soplaban con aguardiente y tabaco en bola, que habían majado horas atrás. Así, curaban a «la compañera», como llamaban al cordoncito, para que el niño no se asustara o le llegara el mal viento. Si a un niño se le arruinaban los dientes, era común escuchar: «¡No le han curado la compañera!». De este modo aseguraban a los pequeños porque, además, el territorio es ilusionero y los niños sabían perderse: se iban como si el monte mismo los estuviera llamando. Los dolientes, o familiares, sembraban el cordón y ponían las hierbas y remedios, pero eran los comadrones o las parteras quienes les explicaban, pasito a pasito, lo que debían hacer."
@@ -1542,7 +1542,7 @@
     },
     {
       "title": "Arrullos",
-      "image": "images/inga/web/conoce/02-arrullos.jpg",
+      "image": "images/inga/web/conoce/02-arrullos.webp",
       "imageAlt": "Imagen asociada al artículo Arrullos.",
       "paragraphs": [
         "Cuando el bebé tiene un mesecito, la mamá lo coloca en la milla, ese nido que nace cuando se juntan las piernas y que otros llaman regazo. Allí lo mece y le susurra: «shhhhhh, shhhhhh», como si su voz fuera el arrullo del viento. Cuando agarra más fuercita, lo toma en los brazos y lo pone de pie para cantarle la alegría: «kisindi kindi, kisindi kindi, kisindi kindi», mientras lo zarandea suavemente.",
@@ -1553,7 +1553,7 @@
     },
     {
       "title": "Los niños Inga",
-      "image": "images/inga/web/conoce/03-los-niños-inga.jpg",
+      "image": "images/inga/web/conoce/03-los-niños-inga.webp",
       "imageAlt": "Imagen asociada al artículo Los niños Inga.",
       "paragraphs": [
         "Son las siete de la mañana. En medio de la bruma y la montaña, los niños corren a la escuela con su pacha, una túnica que llevan hasta la rodilla, y las niñas con su kusma, una falda anudada a la cintura con la faja o hiladillo. Tanto la kusma como la pacha son negras como el color de la tierra y están hechas de lana de ovejo. Desde hace algunos años, la comunidad, junto con sus autoridades, decidió cambiar los uniformes: las falditas plisadas y las camisas blancas que no decían mucho de quiénes eran o de dónde venían, por el vestido tradicional del pueblo Inga de Aponte.",
@@ -1565,7 +1565,7 @@
     },
     {
       "title": "La fiesta de nosotros",
-      "image": "images/inga/web/conoce/04-la-fiesta-de-nosotros.jpg",
+      "image": "images/inga/web/conoce/04-la-fiesta-de-nosotros.webp",
       "imageAlt": "Imagen asociada al artículo La fiesta de nosotros.",
       "paragraphs": [
         "El Atun Puncha es el «Día Grande», la «fiesta de nosotros». Donde haya un inga, sea en El Páramo o en el pueblo, se festeja. El carnaval empieza una semana antes del Miércoles de Ceniza con la ceremonia de remedio o ambiwaska para toda la comunidad; el sábado, se recuerdan los juegos «que se sabían jugar antes», como la vara encebada, los encostalados o la carrera del chaski; y el domingo, en el cambalache, se trueca choclo, arracacha, barbacuano, envueltos, gallinas, cuyes, ollas de barro y hasta tejidos hechos en guanga. Es el encuentro entre lo frío y lo caliente.",
@@ -1577,7 +1577,7 @@
     },
     {
       "title": "La lengua ingana",
-      "image": "images/inga/web/conoce/05-la-lengua-ingana.jpg",
+      "image": "images/inga/web/conoce/05-la-lengua-ingana.webp",
       "imageAlt": "Imagen asociada al artículo La lengua ingana.",
       "paragraphs": [
         "Hace unos años, otras maneras de sentir y habitar el territorio llegaron a Aponte. En ese entonces, muchos se olvidaron de la lengua y ella, poco a poco, se fue quedando dormida. Esos días difíciles pasaron: hoy, junto con el café que se asoma verdecito en la montaña, la comunidad está recuperando el ingano y, con él, el modo de pensar bonito que habían tenido desde siempre.",

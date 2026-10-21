@@ -86,7 +86,7 @@
     <main class="credits-page credits-print">
       <header class="credits-print-header">
         <div><a href="index.html">← Volver al inicio</a><p>Audioteca <i>De agua, viento y verdor</i>,<br>tomo IV</p></div>
-        <img src="images/portal/creditos-logos.png" alt="Ministerio de Educación, Ministerio de las Culturas y CoCrea">
+        <img src="images/logos/creditos-logos.png" alt="Ministerio de Educación, Ministerio de las Culturas y CoCrea">
       </header>
       <div class="credits-print-columns">
         <section>${institutions}</section>

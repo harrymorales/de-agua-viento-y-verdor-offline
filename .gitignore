@@ -1,5 +1,6 @@
 # Extracted source material and temporary working files
 tmp/
+__pycache__/
 
 # Operating-system files
 Thumbs.db
@@ -8,6 +9,7 @@ Desktop.ini
 
 # Vercel local state
 .vercel/
+delivery/
 
 # Original photography is retained locally; optimized web versions are published.
 images/palenque/portada/

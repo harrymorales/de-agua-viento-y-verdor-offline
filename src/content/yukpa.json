@@ -12,7 +12,7 @@
   "cover": {
     "title": "Yukpa",
     "subtitle": "Relatos, cantos, palabras y paisajes sonoros de la Serranía del Perijá.",
-    "image": "images/yukpa/web/portada/Yukpa_A7V09980_Juan Franco_2026.jpg",
+    "image": "images/yukpa/web/portada/Yukpa_A7V09980_Juan Franco_2026.webp",
     "imageAlt": "Fotografía de la comunidad Yukpa."
   },
   "communityProfile": {
@@ -70,7 +70,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "N/A"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-01-Amanecer_en_san_genaro-pai-son.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-01-Amanecer_en_san_genaro-pai-son.webp"
     },
     {
       "number": "02",
@@ -95,7 +95,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Faiber Darío Capitán Romero"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-02-Owaya_tamurhya_trho_ktaworh_taniap_papsh_yukpa_iyanak-rel.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-02-Owaya_tamurhya_trho_ktaworh_taniap_papsh_yukpa_iyanak-rel.webp"
     },
     {
       "number": "03",
@@ -118,7 +118,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Andrés Capitán González"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-03-Cuando_la_tierra_se_estaba_formando_papsh_saco_a_los_yukpa_de_un_arbol-rel.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-03-Cuando_la_tierra_se_estaba_formando_papsh_saco_a_los_yukpa_de_un_arbol-rel.webp"
     },
     {
       "number": "04",
@@ -141,7 +141,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Comunidad Yukpa"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-04-Okosi_isirhirh_cancion_rey_gallinazo-can.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-04-Okosi_isirhirh_cancion_rey_gallinazo-can.webp"
     },
     {
       "number": "05",
@@ -176,7 +176,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Karen Luciana Barreto Carrillo\nLuis Andrés Capitán Capitán\nFaiber Darío Capitán Romero\nMaira Alejandra González\nAnderson José González Capitán \nKiara Marcela González Jiménez\nShaira Valentina Carrillo Jiménez \nKarelis Capitán Romero \nEder Enrique González Quiroz \nJean Carlo Jiménez Maestre"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-05-Vocabularios_1-voc.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-05-Vocabularios_1-voc.webp"
     },
     {
       "number": "06",
@@ -201,7 +201,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Alba Marina Quiroz Pérez"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-06-Shinprha_ichok_wat-arr.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-06-Shinprha_ichok_wat-arr.webp"
     },
     {
       "number": "07",
@@ -226,7 +226,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Juan Maestre Martínez \nJean Carlo Jiménez Maestre"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-07-Soku-rel.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-07-Soku-rel.webp"
     },
     {
       "number": "08",
@@ -249,7 +249,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Carrizo: Jean Carlos Jiménez Maestre"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-08-Witarhash_el_canto_de_la_palizada-mus.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-08-Witarhash_el_canto_de_la_palizada-mus.webp"
     },
     {
       "number": "09",
@@ -282,7 +282,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Karen Luciana Barreto Carrillo\nLuis Andrés Capitán Capitán\nFaiber Darío Capitán Romero\nMaira Alejandra González\nAnderson José González Capitán \nKiara Marcela González Jiménez\nShaira Valentina Carrillo Jiménez \nKarelis Capitán Romero \nEder Enrique González Quiroz \nJean Carlo Jiménez Maestre"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-09-Vocabularios_2-voc.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-09-Vocabularios_2-voc.webp"
     },
     {
       "number": "10",
@@ -307,7 +307,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Mónica Fernández Maestre"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-10-Yonash_shini_prha-arr.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-10-Yonash_shini_prha-arr.webp"
     },
     {
       "number": "11",
@@ -330,7 +330,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "N/A"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-11-Flechando_en_san_genaro-pai-son.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-11-Flechando_en_san_genaro-pai-son.webp"
     },
     {
       "number": "12",
@@ -353,7 +353,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "Eder Enrique González Quiroz"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-12-Imitando_las_voces_de_las_aves-imi.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-12-Imitando_las_voces_de_las_aves-imi.webp"
     },
     {
       "number": "13",
@@ -376,7 +376,7 @@
         "productionAndRecording": "León David Cobo",
         "interpreterArtist": "N/A"
       },
-      "image": "images/yukpa/web/ilustraciones/Yuk-13-De_noche_en_san_genaro-pai-son.png"
+      "image": "images/yukpa/web/ilustraciones/Yuk-13-De_noche_en_san_genaro-pai-son.webp"
     }
   ],
   "vocabulary": [
@@ -1586,123 +1586,123 @@
       "alt": "Fotografía 01 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7308209_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308209_Juan Franco_2026.webp",
       "alt": "Fotografía 02 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7308276_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308276_Juan Franco_2026.webp",
       "alt": "Fotografía 03 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7308681_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308681_Juan Franco_2026.webp",
       "alt": "Fotografía 04 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7308715_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308715_Juan Franco_2026.webp",
       "alt": "Fotografía 05 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7308747_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308747_Juan Franco_2026.webp",
       "alt": "Fotografía 06 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7308827_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308827_Juan Franco_2026.webp",
       "alt": "Fotografía 07 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7308872_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7308872_Juan Franco_2026.webp",
       "alt": "Fotografía 08 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7309060_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309060_Juan Franco_2026.webp",
       "alt": "Fotografía 09 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7309476_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309476_Juan Franco_2026.webp",
       "alt": "Fotografía 10 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7309584_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309584_Juan Franco_2026.webp",
       "alt": "Fotografía 11 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7309765_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309765_Juan Franco_2026.webp",
       "alt": "Fotografía 12 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7309788_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7309788_Juan Franco_2026.webp",
       "alt": "Fotografía 13 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V00141_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V00141_Juan Franco_2026.webp",
       "alt": "Fotografía 14 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V00400_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V00400_Juan Franco_2026.webp",
       "alt": "Fotografía 15 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V00896_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V00896_Juan Franco_2026.webp",
       "alt": "Fotografía 16 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V01432_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V01432_Juan Franco_2026.webp",
       "alt": "Fotografía 17 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V01442_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V01442_Juan Franco_2026.webp",
       "alt": "Fotografía 18 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V01583-Pano_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V01583-Pano_Juan Franco_2026.webp",
       "alt": "Fotografía 19 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V05945_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V05945_Juan Franco_2026.webp",
       "alt": "Fotografía 20 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V06144_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V06144_Juan Franco_2026.webp",
       "alt": "Fotografía 21 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V06162_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V06162_Juan Franco_2026.webp",
       "alt": "Fotografía 22 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V06972_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V06972_Juan Franco_2026.webp",
       "alt": "Fotografía 23 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V07073_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V07073_Juan Franco_2026.webp",
       "alt": "Fotografía 24 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V07266_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V07266_Juan Franco_2026.webp",
       "alt": "Fotografía 25 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V07972_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V07972_Juan Franco_2026.webp",
       "alt": "Fotografía 26 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V08881_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V08881_Juan Franco_2026.webp",
       "alt": "Fotografía 27 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V09493_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09493_Juan Franco_2026.webp",
       "alt": "Fotografía 28 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V09799_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09799_Juan Franco_2026.webp",
       "alt": "Fotografía 29 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V09841_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09841_Juan Franco_2026.webp",
       "alt": "Fotografía 30 de la comunidad Yukpa."
     },
     {
-      "src": "images/yukpa/web/fototeca/Yukpa_A7V09878_Juan Franco_2026.jpg",
+      "src": "images/yukpa/web/fototeca/Yukpa_A7V09878_Juan Franco_2026.webp",
       "alt": "Fotografía 31 de la comunidad Yukpa."
     }
   ],
@@ -1781,7 +1781,7 @@
   "culturalArticles": [
     {
       "title": "Territorio y maíz",
-      "image": "images/yukpa/web/conoce/01-territorio-y-maiz.jpg",
+      "image": "images/yukpa/web/conoce/01-territorio-y-maiz.webp",
       "imageAlt": "Imagen asociada al artículo Territorio y maíz.",
       "paragraphs": [
         "La comunidad de San Genaro se encuentra en el ombligo del resguardo de Sokorhpa. Vive bajo un cielo limpio y azul, en una lomita guardada por la Serranía del Perijá, una cordillera flaca y alargada, habitada por árboles y pájaros únicos. Los yukpa conocieron esta serranía antes de que existiera cualquier otro camino marcado.",
@@ -1791,7 +1791,7 @@
     },
     {
       "title": "Mashukapsh iwatpo. El baile del niño",
-      "image": "images/yukpa/web/conoce/02-mashukapsh-iwatpo-el-baile-del-nino.jpg",
+      "image": "images/yukpa/web/conoce/02-mashukapsh-iwatpo-el-baile-del-nino.webp",
       "imageAlt": "Imagen asociada al artículo Mashukapsh iwatpo. El baile del niño.",
       "paragraphs": [
         "El baile del niño es el ritual para dar la bienvenida a un recién nacido. Se baila al niño para que sea un buen guerrero, para que no tenga miedo, cuide su territorio y sea un buen cazador. Es decir, para que lleve en el corazón el coraje y las habilidades que los yukpa han tenido siempre.",
@@ -1806,7 +1806,7 @@
     },
     {
       "title": "Arrullos",
-      "image": "images/yukpa/web/conoce/03-arrullos.jpg",
+      "image": "images/yukpa/web/conoce/03-arrullos.webp",
       "imageAlt": "Imagen asociada al artículo Arrullos.",
       "paragraphs": [
         "A los niños yukpa los arrullan las chicharras, los pájaros del monte, la niebla que baja de la serranía y también sus mamás. Ellas cantan arrullos con sonidos y palabras dulces para cada uno de sus hijos. No hay un arrullo igual a otro.",
@@ -1816,7 +1816,7 @@
     },
     {
       "title": "Los dos nombres",
-      "image": "images/yukpa/web/conoce/04-los-dos-nombres.jpg",
+      "image": "images/yukpa/web/conoce/04-los-dos-nombres.webp",
       "imageAlt": "Imagen asociada al artículo Los dos nombres.",
       "paragraphs": [
         "Los yukpa caminan el mundo con dos nombres: un nombre watiya y uno yukpa que sigue la tradición de la comunidad. El nombre watiya es el que consta en el registro civil. El yukpa es con el que se van nombrando y queriendo en el territorio propio. Entre familias y amistades siempre usan el nombre yukpa.",
@@ -1826,7 +1826,7 @@
     },
     {
       "title": "Los niños yukpa",
-      "image": "images/yukpa/web/conoce/05-los-ninos-yukpa.jpg",
+      "image": "images/yukpa/web/conoce/05-los-ninos-yukpa.webp",
       "imageAlt": "Imagen asociada al artículo Los niños yukpa.",
       "paragraphs": [
         "Los niños yukpa juegan siempre; son curiosos, alegres y no conocen el miedo. Cazan lagartijas con caucheras y flechas diminutas, hacen nudos para amarrar sus caballitos de palo y corren sin parar. También arman casas con semillas y palitos, y construyen pueblos enteros con lo que vive en el río. Niños y niñas juegan fútbol y son maestros del balón. Siempre están experimentando y descubriendo el mundo.",
@@ -1835,7 +1835,7 @@
     },
     {
       "title": "Kʉwonkʉrh. Nuestra lengua",
-      "image": "images/yukpa/web/conoce/06-kwonkwrh-nuestra-lengua.jpg",
+      "image": "images/yukpa/web/conoce/06-kwonkwrh-nuestra-lengua.webp",
       "imageAlt": "Imagen asociada al artículo Kʉwonkʉrh. Nuestra lengua.",
       "paragraphs": [
         "La lengua yukpa, de raíz caribe, es la única de su familia que sobrevive en Colombia. En San Genaro la hablan todos —abuelos, abuelas, mamás, papás—. Incluso, hay mayores que han caminado la vida entera sin conocer la lengua prestada: la lengua de los watiya.",
