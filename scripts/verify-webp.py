@@ -35,7 +35,7 @@ for entry in manifest["converted"]:
 
 with Image.open(ROOT / "og.webp") as og:
     og.load()
-    if og.size != (1200, 630):
+    if og.size != (1907, 913):
         problems.append("dimensiones de og.webp")
 
 print(f"WebP decodificados: {len(manifest['converted'])}; PNG sin diferencia visible: {lossless_checked}; problemas: {len(problems)}")

@@ -31,7 +31,7 @@ La fuente de requisitos es `MAG_Documentación Técnica Interactivos - aplicat
 
 ## Bloqueos y decisiones pendientes
 
-Se convirtieron **302 imágenes de contenido a WebP** y se actualizaron sus rutas; los PNG de ilustraciones se codificaron sin pérdida y los logos oficiales permanecieron intactos. La imagen social `og.webp` conserva 1200 × 630 px y bajó de ~2 MiB a 198 KiB. Los originales se conservan localmente para reversión, pero el empaquetador usa los WebP en su lugar. Ejecute `python scripts/verify-webp.py` para validar decodificación, dimensiones y transparencia.
+Se convirtieron **302 imágenes de contenido a WebP** y se actualizaron sus rutas; los PNG de ilustraciones se codificaron sin pérdida y los logos oficiales permanecieron intactos. La imagen social `og.webp` se actualizó a partir del nuevo PNG de 1907 × 913 px y se optimizó a WebP. Los originales se conservan localmente para reversión, pero el empaquetador usa los WebP en su lugar. Ejecute `python scripts/verify-webp.py` para validar decodificación, dimensiones y transparencia.
 
 El paquete de revisión optimizado pesa aproximadamente **651.78 MiB sin comprimir** (antes 735.55 MiB): 33 audios superan 5 MiB, 6 son M4A y 246 imágenes aún exceden 150 KiB para interfaz/ilustraciones o 400 KiB para fotografía/fondo. La guía propone 75 MiB y evaluar excepciones hasta 100 MiB. No se han recomprimido automáticamente voces ni música; para reducir más las ilustraciones habría que aceptar compresión con pérdida o redimensionamiento y validar visualmente con el cliente. Sigue siendo necesario acordar calidad, posible división de contenidos, alojamiento de medios y excepción de tamaño con Maguaré.
 
