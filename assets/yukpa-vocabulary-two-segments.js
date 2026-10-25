@@ -9,31 +9,53 @@
   };
   let selection = 'Animales';
   let activeAudio;
+  let cleanup = () => {};
 
   const titleFrom = (button) => button.textContent.replace(/^\s*\d+\s*/, '').trim();
   const isVocabularyTwo = (player) => player.closest('.stage')?.querySelector('.giant-number')?.textContent.trim() === '09';
-  const setSegment = (audio, [start, end]) => {
+  const release = () => {
+    cleanup();
+    cleanup = () => {};
+    activeAudio = null;
+  };
+  const setSegment = (player, audio, [start, end]) => {
+    let timer;
+    const isCurrent = () => audio.isConnected && activeAudio === audio && isVocabularyTwo(player);
     const seek = () => {
+      if (!isCurrent()) return;
       audio.currentTime = start;
       audio.play().catch(() => {});
     };
-    const startSegment = () => window.setTimeout(seek, 0);
+    const startSegment = () => { timer = window.setTimeout(seek, 0); };
     if (audio.readyState >= 3) startSegment();
     else audio.addEventListener('canplay', startSegment, { once: true });
-    audio.addEventListener('timeupdate', () => {
-      if (audio.currentTime >= end) {
+    const stopAtEnd = () => {
+      if (isCurrent() && audio.currentTime >= end) {
         audio.pause();
         audio.currentTime = end;
       }
-    });
+    };
+    audio.addEventListener('timeupdate', stopAtEnd);
+    cleanup = () => {
+      window.clearTimeout(timer);
+      audio.removeEventListener('canplay', startSegment);
+      audio.removeEventListener('timeupdate', stopAtEnd);
+    };
   };
   const update = () => {
     const player = document.querySelector('.stage .real-player');
     const audio = player?.querySelector('audio');
-    if (!player || !audio || !isVocabularyTwo(player) || audio === activeAudio) return;
+    if (!player || !audio || !isVocabularyTwo(player)) {
+      release();
+      return;
+    }
+    if (audio === activeAudio) return;
+    release();
     activeAudio = audio;
+    const selected = player.closest('.stage')?.querySelector('.vocab-categories button.selected');
+    if (selected) selection = titleFrom(selected);
     const segment = segments[selection];
-    if (segment) setSegment(audio, segment);
+    if (segment) setSegment(player, audio, segment);
   };
 
   document.addEventListener('click', (event) => {

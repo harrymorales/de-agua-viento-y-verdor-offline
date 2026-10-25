@@ -13,47 +13,74 @@
   };
   let selection = 'Animales';
   let activeAudio;
+  let cleanup = () => {};
 
   const titleFrom = (button) => button.textContent.replace(/^\s*\d+\s*/, '').trim();
+  const isVocabulary = (player) => player.closest('.stage')?.querySelector('.giant-number')?.textContent.trim() === '08';
+  const release = () => {
+    cleanup();
+    cleanup = () => {};
+    activeAudio = null;
+  };
   const pauseUnavailable = (player, audio) => {
     audio.pause();
     player.classList.add('audio-unavailable');
     player.querySelector('.audio-play')?.setAttribute('disabled', '');
     player.querySelector('.audio-track input')?.setAttribute('disabled', '');
   };
-  const setSegment = (audio, [start, end]) => {
+  const setSegment = (player, audio, [start, end]) => {
+    let timer;
+    const isCurrent = () => audio.isConnected && activeAudio === audio && isVocabulary(player);
     const seek = () => {
+      if (!isCurrent()) return;
       audio.currentTime = start;
       audio.play().catch(() => {});
     };
     // El componente base inicializa el audio después de montarlo y puede
     // pausarlo en sus propios eventos. Esperamos a que termine esa
     // inicialización antes de saltar al rango seleccionado.
-    const startSegment = () => window.setTimeout(seek, 0);
+    const startSegment = () => { timer = window.setTimeout(seek, 0); };
     if (audio.readyState >= 3) startSegment();
     else audio.addEventListener('canplay', startSegment, { once: true });
-    audio.addEventListener('timeupdate', () => {
-      if (audio.currentTime >= end) {
+    const stopAtEnd = () => {
+      if (isCurrent() && audio.currentTime >= end) {
         audio.pause();
         audio.currentTime = end;
       }
-    });
+    };
+    audio.addEventListener('timeupdate', stopAtEnd);
+    cleanup = () => {
+      window.clearTimeout(timer);
+      audio.removeEventListener('canplay', startSegment);
+      audio.removeEventListener('timeupdate', stopAtEnd);
+    };
   };
   const update = () => {
     const player = document.querySelector('.stage .real-player');
     const audio = player?.querySelector('audio');
-    if (!player || !audio || audio === activeAudio) return;
+    if (!player || !audio || !isVocabulary(player)) {
+      release();
+      return;
+    }
+    if (audio === activeAudio) return;
+    release();
     activeAudio = audio;
+    const selected = player.closest('.stage')?.querySelector('.vocab-categories button.selected');
+    if (selected) selection = titleFrom(selected);
     const segment = segments[selection];
     if (!segment) {
       pauseUnavailable(player, audio);
-      audio.addEventListener('canplay', () => pauseUnavailable(player, audio), { once: true });
+      const disable = () => {
+        if (audio.isConnected && activeAudio === audio && isVocabulary(player)) pauseUnavailable(player, audio);
+      };
+      audio.addEventListener('canplay', disable, { once: true });
+      cleanup = () => audio.removeEventListener('canplay', disable);
       return;
     }
     player.classList.remove('audio-unavailable');
     player.querySelector('.audio-play')?.removeAttribute('disabled');
     player.querySelector('.audio-track input')?.removeAttribute('disabled');
-    setSegment(audio, segment);
+    setSegment(player, audio, segment);
   };
 
   document.addEventListener('click', (event) => {

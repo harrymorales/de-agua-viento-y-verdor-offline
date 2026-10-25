@@ -185,6 +185,8 @@ const vocabularyTrackNumbers = renderData.tracks
   .map(track => track.number);
 const vocabularyTrackCondition = `${JSON.stringify(vocabularyTrackNumbers)}.includes(q.number)`;
 script = script.replaceAll('q.number==="07"', vocabularyTrackCondition);
+// Different vocabulary tracks must not reuse the same audio element.
+script = script.replace('`${we}-${xe}`', '`${q.number}-${we}-${xe}`');
 
 // A territory may provide its own cover photograph while retaining the
 // original Palenque cover composition and typography.
