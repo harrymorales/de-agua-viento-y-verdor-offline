@@ -102,4 +102,12 @@ for (const [community, scripts, vocabNumbers, trackCount] of [
   }
 }
 assert(fs.readFileSync(path.join(root, 'territories/yukpa/app.js'), 'utf8').includes('`${q.number}-${we}-${xe}`'));
+for (const community of ['rrom', 'yukpa', 'palenque', 'cofan', 'inga', 'raizal']) {
+  const source = community === 'palenque' ? 'palenque.original' : community;
+  const content = JSON.parse(fs.readFileSync(path.join(root, 'src/content', `${source}.json`), 'utf8'));
+  const bundle = fs.readFileSync(path.join(root, 'territories', community, 'app.js'), 'utf8');
+  const map = bundle.match(/Um=(\{(?:[^{}]|\{[^{}]*\})*\})/);
+  assert(map, `${community}: falta mapa de tiempos`);
+  assert.deepEqual(JSON.parse(map[1]), content.vocabularyAudioSegments, `${community}: tiempos publicados desactualizados`);
+}
 console.log(`${cases} casos correctos: pistas completas, categorías y cambios de pista sin límites heredados.`);
