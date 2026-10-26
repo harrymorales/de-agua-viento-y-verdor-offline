@@ -1,15 +1,15 @@
 (() => {
   const segments = {
-    'Animales': [0, 39],
-    'Atuendos': [39, 48],
-    'Camino': [48, 68],
-    'Silencio y música': [69, 73],
-    'Alma gitana': [74, 79],
-    'Familia': [80, 125],
-    'Nombrar el paisaje': [126, 153],
-    'Colores': [154, 170],
-    'Números': [171, 210],
-    'Así se saluda en romanés': [210, 223]
+    'Animales': [0, 38.369],
+    'Atuendos': [38.95, 48.513],
+    'Camino': [48.6, 68.555],
+    'Silencio y música': [69.597, 73.373],
+    'Alma gitana': [74.106, 79.363],
+    'Familia': [79.842, 125.106],
+    'Nombrar el paisaje': [125.28, 152.907],
+    'Colores': [153.95, 169.955],
+    'Números': [171.618, 209.729],
+    'Así se saluda en romanés': [210.18, 223.472]
   };
   let selection = 'Animales';
   let activeAudio;
@@ -19,6 +19,7 @@
   const isVocabulary = (player) => player.closest('.stage')?.querySelector('.giant-number')?.textContent.trim() === '08';
   const release = () => {
     cleanup();
+    activeAudio?.pause();
     cleanup = () => {};
     activeAudio = null;
   };
@@ -87,7 +88,7 @@
     const button = event.target.closest('.vocab-categories button');
     if (!button) return;
     selection = titleFrom(button);
-    activeAudio = null;
+    release();
     window.setTimeout(update, 0);
   }, true);
   new MutationObserver(update).observe(document.documentElement, { childList: true, subtree: true });

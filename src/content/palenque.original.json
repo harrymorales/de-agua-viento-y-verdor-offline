@@ -628,47 +628,47 @@
   "vocabularyAudioSegments": {
     "Las partes del cuerpo": {
       "start": 0,
-      "end": 32
+      "end": 32.527
     },
     "Familia": {
-      "start": 32,
-      "end": 85
+      "start": 34.017,
+      "end": 85.865
     },
     "Así se saluda en Palenque": {
-      "start": 86,
-      "end": 105
+      "start": 86.815,
+      "end": 105.11
     },
     "Nombrar el paisaje": {
-      "start": 106,
-      "end": 174
+      "start": 106.6,
+      "end": 173.457
     },
     "Creciendo en Palenque": {
-      "start": 175,
-      "end": 220
+      "start": 174.027,
+      "end": 220.275
     },
     "Otras palabras de la comunidad": {
-      "start": 221,
-      "end": 266
+      "start": 221.428,
+      "end": 265.854
     },
     "Miscelánea de palabras": {
-      "start": 267,
-      "end": 326
+      "start": 266.05,
+      "end": 325.522
     },
     "Pronombres": {
-      "start": 327,
-      "end": 346
+      "start": 326.272,
+      "end": 346.348
     },
     "En la escuela": {
-      "start": 347,
-      "end": 405
+      "start": 346.52,
+      "end": 404.023
     },
     "Sonido, música y silencio": {
-      "start": 406,
-      "end": 471
+      "start": 405.783,
+      "end": 470.345
     },
     "Vamos a…": {
-      "start": 472,
-      "end": 554
+      "start": 470.824,
+      "end": 553.5
     }
   },
   "photos": [

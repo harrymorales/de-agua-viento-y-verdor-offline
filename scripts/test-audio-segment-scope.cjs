@@ -110,4 +110,21 @@ for (const community of ['rrom', 'yukpa', 'palenque', 'cofan', 'inga', 'raizal']
   assert(map, `${community}: falta mapa de tiempos`);
   assert.deepEqual(JSON.parse(map[1]), content.vocabularyAudioSegments, `${community}: tiempos publicados desactualizados`);
 }
+const rromBundle = fs.readFileSync(path.join(root, 'territories/rrom/app.js'), 'utf8');
+const playerStart = rromBundle.indexOf('d.end>d.start?');
+assert(playerStart >= 0, 'Rrom: falta la condición para omitir reproductores sin audio');
+const playerExpression = rromBundle.slice(playerStart, rromBundle.indexOf(':null', playerStart) + 5);
+const rromSegments = JSON.parse(fs.readFileSync(path.join(root, 'src/content/rrom.json'), 'utf8')).vocabularyAudioSegments;
+for (const [title, segment] of Object.entries(rromSegments)) {
+  const rendered = vm.runInNewContext(playerExpression, {
+    d: segment, q: { audio: 'vocabulario.mp3', number: '08' },
+    Be: { title }, we: 0, xe: 0, df() {},
+    s: { jsx: (component, props) => props }
+  });
+  if (title === 'Otros atuendos') assert.equal(rendered, null, 'Otros atuendos debe conservar el texto sin reproductor');
+  else {
+    assert.equal(rendered.start, segment.start);
+    assert.equal(rendered.end, segment.end);
+  }
+}
 console.log(`${cases} casos correctos: pistas completas, categorías y cambios de pista sin límites heredados.`);

@@ -187,6 +187,10 @@ const vocabularyTrackCondition = `${JSON.stringify(vocabularyTrackNumbers)}.incl
 script = script.replaceAll('q.number==="07"', vocabularyTrackCondition);
 // Different vocabulary tracks must not reuse the same audio element.
 script = script.replace('`${we}-${xe}`', '`${q.number}-${we}-${xe}`');
+// Categories without a recording keep their text without an empty player.
+const vocabularyPlayer = '(0,s.jsx)(df,{src:q.audio,start:d.start,end:d.end,autoplay:xe>0,label:Be.title},`${q.number}-${we}-${xe}`)';
+if (!script.includes(vocabularyPlayer)) throw new Error('No se encontró el reproductor de vocabulario.');
+script = script.replace(vocabularyPlayer, `d.end>d.start?${vocabularyPlayer}:null`);
 
 // A territory may provide its own cover photograph while retaining the
 // original Palenque cover composition and typography.
