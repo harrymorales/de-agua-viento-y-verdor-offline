@@ -2,6 +2,7 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
+const crypto = require('node:crypto');
 
 const root = path.resolve(__dirname, '..');
 class Audio extends EventTarget {
@@ -108,7 +109,11 @@ for (const community of ['rrom', 'yukpa', 'palenque', 'cofan', 'inga', 'raizal']
   const bundle = fs.readFileSync(path.join(root, 'territories', community, 'app.js'), 'utf8');
   const map = bundle.match(/Um=(\{(?:[^{}]|\{[^{}]*\})*\})/);
   assert(map, `${community}: falta mapa de tiempos`);
-  assert.deepEqual(JSON.parse(map[1]), content.vocabularyAudioSegments, `${community}: tiempos publicados desactualizados`);
+  const runtimeSegments = JSON.parse(map[1]);
+  for (const segment of Object.values(runtimeSegments)) {
+    if (segment.audio) segment.audio = segment.audio.replace(/^\.\.\/\.\.\//, '');
+  }
+  assert.deepEqual(runtimeSegments, content.vocabularyAudioSegments, `${community}: tiempos publicados desactualizados`);
 }
 const rromBundle = fs.readFileSync(path.join(root, 'territories/rrom/app.js'), 'utf8');
 const playerStart = rromBundle.indexOf('d.end>d.start?');
@@ -136,7 +141,25 @@ const formatStart = yukpaBundle.indexOf('cf=') + 3;
 const formatEnd = yukpaBundle.indexOf(';function df', formatStart);
 const formatTime = vm.runInNewContext(`(${yukpaBundle.slice(formatStart, formatEnd)})`);
 const yukpaSegments = JSON.parse(fs.readFileSync(path.join(root, 'src/content/yukpa.json'), 'utf8')).vocabularyAudioSegments;
+const clipManifest = JSON.parse(fs.readFileSync(path.join(root, 'scripts/yukpa-vocabulary-clips-manifest.json'), 'utf8'));
+const hash = file => crypto.createHash('sha256').update(fs.readFileSync(path.join(root, file))).digest('hex');
+assert.equal(clipManifest.clips.length, 13);
+for (const source of clipManifest.sources) assert.equal(hash(source.audio), source.sha256, 'La grabación original debe conservarse');
+const localHtml = fs.readFileSync(path.join(root, 'territories/yukpa/index.html'), 'utf8');
+assert(!localHtml.includes('yukpa-vocabulary-one-segments.js'));
+assert(!localHtml.includes('yukpa-vocabulary-two-segments.js'));
+const clipCallStart = yukpaBundle.indexOf('(0,s.jsx)(df,{src:d.audio||q.audio');
+const clipCallEndMarker = '},`${q.number}-${we}-${xe}`)';
+const clipCallEnd = yukpaBundle.indexOf(clipCallEndMarker, clipCallStart);
+assert(clipCallStart >= 0 && clipCallEnd > clipCallStart, 'El reproductor debe usar el fragmento de la categoría');
+const clipCall = yukpaBundle.slice(clipCallStart, clipCallEnd + clipCallEndMarker.length);
 for (const [title, segment] of Object.entries(yukpaSegments)) {
+  const clip = clipManifest.clips.find(clip => clip.category === title);
+  assert(clip && clip.audio === segment.audio);
+  assert.equal(clip.start, segment.start);
+  assert.equal(clip.end, segment.end);
+  assert.equal(clip.samples, Math.round((segment.end - segment.start) * clip.sampleRate));
+  assert.equal(hash(clip.audio), clip.sha256);
   const audio = new Audio();
   const effects = [];
   const element = (type, props) => ({ type, props });
@@ -148,20 +171,36 @@ for (const [title, segment] of Object.entries(yukpaSegments)) {
     },
     s: { jsx: element, jsxs: element }, cf: formatTime
   });
-  const tree = nativePlayer({ src: 'vocabulario.mp3', start: segment.start, end: segment.end, label: title });
+  const tree = vm.runInNewContext(clipCall, {
+    d: { ...segment, audio: '../../' + segment.audio }, q: { number: clip.track },
+    Be: { title }, we: 0, xe: 0, df: nativePlayer,
+    s: { jsx: (component, props) => component(props) }
+  });
   const dispose = effects.map(callback => callback());
-  assert.equal(audio.currentTime, segment.start, `${title}: inicio nativo exacto`);
+  const duration = segment.end - segment.start;
+  assert.equal(tree.props.children[0].props.children[0].props.src, '../../' + clip.audio);
+  assert.equal(audio.currentTime, 0, `${title}: reproducir desde el inicio del fragmento exacto`);
   const range = tree.props.children[2].props.children[1];
-  assert.equal(range.props.min, segment.start);
-  assert.equal(range.props.max, segment.end);
+  assert.equal(range.props.min, 0);
+  assert.equal(range.props.max, duration);
+  assert.equal(range.props.step, '0.001');
   audio.pauses = 0;
-  audio.currentTime = segment.end - 0.001;
+  audio.currentTime = duration - 0.001;
   tree.props.children[0].props.onTimeUpdate({ currentTarget: audio });
   assert.equal(audio.pauses, 0, `${title}: no cortar antes del final`);
-  audio.currentTime = segment.end + 0.001;
+  audio.currentTime = duration + 0.001;
   tree.props.children[0].props.onTimeUpdate({ currentTarget: audio });
   assert.equal(audio.pauses, 1, `${title}: detener al superar el final`);
-  assert.equal(audio.currentTime, segment.end, `${title}: final nativo exacto`);
+  assert.equal(audio.currentTime, duration, `${title}: final del fragmento exacto`);
+  audio.paused = true;
+  audio.currentTime = duration - 0.02;
+  tree.props.children[1].props.onClick();
+  assert.equal(audio.currentTime, duration - 0.02, `${title}: reanudar los últimos milisegundos sin reiniciar`);
+  audio.currentTime = duration;
+  tree.props.children[1].props.onClick();
+  assert.equal(audio.currentTime, 0, `${title}: repetir desde el inicio del fragmento`);
+  const pausesBeforeDispose = audio.pauses;
   dispose.forEach(callback => callback?.());
+  assert.equal(audio.pauses, pausesBeforeDispose + 1, `${title}: detener el fragmento al cambiar de categoría`);
 }
-console.log(`${cases} casos correctos de navegación y límites; ${Object.keys(yukpaSegments).length} categorías Yukpa verificadas con el reproductor local real.`);
+console.log(`${cases} casos correctos de navegación y límites; ${Object.keys(yukpaSegments).length} fragmentos Yukpa verificados con el código del reproductor local.`);

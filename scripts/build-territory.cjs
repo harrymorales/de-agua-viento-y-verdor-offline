@@ -190,7 +190,14 @@ script = script.replace('`${we}-${xe}`', '`${q.number}-${we}-${xe}`');
 // Categories without a recording keep their text without an empty player.
 const vocabularyPlayer = '(0,s.jsx)(df,{src:q.audio,start:d.start,end:d.end,autoplay:xe>0,label:Be.title},`${q.number}-${we}-${xe}`)';
 if (!script.includes(vocabularyPlayer)) throw new Error('No se encontró el reproductor de vocabulario.');
-script = script.replace(vocabularyPlayer, `d.end>d.start?${vocabularyPlayer}:null`);
+const vocabularyClipPlayer = vocabularyPlayer.replace(
+  'src:q.audio,start:d.start,end:d.end',
+  'src:d.audio||q.audio,start:d.audio?0:d.start,end:d.audio?d.end-d.start:d.end'
+).replace('autoplay:xe>0', 'autoplay:!!d.audio||xe>0');
+script = script.replace(vocabularyPlayer, `d.end>d.start?${vocabularyClipPlayer}:null`);
+script = script.replace('step:"0.1",value:Math.min(A', 'step:Z?"0.001":"0.1",value:Math.min(A');
+script = script.replace('()=>{ae=!0,U.removeEventListener("loadedmetadata"', '()=>{ae=!0,U.pause(),U.removeEventListener("loadedmetadata"');
+script = script.replace('U.currentTime<D-.2||_!==void 0&&U.currentTime>=_-.05', 'U.currentTime<D-(Z?.0005:.2)||_!==void 0&&U.currentTime>=_-(Z?.0005:.05)');
 
 // A territory may provide its own cover photograph while retaining the
 // original Palenque cover composition and typography.
