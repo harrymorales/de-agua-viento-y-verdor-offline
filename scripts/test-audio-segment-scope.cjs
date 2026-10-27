@@ -127,4 +127,41 @@ for (const [title, segment] of Object.entries(rromSegments)) {
     assert.equal(rendered.end, segment.end);
   }
 }
-console.log(`${cases} casos correctos: pistas completas, categorías y cambios de pista sin límites heredados.`);
+// Exercise the actual local player, including decimal seeks and stop values.
+const yukpaBundle = fs.readFileSync(path.join(root, 'territories/yukpa/app.js'), 'utf8');
+const playerFunctionStart = yukpaBundle.indexOf('function df({src:');
+const playerFunctionEnd = yukpaBundle.indexOf('function Bm()', playerFunctionStart);
+assert(playerFunctionStart >= 0 && playerFunctionEnd > playerFunctionStart);
+const formatStart = yukpaBundle.indexOf('cf=') + 3;
+const formatEnd = yukpaBundle.indexOf(';function df', formatStart);
+const formatTime = vm.runInNewContext(`(${yukpaBundle.slice(formatStart, formatEnd)})`);
+const yukpaSegments = JSON.parse(fs.readFileSync(path.join(root, 'src/content/yukpa.json'), 'utf8')).vocabularyAudioSegments;
+for (const [title, segment] of Object.entries(yukpaSegments)) {
+  const audio = new Audio();
+  const effects = [];
+  const element = (type, props) => ({ type, props });
+  const nativePlayer = vm.runInNewContext(`(${yukpaBundle.slice(playerFunctionStart, playerFunctionEnd)})`, {
+    pe: {
+      useRef: () => ({ current: audio }),
+      useState: initial => [initial, () => {}],
+      useEffect: callback => effects.push(callback)
+    },
+    s: { jsx: element, jsxs: element }, cf: formatTime
+  });
+  const tree = nativePlayer({ src: 'vocabulario.mp3', start: segment.start, end: segment.end, label: title });
+  const dispose = effects.map(callback => callback());
+  assert.equal(audio.currentTime, segment.start, `${title}: inicio nativo exacto`);
+  const range = tree.props.children[2].props.children[1];
+  assert.equal(range.props.min, segment.start);
+  assert.equal(range.props.max, segment.end);
+  audio.pauses = 0;
+  audio.currentTime = segment.end - 0.001;
+  tree.props.children[0].props.onTimeUpdate({ currentTarget: audio });
+  assert.equal(audio.pauses, 0, `${title}: no cortar antes del final`);
+  audio.currentTime = segment.end + 0.001;
+  tree.props.children[0].props.onTimeUpdate({ currentTarget: audio });
+  assert.equal(audio.pauses, 1, `${title}: detener al superar el final`);
+  assert.equal(audio.currentTime, segment.end, `${title}: final nativo exacto`);
+  dispose.forEach(callback => callback?.());
+}
+console.log(`${cases} casos correctos de navegación y límites; ${Object.keys(yukpaSegments).length} categorías Yukpa verificadas con el reproductor local real.`);
