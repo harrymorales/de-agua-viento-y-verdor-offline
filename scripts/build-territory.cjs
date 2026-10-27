@@ -192,7 +192,7 @@ const vocabularyPlayer = '(0,s.jsx)(df,{src:q.audio,start:d.start,end:d.end,auto
 if (!script.includes(vocabularyPlayer)) throw new Error('No se encontró el reproductor de vocabulario.');
 const vocabularyClipPlayer = vocabularyPlayer.replace(
   'src:q.audio,start:d.start,end:d.end',
-  'src:d.audio||q.audio,start:d.audio?0:d.start,end:d.audio?d.end-d.start:d.end'
+  'src:d.audio||q.audio,start:d.audio?0:d.start,end:d.audio?Math.round((d.end-d.start)*1000)/1000:d.end'
 ).replace('autoplay:xe>0', 'autoplay:!!d.audio||xe>0');
 script = script.replace(vocabularyPlayer, `d.end>d.start?${vocabularyClipPlayer}:null`);
 script = script.replace('step:"0.1",value:Math.min(A', 'step:Z?"0.001":"0.1",value:Math.min(A');

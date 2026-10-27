@@ -177,7 +177,7 @@ for (const [title, segment] of Object.entries(yukpaSegments)) {
     s: { jsx: (component, props) => component(props) }
   });
   const dispose = effects.map(callback => callback());
-  const duration = segment.end - segment.start;
+  const duration = Math.round((segment.end - segment.start) * 1000) / 1000;
   assert.equal(tree.props.children[0].props.children[0].props.src, '../../' + clip.audio);
   assert.equal(audio.currentTime, 0, `${title}: reproducir desde el inicio del fragmento exacto`);
   const range = tree.props.children[2].props.children[1];
