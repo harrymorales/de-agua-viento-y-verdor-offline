@@ -1,11 +1,11 @@
 (() => {
   const segments = {
-    'Animales': [0, 104],
-    'Cacería': [104, 184],
-    'Tejido y cosas de la casa': [184, 235],
-    'Algunos alimentos': [235, 328],
-    'Nombrar el paisaje': [328, 408],
-    'Vamos a…': [410, 558]
+    'Animales': [0, 102.848],
+    'Cacería': [104.454, 182.338],
+    'Tejido y cosas de la casa': [183.944, 233.804],
+    'Algunos alimentos': [235.072, 327.736],
+    'Nombrar el paisaje': [329.398, 407.549],
+    'Vamos a…': [410.254, 557.2]
   };
   let selection = 'Animales';
   let activeAudio;

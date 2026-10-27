@@ -1,12 +1,12 @@
 (() => {
   const segments = {
-    'Colores': [0, 22],
-    'Números': [22, 41],
-    'Partes del cuerpo': [41, 113],
-    'Familia': [117, 202],
-    'Sonido y música': [203, 209],
-    'Emociones': [209, 236],
-    'Así se saluda en yukpa': [238, 306]
+    'Colores': [0, 21.637],
+    'Números': [22.454, 41.071],
+    'Partes del cuerpo': [41.888, 113.143],
+    'Familia': [116.412, 201.493],
+    'Sonido y música': [203.184, 208.932],
+    'Emociones': [209.749, 235.9],
+    'Así se saluda en yukpa': [238.774, 306.083]
   };
   let selection = 'Colores';
   let activeAudio;
