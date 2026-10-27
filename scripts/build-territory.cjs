@@ -198,6 +198,11 @@ script = script.replace(vocabularyPlayer, `d.end>d.start?${vocabularyClipPlayer}
 script = script.replace('step:"0.1",value:Math.min(A', 'step:Z?"0.001":"0.1",value:Math.min(A');
 script = script.replace('()=>{ae=!0,U.removeEventListener("loadedmetadata"', '()=>{ae=!0,U.pause(),U.removeEventListener("loadedmetadata"');
 script = script.replace('U.currentTime<D-.2||_!==void 0&&U.currentTime>=_-.05', 'U.currentTime<D-(Z?.0005:.2)||_!==void 0&&U.currentTime>=_-(Z?.0005:.05)');
+const playerBoundaryEffect = '(0,pe.useEffect)(()=>{let U=ee.current;if(!U||!Z)return;return window.AudiotecaVocabularyBoundary?.attach(U,{start:D,end:_,onStop:()=>{j(_),X(!1)}})},[v,D,_,Z]),';
+const playerEffectEnd = '},[v,D,_,p]),(0,s.jsxs)("section",{className:"player real-player"';
+if (!script.includes(playerEffectEnd)) throw new Error('No se encontró el efecto del reproductor.');
+script = script.replace(playerEffectEnd, '},[v,D,_,p]),' + playerBoundaryEffect + '(0,s.jsxs)("section",{className:"player real-player"');
+script = script.replace('ae.pause(),ae.currentTime=_,j(_)', 'ae.pause(),ae.currentTime!==_&&(ae.currentTime=_),j(_)');
 
 // A territory may provide its own cover photograph while retaining the
 // original Palenque cover composition and typography.
@@ -275,5 +280,5 @@ fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html>
 <link rel="stylesheet" href="../../assets/brand-logo.css">
 <link rel="stylesheet" href="../../assets/territory-header.css?v=4">
 <link rel="stylesheet" href="../../assets/photo-viewer.css?v=5">
-</head><body><div id="root"></div><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-6"></script><script src="../../assets/portal-map-updates.js?v=1"></script></body></html>\n`, 'utf8');
+</head><body><div id="root"></div><script src="../../assets/vocabulary-segment-boundary.js?v=1"></script><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-6"></script><script src="../../assets/portal-map-updates.js?v=1"></script></body></html>\n`, 'utf8');
 console.log(`Audioteca generada: territories/${slug}/index.html`);
