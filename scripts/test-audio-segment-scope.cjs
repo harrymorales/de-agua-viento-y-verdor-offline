@@ -128,8 +128,9 @@ for (const [title, segment] of Object.entries(rromSegments)) {
   });
   if (title === 'Otros atuendos') assert.equal(rendered, null, 'Otros atuendos debe conservar el texto sin reproductor');
   else {
-    assert.equal(rendered.start, segment.start);
-    assert.equal(rendered.end, segment.end);
+    assert.equal(rendered.src, segment.audio || 'vocabulario.mp3');
+    assert.equal(rendered.start, segment.audio ? 0 : segment.start);
+    assert.equal(rendered.end, segment.audio ? Math.round((segment.end - segment.start) * 1000) / 1000 : segment.end);
   }
 }
 // Exercise the actual local player, including decimal seeks and stop values.

@@ -628,47 +628,58 @@
   "vocabularyAudioSegments": {
     "Las partes del cuerpo": {
       "start": 0,
-      "end": 32.527
+      "end": 32.527,
+      "audio": "audio/palenque/vocabularios/Pal-09-01-Las_partes_del_cuerpo.mp3"
     },
     "Familia": {
       "start": 34.017,
-      "end": 85.865
+      "end": 85.865,
+      "audio": "audio/palenque/vocabularios/Pal-09-02-Familia.mp3"
     },
     "Así se saluda en Palenque": {
       "start": 86.815,
-      "end": 105.11
+      "end": 105.11,
+      "audio": "audio/palenque/vocabularios/Pal-09-03-Asi_se_saluda_en_Palenque.mp3"
     },
     "Nombrar el paisaje": {
       "start": 106.6,
-      "end": 173.457
+      "end": 173.457,
+      "audio": "audio/palenque/vocabularios/Pal-09-04-Nombrar_el_paisaje.mp3"
     },
     "Creciendo en Palenque": {
       "start": 174.027,
-      "end": 220.275
+      "end": 220.275,
+      "audio": "audio/palenque/vocabularios/Pal-09-05-Creciendo_en_Palenque.mp3"
     },
     "Otras palabras de la comunidad": {
       "start": 221.428,
-      "end": 265.854
+      "end": 265.854,
+      "audio": "audio/palenque/vocabularios/Pal-09-06-Otras_palabras_de_la_comunidad.mp3"
     },
     "Miscelánea de palabras": {
       "start": 266.05,
-      "end": 325.522
+      "end": 325.522,
+      "audio": "audio/palenque/vocabularios/Pal-09-07-Miscelanea_de_palabras.mp3"
     },
     "Pronombres": {
       "start": 326.272,
-      "end": 346.348
+      "end": 346.348,
+      "audio": "audio/palenque/vocabularios/Pal-09-08-Pronombres.mp3"
     },
     "En la escuela": {
       "start": 346.52,
-      "end": 404.023
+      "end": 404.023,
+      "audio": "audio/palenque/vocabularios/Pal-09-09-En_la_escuela.mp3"
     },
     "Sonido, música y silencio": {
       "start": 405.783,
-      "end": 470.345
+      "end": 470.345,
+      "audio": "audio/palenque/vocabularios/Pal-09-10-Sonido_musica_y_silencio.mp3"
     },
     "Vamos a…": {
       "start": 470.824,
-      "end": 553.5
+      "end": 553.5,
+      "audio": "audio/palenque/vocabularios/Pal-09-11-Vamos_a.mp3"
     }
   },
   "photos": [

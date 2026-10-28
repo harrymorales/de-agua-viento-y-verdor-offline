@@ -1,0 +1,153 @@
+{
+  "precision": "decoded PCM samples",
+  "sources": [
+    {
+      "audio": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "sha256": "9bef26b5005190999ac7a883714124e321b9bec585722ad1ab47197b2136bda4",
+      "sampleRate": 48000,
+      "channels": 2
+    }
+  ],
+  "clips": [
+    {
+      "track": "08",
+      "category": "Animales",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-01-Animales.mp3",
+      "start": 0,
+      "end": 38.369,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 0,
+      "endSample": 1841712,
+      "samples": 1841712,
+      "sha256": "8ee665088e536351f1db323d543199abef88f03bb50350e515563e939c8b48f2"
+    },
+    {
+      "track": "08",
+      "category": "Atuendos",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-02-Atuendos.mp3",
+      "start": 38.95,
+      "end": 48.513,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 1869600,
+      "endSample": 2328624,
+      "samples": 459024,
+      "sha256": "f0f83e1b8124b8ee849fa9671561b947f2d1fb33807e5ed6a23a85a17eb71505"
+    },
+    {
+      "track": "08",
+      "category": "Camino",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-03-Camino.mp3",
+      "start": 48.6,
+      "end": 68.555,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 2332800,
+      "endSample": 3290640,
+      "samples": 957840,
+      "sha256": "c93f4397cb4ffe36df231746588e23cd3658f3dad704218196e1f80d3ea89296"
+    },
+    {
+      "track": "08",
+      "category": "Silencio y música",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-04-Silencio_y_musica.mp3",
+      "start": 69.597,
+      "end": 73.373,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 3340656,
+      "endSample": 3521904,
+      "samples": 181248,
+      "sha256": "b1c589389e1b0f071aa852f35c5c7acb7ecaf73df741d1b7fa2615db77aebc73"
+    },
+    {
+      "track": "08",
+      "category": "Alma gitana",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-05-Alma_gitana.mp3",
+      "start": 74.106,
+      "end": 79.363,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 3557088,
+      "endSample": 3809424,
+      "samples": 252336,
+      "sha256": "a61880f36384447f82a04853f328cbd4b1a60df0e8bb32ac3ee8b5361fdeff08"
+    },
+    {
+      "track": "08",
+      "category": "Familia",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-06-Familia.mp3",
+      "start": 79.842,
+      "end": 125.106,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 3832416,
+      "endSample": 6005088,
+      "samples": 2172672,
+      "sha256": "2cd56bd2433d7aaa099f411011d48e25c2f24b29580b4995711d642b294737fd"
+    },
+    {
+      "track": "08",
+      "category": "Nombrar el paisaje",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-07-Nombrar_el_paisaje.mp3",
+      "start": 125.28,
+      "end": 152.907,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 6013440,
+      "endSample": 7339536,
+      "samples": 1326096,
+      "sha256": "64105c8eb336228bbf0ac7a1ef353f17c06db6fadda100c1753a2066ac93aa11"
+    },
+    {
+      "track": "08",
+      "category": "Colores",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-08-Colores.mp3",
+      "start": 153.95,
+      "end": 169.955,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 7389600,
+      "endSample": 8157840,
+      "samples": 768240,
+      "sha256": "89547e906804523e26829edf2fc69188eba373b8b81001fc314bdb483066f88d"
+    },
+    {
+      "track": "08",
+      "category": "Números",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-09-Numeros.mp3",
+      "start": 171.618,
+      "end": 209.729,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 8237664,
+      "endSample": 10066992,
+      "samples": 1829328,
+      "sha256": "3c76881147875e5f2d4c187ec18cf95143442c7c948457ee79c05b347dd9d70e"
+    },
+    {
+      "track": "08",
+      "category": "Así se saluda en romanés",
+      "source": "audio/rrom/Rro-08-Vocabularios-voc.mp3",
+      "audio": "audio/rrom/vocabularios/Rro-08-10-Asi_se_saluda_en_romanes.mp3",
+      "start": 210.18,
+      "end": 223.472,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 10088640,
+      "endSample": 10726656,
+      "samples": 638016,
+      "sha256": "e526760ab947382528fb30a5ee59c831d553e04c792baed16dc808b1b1dbdfcb"
+    }
+  ]
+}

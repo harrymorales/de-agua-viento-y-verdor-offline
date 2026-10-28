@@ -1,0 +1,139 @@
+{
+  "precision": "decoded PCM samples",
+  "sources": [
+    {
+      "audio": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "sha256": "e72bb577cedd89f92ebb18e44117c5c947002e0ecc2444a92113b903714943d6",
+      "sampleRate": 48000,
+      "channels": 2
+    }
+  ],
+  "clips": [
+    {
+      "track": "05",
+      "category": "Familia",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-01-Familia.mp3",
+      "start": 0,
+      "end": 53.027,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 0,
+      "endSample": 2545296,
+      "samples": 2545296,
+      "sha256": "96038ff62f53f28f076c17d2129a0ee64bc905e000396d638c66cf1da94865fa"
+    },
+    {
+      "track": "05",
+      "category": "Colores",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-02-Colores.mp3",
+      "start": 54.627,
+      "end": 94.211,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 2622096,
+      "endSample": 4522128,
+      "samples": 1900032,
+      "sha256": "b8b5848fc1b3cdc639044dca128c39a449040627a555417825c23d271beb25ec"
+    },
+    {
+      "track": "05",
+      "category": "Animales",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-03-Animales.mp3",
+      "start": 95.525,
+      "end": 126.485,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 4585200,
+      "endSample": 6071280,
+      "samples": 1486080,
+      "sha256": "a99190e36beda5b11f2507741d6ec5524b0423eac42a17d3d4fa3d769f1bc7fc"
+    },
+    {
+      "track": "05",
+      "category": "Números",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-04-Numeros.mp3",
+      "start": 127.302,
+      "end": 183.252,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 6110496,
+      "endSample": 8796096,
+      "samples": 2685600,
+      "sha256": "d7b70ddc83d5b296d4db001dc975daba45ff1c94edf1e0934dc003ac742f4fe7"
+    },
+    {
+      "track": "05",
+      "category": "Partes del cuerpo",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-05-Partes_del_cuerpo.mp3",
+      "start": 183.957,
+      "end": 227.807,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 8829936,
+      "endSample": 10934736,
+      "samples": 2104800,
+      "sha256": "63e45a4b3b71627e47cdaad74580ba9e3ca15f5572a2422d9d6146ba2a69cdf8"
+    },
+    {
+      "track": "05",
+      "category": "Animales marinos",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-06-Animales_marinos.mp3",
+      "start": 228.624,
+      "end": 271.378,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 10973952,
+      "endSample": 13026144,
+      "samples": 2052192,
+      "sha256": "782af9c053b5047da0573aada012732937697e6520a7a01666de858f5b798aeb"
+    },
+    {
+      "track": "05",
+      "category": "Música y vamos a…",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-07-Musica_y_vamos_a.mp3",
+      "start": 272.331,
+      "end": 319,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 13071888,
+      "endSample": 15312000,
+      "samples": 2240112,
+      "sha256": "a842ff07f16a674205af46635b7f9a4cc3caa196d3dc26ac93530e7a353a68bb"
+    },
+    {
+      "track": "05",
+      "category": "Emociones",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-08-Emociones.mp3",
+      "start": 320,
+      "end": 355.382,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 15360000,
+      "endSample": 17058336,
+      "samples": 1698336,
+      "sha256": "a7b1c3e2076b629efd1fbe68c83b8821c53f22fe8b4ceee79ea1921295d4b317"
+    },
+    {
+      "track": "05",
+      "category": "Nombrar el paisaje",
+      "source": "audio/raizal/Rai-05-Vocabularios-voc.mp3",
+      "audio": "audio/raizal/vocabularios/Rai-05-09-Nombrar_el_paisaje.mp3",
+      "start": 355.875,
+      "end": 432.295,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 17082000,
+      "endSample": 20750160,
+      "samples": 3668160,
+      "sha256": "b38ca15dfed6248073a3edc9c4ea4d585a76e0f66d10cb61f1fb07b1ee61618a"
+    }
+  ]
+}

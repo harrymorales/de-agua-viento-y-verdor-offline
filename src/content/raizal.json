@@ -1447,39 +1447,48 @@
   "vocabularyAudioSegments": {
     "Familia": {
       "start": 0,
-      "end": 53.027
+      "end": 53.027,
+      "audio": "audio/raizal/vocabularios/Rai-05-01-Familia.mp3"
     },
     "Colores": {
       "start": 54.627,
-      "end": 94.211
+      "end": 94.211,
+      "audio": "audio/raizal/vocabularios/Rai-05-02-Colores.mp3"
     },
     "Animales": {
       "start": 95.525,
-      "end": 126.485
+      "end": 126.485,
+      "audio": "audio/raizal/vocabularios/Rai-05-03-Animales.mp3"
     },
     "Números": {
       "start": 127.302,
-      "end": 183.252
+      "end": 183.252,
+      "audio": "audio/raizal/vocabularios/Rai-05-04-Numeros.mp3"
     },
     "Partes del cuerpo": {
       "start": 183.957,
-      "end": 227.807
+      "end": 227.807,
+      "audio": "audio/raizal/vocabularios/Rai-05-05-Partes_del_cuerpo.mp3"
     },
     "Animales marinos": {
       "start": 228.624,
-      "end": 271.378
+      "end": 271.378,
+      "audio": "audio/raizal/vocabularios/Rai-05-06-Animales_marinos.mp3"
     },
     "Música y vamos a…": {
       "start": 272.331,
-      "end": 319
+      "end": 319,
+      "audio": "audio/raizal/vocabularios/Rai-05-07-Musica_y_vamos_a.mp3"
     },
     "Emociones": {
       "start": 320,
-      "end": 355.382
+      "end": 355.382,
+      "audio": "audio/raizal/vocabularios/Rai-05-08-Emociones.mp3"
     },
     "Nombrar el paisaje": {
       "start": 355.875,
-      "end": 432.295
+      "end": 432.295,
+      "audio": "audio/raizal/vocabularios/Rai-05-09-Nombrar_el_paisaje.mp3"
     }
   },
   "photos": [

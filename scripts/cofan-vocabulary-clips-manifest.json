@@ -1,0 +1,153 @@
+{
+  "precision": "decoded PCM samples",
+  "sources": [
+    {
+      "audio": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "sha256": "85b55a73490a44e8823c3f9142d04687715184b7827b939d3a7dcf350f07f9d3",
+      "sampleRate": 48000,
+      "channels": 2
+    }
+  ],
+  "clips": [
+    {
+      "track": "09",
+      "category": "Animales",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-01-Animales.mp3",
+      "start": 0,
+      "end": 117.233,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 0,
+      "endSample": 5627184,
+      "samples": 5627184,
+      "sha256": "cf32cb2b6cafb516eb73e79c4c265906b804794ff3f8d31b839482f2cd6b9fda"
+    },
+    {
+      "track": "09",
+      "category": "Nombrar el paisaje",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-02-Nombrar_el_paisaje.mp3",
+      "start": 118.702,
+      "end": 188.421,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 5697696,
+      "endSample": 9044208,
+      "samples": 3346512,
+      "sha256": "71b0e41a020e09464dfdb702bb98174cd7d3086a74b2589b8aaadf857de3d0b6"
+    },
+    {
+      "track": "09",
+      "category": "Familia",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-03-Familia.mp3",
+      "start": 192.694,
+      "end": 228.207,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 9249312,
+      "endSample": 10953936,
+      "samples": 1704624,
+      "sha256": "941672d60a2e7b1cf1233f8cd4a2b3fc7a1050dc708901f2a744de5418c0e918"
+    },
+    {
+      "track": "09",
+      "category": "Colores",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-04-Colores.mp3",
+      "start": 231.728,
+      "end": 245.543,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 11122944,
+      "endSample": 11786064,
+      "samples": 663120,
+      "sha256": "f99c8ff1a534a8b753e97c5f060978476415d7b7d4c0ebfe1548fee15ca8388c"
+    },
+    {
+      "track": "09",
+      "category": "Partes del cuerpo",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-05-Partes_del_cuerpo.mp3",
+      "start": 249.334,
+      "end": 286.657,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 11968032,
+      "endSample": 13759536,
+      "samples": 1791504,
+      "sha256": "faf410e9c176b34712e85655ce4f73f94a8191f92bf7c021cd01c5483923455f"
+    },
+    {
+      "track": "09",
+      "category": "Mundo espiritual",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-06-Mundo_espiritual.mp3",
+      "start": 289.56,
+      "end": 319.484,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 13898880,
+      "endSample": 15335232,
+      "samples": 1436352,
+      "sha256": "fccc71adcc34ef4de0570d1aead5a12a6522d1165e9bdb8d41590039b04b3b9b"
+    },
+    {
+      "track": "09",
+      "category": "Vamos a…",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-07-Vamos_a.mp3",
+      "start": 320.52,
+      "end": 355.317,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 15384960,
+      "endSample": 17055216,
+      "samples": 1670256,
+      "sha256": "a76829df0789c6a2ecc50767bdb8d2a7acd975294e965522d8d9952d47dad9e7"
+    },
+    {
+      "track": "09",
+      "category": "Río",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-08-Rio.mp3",
+      "start": 358.227,
+      "end": 392.836,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 17194896,
+      "endSample": 18856128,
+      "samples": 1661232,
+      "sha256": "d7f5b0af9d2e828432899f0bbf155e898be90ba0bb8dec1d011c684c61aabb3a"
+    },
+    {
+      "track": "09",
+      "category": "Emociones",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-09-Emociones.mp3",
+      "start": 398.114,
+      "end": 415.058,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 19109472,
+      "endSample": 19922784,
+      "samples": 813312,
+      "sha256": "ec5d8f3963fe37d7973321a6102d74bb30429084ad9220fc17e70e0c4037ea35"
+    },
+    {
+      "track": "09",
+      "category": "Sonido, música y silencio",
+      "source": "audio/cofan/Cof-09-Vocabularios-voc.mp3",
+      "audio": "audio/cofan/vocabularios/Cof-09-10-Sonido_musica_y_silencio.mp3",
+      "start": 416.721,
+      "end": 438.517,
+      "sampleRate": 48000,
+      "channels": 2,
+      "startSample": 20002608,
+      "endSample": 21048816,
+      "samples": 1046208,
+      "sha256": "f6d3198098aff8b3019848478fc60ed913d38cbb279b52bbb1dfd71922e92881"
+    }
+  ]
+}

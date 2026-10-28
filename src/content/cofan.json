@@ -1255,43 +1255,53 @@
   "vocabularyAudioSegments": {
     "Animales": {
       "start": 0,
-      "end": 117.233
+      "end": 117.233,
+      "audio": "audio/cofan/vocabularios/Cof-09-01-Animales.mp3"
     },
     "Nombrar el paisaje": {
       "start": 118.702,
-      "end": 188.421
+      "end": 188.421,
+      "audio": "audio/cofan/vocabularios/Cof-09-02-Nombrar_el_paisaje.mp3"
     },
     "Familia": {
       "start": 192.694,
-      "end": 228.207
+      "end": 228.207,
+      "audio": "audio/cofan/vocabularios/Cof-09-03-Familia.mp3"
     },
     "Colores": {
       "start": 231.728,
-      "end": 245.543
+      "end": 245.543,
+      "audio": "audio/cofan/vocabularios/Cof-09-04-Colores.mp3"
     },
     "Partes del cuerpo": {
       "start": 249.334,
-      "end": 286.657
+      "end": 286.657,
+      "audio": "audio/cofan/vocabularios/Cof-09-05-Partes_del_cuerpo.mp3"
     },
     "Mundo espiritual": {
       "start": 289.56,
-      "end": 319.484
+      "end": 319.484,
+      "audio": "audio/cofan/vocabularios/Cof-09-06-Mundo_espiritual.mp3"
     },
     "Vamos a…": {
       "start": 320.52,
-      "end": 355.317
+      "end": 355.317,
+      "audio": "audio/cofan/vocabularios/Cof-09-07-Vamos_a.mp3"
     },
     "Río": {
       "start": 358.227,
-      "end": 392.836
+      "end": 392.836,
+      "audio": "audio/cofan/vocabularios/Cof-09-08-Rio.mp3"
     },
     "Emociones": {
       "start": 398.114,
-      "end": 415.058
+      "end": 415.058,
+      "audio": "audio/cofan/vocabularios/Cof-09-09-Emociones.mp3"
     },
     "Sonido, música y silencio": {
       "start": 416.721,
-      "end": 438.517
+      "end": 438.517,
+      "audio": "audio/cofan/vocabularios/Cof-09-10-Sonido_musica_y_silencio.mp3"
     }
   },
   "photos": [

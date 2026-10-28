@@ -941,43 +941,53 @@
   "vocabularyAudioSegments": {
     "Animales": {
       "start": 0,
-      "end": 38.369
+      "end": 38.369,
+      "audio": "audio/rrom/vocabularios/Rro-08-01-Animales.mp3"
     },
     "Atuendos": {
       "start": 38.95,
-      "end": 48.513
+      "end": 48.513,
+      "audio": "audio/rrom/vocabularios/Rro-08-02-Atuendos.mp3"
     },
     "Camino": {
       "start": 48.6,
-      "end": 68.555
+      "end": 68.555,
+      "audio": "audio/rrom/vocabularios/Rro-08-03-Camino.mp3"
     },
     "Silencio y música": {
       "start": 69.597,
-      "end": 73.373
+      "end": 73.373,
+      "audio": "audio/rrom/vocabularios/Rro-08-04-Silencio_y_musica.mp3"
     },
     "Alma gitana": {
       "start": 74.106,
-      "end": 79.363
+      "end": 79.363,
+      "audio": "audio/rrom/vocabularios/Rro-08-05-Alma_gitana.mp3"
     },
     "Familia": {
       "start": 79.842,
-      "end": 125.106
+      "end": 125.106,
+      "audio": "audio/rrom/vocabularios/Rro-08-06-Familia.mp3"
     },
     "Nombrar el paisaje": {
       "start": 125.28,
-      "end": 152.907
+      "end": 152.907,
+      "audio": "audio/rrom/vocabularios/Rro-08-07-Nombrar_el_paisaje.mp3"
     },
     "Colores": {
       "start": 153.95,
-      "end": 169.955
+      "end": 169.955,
+      "audio": "audio/rrom/vocabularios/Rro-08-08-Colores.mp3"
     },
     "Números": {
       "start": 171.618,
-      "end": 209.729
+      "end": 209.729,
+      "audio": "audio/rrom/vocabularios/Rro-08-09-Numeros.mp3"
     },
     "Así se saluda en romanés": {
       "start": 210.18,
-      "end": 223.472
+      "end": 223.472,
+      "audio": "audio/rrom/vocabularios/Rro-08-10-Asi_se_saluda_en_romanes.mp3"
     },
     "Otros atuendos": {
       "start": 0,
