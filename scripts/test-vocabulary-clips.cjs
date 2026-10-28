@@ -43,7 +43,7 @@ for (const slug of ['palenque', 'rrom', 'raizal', 'inga', 'cofan', 'yukpa']) {
     total++;
   }
   const html = fs.readFileSync(path.join(root, `territories/${slug}/index.html`), 'utf8');
-  assert(html.includes('responsive-layout.css?v=1'), `${slug}: falta responsive compartido`);
+  assert(html.includes('responsive-layout.css?v=2'), `${slug}: falta responsive compartido`);
   assert(html.includes('brand-home-label.js?v=4'), `${slug}: falta bloqueo de fondo móvil`);
   if (slug === 'rrom') assert(!html.includes('rrom-vocabulary-segments.js'), 'No debe controlar los clips el antiguo salto por tiempos absolutos');
 }

@@ -280,6 +280,6 @@ fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html>
 <link rel="stylesheet" href="../../assets/brand-logo.css">
 <link rel="stylesheet" href="../../assets/territory-header.css?v=4">
 <link rel="stylesheet" href="../../assets/photo-viewer.css?v=5">
-<link rel="stylesheet" href="../../assets/responsive-layout.css?v=1">
+<link rel="stylesheet" href="../../assets/responsive-layout.css?v=2">
 </head><body><div id="root"></div><script src="../../assets/vocabulary-segment-boundary.js?v=1"></script><script src="./app.js"></script><script src="../../assets/experience-label.js?v=guide-links-6"></script><script src="../../assets/portal-map-updates.js?v=1"></script></body></html>\n`, 'utf8');
 console.log(`Audioteca generada: territories/${slug}/index.html`);

@@ -27,6 +27,24 @@
     margin: 0;
   }
 
+  /* En tablet el control también se lee horizontalmente; no invade el título. */
+  .portal-home .territory-map.open .map-toggle span {
+    writing-mode: horizontal-tb;
+    transform: none;
+  }
+  .portal-home .territory-map.open .map-toggle b { transform: rotate(90deg); }
+  .portal-home .territory-map.open .map-heading { text-align: center; width: 100%; }
+
+  /* Entre 761 y 900 px seguían activas las dos columnas de escritorio.
+     Al ocultarse el número, el texto acababa en una columna de solo 42 px. */
+  .workspace .stage .title-wrap { grid-template-columns: minmax(0, 1fr); }
+
+  /* La altura porcentual de la portada no se resuelve en el flujo de tablet. */
+  .workspace.cover-mode .cover {
+    height: auto;
+    min-height: calc(100dvh - var(--community-header-height, 82px));
+  }
+
   /* Las categorías forman parte de la lectura, sin un segundo scroll. */
   .workspace .vocab-categories { max-height: none; overflow: visible; }
 
@@ -68,6 +86,11 @@
   .portal-home .portal-corner.portal-02 { width: 28vw; top: 96px; }
   .portal-home .portal-01 { left: 0; }
   .portal-home .portal-02 { right: 0; }
+}
+
+/* El número también se oculta entre 901 y 980 px en la hoja base. */
+@media (min-width: 901px) and (max-width: 980px) {
+  .workspace .stage .title-wrap { grid-template-columns: minmax(0, 1fr); }
 }
 
 @media (max-width: 760px) {
